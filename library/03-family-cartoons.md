@@ -2,48 +2,108 @@
 
 Recovered from the archived Cline TV catalog. Direct Archive.org media links only. Duplicate URLs are removed.
 
-- 1967 TV Soap: Love is a Many Splendored Thing - 1st of December 1967 — https://archive.org/download/1967_PD_Soapie/LoveisaManySplenderedThing1967.mp4
-- 1968 Baltimore Riots Reel — https://archive.org/download/68riotsTBDreel/68riotsTBDreel.mp4
-- 20 Years Of Strategic Air Command — https://archive.org/download/2927420YearsOfStrategicAirCommandMos/29274%2020%20years%20Of%20Strategic%20Air%20Command_mos.mp4
+- 01 Three Is A Magic Number — https://archive.org/download/schoolhouse-rock-30th/01%20Three%20Is%20A%20Magic%20Number.mp4
+- 02 My Hero Zero — https://archive.org/download/schoolhouse-rock-30th/02%20My%20Hero%20Zero.mp4
+- 03 Elementary My Dear — https://archive.org/download/schoolhouse-rock-30th/03%20Elementary%20My%20Dear.mp4
+- 04 The Four Legged Zoo — https://archive.org/download/schoolhouse-rock-30th/04%20The%20Four%20Legged%20Zoo.mp4
+- 05 Ready Or Not — https://archive.org/download/schoolhouse-rock-30th/05%20Ready%20Or%20Not%20Here%20I%20Come.mp4
+- 06 I Got Six — https://archive.org/download/schoolhouse-rock-30th/06%20I%20Got%20Six.mp4
+- 07 Lucky Seven Sampson — https://archive.org/download/schoolhouse-rock-30th/07%20Lucky%20Seven%20Sampson.mp4
+- 08 Figure Eight — https://archive.org/download/schoolhouse-rock-30th/08%20Figure%20Eight.mp4
+- 09 Naughty Number Nine — https://archive.org/download/schoolhouse-rock-30th/09%20Naughty%20Number%20Nine.mp4
+- 10 The Good Eleven — https://archive.org/download/schoolhouse-rock-30th/10%20The%20Good%20Eleven.mp4
+- 11 Little Twelvetoes — https://archive.org/download/schoolhouse-rock-30th/11%20Little%20Twelvetoes.mp4
+- 12 Noun Person Place Thing — https://archive.org/download/schoolhouse-rock-30th/12%20A%20Noun%20Is%20A%20Person%20Place%20Or%20Thing.mp4
+- 13 Verb Whats Happening — https://archive.org/download/schoolhouse-rock-30th/13%20Verb%20Thats%20Whats%20Happening.mp4
+- 14 Conjunction Junction — https://archive.org/download/schoolhouse-rock-30th/14%20Conjunction%20Junction.mp4
+- 15 Interjections — https://archive.org/download/schoolhouse-rock-30th/15%20Interjections.mp4
+- 16 Unpack Your Adjectives — https://archive.org/download/schoolhouse-rock-30th/16%20Unpack%20Your%20Adjectives.mp4
+- 17 Lolly Lolly Lolly Adverbs — https://archive.org/download/schoolhouse-rock-30th/17%20Lolly%20Lolly%20Lolly%20Get%20Your%20Adverbs%20Here.mp4
+- 18 Rufus Xavier Sasparilla — https://archive.org/download/schoolhouse-rock-30th/18%20Rufus%20Xavier%20Sasparilla.mp4
+- 19 Busy Prepositions — https://archive.org/download/schoolhouse-rock-30th/19%20Busy%20Prepositions.mp4
+- 20 The Tale Of Mr Morton — https://archive.org/download/schoolhouse-rock-30th/20%20The%20Tale%20Of%20Mr%20Morton.mp4
+- 21 No More Kings — https://archive.org/download/schoolhouse-rock-30th/21%20No%20More%20Kings.mp4
+- 22 Shot Heard Round World — https://archive.org/download/schoolhouse-rock-30th/22%20The%20Shot%20Heard%20Round%20the%20World.mp4
+- 23 The Preamble — https://archive.org/download/schoolhouse-rock-30th/23%20The%20Preamble.mp4
+- 24 Sufferin Till Suffrage — https://archive.org/download/schoolhouse-rock-30th/24%20Sufferin%20Till%20Suffrage.mp4
+- 25 Im Just A Bill — https://archive.org/download/schoolhouse-rock-30th/25%20Im%20Just%20A%20Bill.mp4
+- 26 American Melting Pot — https://archive.org/download/schoolhouse-rock-30th/26%20The%20Great%20American%20Melting%20Pot.mp4
+- 27 Elbow Room — https://archive.org/download/schoolhouse-rock-30th/27%20Elbow%20Room.mp4
+- 28 Fireworks — https://archive.org/download/schoolhouse-rock-30th/28%20Fireworks.mp4
+- 29 Mother Necessity — https://archive.org/download/schoolhouse-rock-30th/29%20Mother%20Necessity.mp4
+- 30 Three Ring Government — https://archive.org/download/schoolhouse-rock-30th/30%20Three%20Ring%20Government.mp4
+- 31 Vote To College — https://archive.org/download/schoolhouse-rock-30th/31%20Im%20Gonna%20Send%20Your%20Vote%20To%20College%20In%20Surround.mp4
+- 32 You Earned Your Diploma — https://archive.org/download/schoolhouse-rock-30th/32%20You%20Earned%20Your%20Diploma%20and%20Presidential%20Minute.mp4
+- 33 A Victim Of Gravity — https://archive.org/download/schoolhouse-rock-30th/33%20A%20Victim%20Of%20Gravity.mp4
+- 34 Interplanet Janet — https://archive.org/download/schoolhouse-rock-30th/34%20Interplanet%20Janet.mp4
+- 35 The Body Machine — https://archive.org/download/schoolhouse-rock-30th/35%20The%20Body%20Machine.mp4
+- 36 Do The Circulation — https://archive.org/download/schoolhouse-rock-30th/36%20Do%20The%20Circulation.mp4
+- 37 The Energy Blues — https://archive.org/download/schoolhouse-rock-30th/37%20The%20Energy%20Blues.mp4
+- 38 Them Not So Dry Bones — https://archive.org/download/schoolhouse-rock-30th/38%20Them%20Not%20So%20Dry%20Bones.mp4
+- 39 Electricity Electricity — https://archive.org/download/schoolhouse-rock-30th/39%20Electricity%20Electricity.mp4
+- 40 Telegraph Line — https://archive.org/download/schoolhouse-rock-30th/40%20Telegraph%20Line.mp4
+- 41 The Weather Show — https://archive.org/download/schoolhouse-rock-30th/41%20The%20Weather%20Show.mp4
+- 42 Scooter Computer Intro — https://archive.org/download/schoolhouse-rock-30th/42%20Scooter%20Computer%20Introduction.mp4
+- 43 Scooter Comp Hardware — https://archive.org/download/schoolhouse-rock-30th/43%20Scooter%20Computer%20Hardware.mp4
+- 44 Scooter Comp Software — https://archive.org/download/schoolhouse-rock-30th/44%20Scooter%20Computer%20Software.mp4
+- 45 Number Cruncher — https://archive.org/download/schoolhouse-rock-30th/45%20Scooter%20Computer%20Number%20Cruncher.mp4
+- 46 Dollars And Sense — https://archive.org/download/schoolhouse-rock-30th/46%20Dollars%20And%20Sense.mp4
+- 47 Tax Man Max — https://archive.org/download/schoolhouse-rock-30th/47%20Tax%20Man%20Max.mp4
+- 48 Where The Money Goes — https://archive.org/download/schoolhouse-rock-30th/48%20Where%20The%20Money%20Goes.mp4
+- 49 Seven Dollars 50 Cents — https://archive.org/download/schoolhouse-rock-30th/49%20Seven%20Dollars%20Fifty%20Cents%20Once%20A%20Week.mp4
+- 50 Tyrannosaurus Debt — https://archive.org/download/schoolhouse-rock-30th/50%20Tyrannosaurus%20Debt.mp4
+- 51 This For That — https://archive.org/download/schoolhouse-rock-30th/51%20This%20For%20That.mp4
+- 52 Walkin On Wall Street — https://archive.org/download/schoolhouse-rock-30th/52%20Walkin%20On%20The%20Wall%20Street.mp4
+- 53 The Checks In The Mail — https://archive.org/download/schoolhouse-rock-30th/53%20The%20Checks%20In%20The%20Mail.mp4
+- 54 Report from North Pole — https://archive.org/download/schoolhouse-rock-30th/54%20Report%20from%20the%20North%20Pole.mp4
+- 55 Little Things We Do — https://archive.org/download/schoolhouse-rock-30th/55%20The%20Little%20Things%20We%20Do.mp4
+- 56 The Trash Can Band — https://archive.org/download/schoolhouse-rock-30th/56%20The%20Trash%20Can%20Band.mp4
+- 57 You Oughta Savin Water — https://archive.org/download/schoolhouse-rock-30th/57%20You%20Oughta%20Be%20Savin%20Water.mp4
+- 58 The Rainforest — https://archive.org/download/schoolhouse-rock-30th/58%20The%20Rainforest.mp4
+- 59 Save the Ocean — https://archive.org/download/schoolhouse-rock-30th/59%20Save%20the%20Ocean.mp4
+- 60 Clean Rivers Song — https://archive.org/download/schoolhouse-rock-30th/60%20Fat%20Cat%20Blue%20-%20The%20Clean%20Rivers%20Song.mp4
+- 61 A Tiny Urban Zoo — https://archive.org/download/schoolhouse-rock-30th/61%20A%20Tiny%20Urban%20Zoo.mp4
+- 62 Solar Power to People — https://archive.org/download/schoolhouse-rock-30th/62%20Solar%20Power%20to%20the%20People.mp4
+- 63 Windy and Windmills — https://archive.org/download/schoolhouse-rock-30th/63%20Windy%20and%20the%20Windmills.mp4
+- 64 Don't Be Carbon Sasquatch — https://archive.org/download/schoolhouse-rock-30th/64%20Don%27t%20Be%20a%20Carbon%20Sasquatch.mp4
+- 65 The Three Rs — https://archive.org/download/schoolhouse-rock-30th/65%20The%20Three%20Rs.mp4
+- 66 MV Conjunction Junction — https://archive.org/download/schoolhouse-rock-30th/66%20Music%20Video%20-%20Conjunction%20Junction%20-%20Better%20Than%20Ezra.mp4
+- 67 MV Electricity Goodness — https://archive.org/download/schoolhouse-rock-30th/67%20Music%20Video%20-%20Electricity%20Electricity%20-%20Goodness.mp4
+- 68 MV Im Just a Bill — https://archive.org/download/schoolhouse-rock-30th/68%20Music%20Video%20-%20Im%20Just%20a%20Bill%20-%20Deluxe%20Folk%20Implosion.mp4
+- 69 MV My Hero Zero — https://archive.org/download/schoolhouse-rock-30th/69%20Music%20Video%20-%20My%20Hero%20Zero%20-%20Lemonheads.mp4
+- 70 Making Of Vote To College — https://archive.org/download/schoolhouse-rock-30th/70%20The%20Making%20Of%20Im%20Gonna%20Send%20Your%20Vote%20To%20College.mp4
+- 71 Directors Commentaries — https://archive.org/download/schoolhouse-rock-30th/71%20Directors%20Commentaries.mp4
+- 72 Emmy Awards Featurette — https://archive.org/download/schoolhouse-rock-30th/72%20Emmy%20Awards%20Featurette.mp4
+- 73 Nike Commercial Magic No — https://archive.org/download/schoolhouse-rock-30th/73%20Nike%20Commercial%20Three%20is%20A%20Magic%20Number.mp4
 - A Charles Dickens Christmas (Mr Pickwicks Christmas) — https://archive.org/download/MrPickwicksChristmas/MrPickwicksChristmas.mp4
 - A Charlie Brown Christmas 1965 (Original Print) color corrected — https://archive.org/download/you-cut-20231030-080602598/YouCut_20231030_080602598.mp4
-- AAF Combat Camera Units Weekly Digest pt 63 — https://archive.org/download/42124aafcombatcameraunitsweeklydigestpt63vwr/42124%20AAF%20Combat%20Camera%20Units%20Weekly%20Digest%20pt%2063_vwr.mp4
-- Acapulco Gold(1976) — https://archive.org/download/acapulco.-gold.-1976.1080p.-blu-ray.-h-264.-aac-rarbg/Acapulco.Gold.1976.1080p.BluRay.H264.AAC-RARBG.ia.mp4
-- Alaskas Silver Millions (Part I) — https://archive.org/download/AlaskasS1936/AlaskasS1936_edit.mp4
-- Alaskas Silver Millions (Part II) — https://archive.org/download/AlaskasS1936_2/AlaskasS1936_2_edit.mp4
-- Apollo 11 Reel 01 — https://archive.org/download/apollo-11-mission/Apollo%2011%2001.mp4
-- Apollo 11 Reel 02 — https://archive.org/download/apollo-11-mission/Apollo%2011%2002.mp4
-- Apollo 11 Reel 03 — https://archive.org/download/apollo-11-mission/Apollo%2011%2003.mp4
-- Apollo 11 Reel 04 — https://archive.org/download/apollo-11-mission/Apollo%2011%2004.mp4
-- Apollo 11 Reel 05 — https://archive.org/download/apollo-11-mission/Apollo%2011%2005.mp4
-- Apollo 11 Reel 06 — https://archive.org/download/apollo-11-mission/Apollo%2011%2006.mp4
-- Apollo 11 Reel 07 — https://archive.org/download/apollo-11-mission/Apollo%2011%2007.mp4
-- Apollo 11 Reel 08 — https://archive.org/download/apollo-11-mission/Apollo%2011%2008.mp4
-- Apollo 11 Reel 09 — https://archive.org/download/apollo-11-mission/Apollo%2011%2009.mp4
-- Apollo 11 Reel 10 — https://archive.org/download/apollo-11-mission/Apollo%2011%2010.mp4
-- Apollo Digest Saturn Second Stage — https://archive.org/download/80004-apollo-digest-saturn-second-stage/80004%20Apollo%20Digest%20Saturn%20Second%20Stage.mp4
-- Appalachia: Rich Land, Poor People — https://archive.org/download/appalachiarichlandpoorpeople/appalachiarichlandpoorpeople/appalachiarichlandpoorpeoplereel2.mp4
-- Atomic Alert (1951) — https://archive.org/download/AtomicAl1951/AtomicAl1951_edit.mp4
+- A Charlie Brown Christmas Original Version — https://archive.org/download/a-charlie-brown-christmas-original-version/A Charlie Brown Christmas Remastered (Sort of).mp4
+- A Kockásfülű Nyúl (The Rabbit With Checkered Ears) — https://archive.org/download/a-kockasfulu-nyul/A kockásfülű nyúl - Süt a nap (21. rész).mp4
+- A Very Merry Cricket (1973) — https://archive.org/download/a-very-merry-cricket/a very merry cricket.mp4
+- Alvin & the Chipmunks — Princess and the Pig (S07E11b) — https://archive.org/download/1983-alvin-and-the-chipmunks-complete/Chipmunks S07E11b Princess and the Pig Custom English Restoration with Subtitles.mp4
 - Betty Boop: Musical Mountaineers — https://archive.org/download/bb_musical_mountaineers/bb_musical_mountaineers_512kb.mp4
-- Black Gold — https://archive.org/download/Black_Gold/BlackGold.mp4
-- Bureau of Indian Affairs, “Chicago Story” (16mm film reel), approximately 1968 — https://archive.org/download/ayer_mms_bia_relocation_box_004/Ayer_Modern_MS_BIA_Relocation.mp4
-- Business Films — https://archive.org/download/Business1968/Business1968_edit.mp4
 - Captain Gallant of the Foreign Legion: S1E36, The Boy Who Found Christmas (DVD Quality) — https://archive.org/download/Captain-Gallant_S1E36_The-Boy-Who-Found-Christmas/Captain-Gallant_S1E36_The-Boy-Who-Found-Christmas.mp4
-- Casper — There — https://archive.org/download/noveltoon_casper_tfg_theres_good_boos_tonight/noveltoon_casper_tfg_theres_good_boos_tonight_512kb.mp4
-- Centinelas del Silencio — https://archive.org/download/centinelas_del_silencio/centinelas_del_silencio_512kb.mp4
+- Casper — There's Good Boos Tonight — https://archive.org/download/noveltoon_casper_tfg_theres_good_boos_tonight/noveltoon_casper_tfg_theres_good_boos_tonight_512kb.mp4
 - Cheese Burglar featuring Herman — https://archive.org/download/Herman_CheeseBurglar/Herman_CheeseBurglar_512kb.mp4
-- Coal Miner, The — https://archive.org/download/coal_miner/coal_miner_512kb.mp4
-- Colonel March - Silver Curtain — https://archive.org/download/Colonel_March_Silver_Curtain/Colonel_March_Silver_Curtain.mp4
-- Cosmos - Shores of the Cosmic Ocean — https://archive.org/download/cosmos_1980/COSMOS_01.mp4
+- CommandP1942 — https://archive.org/download/CommandP1942/CommandP1942.mp4
+- CommandP1942 edit — https://archive.org/download/CommandP1942/CommandP1942_edit.mp4
+- Daffy Duck and Porky Pig Meet the Groovie Goolies — https://archive.org/download/Groovie-Goolies-Collection/UK - Daffy Duck and Porky Pig Meet the Groovie Goolies (VHS Version).ia.mp4
 - Date with the Angels - 1950s Family Sitcom - Christmas Episode — https://archive.org/download/DateWithTheAngels-1950sFamilySitcom-ChristmasEpisode/DateWithTheAngels-Christmas.mp4
-- Desert Gold — https://archive.org/download/DesertGold/DesertGold.mp4
+- Disney Cartoon Classics — An Officer and a Duck — https://archive.org/download/258AS/An Officer and a Duck.mp4
+- Disney Cartoon Classics — Donald’s Bee Pictures — https://archive.org/download/255AS/Donald's Bee Pictures (1st pressing).mp4
+- Disney Cartoon Classics — From Pluto with Love — https://archive.org/download/261AS/From Pluto with Love.mp4
+- Disney Cartoon Classics — How the Best Was Won — https://archive.org/download/259AS/How the Best Was Won.mp4
+- Disney Cartoon Classics — Life with Mickey! — https://archive.org/download/260AS/Life with Mickey!.mp4
 - Disney Cartoon Classics — Minnie — https://archive.org/download/wdcc-lge-minnie-vhsrip/WDCC.LGE.Minnie.VHSRip.mp4
-- Front Line, The — https://archive.org/download/FrontLin1965/FrontLin1965_edit.mp4
+- Disney Cartoon Classics — The Disney Dream Factory — https://archive.org/download/257AS/The Disney Dream Factory.mp4
+- Disney Cartoon Classics — The World According to Goofy — https://archive.org/download/256AS/The World According to Goofy.mp4
+- DuckandC1951 edit — https://archive.org/download/DuckandC1951/DuckandC1951_edit.mp4
+- DuckandC1951.ia — https://archive.org/download/DuckandC1951/DuckandC1951.ia.mp4
+- Fat Albert (2004) — https://archive.org/download/het-hey-hey/The Fat Albert (2004).mp4
+- Flower Angel — Harmony Gold English Dub — https://archive.org/download/flowerangel1985_201912/Flower Angel (Harmony Gold) DVD.mp4
+- Frosty the Snowman (1969) — https://archive.org/download/1969-frosty-the-snowman-christmas-movies-for-kids-animated-cartoons-for-children/2011 (STEVE AND MAGGIE) Holiday Songs and Stories for Kids - MORE from Steve and Maggie Best Christmas.mp4
 - Gabby: Alls Well — https://archive.org/download/gabby_alls_well/gabby_alls_well_512kb.mp4
-- Gangster Story — https://archive.org/download/GangsterStory/GangsterStoryPresentedByMoviePowder.mp4
-- Ghost-Town Gold — https://archive.org/download/three_mesquiteers/three_mesquiteers.mp4
-- Gold — https://archive.org/download/Gold-1932/Gold.mp4
-- Gulliver — https://archive.org/download/GulliversTravels720p_652/GulliversTravels.mp4
+- Gulliver's Travels — https://archive.org/download/GulliversTravels720p_652/GulliversTravels.mp4
 - H.R. Pufnstuf — Drugachusettes (satire) — https://archive.org/download/h_r_pufnstuf/pufnstuf_satire_sam_and_criminy_craffft_present_drugachusettes.mp4
 - H.R. Pufnstuf — Drugachusettes (satire) [alternate MP4] — https://archive.org/download/h_r_pufnstuf/pufnstuf_satire_sam_and_criminy_craffft_present_drugachusettes.ia.mp4
 - H.R. Pufnstuf — Movie — https://archive.org/download/h_r_pufnstuf/pufnstuf_movie.mp4
@@ -65,11 +125,8 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - H.R. Pufnstuf 16 whaddya mean the horse gets the girl — https://archive.org/download/h_r_pufnstuf/pufnstuf_16_whaddya_mean_the_horse_gets_the_girl.mp4
 - H.R. Pufnstuf 17 jimmy who — https://archive.org/download/h_r_pufnstuf/pufnstuf_17_jimmy_who.mp4
 - Hectors Hectic Life — https://archive.org/download/hectors_hectic_life/hectors_hectic_life_512kb.mp4
-- Help! - The Beatles Movie — https://archive.org/download/help_20201109/Help!.mp4
 - Hep Cat Symphony — https://archive.org/download/HepCatSymphony/HepCatSymphony_512kb.mp4
-- Impact 66 — https://archive.org/download/0689_Impact_66_01_01_01_00/0689_Impact_66_01_01_01_00.mp4
-- Iron Country: Iron Ore and Minnesotas Future — https://archive.org/download/IronCoun1952/IronCoun1952_edit.mp4
-- Island of the sunken gold / De brandende vulkaan — https://archive.org/download/Island_of_the-sunken_gold/De_brandende_vulkaan_episode_1_to_5_512kb.mp4
+- How The Grinch Stole Christmas — https://archive.org/download/HowTheGrinchStoleChristmas_201812/How the Grinch Stole Christmas.mp4
 - Jonny Quest E01 - The Mystery of the Lizard Men — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E01%20-%20The%20Mystery%20of%20the%20Lizard%20Men.mp4
 - Jonny Quest E01 - The Mystery of the Lizard Men [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E01%20-%20The%20Mystery%20of%20the%20Lizard%20Men.ia.mp4
 - Jonny Quest E02 - Arctic Splashdown — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E02%20-%20Arctic%20Splashdown.mp4
@@ -122,21 +179,21 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Jonny Quest E25 - Monster in the Monastery [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E25%20-%20Monster%20in%20the%20Monastery.ia.mp4
 - Jonny Quest E26 - The Sea Haunt — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E26%20-%20The%20Sea%20Haunt.mp4
 - Jonny Quest E26 - The Sea Haunt [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E26%20-%20The%20Sea%20Haunt.ia.mp4
+- Lassie — A Christmas Story (1958) — https://archive.org/download/lassie-a-christmas-story-1959-film-noir-christmas-special/Lassie A Christmas Story (1959 Film Noir Christmas Special).mp4
 - Little Audrey In Butterscotch and Soda — https://archive.org/download/LittleAudreyInbutterscotchAndSoda1948/ButterscotchAndSoda_512kb.mp4
 - Little Lulu: Bargain Counter Attack — https://archive.org/download/little_lulu_bargain_counter_attack/little_lulu_bargain_counter_attack_512kb.mp4
+- Looney Tunes — Horton Hatches the Egg (1942) — https://archive.org/download/the-1000-looney-tunes-merrie-melodies/1942/s1942e11 - Horton Hatches the Egg.mp4
+- Marvel Super Heroes — Avengers Assemble — https://archive.org/download/marvel-super-heroes/Marvel Super Heroes 05.Avengers Assemble.mp4
+- Mister Magoos Christmas Carol (1962) — https://archive.org/download/mister-magoos-christmas-carol-1962/Mister Magoos Christmas Carol 1962.mp4
 - Modern Guide to Health — https://archive.org/download/modern_guide_to_health_TNA/modern_guide_to_health_TNA_512kb.mp4
-- Monty Python - Whither Canada? — https://archive.org/download/mpfc-remastered_20210305_1553/01.%20Whither%20Canada%3F.mp4
-- NASA 1971 Aeronautics And Space Highlights — https://archive.org/download/19194nasa1971aeronauticsandspacehighlightsvwr/19194%20NASA%201971%20Aeronautics%20And%20Space%20Highlights_vwr.mp4
-- NASA Highlights 1967 — https://archive.org/download/76474NASAHighlights1967/76474%20NASA%20Highlights%201967.mp4
-- NASA Manned Space Flight January 1964 — https://archive.org/download/xd-10044-nasa-manned-space-flight-january-1964-vwr/XD10044%2BNASA%2BManned%2BSpace%2BFlight%2BJanuary%2B1964_vwr.mp4
-- NASA Manned Space Flight Quarterly Report 11 — https://archive.org/download/68384-nasa-manned-space-flight-quaterly-report-11-vwr/68384%20NASA%20Manned%20Space%20Flight%20Quaterly%20Report%2011_vwr.mp4
-- Normandy Invasion — https://archive.org/download/87084NormandyInvasion/87084%20Normandy%20Invasion.mp4
 - Noveltoon: Tarts and Flowers — https://archive.org/download/noveltoon_tarts_and_flowers/noveltoon_tarts_and_flowers_512kb.mp4
 - Noveltoon: The Stupidstitious Cat — https://archive.org/download/noveltoon_the_stupidstitious_cat/noveltoon_the_stupidstitious_cat_512kb.mp4
+- Nu, Pogodi! — Episode 15 — https://archive.org/download/nu-pogodi-complete/Season 1/Episode 15.ia.mp4
 - Ozzie and Harriet - Christmas Tree Lot in 3D — https://archive.org/download/Ozzie-Harriet_Christmas-Tree-Lot_3D/OZZIEANDHARRIET_3D.mp4
 - Patriotic Popeye — https://archive.org/download/popeye_patriotic_popeye/popeye_patriotic_popeye_512kb.mp4
-- Plane Talk — https://archive.org/download/PlaneTal1965/PlaneTal1965_edit.mp4
-- Planet Earth - The Living Machine — https://archive.org/download/planet.earth/Planet%20Earth%201%20The%20Living%20Machine.mp4
+- Peter Pan (1953) — https://archive.org/download/peterpan1953capturedfromthe1990classicsvhs/Peter Pan (1953) [captured from the 1990 Classics VHS].mp4
+- Pink Panther — Olympinks! — https://archive.org/download/ThePinkPanther-cartoons/The Pink Panther in -OLYMPINKS!.mp4
+- Pink Panther — We Give Pink Stamps (1965) — https://archive.org/download/the-pink-panther-cartoon-collection/003 We Give Pink Stamps (Feb 12, 1965).ia.mp4
 - Popeye for President — https://archive.org/download/Popeye_forPresident/Popeye_forPresident_512kb.mp4
 - Popeye the Sailor Meets Aladdin and His Wonderful Lamp — https://archive.org/download/Popeye_the_Sailor_Meets_Aladdin_and_His_Wonderful_Lamp/Popeye_-_Aladdin_and_His_Wonderful_Lamp_512kb.mp4
 - Popeye The Sailor: Big Bad Sinbad — https://archive.org/download/popeye_big_bad_sinbad/popeye_big_bad_sinbad_512kb.mp4
@@ -144,10 +201,7 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Popeye: Bride and Gloom — https://archive.org/download/Popeye_BrideandGloom/Popeye_BrideandGloom_512kb.mp4
 - Popeye: I Dont Scare — https://archive.org/download/popeye_i_dont_scare/popeye_i_dont_scare_512kb.mp4
 - Popeye: Taxi-Turvy — https://archive.org/download/popeye_taxi-turvey/popeye_taxi-turvey_512kb.mp4
-- Pot o Gold — https://archive.org/download/pot_o_gold/pot_o_gold.mp4
 - Private Eye Popeye — https://archive.org/download/popeye_private_eye_popeye/popeye_private_eye_popeye_512kb.mp4
-- Public Service Announcement (PSA) on Pollution - Retro — https://archive.org/download/psa_retro_pollution_640/saucer_bite_one.mp4
-- Railway with a Heart of Gold — https://archive.org/download/railway_with_a_heart_of_gold_1965/railway_with_a_heart_of_gold_1965_512kb.mp4
 - Reading Rainbow — The Gift of the Sacred Dog (S01E10) — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S01E10.The.Gift.of.the.Sacred.Dog.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
 - Reading Rainbow S01E01 Tight Times — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S01E01.Tight.Times.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
 - Reading Rainbow S01E02 Miss Nelson is Back — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S01E02.Miss.Nelson.is.Back.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
@@ -480,18 +534,11 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Santa Claus (1959) — https://archive.org/download/santa-claus-1959/SantaClaus1959.mp4
 - Schoolhouse Rock — 73 Nike Commercial Three is a Magic Number — https://archive.org/download/schoolhouse-rock-30th/73%20Nike%20Commercial%20Three%20is%20a%20Magic%20Number.mp4
 - Scrub Me Mama With A Boogie Beat — https://archive.org/download/ScrubMeMamaWithABoogieBeat/ScrubMeMamaWithABoogieBeat.mp4
-- Seconds (1966) — https://archive.org/download/seconds.-1966.1080p.-blu-ray.-h-264.-aac-rarbg/Seconds.1966.1080p.BluRay.H264.AAC-RARBG.ia.mp4
 - Shuteye Popeye — https://archive.org/download/popeye_shuteye_popeye/popeye_shuteye_popeye_512kb.mp4
 - Silly Symphonies - King Neptune — https://archive.org/download/videoplayback-3_202106-walt-disney-king-neptune/videoplayback%20%283%29.mp4
 - Silly Symphonies - The Skeleton Dance (1929) — https://archive.org/download/walt-disneys-silly-symphonies-the-complete-collection-1929-39/01%20-%20The%20Skeleton%20Dance%20%281929%29.mp4
-- Silver Spurs — https://archive.org/download/silver_spurs/silver_spurs.mp4
-- Silver Trail, The — https://archive.org/download/the_silver_trail/the_silver_trail.mp4
-- Silver_Fleet_The — https://archive.org/download/Silver_Fleet_The/Silver_Fleet_The_.mp4
-- Sinclair at the Worlds Fair — https://archive.org/download/0701_Sinclair_at_the_Worlds_Fair/0701_Sinclair_at_the_Worlds_Fair_M05793_17_12_06_00_3mb.mp4
 - Snow Foolin — https://archive.org/download/SnowFoolin/ClaCinOnl_an_SnowFoolin_512kb.mp4
-- South Dakota Saga (Part I) — https://archive.org/download/SouthDak1940/SouthDak1940_edit.mp4
-- South Dakota Saga (Part II) — https://archive.org/download/SouthDak1940_2/SouthDak1940_2_edit.mp4
-- Space 1999. The Final Message From Moonbase Alpha — https://archive.org/download/Space1999.Series1_201602/Space%201999.%20The%20Final%20Message%20From%20Moonbase%20Alpha.mp4
+- Speed Racer — 03 Challenge of the Masked Racer 1 — https://archive.org/download/speed-racer-tv/03 Challenge of the Masked Racer 1.mp4
 - Spider-Man (1967) — 1 - The Origin Of Spiderman — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/1%20-%20The%20Origin%20Of%20Spiderman.mp4
 - Spider-Man (1967) — 10 - Revolt In The Fifth Dimension — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/10%20-%20Revolt%20In%20The%20Fifth%20Dimension.mp4
 - Spider-Man (1967) — 10 - Vine — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/10%20-%20Vine.mp4
@@ -505,7 +552,7 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Spider-Man (1967) — 12 - Down To Earth — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/12%20-%20Down%20To%20Earth.mp4
 - Spider-Man (1967) — 12A - Spider-Man Meets Doctor Noah Boddy — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/12A%20-%20Spider-Man%20Meets%20Doctor%20Noah%20Boddy.mp4
 - Spider-Man (1967) — 12B - The Fantastic Fakir — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/12B%20-%20The%20Fantastic%20Fakir.mp4
-- Spider-Man (1967) — 13 - Neptune — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/13%20-%20Neptune%27s%20Nose%20Cone.mp4
+- Spider-Man (1967) — 13 - Neptune's Nose Cone — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/13%20-%20Neptune%27s%20Nose%20Cone.mp4
 - Spider-Man (1967) — 13 - Trip To Tomorrow — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/13%20-%20Trip%20To%20Tomorrow.mp4
 - Spider-Man (1967) — 13A - Return Of The Flying Dutchman — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/13A%20-%20Return%20Of%20The%20Flying%20Dutchman.mp4
 - Spider-Man (1967) — 13B - Farewell Performance — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/13B%20-%20Farewell%20Performance.mp4
@@ -516,7 +563,7 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Spider-Man (1967) — 15A - The Spider And The Fly — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/15A%20-%20The%20Spider%20And%20The%20Fly.mp4
 - Spider-Man (1967) — 15B - The Slippery Doctor Von Schlick — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/15B%20-%20The%20Slippery%20Doctor%20Von%20Schlick.mp4
 - Spider-Man (1967) — 16 - Thunder Rumble — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/16%20-%20Thunder%20Rumble.mp4
-- Spider-Man (1967) — 16A - The Vulture — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/16A%20-%20The%20Vulture%27s%20Prey.mp4
+- Spider-Man (1967) — 16A - The Vulture's Prey — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/16A%20-%20The%20Vulture%27s%20Prey.mp4
 - Spider-Man (1967) — 16B - The Dark Terrors — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/16B%20-%20The%20Dark%20Terrors.mp4
 - Spider-Man (1967) — 17 - Spiderman Meets Skyboy — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/17%20-%20Spiderman%20Meets%20Skyboy.mp4
 - Spider-Man (1967) — 17A - The Terrible Triumph Of Dr Octopus — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/17A%20-%20The%20Terrible%20Triumph%20Of%20Dr.%20Octopus.mp4
@@ -529,7 +576,7 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Spider-Man (1967) — 19B - Double Identity — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/19B%20-%20Double%20Identity.mp4
 - Spider-Man (1967) — 1A - The Power Of Dr Octopus — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/1A%20-%20The%20Power%20Of%20Dr.%20Octopus.mp4
 - Spider-Man (1967) — 1A - The Winged Thing — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/1A%20-%20The%20Winged%20Thing.mp4
-- Spider-Man (1967) — 1B - Conner — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/1B%20-%20Conner%27s%20Reptiles.mp4
+- Spider-Man (1967) — 1B - Conner's Reptiles — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/1B%20-%20Conner%27s%20Reptiles.mp4
 - Spider-Man (1967) — 1B - Sub-Zero For Spidey — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/1B%20-%20Sub-Zero%20For%20Spidey.mp4
 - Spider-Man (1967) — 2 - King Pinned — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/2%20-%20King%20Pinned.mp4
 - Spider-Man (1967) — 20A - Sting Of The Scorpion — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/20A%20-%20Sting%20Of%20The%20Scorpion.mp4
@@ -579,24 +626,24 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Supaidaman — 08 - A Very Mysterious Folktale - The Cursed Cat Mound — https://archive.org/download/Supaidman/Supaidaman/08%20-%20A%20Very%20Mysterious%20Folktale%20-%20The%20Cursed%20Cat%20Mound.mp4
 - Supaidaman — 09 - Motion Accessory is a Loveful Beetle Insect Spy — https://archive.org/download/Supaidman/Supaidaman/09%20-%20Motion%20Accessory%20is%20a%20Loveful%20Beetle%20Insect%20Spy.mp4
 - Supaidaman — 10 - To the Flaming Hell - See the Tears of the Snake Woman — https://archive.org/download/Supaidman/Supaidaman/10%20-%20To%20the%20Flaming%20Hell%20-%20See%20the%20Tears%20of%20the%20Snake%20Woman.mp4
-- Supaidaman — 11 - Professor Monster — https://archive.org/download/Supaidman/Supaidaman/11%20-%20Professor%20Monster%27s%20Ultra%20Poisoning.mp4
+- Supaidaman — 11 - Professor Monster's Ultra Poisoning — https://archive.org/download/Supaidman/Supaidaman/11%20-%20Professor%20Monster%27s%20Ultra%20Poisoning.mp4
 - Supaidaman — 12 - Becoming Splendid - To the Murderous Machine of Transformation — https://archive.org/download/Supaidman/Supaidaman/12%20-%20Becoming%20Splendid%20-%20To%20the%20Murderous%20Machine%20of%20Transformation.mp4
 - Supaidaman — 13 - The Skull Group VS The Devilish Hearse — https://archive.org/download/Supaidman/Supaidaman/13%20-%20The%20Skull%20Group%20VS.%20The%20Devilish%20Hearse.mp4
 - Supaidaman — 14 - Giving Father! Fight to the Song of the Hero — https://archive.org/download/Supaidman/Supaidaman/14%20-%20Giving%20Father%21%20Fight%20to%20the%20Song%20of%20the%20Hero.mp4
 - Supaidaman — 15 - The Life of Our Arrangement — https://archive.org/download/Supaidman/Supaidaman/15%20-%20The%20Life%20of%20Our%20Arrangement.mp4
 - Supaidaman — 16 - Fine Dog! Run to the Under of Father — https://archive.org/download/Supaidman/Supaidaman/16%20-%20Fine%20Dog%21%20Run%20to%20the%20Under%20of%20Father.mp4
-- Supaidaman — 17 - Pro Wrestler Samson — https://archive.org/download/Supaidman/Supaidaman/17%20-%20Pro%20Wrestler%20Samson%27s%20Tears.mp4
-- Supaidaman — 18 - In the Mother — https://archive.org/download/Supaidman/Supaidaman/18%20-%20In%20the%20Mother%27s%20Chest%20-%20Resurrect%20the%20Young%20Boys.mp4
+- Supaidaman — 17 - Pro Wrestler Samson's Tears — https://archive.org/download/Supaidman/Supaidaman/17%20-%20Pro%20Wrestler%20Samson%27s%20Tears.mp4
+- Supaidaman — 18 - In the Mother's Chest - Resurrect the Young Boys — https://archive.org/download/Supaidman/Supaidaman/18%20-%20In%20the%20Mother%27s%20Chest%20-%20Resurrect%20the%20Young%20Boys.mp4
 - Supaidaman — 19 - The Boy Phantom - To the Villageless Map — https://archive.org/download/Supaidman/Supaidaman/19%20-%20The%20Boy%20Phantom%20-%20To%20the%20Villageless%20Map.mp4
 - Supaidaman — 20 - Riddle - Calling the Riddle of My Secret Birth — https://archive.org/download/Supaidman/Supaidaman/20%20-%20Riddle%20-%20Calling%20the%20Riddle%20of%20My%20Secret%20Birth.mp4
-- Supaidaman — 21 - Fall to the Great Skies - Father — https://archive.org/download/Supaidman/Supaidaman/21%20-%20Fall%20to%20the%20Great%20Skies%20-%20Father%27s%20Love.mp4
+- Supaidaman — 21 - Fall to the Great Skies - Father's Love — https://archive.org/download/Supaidman/Supaidaman/21%20-%20Fall%20to%20the%20Great%20Skies%20-%20Father%27s%20Love.mp4
 - Supaidaman — 22 - Shedding Tears to the Dark Fate - Father and Child — https://archive.org/download/Supaidman/Supaidaman/22%20-%20Shedding%20Tears%20to%20the%20Dark%20Fate%20-%20Father%20and%20Child.mp4
 - Supaidaman — 23 - To the Love Academy of the Homeless Children — https://archive.org/download/Supaidman/Supaidaman/23%20-%20To%20the%20Love%20Academy%20of%20the%20Homeless%20Children.mp4
 - Supaidaman — 24 - Cockroach Boy - Great War — https://archive.org/download/Supaidman/Supaidaman/24%20-%20Cockroach%20Boy%20-%20Great%20War.mp4
 - Supaidaman — 25 - Treasure, Dog, and Double Grow Human — https://archive.org/download/Supaidman/Supaidaman/25%20-%20Treasure%2C%20Dog%2C%20and%20Double%20Grow%20Human.mp4
 - Supaidaman — 26 - To the Absolute Crisis - The Imitation Hero — https://archive.org/download/Supaidman/Supaidaman/26%20-%20To%20the%20Absolute%20Crisis%20-%20The%20Imitation%20Hero.mp4
 - Supaidaman — 27 - Farewell War Buddy - Beloved German Shepherd — https://archive.org/download/Supaidman/Supaidaman/27%20-%20Farewell%20War%20Buddy%20-%20Beloved%20German%20Shepherd.mp4
-- Supaidaman — 28 - The Front of the Alley - Boys — https://archive.org/download/Supaidman/Supaidaman/28%20-%20The%20Front%20of%20the%20Alley%20-%20Boys%27%20Detective%20Group.mp4
+- Supaidaman — 28 - The Front of the Alley - Boys' Detective Group — https://archive.org/download/Supaidman/Supaidaman/28%20-%20The%20Front%20of%20the%20Alley%20-%20Boys%27%20Detective%20Group.mp4
 - Supaidaman — 29 - Hurry, GP-7 - Time of Stop Sign — https://archive.org/download/Supaidman/Supaidaman/29%20-%20Hurry%2C%20GP-7%20-%20Time%20of%20Stop%20Sign.mp4
 - Supaidaman — 30 - Good Luck, Beautiful Police Officer — https://archive.org/download/Supaidman/Supaidaman/30%20-%20Good%20Luck%2C%20Beautiful%20Police%20Officer.mp4
 - Supaidaman — 31 - There Is No Child-Taking Detective Tomorrow — https://archive.org/download/Supaidman/Supaidaman/31%20-%20There%20Is%20No%20Child-Taking%20Detective%20Tomorrow.mp4
@@ -604,25 +651,24 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Supaidaman — 33 - The Boy Teases the Horrible Wild Girl — https://archive.org/download/Supaidman/Supaidaman/33%20-%20The%20Boy%20Teases%20the%20Horrible%20Wild%20Girl.mp4
 - Supaidaman — 34 - Surprising Camera - Murderous Event — https://archive.org/download/Supaidman/Supaidaman/34%20-%20Surprising%20Camera%20-%20Murderous%20Event.mp4
 - Supaidaman — 35 - From the Unexplored Amazon - Here Comes the Mummified Beautiful Woman — https://archive.org/download/Supaidman/Supaidaman/35%20-%20From%20the%20Unexplored%20Amazon%20-%20Here%20Comes%20the%20Mummified%20Beautiful%20Woman.mp4
-- Supaidaman — 36 - The Onion Silver Mask and the Boys — https://archive.org/download/Supaidman/Supaidaman/36%20-%20The%20Onion%20Silver%20Mask%20and%20the%20Boys%27%20Detective%20Group.mp4
+- Supaidaman — 36 - The Onion Silver Mask and the Boys' Detective Group — https://archive.org/download/Supaidman/Supaidaman/36%20-%20The%20Onion%20Silver%20Mask%20and%20the%20Boys%27%20Detective%20Group.mp4
 - Supaidaman — 37 - From the Secret Messenger of Hell - Great King Enma — https://archive.org/download/Supaidman/Supaidaman/37%20-%20From%20the%20Secret%20Messenger%20of%20Hell%20-%20Great%20King%20Enma.mp4
-- Supaidaman — 38 - The First Tin Plate Evening Star and the Boys — https://archive.org/download/Supaidman/Supaidaman/38%20-%20The%20First%20Tin%20Plate%20Evening%20Star%20and%20the%20Boys%27%20Detective%20Group.mp4
+- Supaidaman — 38 - The First Tin Plate Evening Star and the Boys' Detective Group — https://archive.org/download/Supaidman/Supaidaman/38%20-%20The%20First%20Tin%20Plate%20Evening%20Star%20and%20the%20Boys%27%20Detective%20Group.mp4
 - Supaidaman — 39 - Sports World - One Great Meeting — https://archive.org/download/Supaidman/Supaidaman/39%20-%20Sports%20World%20-%20One%20Great%20Meeting.mp4
 - Supaidaman — 40 - Farewell Zero Battle Tricks — https://archive.org/download/Supaidman/Supaidaman/40%20-%20Farewell%20Zero%20Battle%20Tricks.mp4
-- Supaidaman — 41 - The Hero — https://archive.org/download/Supaidman/Supaidaman/41%20-%20The%20Hero%27s%20Shining%20Hot%20Blood.mp4
+- Supaidaman — 41 - The Hero's Shining Hot Blood — https://archive.org/download/Supaidman/Supaidaman/41%20-%20The%20Hero%27s%20Shining%20Hot%20Blood.mp4
 - Supaidaman — Supaidāman - The Movie — https://archive.org/download/Supaidman/Supaidaman/Supaid%C4%81man%20-%20The%20Movie.mp4
 - Superman The Magnetic Telescope — https://archive.org/download/Superman_The_Magnetic_Telescope/Superman_The_Magnetic_Telescope_512kb.mp4
-- Sweet Sweetback’s Badass Song - Full Movie — https://archive.org/download/1566981383/1566981383.mp4
-- The Adventures of Long John Silver - Episode 1: The Necklace — https://archive.org/download/TheAdventuresOfLongJohnSilver-Episode1theNecklace/TheAdventuresOfLongJohnSilver-TheNecklace-limou3okxka.mp4
+- The Bear Who Slept Through Christmas (1973) — https://archive.org/download/the-bear-who-slept-who-christmas-1973-family-home-entertainment-1984/The Bear Who Slept Who Christmas (1973) - FAMILY HOME ENTERTAINMENT (1984).mp4
+- The Beatles — A Hard Day’s Night / I Want to Hold Your Hand — https://archive.org/download/thebeatlescartoon_201910/01-A hard day's night - I want to hold your hand.mp4
+- The Beatles — All My Loving / Day Tripper (S02E06) — https://archive.org/download/the-beatles-cartoon_2023/The Beatles S02E06 - All My Loving Day Tripper.mp4
+- The Bob Hope Show, Christmas In Vietnam — https://archive.org/download/ChristmasInVietnam/1968-12-22 - 1968-12-28 Operation Holly Bob Hope USO Christmas Show color no sound.mp4
 - The Candle Maker — https://archive.org/download/TheCandleMaker/ClaCinOnl_an_TheCandleMaker.mp4
 - The Christmas Visitor — https://archive.org/download/TheChristmasVisitor/ClaCinOnl_an_TheChristmasVisitor.mp4
-- The Emperor Norton (1966) — Season 7, Episode 23, of Bonanza — https://archive.org/download/TheEmperorNortonBonanza1966/The_Emperor_Norton_Bonanza_1966.mp4
 - The Friendly Ghost — https://archive.org/download/TheFriendlyGhost/TheFriendlyGhost_512kb.mp4
-- The Silver Horde — https://archive.org/download/SilverHorde1930/The_Silver_Horde_1930.mp4
+- The Leprechauns Christmas Gold (1981) — https://archive.org/download/1981theleprechaunschristmasgold/1981 - The Leprechaun's Christmas Gold.mp4
 - The Snow Queen (Animation) — https://archive.org/download/the_snow_queen_1959_animation/snow_queen_us_version.mp4
-- The Time Machine (1978) — https://archive.org/download/the-time-machine-1978-time-travel-sci-fi/The%20Time%20Machine%20%281978%20Time%20Travel%20SciFi%29.mp4
-- This Is Redstone Arsenal — https://archive.org/download/16764thisisredstonearsenalvwr/16764%20This%20Is%20Redstone%20Arsenal_vwr.mp4
-- Threads of Technology — https://archive.org/download/0559_Threads_of_Technology/0559_Threads_of_Technology_09_12_29_01_3mb.mp4
+- The Year Without A Santa Claus (1974) — https://archive.org/download/the-year-without-a-santa-claus-1974_202203/The Year Without a Santa Claus (1974).mp4
 - Tintin and Destination Moon — https://archive.org/download/complete-tintin/14.%20TinTin%20and%20Destination%20Moon.mp4
 - Tintin and Flight 714 — https://archive.org/download/complete-tintin/20.%20TinTin%20and%20Flight%20714.mp4
 - Tintin and the Black Island — https://archive.org/download/complete-tintin/5.%20TinTin%20and%20the%20Black%20Island.mp4
@@ -633,7 +679,7 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Tintin and the Cigars of the Pharaoh — https://archive.org/download/complete-tintin/3.%20TinTin%20and%20the%20Cigars%20of%20the%20Pharaoh.mp4
 - Tintin and the Crab with the Golden Claws — https://archive.org/download/complete-tintin/7.%20TinTin%20and%20the%20Crab%20with%20the%20Golden%20Claws.mp4
 - Tintin and the Explorers on the Moon — https://archive.org/download/complete-tintin/15.%20TinTin%20and%20the%20Explorers%20on%20the%20Moon.mp4
-- Tintin and the King Ottokar — https://archive.org/download/complete-tintin/6.%20TinTin%20and%20the%20Kinf%20Ottokar%27s%20Sceptre.mp4
+- Tintin and the King Ottokar's Sceptre — https://archive.org/download/complete-tintin/6.%20TinTin%20and%20the%20Kinf%20Ottokar%27s%20Sceptre.mp4
 - Tintin and the Land of Black Gold — https://archive.org/download/complete-tintin/13.%20TinTin%20and%20the%20Land%20of%20Black%20Gold.mp4
 - Tintin and the Picaros — https://archive.org/download/complete-tintin/21.%20TinTin%20and%20the%20Picaros.mp4
 - Tintin and the Prisoners of the Sun — https://archive.org/download/complete-tintin/12.%20TinTin%20and%20the%20Prisoners%20of%20the%20Sun.mp4
@@ -645,9 +691,6 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Tintin in America — https://archive.org/download/complete-tintin/2.%20TinTin%20in%20America.mp4
 - Tintin in Tibet — https://archive.org/download/complete-tintin/18.%20TinTin%20in%20Tibet.mp4
 - Twas the Night Before Christmas — https://archive.org/download/twas-the-night-before-christmas-1974-full-movie-freedownloadvideo.net/twas-the-night-before-christmas-1974-full-movie-freedownloadvideo.net.mp4
-- Vietnam Special — https://archive.org/download/gov.archives.arc.653071/gov.archives.arc.653071.mp4
-- White Wonder — https://archive.org/download/WhiteWon1958/WhiteWon1958_edit.mp4
-- Woman of the Lake (1966) — https://archive.org/download/woman.of.the.-lake.-1966.-dvdrip.-onna.no.-mizuumi.-yoshishige.-yoshida/Woman.of.the.Lake.1966.DVDRip.Onna.no.Mizuumi.Yoshishige.Yoshida.mp4
 - X-Men — EP01 - Night of the Sentinels — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP01%20-%20Night%20of%20the%20Sentinels.mp4
 - X-Men — EP02 - Night of the Sentinels Pt 2 — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP02%20-%20Night%20of%20the%20Sentinels%20Pt.%202.mp4
 - X-Men — EP03 - Enter Magneto — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP03%20-%20Enter%20Magneto.mp4
@@ -669,7 +712,7 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - X-Men — EP19 - X-Ternally Yours — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP19%20-%20X-Ternally%20Yours.mp4
 - X-Men — EP20 - Time Fugitives — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP20%20-%20Time%20Fugitives.mp4
 - X-Men — EP21 - Time Fugitives Pt 2 — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP21%20-%20Time%20Fugitives%20Pt.%202.mp4
-- X-Men — EP22 - A Rogue — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP22%20-%20A%20Rogue%27s%20Tale.mp4
+- X-Men — EP22 - A Rogue's Tale — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP22%20-%20A%20Rogue%27s%20Tale.mp4
 - X-Men — EP23 - Beauty & the Beast — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP23%20-%20Beauty%20%26%20the%20Beast.mp4
 - X-Men — EP24 - Mojovision — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP24%20-%20Mojovision.mp4
 - X-Men — EP25 - Reunion — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP25%20-%20Reunion.mp4
@@ -691,7 +734,7 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - X-Men — EP41 - The Dark Phoenix, Part II The Inner Circle — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP41%20-%20The%20Dark%20Phoenix%2C%20Part%20II%20The%20Inner%20Circle.mp4
 - X-Men — EP42 - The Dark Phoenix, Part III The Dark Phoenix — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP42%20-%20The%20Dark%20Phoenix%2C%20Part%20III%20The%20Dark%20Phoenix.mp4
 - X-Men — EP43 - The Dark Phoenix, Part IV The Fate of the Phoenix — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP43%20-%20The%20Dark%20Phoenix%2C%20Part%20IV%20The%20Fate%20of%20the%20Phoenix.mp4
-- X-Men — EP44 - Orphan — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP44%20-%20Orphan%27s%20End.mp4
+- X-Men — EP44 - Orphan's End — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP44%20-%20Orphan%27s%20End.mp4
 - X-Men — EP45 - Love in Vain — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP45%20-%20Love%20in%20Vain.mp4
 - X-Men — EP46 - The Juggernaut Returns — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP46%20-%20The%20Juggernaut%20Returns.mp4
 - X-Men — EP47 - A Deal with the Devil — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP47%20-%20A%20Deal%20with%20the%20Devil.mp4
@@ -701,8 +744,8 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - X-Men — EP51 - Courage — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP51%20-%20Courage.mp4
 - X-Men — EP52 - Secrets, Not Long Buried — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP52%20-%20Secrets%2C%20Not%20Long%20Buried.mp4
 - X-Men — EP53 - Nightcrawler — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP53%20-%20Nightcrawler.mp4
-- X-Men — EP54 - One Man — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP54%20-%20One%20Man%27s%20Worth%20%28Part%201%29.mp4
-- X-Men — EP55 - One Man — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP55%20-%20One%20Man%27s%20Worth%20%28Part%202%29.mp4
+- X-Men — EP54 - One Man's Worth (Part 1) — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP54%20-%20One%20Man%27s%20Worth%20%28Part%201%29.mp4
+- X-Men — EP55 - One Man's Worth (Part 2) — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP55%20-%20One%20Man%27s%20Worth%20%28Part%202%29.mp4
 - X-Men — EP56 - Proteus (Part 1) — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP56%20-%20Proteus%20%28Part%201%29.mp4
 - X-Men — EP57 - Proteus (Part 2) — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP57%20-%20Proteus%20%28Part%202%29.mp4
 - X-Men — EP58 - Family Ties — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP58%20-%20Family%20Ties.mp4
