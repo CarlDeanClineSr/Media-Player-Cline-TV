@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Cline TV</title>
+<style>
+  html, body {
+    margin: 0;
+    min-height: 100%;
+    background: #111;
+    color: #ddd;
+    font-family: Arial, sans-serif;
+  }
+
+  body {
+    display: flex;
+    justify-content: center;
+    padding: 24px;
+    box-sizing: border-box;
+  }
+
+  main {
+    width: min(100%, 1100px);
+  }
+
+  h1 {
+    margin: 0 0 16px;
+    font-size: 24px;
+    font-weight: normal;
+  }
+
+  video {
+    display: block;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    background: #000;
+  }
+
+  #program {
+    margin-top: 12px;
+    min-height: 24px;
+    font-size: 16px;
+  }
+</style>
+</head>
+<body>
+<main>
+  <h1>Cline TV</h1>
+
+  <video id="player" controls playsinline preload="metadata"></video>
+
+  <div id="program">No program selected.</div>
+</main>
+
+<script>
+/*
+  CLINE TV — NEW START
+
+  The programming list will be built here manually.
+
+  There is:
+    - no external catalog
+    - no programming manifest
+    - no translation layer
+    - no generated playlist
+    - no automatic replacement of programs
+
+  A program belongs in this player only when it is deliberately added here.
+*/
+
+const programs = [
+  // Programs will be added here by Carl's lineup.
+];
+
+const player = document.getElementById("player");
+const programLabel = document.getElementById("program");
+
+function playProgram(program) {
+  if (!program || !program.url) return;
+
+  player.src = program.url;
+  player.load();
+  programLabel.textContent = program.title || "Untitled program";
+}
+
+window.clineTV = {
+  programs,
+  playProgram
+};
+</script>
+</body>
+</html>
