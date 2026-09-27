@@ -196,7 +196,17 @@ function persist(){try{localStorage.setItem(STORAGE_KEY,JSON.stringify(preferenc
 function savedChannel(c){const p=preferences.channels[c.name];return p && typeof p==='object'?p:{};}
 function validTime(t){return typeof t==='number' && Number.isFinite(t) && t>=0 ? t : 0;}
 function itemId(url){return hashText(url).toString(36)+'-'+hashText([...url].reverse().join('')).toString(36);}
-const programIds=categories.map(c=>{const occurrences=new Map();return c.content.map(item=>{const base=item.id || itemId(item.u),n=(occurrences.get(base)||0)+1;occurrences.set(base,n);return base+'-'+n;});});
+let programIds=[];
+function buildProgramIds(){
+    programIds=categories.map(c=>{
+        const occurrences=new Map();
+        return c.content.map(item=>{
+            const base=item.id || itemId(item.u),n=(occurrences.get(base)||0)+1;
+            occurrences.set(base,n);
+            return base+'-'+n;
+        });
+    });
+}
 function selectionKey(ci,vi){return categories[ci].name+':'+programIds[ci][vi];}
 function currentItem(){return categories[currentCategoryIndex].content[currentVideoIndex];}
 function active(s=session){return s && session===s && s.generation===generation;}
@@ -593,6 +603,7 @@ window.onload=async()=>{
         document.getElementById('playback-status').textContent='Library failed to load. Refresh and try again.';
         return;
     }
+    buildProgramIds();
     makeTicks('t-ring',100);makeTicks('s-ring',categories.length);
     enableKnobSwipe(document.getElementById('t-knob'),tune);enableKnobSwipe(document.getElementById('s-knob'),changeCategory);
     const volume=preferences.volume;volumeKnob.value=String(typeof volume==='number'&&Number.isFinite(volume)&&volume>=0&&volume<=1?volume:0.7);
