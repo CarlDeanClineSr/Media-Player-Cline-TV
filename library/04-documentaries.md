@@ -12,6 +12,8 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - 08 The History of the World (April 1969-May 1970) — https://archive.org/download/nova-pbs-documentaries/The%20Vietnam%20War/08%20The%20History%20of%20the%20World%20%28April%201969-May%201970%29.mp4
 - 09 A Disrespectful Loyalty (May 1970-March 1973) — https://archive.org/download/nova-pbs-documentaries/The%20Vietnam%20War/09%20A%20Disrespectful%20Loyalty%20%28May%201970-March%201973%29.mp4
 - 10 The Weight of Memory (March 1973-Onward) — https://archive.org/download/nova-pbs-documentaries/The%20Vietnam%20War/10%20The%20Weight%20of%20Memory%20%28March%201973-Onward%29.mp4
+- 1968 Baltimore Riots Reel — https://archive.org/download/68riotsTBDreel/68riotsTBDreel.mp4
+- 20 Years Of Strategic Air Command — https://archive.org/download/2927420YearsOfStrategicAirCommandMos/29274%2020%20years%20Of%20Strategic%20Air%20Command_mos.mp4
 - 3 79-hfc-287-r1 — https://archive.org/download/gov.ntis.ava15996vnb1/3.79-hfc-287-r1.mp4
 - 4 79-hfc-287-r2 — https://archive.org/download/gov.ntis.ava15996vnb1/4.79-hfc-287-r2.mp4
 - 5 79-hfc-287-r3 — https://archive.org/download/gov.ntis.ava15996vnb1/5.79-hfc-287-r3.mp4
@@ -21,43 +23,106 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - 79-hfc-287-r2 tp 8bit — https://archive.org/download/gov.ntis.ava15996vnb1/79-hfc-287-r2_tp_8bit.mp4
 - 79-hfc-287-r3 — https://archive.org/download/gov.ntis.ava15996vnb1/79-hfc-287-r3.mp4
 - 79-hfc-287-r3 tp 8bit — https://archive.org/download/gov.ntis.ava15996vnb1/79-hfc-287-r3_tp_8bit.mp4
+- A is for Atom (1953) — https://archive.org/download/0159_A_is_for_Atom_01_00_48_00/0159_A_is_for_Atom_01_00_48_00.mp4
+- AAF Combat Camera Units Weekly Digest pt 63 — https://archive.org/download/42124aafcombatcameraunitsweeklydigestpt63vwr/42124%20AAF%20Combat%20Camera%20Units%20Weekly%20Digest%20pt%2063_vwr.mp4
 - AboutBan1935 — https://archive.org/download/AboutBan1935/AboutBan1935.mp4
 - AboutBan1935 edit — https://archive.org/download/AboutBan1935/AboutBan1935_edit.mp4
+- Alaskas Silver Millions (Part I) — https://archive.org/download/AlaskasS1936/AlaskasS1936_edit.mp4
+- Alaskas Silver Millions (Part II) — https://archive.org/download/AlaskasS1936_2/AlaskasS1936_2_edit.mp4
 - aloneathome — https://archive.org/download/aloneathome/aloneathome/aloneathome.mp4
 - Angel and the Badman — https://archive.org/download/angel_and_the_badman/angel_and_the_badman.mp4
 - APOLLO 11 16MM ONBOARD FILM — https://archive.org/download/Apollo1116mmOnboardFilm/apollo11_6_1_512kb.mp4
+- Apollo 11 Onboard Film — https://archive.org/download/Apollo1116mmOnboardFilm/apollo11_6_1.mp4
+- Apollo 11 Reel 01 — https://archive.org/download/apollo-11-mission/Apollo%2011%2001.mp4
+- Apollo 11 Reel 02 — https://archive.org/download/apollo-11-mission/Apollo%2011%2002.mp4
+- Apollo 11 Reel 03 — https://archive.org/download/apollo-11-mission/Apollo%2011%2003.mp4
+- Apollo 11 Reel 04 — https://archive.org/download/apollo-11-mission/Apollo%2011%2004.mp4
+- Apollo 11 Reel 05 — https://archive.org/download/apollo-11-mission/Apollo%2011%2005.mp4
+- Apollo 11 Reel 06 — https://archive.org/download/apollo-11-mission/Apollo%2011%2006.mp4
+- Apollo 11 Reel 07 — https://archive.org/download/apollo-11-mission/Apollo%2011%2007.mp4
+- Apollo 11 Reel 08 — https://archive.org/download/apollo-11-mission/Apollo%2011%2008.mp4
+- Apollo 11 Reel 09 — https://archive.org/download/apollo-11-mission/Apollo%2011%2009.mp4
+- Apollo 11 Reel 10 — https://archive.org/download/apollo-11-mission/Apollo%2011%2010.mp4
 - APOLLO 15 16MM ONBOARD FILM — https://archive.org/download/Apollo15And1616mmOnboardFilm/apollo15_10_1.mp4
 - APOLLO 16 MM LAUNCH VIEWS — https://archive.org/download/APOLLO16MMLAUNCHVIEWS/apollo_14_1.mp4
 - Apollo 17 - On The Shoulders of Giants — https://archive.org/download/Apollo17-OnTheShouldersOfGiants/Apollo17.mp4
+- Apollo Digest Saturn Second Stage — https://archive.org/download/80004-apollo-digest-saturn-second-stage/80004%20Apollo%20Digest%20Saturn%20Second%20Stage.mp4
 - APOLLO OVERVIEW — https://archive.org/download/MercurygeminiapolloOverview/Jsc1030rMercury_gemini_apolloOverview.mp4
 - Apollo-11 16mm-Onboard-Film-Mags Tape-Number-802291 — https://archive.org/download/MercuryGeminiApolloHdResourceReel/Apollo-11_16mm-Onboard-Film-Mags_Tape-Number-802291.mp4
+- Appalachia: Rich Land, Poor People — https://archive.org/download/appalachiarichlandpoorpeople/appalachiarichlandpoorpeople/appalachiarichlandpoorpeoplereel2.mp4
 - ArrangingThe — https://archive.org/download/ArrangingThe/ArrangingThe.mp4
 - ArrangingThe edit — https://archive.org/download/ArrangingThe/ArrangingThe_edit.mp4
 - AsBoysGr1957 — https://archive.org/download/AsBoysGr1957/AsBoysGr1957.mp4
 - AsBoysGr1957 edit — https://archive.org/download/AsBoysGr1957/AsBoysGr1957_edit.mp4
+- Atomic Alert (1951) — https://archive.org/download/AtomicAl1951/AtomicAl1951_edit.mp4
 - AtomicAl1951 — https://archive.org/download/AtomicAl1951/AtomicAl1951.mp4
 - ava15996vnb1 — https://archive.org/download/gov.ntis.ava15996vnb1/ava15996vnb1.mp4
 - boys beware — https://archive.org/download/boys_beware/boys_beware.mp4
 - BuildYou1948 — https://archive.org/download/BuildYou1948/BuildYou1948.mp4
 - BuildYou1948 edit — https://archive.org/download/BuildYou1948/BuildYou1948_edit.mp4
+- Bureau of Indian Affairs, “Chicago Story” (16mm film reel), approximately 1968 — https://archive.org/download/ayer_mms_bia_relocation_box_004/Ayer_Modern_MS_BIA_Relocation.mp4
+- Business Films — https://archive.org/download/Business1968/Business1968_edit.mp4
 - Careofth1951 — https://archive.org/download/Careofth1951/Careofth1951.mp4
 - CaseofSp1940 — https://archive.org/download/CaseofSp1940/CaseofSp1940.mp4
 - CaseofSp1940 edit — https://archive.org/download/CaseofSp1940/CaseofSp1940_edit.mp4
 - ccoPublicDomainSword of Lancelot — https://archive.org/download/cco_swordoflancelot/ccoPublicDomainSword_of_Lancelot.mp4
+- Centinelas del Silencio — https://archive.org/download/centinelas_del_silencio/centinelas_del_silencio_512kb.mp4
 - CindyGoe1955 — https://archive.org/download/CindyGoe1955/CindyGoe1955.mp4
 - CindyGoe1955 edit — https://archive.org/download/CindyGoe1955/CindyGoe1955_edit.mp4
 - ClassicT1948 — https://archive.org/download/ClassicT1948/ClassicT1948.mp4
 - ClassicT1948 edit — https://archive.org/download/ClassicT1948/ClassicT1948_edit.mp4
+- Coal Miner, The — https://archive.org/download/coal_miner/coal_miner_512kb.mp4
 - communications primer — https://archive.org/download/communications_primer/communications_primer.mp4
 - communications primer edit — https://archive.org/download/communications_primer/communications_primer_edit.mp4
 - Communis1952 — https://archive.org/download/Communis1952/Communis1952.mp4
 - Communis1952 edit — https://archive.org/download/Communis1952/Communis1952_edit.mp4
+- Connections 1x01 Trigger — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%201/Connections%20S01E01%20-%20The%20Trigger%20Effect.mp4
+- Connections 1x02 Death Morn — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%201/Connections%20S01E02%20-%20Death%20in%20the%20Morning.mp4
+- Connections 1x03 Distant — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%201/Connections%20S01E03%20-%20Distant%20Voices.mp4
+- Connections 1x04 Faith — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%201/Connections%20S01E04%20-%20Faith%20in%20Numbers.mp4
+- Connections 1x05 Wheel — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%201/Connections%20S01E05%20-%20The%20Wheel%20of%20Fortune.mp4
+- Connections 1x06 Thunder — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%201/Connections%20S01E06%20-%20Thunder%20in%20the%20Skies.mp4
+- Connections 1x07 Long Chain — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%201/Connections%20S01E07%20-%20The%20Long%20Chain.mp4
+- Connections 1x08 Eat Drink — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%201/Connections%20S01E08%20-%20Eat%2C%20Drink%20and%20Be%20Merry.mp4
+- Connections 1x09 Countdown — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%201/Connections%20S01E09%20-%20Countdown.mp4
+- Connections 1x10 Yesterday — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%201/Connections%20S01E10%20-%20Yesterday%2C%20Tomorrow%20and%20You.mp4
+- Connections 2x01 Revolutions — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E01%20-%20Revolutions.mp4
+- Connections 2x02 Journeys — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E02%20-%20Sentimental%20Journeys.mp4
+- Connections 2x03 Together — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E03%20-%20Getting%20It%20Together.mp4
+- Connections 2x04 Whodunit — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E04%20-%20Whodunit.mp4
+- Connections 2x05 Nothing — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E05%20-%20Something%20for%20Nothing.mp4
+- Connections 2x06 Echoes — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E06%20-%20Echoes%20of%20the%20Past.mp4
+- Connections 2x07 Photo Fin — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E07%20-%20Photo%20Finish.mp4
+- Connections 2x08 Separate — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E08%20-%20Separate%20Ways.mp4
+- Connections 2x09 High Times — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E09%20-%20High%20Times.mp4
+- Connections 2x10 Deja Vu — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E10%20-%20Deja%20Vu.mp4
+- Connections 2x11 Harmony — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E11%20-%20New%20Harmony.mp4
+- Connections 2x12 Hot Pickle — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E12%20-%20Hot%20Pickle.mp4
+- Connections 2x13 Big Spin — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E13%20-%20The%20Big%20Spin.mp4
+- Connections 2x14 Ideas — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E14%20-%20Bright%20Ideas.mp4
+- Connections 2x15 Waves — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E15%20-%20Making%20Waves.mp4
+- Connections 2x16 Routes — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E16%20-%20Routes.mp4
+- Connections 2x17 One Word — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E17%20-%20One%20Word.mp4
+- Connections 2x18 Sign Here — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E18%20-%20Sign%20Here.mp4
+- Connections 2x19 Real Thing — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E19%20-%20Better%20Than%20the%20Real%20Thing.mp4
+- Connections 2x20 Flex Resp — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E20%20-%20Flexible%20Response.mp4
+- Connections 3x01 Feedback — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%203/Connections%20S03E01%20-%20Feedback.mp4
+- Connections 3x02 Name — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%203/Connections%20S03E02%20-%20What%27s%20in%20a%20Name.mp4
+- Connections 3x03 Apple — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%203/Connections%20S03E03%20-%20Drop%20the%20Apple.mp4
+- Connections 3x04 Invisible — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%203/Connections%20S03E04%20-%20An%20Invisible%20Object.mp4
+- Connections 3x05 No Picnic — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%203/Connections%20S03E05%20-%20Life%20Is%20No%20Picnic.mp4
+- Connections 3x06 Stuff — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%203/Connections%20S03E06%20-%20Elementary%20Stuff.mp4
+- Connections 3x07 Place — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%203/Connections%20S03E07%20-%20A%20Special%20Place.mp4
+- Connections 3x08 Sky Fire — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%203/Connections%20S03E08%20-%20Fire%20From%20the%20Sky.mp4
+- Connections 3x09 Water — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%203/Connections%20S03E09%20-%20Hit%20the%20Water.mp4
+- Connections 3x10 In Touch — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%203/Connections%20S03E10%20-%20In%20Touch.mp4
+- Cosmos - Shores of the Cosmic Ocean — https://archive.org/download/cosmos_1980/COSMOS_01.mp4
 - Cosmos — 01 — The Shores of the Cosmic Ocean (Carl Sagan, 1980) — https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2001%20The%20Shores%20of%20the%20Cosmic%20Ocean.ia.mp4
 - Cosmos — 02 — One Voice in the Cosmic Fugue (Carl Sagan, 1980) — https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2002%20One%20Voice%20in%20the%20Cosmic%20Fugue.ia.mp4
 - Cosmos — 03 — Harmony of the Worlds (Carl Sagan, 1980) — https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2003%20Harmony%20of%20the%20Worlds.ia.mp4
 - Cosmos — 04 — Heaven and Hell (Carl Sagan, 1980) — https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2004%20Heaven%20and%20Hell.ia.mp4
 - Cosmos — 05 — Blues for a Red Planet (Carl Sagan, 1980) — https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2005%20Blues%20for%20a%20Red%20Planet.ia.mp4
-- Cosmos — 06 — Travellers — https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2006%20Travellers%27%20Tales.ia.mp4
+- Cosmos — 06 — Travellers' Tales (Carl Sagan, 1980) — https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2006%20Travellers%27%20Tales.ia.mp4
 - Cosmos — 07 — The Backbone of Night (Carl Sagan, 1980) — https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2007%20The%20Backbone%20of%20Night.ia.mp4
 - Cosmos — 08 — Journeys in Space and Time (Carl Sagan, 1980) — https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2008%20Journeys%20in%20Space%20and%20Time.ia.mp4
 - Cosmos — 09 — The Lives of the Stars (Carl Sagan, 1980) — https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2009%20The%20Lives%20of%20the%20Stars.ia.mp4
@@ -65,17 +130,45 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Cosmos — 11 — The Persistence of Memory (Carl Sagan, 1980) — https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2011%20The%20Persistence%20of%20Memory.ia.mp4
 - Cosmos — 12 — Encyclopaedia Galactica (Carl Sagan, 1980) — https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2012%20Encyclopaedia%20Galactica.ia.mp4
 - Cosmos — 13 — Who Speaks for Earth (Carl Sagan, 1980) — https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2013%20Who%20Speaks%20for%20Earth.ia.mp4
+- Cosmos 01 Cosmic Ocean — https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2001%20The%20Shores%20of%20the%20Cosmic%20Ocean.mp4
+- Cosmos 02 Cosmic Fugue — https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2002%20One%20Voice%20in%20the%20Cosmic%20Fugue.mp4
+- Cosmos 03 Harmony Worlds — https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2003%20Harmony%20of%20the%20Worlds.mp4
+- Cosmos 04 Heaven Hell — https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2004%20Heaven%20and%20Hell.mp4
+- Cosmos 05 Blues Red Planet — https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2005%20Blues%20for%20a%20Red%20Planet.mp4
+- Cosmos 06 Travellers Tales — https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2006%20Travellers%27%20Tales.mp4
+- Cosmos 07 Backbone of Night — https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2007%20The%20Backbone%20of%20Night.mp4
+- Cosmos 08 Journeys in Space — https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2008%20Journeys%20in%20Space%20and%20Time.mp4
+- Cosmos 09 Lives of Stars — https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2009%20The%20Lives%20of%20the%20Stars.mp4
+- Cosmos 10 Edge of Forever — https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2010%20The%20Edge%20of%20Forever.mp4
+- Cosmos 11 Persistence Memory — https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2011%20The%20Persistence%20of%20Memory.mp4
+- Cosmos 12 Encyclopaedia — https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2012%20Encyclopaedia%20Galactica.mp4
+- Cosmos 13 Speaks for Earth — https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2013%20Who%20Speaks%20for%20Earth.mp4
 - Cyrano De Bergerac — https://archive.org/download/Cyrano_DeBergerac/Cyrano_De_Bergerac.mp4
 - DatingDo1949 — https://archive.org/download/DatingDo1949/DatingDo1949.mp4
 - DatingDo1949 edit — https://archive.org/download/DatingDo1949/DatingDo1949_edit.mp4
 - Detour — https://archive.org/download/Detour/Detour.mp4
+- Earth Was Made Asteroids — https://dn710903.ca.archive.org/0/items/How.The.Earth.Was.Made/Season%201/History.Ch.How.the.Earth.Was.Made.Complete.Season.1.10of13.Asteroids.XviD.AC3.MVGroup.org.mp4
+- Earth Was Made Deepest Place — https://dn710903.ca.archive.org/0/items/How.The.Earth.Was.Made/Season%201/History.Ch.How.the.Earth.Was.Made.Complete.Season.1.02of13.The.Deepest.Place.on.Earth.XviD.AC3.MVGroup.org.mp4
+- Earth Was Made Driest Place — https://dn710903.ca.archive.org/0/items/How.The.Earth.Was.Made/Season%201/History.Ch.How.the.Earth.Was.Made.Complete.Season.1.06of13.Driest.Place.On.Earth.XviD.AC3.MVGroup.org.mp4
+- Earth Was Made Great Lakes — https://dn710903.ca.archive.org/0/items/How.The.Earth.Was.Made/Season%201/History.Ch.How.the.Earth.Was.Made.Complete.Season.1.07of13.Great.Lakes.XviD.AC3.MVGroup.org.mp4
+- Earth Was Made Hawaii — https://dn710903.ca.archive.org/0/items/How.The.Earth.Was.Made/Season%201/History.Ch.How.the.Earth.Was.Made.Complete.Season.1.12of13.Hawaii.XviD.AC3.MVGroup.org.mp4
+- Earth Was Made Iceland — https://dn710903.ca.archive.org/0/items/How.The.Earth.Was.Made/Season%201/History.Ch.How.the.Earth.Was.Made.Complete.Season.1.11of13.Iceland.XviD.AC3.MVGroup.org.mp4
+- Earth Was Made Krakatoa — https://dn710903.ca.archive.org/0/items/How.The.Earth.Was.Made/Season%201/History.Ch.How.the.Earth.Was.Made.Complete.Season.1.03of13..Krakatoa.XviD.AC3.MVGroup.org.mp4
+- Earth Was Made Loch Ness — https://dn710903.ca.archive.org/0/items/How.The.Earth.Was.Made/Season%201/History.Ch.How.the.Earth.Was.Made.Complete.Season.1.04of13.Lock.Ness.XviD.AC3.MVGroup.org.mp4
+- Earth Was Made New York — https://dn710903.ca.archive.org/0/items/How.The.Earth.Was.Made/Season%201/History.Ch.How.the.Earth.Was.Made.Complete.Season.1.05of13.New.York.XviD.AC3.MVGroup.org.mp4
+- Earth Was Made San Andreas — https://dn710903.ca.archive.org/0/items/How.The.Earth.Was.Made/Season%201/History.Ch.How.the.Earth.Was.Made.Complete.Season.1.01of13.San.Andreas.Fault.XviD.AC3.MVGroup.org.mp4
+- Earth Was Made The Alps — https://dn710903.ca.archive.org/0/items/How.The.Earth.Was.Made/Season%201/History.Ch.How.the.Earth.Was.Made.Complete.Season.1.13of13.The.Alps.XviD.AC3.MVGroup.org.mp4
+- Earth Was Made Tsunami — https://dn710903.ca.archive.org/0/items/How.The.Earth.Was.Made/Season%201/History.Ch.How.the.Earth.Was.Made.Complete.Season.1.09of13.Tsunami.XviD.AC3.MVGroup.org.mp4
+- Earth Was Made Yellowstone — https://dn710903.ca.archive.org/0/items/How.The.Earth.Was.Made/Season%201/History.Ch.How.the.Earth.Was.Made.Complete.Season.1.08of13.Yellowstone.XviD.AC3.MVGroup.org.mp4
 - EatforHe1954 — https://archive.org/download/EatforHe1954/EatforHe1954.mp4
 - EatforHe1954 edit — https://archive.org/download/EatforHe1954/EatforHe1954_edit.mp4
+- Edge of Creation (1979) — https://archive.org/download/NGSDivetotheEdgeofCreation/National.Geographic.Specials.S14E01.Dive.to.the.Edge.of.Creation.1980.VHSRip.DD2.0.x264-rattera.mp4
 - First Spaceship on Venus — https://archive.org/download/FirstSpaceshipOnVenusMPEG/First_Spaceship_On_Venus.mp4
 - Flight of Apollo 7 — https://archive.org/download/FlightOfApollo7/flight_of_apollo_7.mp4
 - Four Days of Gemini 4 — https://archive.org/download/four_days_of_gemini_4/four_days_of_gemini_4.mp4
 - FromtheG1954 — https://archive.org/download/FromtheG1954/FromtheG1954.mp4
 - FromtheG1954 edit — https://archive.org/download/FromtheG1954/FromtheG1954_edit.mp4
+- Front Line, The — https://archive.org/download/FrontLin1965/FrontLin1965_edit.mp4
 - Gemini II Reentry Mission — https://archive.org/download/gemini_ii_reentry_mission/gemini_ii_reentry_mission.mp4
 - Gemini Status Report, No 2 — https://archive.org/download/gemini_status_report/gemini_status_report.mp4
 - Gemini X : A Quick Look — https://archive.org/download/gemini_x_a_quick_look/gemini_x_a_quick_look.mp4
@@ -87,13 +180,12 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - HealthYo1953 — https://archive.org/download/HealthYo1953/HealthYo1953.mp4
 - HealthYo1953 edit — https://archive.org/download/HealthYo1953/HealthYo1953_edit.mp4
 - het is weer zomer — https://archive.org/download/filmcollectief-00-0013/het_is_weer_zomer.mp4
-- https://archive.org/download/0159_A_is_for_Atom_01_00_48_00/0159_A_is_for_Atom_01_00_48_00.mp4 — https://archive.org/download/0159_A_is_for_Atom_01_00_48_00/0159_A_is_for_Atom_01_00_48_00.mp4
-- https://archive.org/download/Apollo1116mmOnboardFilm/apollo11_6_1.mp4 — https://archive.org/download/Apollo1116mmOnboardFilm/apollo11_6_1.mp4
-- https://archive.org/download/NGSDivetotheEdgeofCreation/National.Geographic.Specials.S14E01.Dive.to.the.Edge.of.Creation.1980.VHSRip.DD2.0.x264-rattera.mp4 — https://archive.org/download/NGSDivetotheEdgeofCreation/National.Geographic.Specials.S14E01.Dive.to.the.Edge.of.Creation.1980.VHSRip.DD2.0.x264-rattera.mp4
 - humanbirthvertexbreechandcaesarean — https://archive.org/download/humanbirthvertexbreechandcaesarean/humanbirthvertexbreechandcaesarean.mp4
 - HumanRep1947 — https://archive.org/download/HumanRep1947/HumanRep1947.mp4
 - HumanRep1947 edit — https://archive.org/download/HumanRep1947/HumanRep1947_edit.mp4
 - impact — https://archive.org/download/impact/impact.mp4
+- Impact 66 — https://archive.org/download/0689_Impact_66_01_01_01_00/0689_Impact_66_01_01_01_00.mp4
+- Iron Country: Iron Ore and Minnesotas Future — https://archive.org/download/IronCoun1952/IronCoun1952_edit.mp4
 - isforAto1953 — https://archive.org/download/isforAto1953/isforAto1953.mp4
 - isforAto1953 edit — https://archive.org/download/isforAto1953/isforAto1953_edit.mp4
 - Island of Hope — https://archive.org/download/gov.ntis.ava15996vnb1/Island_of_Hope.mp4
@@ -112,8 +204,13 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Mercury-Gemini-Apollo HD-ResourceReel 11of12 — https://archive.org/download/MercuryGeminiApolloHdResourceReel/Mercury-Gemini-Apollo_HD-ResourceReel_11of12.mp4
 - Mercury-Gemini-Apollo HD-ResourceReel 12of12 — https://archive.org/download/MercuryGeminiApolloHdResourceReel/Mercury-Gemini-Apollo_HD-ResourceReel_12of12.mp4
 - MPEG 4 Hi-Res — https://archive.org/download/UnderseaWords-TheLetterA/UnderseaWords1.mp4
+- NASA 1971 Aeronautics And Space Highlights — https://archive.org/download/19194nasa1971aeronauticsandspacehighlightsvwr/19194%20NASA%201971%20Aeronautics%20And%20Space%20Highlights_vwr.mp4
+- NASA Highlights 1967 — https://archive.org/download/76474NASAHighlights1967/76474%20NASA%20Highlights%201967.mp4
+- NASA Manned Space Flight January 1964 — https://archive.org/download/xd-10044-nasa-manned-space-flight-january-1964-vwr/XD10044%2BNASA%2BManned%2BSpace%2BFlight%2BJanuary%2B1964_vwr.mp4
+- NASA Manned Space Flight Quarterly Report 11 — https://archive.org/download/68384-nasa-manned-space-flight-quaterly-report-11-vwr/68384%20NASA%20Manned%20Space%20Flight%20Quaterly%20Report%2011_vwr.mp4
 - naturally a girl — https://archive.org/download/naturally_a_girl/naturally_a_girl.mp4
 - naturally a girl edit — https://archive.org/download/naturally_a_girl/naturally_a_girl_edit.mp4
+- Normandy Invasion — https://archive.org/download/87084NormandyInvasion/87084%20Normandy%20Invasion.mp4
 - NOVA - S01E01 - The Making of a Natural History Film 1974 VHSRip — https://archive.org/download/pbsnovas01/NOVA%20-%20S01E01%20-%20The.Making.of.a.Natural.History.Film.1974.VHSRip.AAC2.0.x264-SciHD.mp4
 - NOVA - S01E02 - Where Did the Colorado Go 1974 VHSRip — https://archive.org/download/pbsnovas01/NOVA%20-%20S01E02%20-%20Where.Did.the.Colorado.Go.1974.VHSRip.AAC2.0.x264-SciHD.mp4
 - NOVA - S01E03 - Whales Dolphins and Men 1974 VHSRip MP3 XviD-SciHD — https://archive.org/download/pbsnovas01/NOVA%20-%20S01E03%20-%20Whales.Dolphins.and.Men.1974.VHSRip.MP3.XviD-SciHD.ia.mp4
@@ -143,9 +240,9 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - NOVA — David Macaulay - Roman city — https://archive.org/download/pbsnovadocs/David%20Macaulay%20-%20Roman%20city.mp4
 - NOVA — DOCU To The Moon On NOVA ( 1999, PBS) — https://archive.org/download/docutothemoononnova1999pbs/DOCU%20-%20To%20The%20Moon%20on%20NOVA%20%281999%2C%20PBS%29/DOCU%20-%20To%20The%20Moon%20on%20NOVA%20%281999%2C%20PBS%29.mp4
 - NOVA — Earth from Above - Patterned Planet — https://archive.org/download/pbsnovadocs/Earth%20from%20Above%20-%20Patterned%20Planet.mp4
-- NOVA — Empires - Egypt — https://archive.org/download/pbsnovadocs/Empires%20-%20Egypt%27s%20Golden%20Empire%20-%20Part%201%20of%203%20-%20The%20Warrior%20Pharaohs.mp4
-- NOVA — Empires - Egypt — https://archive.org/download/pbsnovadocs/Empires%20-%20Egypt%27s%20Golden%20Empire%20-%20Part%202%20of%203%20-%20The%20Pharaohs%20of%20the%20Sun.mp4
-- NOVA — Empires - Egypt — https://archive.org/download/pbsnovadocs/Empires%20-%20Egypt%27s%20Golden%20Empire%20-%20Part%203%20of%203%20-%20The%20Last%20Great%20Pharaoh.mp4
+- NOVA — Empires - Egypt's Golden Empire - Part 1 of 3 - The Warrior Pharaohs — https://archive.org/download/pbsnovadocs/Empires%20-%20Egypt%27s%20Golden%20Empire%20-%20Part%201%20of%203%20-%20The%20Warrior%20Pharaohs.mp4
+- NOVA — Empires - Egypt's Golden Empire - Part 2 of 3 - The Pharaohs of the Sun — https://archive.org/download/pbsnovadocs/Empires%20-%20Egypt%27s%20Golden%20Empire%20-%20Part%202%20of%203%20-%20The%20Pharaohs%20of%20the%20Sun.mp4
+- NOVA — Empires - Egypt's Golden Empire - Part 3 of 3 - The Last Great Pharaoh — https://archive.org/download/pbsnovadocs/Empires%20-%20Egypt%27s%20Golden%20Empire%20-%20Part%203%20of%203%20-%20The%20Last%20Great%20Pharaoh.mp4
 - NOVA — Empires - Japan - Memoirs of a Secret Empire - Part 1 - Way of the Samurai — https://archive.org/download/pbsnovadocs/Empires%20-%20Japan%20-%20Memoirs%20of%20a%20Secret%20Empire%20-%20Part%201%20-%20Way%20of%20the%20Samurai.mp4
 - NOVA — Empires - Japan - Memoirs of a Secret Empire - Part 2 - Will of the Shogun — https://archive.org/download/pbsnovadocs/Empires%20-%20Japan%20-%20Memoirs%20of%20a%20Secret%20Empire%20-%20Part%202%20-%20Will%20of%20the%20Shogun.mp4
 - NOVA — Empires - Japan - Memoirs of a Secret Empire - Part 3 - Return of the Barbarians — https://archive.org/download/pbsnovadocs/Empires%20-%20Japan%20-%20Memoirs%20of%20a%20Secret%20Empire%20-%20Part%203%20-%20Return%20of%20the%20Barbarians.mp4
@@ -188,27 +285,27 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - NOVA — PBS & BBC Earth - Life from Above - Moving Planet — https://archive.org/download/pbsnovadocs/PBS%20%26%20BBC%20Earth%20-%20Life%20from%20Above%20-%20Moving%20Planet.mp4
 - NOVA — PBS Nova - Secrets of Lost Empires - Colosseum — https://archive.org/download/pbsnovadocs/PBS%20Nova%20-%20Secrets%20of%20Lost%20Empires%20-%20Colosseum.mp4
 - NOVA — PBS Nova - Secrets of Lost Empires - Stonehenge — https://archive.org/download/pbsnovadocs/PBS%20Nova%20-%20Secrets%20of%20Lost%20Empires%20-%20Stonehenge.mp4
-- NOVA — PBS Nova - Secrets of the Dead - China — https://archive.org/download/pbsnovadocs/PBS%20Nova%20-%20Secrets%20of%20the%20Dead%20-%20China%27s%20Terracotta%20Warriors.mp4
+- NOVA — PBS Nova - Secrets of the Dead - China's Terracotta Warriors — https://archive.org/download/pbsnovadocs/PBS%20Nova%20-%20Secrets%20of%20the%20Dead%20-%20China%27s%20Terracotta%20Warriors.mp4
 - NOVA — PBS Nova - Secrets of the Dead - Hannibal in the Alps — https://archive.org/download/pbsnovadocs/PBS%20Nova%20-%20Secrets%20of%20the%20Dead%20-%20Hannibal%20in%20the%20Alps.mp4
-- NOVA — PBS Nova - Secrets of the Dead - Nero — https://archive.org/download/pbsnovadocs/PBS%20Nova%20-%20Secrets%20of%20the%20Dead%20-%20Nero%27s%20Sunken%20City.mp4
+- NOVA — PBS Nova - Secrets of the Dead - Nero's Sunken City — https://archive.org/download/pbsnovadocs/PBS%20Nova%20-%20Secrets%20of%20the%20Dead%20-%20Nero%27s%20Sunken%20City.mp4
 - NOVA — PBS Nova - Treasures of the Earth - Metals — https://archive.org/download/pbsnovadocs/PBS%20Nova%20-%20Treasures%20of%20the%20Earth%20-%20Metals.mp4
-- NOVA — PBS Special - The National Parks - America — https://archive.org/download/pbsnovadocs/PBS%20Special%20-%20The%20National%20Parks%20-%20America%27s%20Best%20Idea%20-%201%20-%20The%20Scripture%20of%20Nature.mp4
-- NOVA — PBS Special - The National Parks - America — https://archive.org/download/pbsnovadocs/PBS%20Special%20-%20The%20National%20Parks%20-%20America%27s%20Best%20Idea%20-%202%20-%20The%20Last%20Refuge.mp4
-- NOVA — PBS Special - The National Parks - America — https://archive.org/download/pbsnovadocs/PBS%20Special%20-%20The%20National%20Parks%20-%20America%27s%20Best%20Idea%20-%203%20-%20The%20Empire%20of%20Grandeur.mp4
-- NOVA — PBS Special - The National Parks - America — https://archive.org/download/pbsnovadocs/PBS%20Special%20-%20The%20National%20Parks%20-%20America%27s%20Best%20Idea%20-%204%20-%20Going%20Home.mp4
-- NOVA — PBS Special - The National Parks - America — https://archive.org/download/pbsnovadocs/PBS%20Special%20-%20The%20National%20Parks%20-%20America%27s%20Best%20Idea%20-%205%20-%20Great%20Nature.mp4
-- NOVA — PBS Special - The National Parks - America — https://archive.org/download/pbsnovadocs/PBS%20Special%20-%20The%20National%20Parks%20-%20America%27s%20Best%20Idea%20-%206%20-%20The%20Morning%20of%20Creation.mp4
+- NOVA — PBS Special - The National Parks - America's Best Idea - 1 - The Scripture of Nature — https://archive.org/download/pbsnovadocs/PBS%20Special%20-%20The%20National%20Parks%20-%20America%27s%20Best%20Idea%20-%201%20-%20The%20Scripture%20of%20Nature.mp4
+- NOVA — PBS Special - The National Parks - America's Best Idea - 2 - The Last Refuge — https://archive.org/download/pbsnovadocs/PBS%20Special%20-%20The%20National%20Parks%20-%20America%27s%20Best%20Idea%20-%202%20-%20The%20Last%20Refuge.mp4
+- NOVA — PBS Special - The National Parks - America's Best Idea - 3 - The Empire of Grandeur — https://archive.org/download/pbsnovadocs/PBS%20Special%20-%20The%20National%20Parks%20-%20America%27s%20Best%20Idea%20-%203%20-%20The%20Empire%20of%20Grandeur.mp4
+- NOVA — PBS Special - The National Parks - America's Best Idea - 4 - Going Home — https://archive.org/download/pbsnovadocs/PBS%20Special%20-%20The%20National%20Parks%20-%20America%27s%20Best%20Idea%20-%204%20-%20Going%20Home.mp4
+- NOVA — PBS Special - The National Parks - America's Best Idea - 5 - Great Nature — https://archive.org/download/pbsnovadocs/PBS%20Special%20-%20The%20National%20Parks%20-%20America%27s%20Best%20Idea%20-%205%20-%20Great%20Nature.mp4
+- NOVA — PBS Special - The National Parks - America's Best Idea - 6 - The Morning of Creation — https://archive.org/download/pbsnovadocs/PBS%20Special%20-%20The%20National%20Parks%20-%20America%27s%20Best%20Idea%20-%206%20-%20The%20Morning%20of%20Creation.mp4
 - NOVA — Secrets of the Psychics (1993 NOVA report) — https://archive.org/download/SecretsOfThePsychics1993NovaReport/Nova...secretsOfThePsychics1993-Vhsrip.mp4
 - NOVA — Skyscraper!: A NOVA Special — https://archive.org/download/NOVASkyscraper/NOVA.S18E18.Skyscraper.A.NOVA.Special.1991.VHSRip.AAC2.0.x264-rattera.mp4
 - NOVA — The Ancient Mariners — https://archive.org/download/pbsnovadocs/The%20Ancient%20Mariners.mp4
-- NOVA — The National Parks - America — https://archive.org/download/pbsnovadocs/The%20National%20Parks%20-%20America%27s%20Best%20Idea%20-%201%20-%20The%20Scripture%20of%20Nature.mp4
-- NOVA — The National Parks - America — https://archive.org/download/pbsnovadocs/The%20National%20Parks%20-%20America%27s%20Best%20Idea%20-%202%20-%20The%20Last%20Refuge.mp4
-- NOVA — The National Parks - America — https://archive.org/download/pbsnovadocs/The%20National%20Parks%20-%20America%27s%20Best%20Idea%20-%203%20-%20The%20Empire%20of%20Grandeur.mp4
-- NOVA — The National Parks - America — https://archive.org/download/pbsnovadocs/The%20National%20Parks%20-%20America%27s%20Best%20Idea%20-%204%20-%20Going%20Home.mp4
-- NOVA — The National Parks - America — https://archive.org/download/pbsnovadocs/The%20National%20Parks%20-%20America%27s%20Best%20Idea%20-%205%20-%20Great%20Nature.mp4
-- NOVA — The National Parks - America — https://archive.org/download/pbsnovadocs/The%20National%20Parks%20-%20America%27s%20Best%20Idea%20-%206%20-%20The%20Morning%20of%20Creation.mp4
+- NOVA — The National Parks - America's Best Idea - 1 - The Scripture of Nature — https://archive.org/download/pbsnovadocs/The%20National%20Parks%20-%20America%27s%20Best%20Idea%20-%201%20-%20The%20Scripture%20of%20Nature.mp4
+- NOVA — The National Parks - America's Best Idea - 2 - The Last Refuge — https://archive.org/download/pbsnovadocs/The%20National%20Parks%20-%20America%27s%20Best%20Idea%20-%202%20-%20The%20Last%20Refuge.mp4
+- NOVA — The National Parks - America's Best Idea - 3 - The Empire of Grandeur — https://archive.org/download/pbsnovadocs/The%20National%20Parks%20-%20America%27s%20Best%20Idea%20-%203%20-%20The%20Empire%20of%20Grandeur.mp4
+- NOVA — The National Parks - America's Best Idea - 4 - Going Home — https://archive.org/download/pbsnovadocs/The%20National%20Parks%20-%20America%27s%20Best%20Idea%20-%204%20-%20Going%20Home.mp4
+- NOVA — The National Parks - America's Best Idea - 5 - Great Nature — https://archive.org/download/pbsnovadocs/The%20National%20Parks%20-%20America%27s%20Best%20Idea%20-%205%20-%20Great%20Nature.mp4
+- NOVA — The National Parks - America's Best Idea - 6 - The Morning of Creation — https://archive.org/download/pbsnovadocs/The%20National%20Parks%20-%20America%27s%20Best%20Idea%20-%206%20-%20The%20Morning%20of%20Creation.mp4
 - NOVA — The Nero Files - Secrets of the Dead (2019) — https://archive.org/download/pbsnovadocs/The%20Nero%20Files%20-%20Secrets%20of%20the%20Dead%20%282019%29.mp4
-- NOVA — The Proof - Andrew Wiles & Fermat — https://archive.org/download/pbsnovadocs/The%20Proof%20-%20Andrew%20Wiles%20%26%20Fermat%27s%20Last%20Theorem%20%281997%29.mp4
+- NOVA — The Proof - Andrew Wiles & Fermat's Last Theorem (1997) — https://archive.org/download/pbsnovadocs/The%20Proof%20-%20Andrew%20Wiles%20%26%20Fermat%27s%20Last%20Theorem%20%281997%29.mp4
 - Nova 1974-03-03 The Making of a Natural History Film — https://archive.org/download/nova_collection/Nova%201974-03-03%20The%20Making%20of%20a%20Natural%20History%20Film.ia.mp4
 - Nova 1974-03-10 Where Did the Colorado Go — https://archive.org/download/nova_collection/Nova%201974-03-10%20Where%20Did%20the%20Colorado%20Go.ia.mp4
 - Nova 1974-03-17 Whales, Dolphins, and Men — https://archive.org/download/nova_collection/Nova%201974-03-17%20Whales%2C%20Dolphins%2C%20and%20Men.mp4
@@ -243,11 +340,11 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Nova 1976-06-13 Inside the Shark — https://archive.org/download/nova_collection/Nova%201976-06-13%20Inside%20the%20Shark.mp4
 - Nova 1976-06-20 The Genetic Chance — https://archive.org/download/nova_collection/Nova%201976-06-20%20The%20Genetic%20Chance.ia.mp4
 - Nova 1976-06-27 The Case of the Bermuda Triangle — https://archive.org/download/nova_collection/Nova%201976-06-27%20The%20Case%20of%20the%20Bermuda%20Triangle.ia.mp4
-- Nova 1977-01-05 Hitler — https://archive.org/download/nova_collection/Nova%201977-01-05%20Hitler%27s%20Secret%20Weapon.ia.mp4
+- Nova 1977-01-05 Hitler's Secret Weapon — https://archive.org/download/nova_collection/Nova%201977-01-05%20Hitler%27s%20Secret%20Weapon.ia.mp4
 - Nova 1977-01-19 What Price Coal — https://archive.org/download/nova_collection/Nova%201977-01-19%20What%20Price%20Coal.ia.mp4
 - Nova 1977-02-02 The Sunspot Mystery — https://archive.org/download/nova_collection/Nova%201977-02-02%20The%20Sunspot%20Mystery.ia.mp4
 - Nova 1977-02-09 The Plastic Prison — https://archive.org/download/nova_collection/Nova%201977-02-09%20The%20Plastic%20Prison.ia.mp4
-- Nova 1977-02-23 Incident at Brown — https://archive.org/download/nova_collection/Nova%201977-02-23%20Incident%20at%20Brown%27s%20Ferry.mp4
+- Nova 1977-02-23 Incident at Brown's Ferry — https://archive.org/download/nova_collection/Nova%201977-02-23%20Incident%20at%20Brown%27s%20Ferry.mp4
 - Nova 1977-03-09 The Pill for the People — https://archive.org/download/nova_collection/Nova%201977-03-09%20The%20Pill%20for%20the%20People.ia.mp4
 - Nova 1977-03-16 The Gene Engineers — https://archive.org/download/nova_collection/Nova%201977-03-16%20The%20Gene%20Engineers.ia.mp4
 - Nova 1977-03-23 The Human Animal — https://archive.org/download/nova_collection/Nova%201977-03-23%20The%20Human%20Animal.ia.mp4
@@ -269,12 +366,12 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Nova 1978-03-01 The Great Wine Revolution — https://archive.org/download/nova_collection/Nova%201978-03-01%20The%20Great%20Wine%20Revolution.ia.mp4
 - Nova 1978-03-08 The Case of the Ancient Astronauts — https://archive.org/download/nova_collection/Nova%201978-03-08%20The%20Case%20of%20the%20Ancient%20Astronauts.ia.mp4
 - Nova 1978-03-22 The Mind Machines — https://archive.org/download/nova_collection/Nova%201978-03-22%20The%20Mind%20Machines.ia.mp4
-- Nova 1978-03-29 Icarus — https://archive.org/download/nova_collection/Nova%201978-03-29%20Icarus%27%20Children.ia.mp4
+- Nova 1978-03-29 Icarus' Children — https://archive.org/download/nova_collection/Nova%201978-03-29%20Icarus%27%20Children.ia.mp4
 - Nova 1978-04-12 Still Waters — https://archive.org/download/nova_collection/Nova%201978-04-12%20Still%20Waters.ia.mp4
 - Nova 1978-05-03 Road to Happiness — https://archive.org/download/nova_collection/Nova%201978-05-03%20Road%20to%20Happiness.mp4
 - Nova 1978-05-10 Light of the 21st Century — https://archive.org/download/nova_collection/Nova%201978-05-10%20Light%20of%20the%2021st%20Century.ia.mp4
 - Nova 1978-05-24 The Insect Alternative — https://archive.org/download/nova_collection/Nova%201978-05-24%20The%20Insect%20Alternative.ia.mp4
-- Nova 1978-05-31 The Desert — https://archive.org/download/nova_collection/Nova%201978-05-31%20The%20Desert%27s%20Edge.ia.mp4
+- Nova 1978-05-31 The Desert's Edge — https://archive.org/download/nova_collection/Nova%201978-05-31%20The%20Desert%27s%20Edge.ia.mp4
 - Nova 1978-06-07 The Tse Tse Trap — https://archive.org/download/nova_collection/Nova%201978-06-07%20The%20Tse%20Tse%20Trap.ia.mp4
 - Nova 1978-06-14 Memories from Eden — https://archive.org/download/nova_collection/Nova%201978-06-14%20Memories%20from%20Eden.ia.mp4
 - Nova 1978-06-21 A Whisper from Space — https://archive.org/download/nova_collection/Nova%201978-06-21%20A%20Whisper%20from%20Space.ia.mp4
@@ -304,7 +401,7 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Nova 1980-03-04 Umealit The Whale Hunters — https://archive.org/download/nova_collection/Nova%201980-03-04%20Umealit%20The%20Whale%20Hunters.ia.mp4
 - Nova 1980-03-11 The Safety Factor — https://archive.org/download/nova_collection/Nova%201980-03-11%20The%20Safety%20Factor.ia.mp4
 - Nova 1980-03-18 A Mediterranean Prospect — https://archive.org/download/nova_collection/Nova%201980-03-18%20A%20Mediterranean%20Prospect.ia.mp4
-- Nova 1980-03-25 Mr Ludwig — https://archive.org/download/nova_collection/Nova%201980-03-25%20Mr%20%20Ludwig%27s%20Tropical%20Dreamland.ia.mp4
+- Nova 1980-03-25 Mr Ludwig's Tropical Dreamland — https://archive.org/download/nova_collection/Nova%201980-03-25%20Mr%20%20Ludwig%27s%20Tropical%20Dreamland.ia.mp4
 - Nova 1980-09-30 The Pinks and the Blues — https://archive.org/download/nova_collection/Nova%201980-09-30%20The%20Pinks%20and%20the%20Blues.ia.mp4
 - Nova 1980-09-30 The Pinks and the Blues a — https://archive.org/download/nova_collection/Nova%201980-09-30%20The%20Pinks%20and%20the%20Blues%20a.ia.mp4
 - Nova 1980-10-07 The Cancer Detectives of Lin Xian — https://archive.org/download/nova_collection/Nova%201980-10-07%20The%20Cancer%20Detectives%20of%20Lin%20Xian.ia.mp4
@@ -317,7 +414,7 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Nova 1980-12-02 Moving Still — https://archive.org/download/nova_collection/Nova%201980-12-02%20Moving%20Still.ia.mp4
 - Nova 1980-12-09 A Touch of Sensitivity — https://archive.org/download/nova_collection/Nova%201980-12-09%20A%20Touch%20of%20Sensitivity.mp4
 - Nova 1980-12-23 The Red Deer of Rhum — https://archive.org/download/nova_collection/Nova%201980-12-23%20The%20Red%20Deer%20of%20Rhum.ia.mp4
-- Nova 1980-12-30 It — https://archive.org/download/nova_collection/Nova%201980-12-30%20It%27s%20About%20Time.mp4
+- Nova 1980-12-30 It's About Time — https://archive.org/download/nova_collection/Nova%201980-12-30%20It%27s%20About%20Time.mp4
 - Nova 1981-01-06 Doctors of Nigeria — https://archive.org/download/nova_collection/Nova%201981-01-06%20Doctors%20of%20Nigeria.ia.mp4
 - Nova 1981-01-20 Message in the Rocks — https://archive.org/download/nova_collection/Nova%201981-01-20%20Message%20in%20the%20Rocks.ia.mp4
 - Nova 1981-01-27 The Dead Sea Lives — https://archive.org/download/nova_collection/Nova%201981-01-27%20The%20Dead%20Sea%20Lives.ia.mp4
@@ -347,7 +444,7 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Nova 1982-03-28 Ageing The Methuselah Syndrome — https://archive.org/download/nova_collection/Nova%201982-03-28%20Ageing%20The%20Methuselah%20Syndrome.ia.mp4
 - Nova 1982-10-12 The Case of the UFO’s — https://archive.org/download/nova_collection/Nova%201982-10-12%20The%20Case%20of%20the%20UFO%E2%80%99s.ia.mp4
 - Nova 1982-10-19 The Fragile Mountain — https://archive.org/download/nova_collection/Nova%201982-10-19%20The%20Fragile%20Mountain.ia.mp4
-- Nova 1982-11-09 Here — https://archive.org/download/nova_collection/Nova%201982-11-09%20Here%27s%20Looking%20at%20You%20Kid.ia.mp4
+- Nova 1982-11-09 Here's Looking at You Kid — https://archive.org/download/nova_collection/Nova%201982-11-09%20Here%27s%20Looking%20at%20You%20Kid.ia.mp4
 - Nova 1982-11-16 Adventures of Teenage Scientists — https://archive.org/download/nova_collection/Nova%201982-11-16%20Adventures%20of%20Teenage%20Scientists.ia.mp4
 - Nova 1982-11-23 The Cobalt Blues — https://archive.org/download/nova_collection/Nova%201982-11-23%20The%20Cobalt%20Blues.ia.mp4
 - Nova 1982-11-30 Goodbye Louisiana — https://archive.org/download/nova_collection/Nova%201982-11-30%20Goodbye%20Louisiana.ia.mp4
@@ -375,8 +472,8 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Nova 1983-12-27 Eyes Over China — https://archive.org/download/nova_collection/Nova%201983-12-27%20Eyes%20Over%20China.ia.mp4
 - Nova 1984-01-10 Alcoholism Life Under the Influence — https://archive.org/download/nova_collection/Nova%201984-01-10%20Alcoholism%20Life%20Under%20the%20Influence.ia.mp4
 - Nova 1984-01-17 The Case of ESP — https://archive.org/download/nova_collection/Nova%201984-01-17%20The%20Case%20of%20ESP.ia.mp4
-- Nova 1984-01-31 Antarctica Earth — https://archive.org/download/nova_collection/Nova%201984-01-31%20Antarctica%20Earth%27s%20Last%20Frontier.ia.mp4
-- Nova 1984-02-14 China — https://archive.org/download/nova_collection/Nova%201984-02-14%20China%27s%20Only%20Child.ia.mp4
+- Nova 1984-01-31 Antarctica Earth's Last Frontier — https://archive.org/download/nova_collection/Nova%201984-01-31%20Antarctica%20Earth%27s%20Last%20Frontier.ia.mp4
+- Nova 1984-02-14 China's Only Child — https://archive.org/download/nova_collection/Nova%201984-02-14%20China%27s%20Only%20Child.ia.mp4
 - Nova 1984-02-28 Will I Walk Again — https://archive.org/download/nova_collection/Nova%201984-02-28%20Will%20I%20Walk%20Again.ia.mp4
 - Nova 1984-03-06 Visions of the Deep - The Underwater World of Al Giddings — https://archive.org/download/nova_collection/Nova%201984-03-06%20Visions%20of%20the%20Deep%20-%20The%20Underwater%20World%20of%20Al%20Giddings.ia.mp4
 - Nova 1984-03-20 Down on the Farm — https://archive.org/download/nova_collection/Nova%201984-03-20%20Down%20on%20the%20Farm.ia.mp4
@@ -402,7 +499,7 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Nova 1985-02-19 The Shape of Things — https://archive.org/download/nova_collection/Nova%201985-02-19%20The%20Shape%20of%20Things.ia.mp4
 - Nova 1985-02-26 Baby Talk — https://archive.org/download/nova_collection/Nova%201985-02-26%20Baby%20Talk.ia.mp4
 - Nova 1985-03-05 The Mathematical Mystery Tour — https://archive.org/download/nova_collection/Nova%201985-03-05%20The%20Mathematical%20Mystery%20Tour.ia.mp4
-- Nova 1985-03-12 Child — https://archive.org/download/nova_collection/Nova%201985-03-12%20Child%27s%20Play%20Prodigies%20and%20Possibilities.ia.mp4
+- Nova 1985-03-12 Child's Play Prodigies and Possibilities — https://archive.org/download/nova_collection/Nova%201985-03-12%20Child%27s%20Play%20Prodigies%20and%20Possibilities.ia.mp4
 - Nova 1985-03-19 Monarch of the Mountains — https://archive.org/download/nova_collection/Nova%201985-03-19%20Monarch%20of%20the%20Mountains.ia.mp4
 - Nova 1985-10-08 The National Science Test II — https://archive.org/download/nova_collection/Nova%201985-10-08%20The%20National%20Science%20Test%20II.ia.mp4
 - Nova 1985-10-15 Seeds of Tomorrow — https://archive.org/download/nova_collection/Nova%201985-10-15%20Seeds%20of%20Tomorrow.ia.mp4
@@ -414,14 +511,14 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Nova 1985-11-26 The Genetic Gamble — https://archive.org/download/nova_collection/Nova%201985-11-26%20The%20Genetic%20Gamble.ia.mp4
 - Nova 1985-12-03 Animal Architects — https://archive.org/download/nova_collection/Nova%201985-12-03%20Animal%20Architects%20.ia.mp4
 - Nova 1985-12-17 The Plane that Changed the World — https://archive.org/download/nova_collection/Nova%201985-12-17%20The%20Plane%20that%20Changed%20the%20World.ia.mp4
-- Nova 1986-01-21 Halley — https://archive.org/download/nova_collection/Nova%201986-01-21%20Halley%27s%20Comet%20Once%20in%20a%20Lifetime.ia.mp4
+- Nova 1986-01-21 Halley's Comet Once in a Lifetime — https://archive.org/download/nova_collection/Nova%201986-01-21%20Halley%27s%20Comet%20Once%20in%20a%20Lifetime.ia.mp4
 - Nova 1986-01-28 Goddess of the Earth — https://archive.org/download/nova_collection/Nova%201986-01-28%20Goddess%20of%20the%20Earth.ia.mp4
-- Nova 1986-02-11 Life — https://archive.org/download/nova_collection/Nova%201986-02-11%20Life%27s%20First%20Feelings.ia.mp4
+- Nova 1986-02-11 Life's First Feelings — https://archive.org/download/nova_collection/Nova%201986-02-11%20Life%27s%20First%20Feelings.ia.mp4
 - Nova 1986-02-18 The Case of the Frozen Addict — https://archive.org/download/nova_collection/Nova%201986-02-18%20The%20Case%20of%20the%20Frozen%20Addict.ia.mp4
 - Nova 1986-02-25 Toxic Trials — https://archive.org/download/nova_collection/Nova%201986-02-25%20Toxic%20Trials.ia.mp4
 - Nova 1986-03-04 Skydive to the Rain Forest (Incomplete) — https://archive.org/download/nova_collection/Nova%201986-03-04%20Skydive%20to%20the%20Rain%20Forest%20%28Incomplete%29.ia.mp4
 - Nova 1986-03-18 The Rise of a Wonder Drug — https://archive.org/download/nova_collection/Nova%201986-03-18%20The%20Rise%20of%20a%20Wonder%20Drug.ia.mp4
-- Nova 1986-03-25 When Wonder Drugs Don — https://archive.org/download/nova_collection/Nova%201986-03-25%20When%20Wonder%20Drugs%20Don%27t%20Work.ia.mp4
+- Nova 1986-03-25 When Wonder Drugs Don't Work — https://archive.org/download/nova_collection/Nova%201986-03-25%20When%20Wonder%20Drugs%20Don%27t%20Work.ia.mp4
 - Nova 1986-04-22 Visions of Star Wars — https://archive.org/download/nova_collection/Nova%201986-04-22%20Visions%20of%20Star%20Wars.ia.mp4
 - Nova 1986-10-14 The Search for the Disappeared — https://archive.org/download/nova_collection/Nova%201986-10-14%20The%20Search%20for%20the%20Disappeared.ia.mp4
 - Nova 1986-10-21 The Planet that Got Knocked on its Side — https://archive.org/download/nova_collection/Nova%201986-10-21%20The%20Planet%20that%20Got%20Knocked%20on%20its%20Side.ia.mp4
@@ -441,12 +538,12 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Nova 1987-02-24 The Hole in the Sky — https://archive.org/download/nova_collection/Nova%201987-02-24%20The%20Hole%20in%20the%20Sky.ia.mp4
 - Nova 1987-03-10 Great Moments from NOVA — https://archive.org/download/nova_collection/Nova%201987-03-10%20Great%20Moments%20from%20NOVA.ia.mp4
 - Nova 1987-03-24 Will the World Starve — https://archive.org/download/nova_collection/Nova%201987-03-24%20Will%20the%20World%20Starve.ia.mp4
-- Nova 1987-03-31 The Desert Doesn — https://archive.org/download/nova_collection/Nova%201987-03-31%20The%20Desert%20Doesn%27t%20Bloom%20Here%20Anymore.ia.mp4
+- Nova 1987-03-31 The Desert Doesn't Bloom Here Anymore — https://archive.org/download/nova_collection/Nova%201987-03-31%20The%20Desert%20Doesn%27t%20Bloom%20Here%20Anymore.ia.mp4
 - Nova 1987-04-07 Rocky Road to Jupiter — https://archive.org/download/nova_collection/Nova%201987-04-07%20Rocky%20Road%20to%20Jupiter.ia.mp4
 - Nova 1987-10-06 Death of a Star — https://archive.org/download/nova_collection/Nova%201987-10-06%20Death%20of%20a%20Star.ia.mp4
 - Nova 1987-10-13 Spy Machines — https://archive.org/download/nova_collection/Nova%201987-10-13%20Spy%20Machines.ia.mp4
 - Nova 1987-10-20 Hidden Power of Plants — https://archive.org/download/nova_collection/Nova%201987-10-20%20Hidden%20Power%20of%20Plants.ia.mp4
-- Nova 1987-10-27 Japan — https://archive.org/download/nova_collection/Nova%201987-10-27%20Japan%27s%20American%20Genius.ia.mp4
+- Nova 1987-10-27 Japan's American Genius — https://archive.org/download/nova_collection/Nova%201987-10-27%20Japan%27s%20American%20Genius.ia.mp4
 - Nova 1987-11-03 A Man, A Plan, A Canal, Panama — https://archive.org/download/nova_collection/Nova%201987-11-03%20A%20Man%2C%20A%20Plan%2C%20A%20Canal%2C%20Panama.ia.mp4
 - Nova 1987-11-10 Volcano! — https://archive.org/download/nova_collection/Nova%201987-11-10%20Volcano%21.ia.mp4
 - Nova 1987-11-17 How Good is Soviet Science — https://archive.org/download/nova_collection/Nova%201987-11-17%20How%20Good%20is%20Soviet%20Science.ia.mp4
@@ -493,19 +590,19 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Nova 1989-11-07 Hurricane — https://archive.org/download/nova_collection/Nova%201989-11-07%20Hurricane.ia.mp4
 - Nova 1989-11-14 Will Venice Survive Its Rescue — https://archive.org/download/nova_collection/Nova%201989-11-14%20Will%20Venice%20Survive%20Its%20Rescue.ia.mp4
 - Nova 1989-11-21 What Is Music — https://archive.org/download/nova_collection/Nova%201989-11-21%20What%20Is%20Music.ia.mp4
-- Nova 1989-12-05 Yellowstone — https://archive.org/download/nova_collection/Nova%201989-12-05%20Yellowstone%27s%20Burning%20Question.ia.mp4
+- Nova 1989-12-05 Yellowstone's Burning Question — https://archive.org/download/nova_collection/Nova%201989-12-05%20Yellowstone%27s%20Burning%20Question.ia.mp4
 - Nova 1989-12-12 The Schoolboys Who Cracked the Soviet Secret — https://archive.org/download/nova_collection/Nova%201989-12-12%20The%20Schoolboys%20Who%20Cracked%20the%20Soviet%20Secret.ia.mp4
 - Nova 1990-01-09 Poison in the Rockies — https://archive.org/download/nova_collection/Nova%201990-01-09%20Poison%20in%20the%20Rockies.ia.mp4
 - Nova 1990-01-23 Race for the Top — https://archive.org/download/nova_collection/Nova%201990-01-23%20Race%20for%20the%20Top.ia.mp4
 - Nova 1990-02-06 Disguises of War — https://archive.org/download/nova_collection/Nova%201990-02-06%20Disguises%20of%20War.ia.mp4
-- Nova 1990-02-13 The Bomb — https://archive.org/download/nova_collection/Nova%201990-02-13%20The%20Bomb%27s%20Lethal%20Legacy.ia.mp4
+- Nova 1990-02-13 The Bomb's Lethal Legacy — https://archive.org/download/nova_collection/Nova%201990-02-13%20The%20Bomb%27s%20Lethal%20Legacy.ia.mp4
 - Nova 1990-02-27 The Big Spill — https://archive.org/download/nova_collection/Nova%201990-02-27%20The%20Big%20Spill.ia.mp4
 - Nova 1990-03-15 The Genius That Was China Rise of the Dragon — https://archive.org/download/nova_collection/Nova%201990-03-15%20The%20Genius%20That%20Was%20China%20Rise%20of%20the%20Dragon.ia.mp4
 - Nova 1990-03-20 The Genius That Was China Empires in Collision — https://archive.org/download/nova_collection/Nova%201990-03-20%20The%20Genius%20That%20Was%20China%20Empires%20in%20Collision.ia.mp4
 - Nova 1990-03-27 The Genius That Was China The Threat from Japan — https://archive.org/download/nova_collection/Nova%201990-03-27%20The%20Genius%20That%20Was%20China%20The%20Threat%20from%20Japan.ia.mp4
 - Nova 1990-04-03 The Genius That Was China Will the Dragon Rise Again — https://archive.org/download/nova_collection/Nova%201990-04-03%20The%20Genius%20That%20Was%20China%20Will%20the%20Dragon%20Rise%20Again.ia.mp4
 - Nova 1990-10-03 The KGB, The Computer and Me — https://archive.org/download/nova_collection/Nova%201990-10-03%20The%20KGB%2C%20The%20Computer%20and%20Me.ia.mp4
-- Nova 1990-10-09 Neptune — https://archive.org/download/nova_collection/Nova%201990-10-09%20Neptune%27s%20Cold%20Fury.ia.mp4
+- Nova 1990-10-09 Neptune's Cold Fury — https://archive.org/download/nova_collection/Nova%201990-10-09%20Neptune%27s%20Cold%20Fury.ia.mp4
 - Nova 1990-10-16 To Boldly Go — https://archive.org/download/nova_collection/Nova%201990-10-16%20To%20Boldly%20Go%20%20%20.ia.mp4
 - Nova 1990-10-23 Poisoned Winds of War — https://archive.org/download/nova_collection/Nova%201990-10-23%20Poisoned%20Winds%20of%20War.ia.mp4
 - Nova 1990-10-30 The Blimp is Back! — https://archive.org/download/nova_collection/Nova%201990-10-30%20The%20Blimp%20is%20Back%21.ia.mp4
@@ -514,9 +611,9 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Nova 1990-11-20 Can the Elephant Be Saved — https://archive.org/download/nova_collection/Nova%201990-11-20%20Can%20the%20Elephant%20Be%20Saved.ia.mp4
 - Nova 1990-11-27 We Know Where You Live — https://archive.org/download/nova_collection/Nova%201990-11-27%20We%20Know%20Where%20You%20Live.ia.mp4
 - Nova 1990-12-04 In the Land of the Llamas — https://archive.org/download/nova_collection/Nova%201990-12-04%20In%20the%20Land%20of%20the%20Llamas.ia.mp4
-- Nova 1990-12-18 What — https://archive.org/download/nova_collection/Nova%201990-12-18%20What%27s%20Killing%20the%20Children.ia.mp4
+- Nova 1990-12-18 What's Killing the Children — https://archive.org/download/nova_collection/Nova%201990-12-18%20What%27s%20Killing%20the%20Children.ia.mp4
 - Nova 1991-01-08 Return to Mt St Helens — https://archive.org/download/nova_collection/Nova%201991-01-08%20Return%20to%20Mt%20%20St%20%20Helens.ia.mp4
-- Nova 1991-02-05 The Hunt for China — https://archive.org/download/nova_collection/Nova%201991-02-05%20The%20Hunt%20for%20China%27s%20Dinosaurs.ia.mp4
+- Nova 1991-02-05 The Hunt for China's Dinosaurs — https://archive.org/download/nova_collection/Nova%201991-02-05%20The%20Hunt%20for%20China%27s%20Dinosaurs.ia.mp4
 - Nova 1991-02-12 Case of the Flying Dinosaur — https://archive.org/download/nova_collection/Nova%201991-02-12%20Case%20of%20the%20Flying%20Dinosaur.ia.mp4
 - Nova 1991-02-19 T Rex Exposed — https://archive.org/download/nova_collection/Nova%201991-02-19%20T%20Rex%20Exposed.ia.mp4
 - Nova 1991-02-26 The Russian Right Stuff The Invisible Spaceman — https://archive.org/download/nova_collection/Nova%201991-02-26%20The%20Russian%20Right%20Stuff%20The%20Invisible%20Spaceman.ia.mp4
@@ -531,17 +628,17 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Nova 1991-10-22 Suicide Mission to Chernobyl — https://archive.org/download/nova_collection/Nova%201991-10-22%20Suicide%20Mission%20to%20Chernobyl.ia.mp4
 - Nova 1991-11-05 Taller Than Everest — https://archive.org/download/nova_collection/Nova%201991-11-05%20Taller%20Than%20Everest.ia.mp4
 - Nova 1991-11-12 Fastest Planes in the Sky — https://archive.org/download/nova_collection/Nova%201991-11-12%20Fastest%20Planes%20in%20the%20Sky.ia.mp4
-- Nova 1991-12-03 Avoiding the Surgeon — https://archive.org/download/nova_collection/Nova%201991-12-03%20Avoiding%20the%20Surgeon%27s%20Knife.ia.mp4
+- Nova 1991-12-03 Avoiding the Surgeon's Knife — https://archive.org/download/nova_collection/Nova%201991-12-03%20Avoiding%20the%20Surgeon%27s%20Knife.ia.mp4
 - Nova 1991-12-10 Skyscraper! A NOVA Special (80 min) — https://archive.org/download/nova_collection/Nova%201991-12-10%20Skyscraper%21%20A%20NOVA%20Special%20%2880%20min%29.ia.mp4
 - Nova 1991-12-17 The Fine Art of Faking It — https://archive.org/download/nova_collection/Nova%201991-12-17%20The%20Fine%20Art%20of%20Faking%20It.ia.mp4
 - Nova 1992-01-14 Hell Fighters of Kuwait — https://archive.org/download/nova_collection/Nova%201992-01-14%20Hell%20Fighters%20of%20Kuwait.ia.mp4
 - Nova 1992-01-21 Submarine! — https://archive.org/download/nova_collection/Nova%201992-01-21%20Submarine%21.ia.mp4
-- Nova 1992-01-28 Saddam — https://archive.org/download/nova_collection/Nova%201992-01-28%20Saddam%27s%20War%20on%20Wildlife.ia.mp4
+- Nova 1992-01-28 Saddam's War on Wildlife — https://archive.org/download/nova_collection/Nova%201992-01-28%20Saddam%27s%20War%20on%20Wildlife.ia.mp4
 - Nova 1992-02-11 What Smells — https://archive.org/download/nova_collection/Nova%201992-02-11%20What%20Smells.ia.mp4
 - Nova 1992-02-18 Can You Believe TV Ratings — https://archive.org/download/nova_collection/Nova%201992-02-18%20Can%20You%20Believe%20TV%20Ratings.ia.mp4
 - Nova 1992-03-03 Making a Dishonest Buck — https://archive.org/download/nova_collection/Nova%201992-03-03%20Making%20a%20Dishonest%20Buck.ia.mp4
 - Nova 1992-03-10 Rescuing Baby Whales — https://archive.org/download/nova_collection/Nova%201992-03-10%20Rescuing%20Baby%20Whales.ia.mp4
-- Nova 1992-03-17 An Astronaut — https://archive.org/download/nova_collection/Nova%201992-03-17%20An%20Astronaut%27s%20View%20of%20the%20Earth.ia.mp4
+- Nova 1992-03-17 An Astronaut's View of the Earth — https://archive.org/download/nova_collection/Nova%201992-03-17%20An%20Astronaut%27s%20View%20of%20the%20Earth.ia.mp4
 - Nova 1992-03-24 Eclipse of the Century — https://archive.org/download/nova_collection/Nova%201992-03-24%20Eclipse%20of%20the%20Century.ia.mp4
 - Nova 1992-08-25 Animal Olympians II — https://archive.org/download/nova_collection/Nova%201992-08-25%20Animal%20Olympians%20II.ia.mp4
 - Nova 1992-09-29 The Genius Behind the Bomb — https://archive.org/download/nova_collection/Nova%201992-09-29%20The%20Genius%20Behind%20the%20Bomb.ia.mp4
@@ -586,7 +683,7 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Nova 1994-10-11 The Great Wildlife Heist — https://archive.org/download/nova_collection/Nova%201994-10-11%20The%20Great%20Wildlife%20Heist.ia.mp4
 - Nova 1994-10-18 Secret of the Wild Child — https://archive.org/download/nova_collection/Nova%201994-10-18%20Secret%20of%20the%20Wild%20Child.ia.mp4
 - Nova 1994-10-25 Haunted Cry of a Long Gone Bird — https://archive.org/download/nova_collection/Nova%201994-10-25%20Haunted%20Cry%20of%20a%20Long%20Gone%20Bird.ia.mp4
-- Nova 1994-11-01 What — https://archive.org/download/nova_collection/Nova%201994-11-01%20What%27s%20New%20About%20Menopause.ia.mp4
+- Nova 1994-11-01 What's New About Menopause — https://archive.org/download/nova_collection/Nova%201994-11-01%20What%27s%20New%20About%20Menopause.ia.mp4
 - Nova 1994-11-08 The Tribe that Time Forgot — https://archive.org/download/nova_collection/Nova%201994-11-08%20The%20Tribe%20that%20Time%20Forgot.ia.mp4
 - Nova 1994-11-15 Killer Quake! — https://archive.org/download/nova_collection/Nova%201994-11-15%20Killer%20Quake%21.ia.mp4
 - Nova 1994-11-29 Buried in Ash — https://archive.org/download/nova_collection/Nova%201994-11-29%20Buried%20in%20Ash.ia.mp4
@@ -620,7 +717,7 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Nova 1996-01-30 B 29 Frozen in Time — https://archive.org/download/nova_collection/Nova%201996-01-30%20B%2029%20Frozen%20in%20Time.ia.mp4
 - Nova 1996-02-06 Ebola The Plague Fighters — https://archive.org/download/nova_collection/Nova%201996-02-06%20Ebola%20The%20Plague%20Fighters.ia.mp4
 - Nova 1996-02-20 War Machines of Tomorrow — https://archive.org/download/nova_collection/Nova%201996-02-20%20War%20Machines%20of%20Tomorrow.ia.mp4
-- Nova 1996-02-27 Kidnapped by U F O  — https://archive.org/download/nova_collection/Nova%201996-02-27%20Kidnapped%20by%20U.F.O.%27s.ia.mp4
+- Nova 1996-02-27 Kidnapped by U F O 's — https://archive.org/download/nova_collection/Nova%201996-02-27%20Kidnapped%20by%20U.F.O.%27s.ia.mp4
 - Nova 1996-03-26 Flood! — https://archive.org/download/nova_collection/Nova%201996-03-26%20Flood%21.ia.mp4
 - Nova 1996-04-02 Dr Spock the Baby Doc — https://archive.org/download/nova_collection/Nova%201996-04-02%20Dr%20%20Spock%20the%20Baby%20Doc.ia.mp4
 - Nova 1996-04-09 Warriors of the Amazon — https://archive.org/download/nova_collection/Nova%201996-04-09%20Warriors%20of%20the%20Amazon.mp4
@@ -633,10 +730,10 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Nova 1996-11-19 Shark Attack — https://archive.org/download/nova_collection/Nova%201996-11-19%20Shark%20Attack.ia.mp4
 - Nova 1996-11-24 Odyssey of Life The Ultimate Journey — https://archive.org/download/nova_collection/Nova%201996-11-24%20Odyssey%20of%20Life%20The%20Ultimate%20Journey.ia.mp4
 - Nova 1996-11-25 Odyssey of Life The Unknown World — https://archive.org/download/nova_collection/Nova%201996-11-25%20Odyssey%20of%20Life%20The%20Unknown%20World.ia.mp4
-- Nova 1996-11-26 Odyssey of Life The Photographer — https://archive.org/download/nova_collection/Nova%201996-11-26%20Odyssey%20of%20Life%20The%20Photographer%27s%20Secrets.ia.mp4
+- Nova 1996-11-26 Odyssey of Life The Photographer's Secrets — https://archive.org/download/nova_collection/Nova%201996-11-26%20Odyssey%20of%20Life%20The%20Photographer%27s%20Secrets.ia.mp4
 - Nova 1996-12-31 Cracking the Ice Age — https://archive.org/download/nova_collection/Nova%201996-12-31%20Cracking%20the%20Ice%20Age.ia.mp4
 - Nova 1997-01-14 Kaboom! DVDRip DD2 0 — https://archive.org/download/nova_collection/Nova%201997-01-14%20Kaboom%21%20DVDRip%20DD2%200%20x264-astro.ia.mp4
-- Nova 1997-01-28 Titanic — https://archive.org/download/nova_collection/Nova%201997-01-28%20Titanic%27s%20Lost%20Sister.ia.mp4
+- Nova 1997-01-28 Titanic's Lost Sister — https://archive.org/download/nova_collection/Nova%201997-01-28%20Titanic%27s%20Lost%20Sister.ia.mp4
 - Nova 1997-02-11 Secrets of Lost Empires (1) Stonehenge — https://archive.org/download/nova_collection/Nova%201997-02-11%20Secrets%20of%20Lost%20Empires%20%281%29%20Stonehenge.ia.mp4
 - Nova 1997-02-11 Secrets of Lost Empires (2) Inca — https://archive.org/download/nova_collection/Nova%201997-02-11%20Secrets%20of%20Lost%20Empires%20%282%29%20Inca.ia.mp4
 - Nova 1997-02-12 Secrets of Lost Empires (3) Obelisk — https://archive.org/download/nova_collection/Nova%201997-02-12%20Secrets%20of%20Lost%20Empires%20%283%29%20Obelisk.ia.mp4
@@ -687,7 +784,7 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Nova 1999-10-05 Fall of the Leaning Tower — https://archive.org/download/nova_collection/Nova%201999-10-05%20Fall%20of%20the%20Leaning%20Tower.ia.mp4
 - Nova 1999-10-06 Everest The Mystery of Mallory and Irvin — https://archive.org/download/nova_collection/Nova%201999-10-06%20Everest%20The%20Mystery%20of%20Mallory%20and%20Irvin.ia.mp4
 - Nova 1999-10-12 Time Travel — https://archive.org/download/nova_collection/Nova%201999-10-12%20Time%20Travel.ia.mp4
-- Nova 1999-10-19 The Killer — https://archive.org/download/nova_collection/Nova%201999-10-19%20The%20Killer%27s%20Trail.ia.mp4
+- Nova 1999-10-19 The Killer's Trail — https://archive.org/download/nova_collection/Nova%201999-10-19%20The%20Killer%27s%20Trail.ia.mp4
 - Nova 1999-11-02 Island of the Spirits — https://archive.org/download/nova_collection/Nova%201999-11-02%20Island%20of%20the%20Spirits.ia.mp4
 - Nova 1999-11-09 Decoding Nazi Secrets (120 min) — https://archive.org/download/nova_collection/Nova%201999-11-09%20Decoding%20Nazi%20Secrets%20%28120%20min%29.ia.mp4
 - Nova 1999-11-23 Voyage of Doom — https://archive.org/download/nova_collection/Nova%201999-11-23%20Voyage%20of%20Doom.ia.mp4
@@ -696,24 +793,24 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Nova 2000-01-18 Lost on Everest — https://archive.org/download/nova_collection/Nova%202000-01-18%20Lost%20on%20Everest.ia.mp4
 - Nova 2000-02-01 Diamond Deception — https://archive.org/download/nova_collection/Nova%202000-02-01%20Diamond%20Deception.ia.mp4
 - Nova 2000-02-01 Secrets of Lost Empires Medieval Siege — https://archive.org/download/nova_collection/Nova%202000-02-01%20Secrets%20of%20Lost%20Empires%20Medieval%20Siege.ia.mp4
-- Nova 2000-02-08 Secrets of Lost Empires Pharaoh — https://archive.org/download/nova_collection/Nova%202000-02-08%20Secrets%20of%20Lost%20Empires%20Pharaoh%27s%20Obelisk.ia.mp4
+- Nova 2000-02-08 Secrets of Lost Empires Pharaoh's Obelisk — https://archive.org/download/nova_collection/Nova%202000-02-08%20Secrets%20of%20Lost%20Empires%20Pharaoh%27s%20Obelisk.ia.mp4
 - Nova 2000-02-08 Trillion Dollar Bet — https://archive.org/download/nova_collection/Nova%202000-02-08%20Trillion%20Dollar%20Bet.ia.mp4
 - Nova 2000-02-15 Mystery of the First Americans — https://archive.org/download/nova_collection/Nova%202000-02-15%20Mystery%20of%20the%20First%20Americans.ia.mp4
 - Nova 2000-02-15 Secrets of Lost Empires Easter Island — https://archive.org/download/nova_collection/Nova%202000-02-15%20Secrets%20of%20Lost%20Empires%20Easter%20Island.ia.mp4
 - Nova 2000-02-22 Lost Tribes of Israel — https://archive.org/download/nova_collection/Nova%202000-02-22%20Lost%20Tribes%20of%20Israel.ia.mp4
 - Nova 2000-02-22 Secrets of Lost Empires Roman Bath — https://archive.org/download/nova_collection/Nova%202000-02-22%20Secrets%20of%20Lost%20Empires%20Roman%20Bath.ia.mp4
 - Nova 2000-02-29 Secrets of Lost Empires China Bridge — https://archive.org/download/nova_collection/Nova%202000-02-29%20Secrets%20of%20Lost%20Empires%20China%20Bridge.ia.mp4
-- Nova 2000-04-18 What — https://archive.org/download/nova_collection/Nova%202000-04-18%20What%27s%20Up%20with%20the%20Weather.ia.mp4
+- Nova 2000-04-18 What's Up with the Weather — https://archive.org/download/nova_collection/Nova%202000-04-18%20What%27s%20Up%20with%20the%20Weather.ia.mp4
 - Nova 2000-04-25 Stationed in the Stars — https://archive.org/download/nova_collection/Nova%202000-04-25%20Stationed%20in%20the%20Stars.ia.mp4
 - Nova 2000-05-09 The Vikings — https://archive.org/download/nova_collection/Nova%202000-05-09%20The%20Vikings.ia.mp4
-- Nova 2000-10-24 Lincoln — https://archive.org/download/nova_collection/Nova%202000-10-24%20Lincoln%27s%20Secret%20Weapon.ia.mp4
+- Nova 2000-10-24 Lincoln's Secret Weapon — https://archive.org/download/nova_collection/Nova%202000-10-24%20Lincoln%27s%20Secret%20Weapon.ia.mp4
 - Nova 2000-10-31 Holocaust on Trial — https://archive.org/download/nova_collection/Nova%202000-10-31%20Holocaust%20on%20Trial.ia.mp4
-- Nova 2000-11-14 Hitler — https://archive.org/download/nova_collection/Nova%202000-11-14%20Hitler%27s%20Lost%20Sub.ia.mp4
+- Nova 2000-11-14 Hitler's Lost Sub — https://archive.org/download/nova_collection/Nova%202000-11-14%20Hitler%27s%20Lost%20Sub.ia.mp4
 - Nova 2000-11-21 Runaway Universe — https://archive.org/download/nova_collection/Nova%202000-11-21%20Runaway%20Universe.ia.mp4
 - Nova 2000-11-28 Garden of Eden — https://archive.org/download/nova_collection/Nova%202000-11-28%20Garden%20of%20Eden.ia.mp4
 - Nova 2000-12-12 Dying to Be Thin — https://archive.org/download/nova_collection/Nova%202000-12-12%20Dying%20to%20Be%20Thin.ia.mp4
-- Nova 2000-12-18 Japan — https://archive.org/download/nova_collection/Nova%202000-12-18%20Japan%27s%20Secret%20Garden.ia.mp4
-- Nova 2001-01-16 Sultan — https://archive.org/download/nova_collection/Nova%202001-01-16%20Sultan%27s%20Lost%20Treasure.ia.mp4
+- Nova 2000-12-18 Japan's Secret Garden — https://archive.org/download/nova_collection/Nova%202000-12-18%20Japan%27s%20Secret%20Garden.ia.mp4
+- Nova 2001-01-16 Sultan's Lost Treasure — https://archive.org/download/nova_collection/Nova%202001-01-16%20Sultan%27s%20Lost%20Treasure.ia.mp4
 - Nova 2001-01-30 Vanished! — https://archive.org/download/nova_collection/Nova%202001-01-30%20Vanished%21.ia.mp4
 - Nova 2001-02-06 Nazi Prison Escape — https://archive.org/download/nova_collection/Nova%202001-02-06%20Nazi%20Prison%20Escape.ia.mp4
 - Nova 2001-02-13 Lost King of the Maya — https://archive.org/download/nova_collection/Nova%202001-02-13%20Lost%20King%20of%20the%20Maya.ia.mp4
@@ -727,9 +824,9 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Nova 2001-10-09 18 Ways to Make a Baby — https://archive.org/download/nova_collection/Nova%202001-10-09%2018%20Ways%20to%20Make%20a%20Baby.ia.mp4
 - Nova 2001-10-23 Secrets of the Mind (aka Phantoms in the Brain) — https://archive.org/download/nova_collection/Nova%202001-10-23%20Secrets%20of%20the%20Mind%20%28aka%20Phantoms%20in%20the%20Brain%29.ia.mp4
 - Nova 2001-10-30 Sex Unknown — https://archive.org/download/nova_collection/Nova%202001-10-30%20Sex%20Unknown.ia.mp4
-- Nova 2001-11-06 Russia — https://archive.org/download/nova_collection/Nova%202001-11-06%20Russia%27s%20Nuclear%20Warriors.ia.mp4
+- Nova 2001-11-06 Russia's Nuclear Warriors — https://archive.org/download/nova_collection/Nova%202001-11-06%20Russia%27s%20Nuclear%20Warriors.ia.mp4
 - Nova 2001-11-13 Bioterror — https://archive.org/download/nova_collection/Nova%202001-11-13%20Bioterror.ia.mp4
-- Nova 2001-11-20 Life — https://archive.org/download/nova_collection/Nova%202001-11-20%20Life%27s%20Greatest%20Miracle.ia.mp4
+- Nova 2001-11-20 Life's Greatest Miracle — https://archive.org/download/nova_collection/Nova%202001-11-20%20Life%27s%20Greatest%20Miracle.ia.mp4
 - Nova 2001-12-11 Methuselah Tree — https://archive.org/download/nova_collection/Nova%202001-12-11%20Methuselah%20Tree.ia.mp4
 - Nova 2001-12-25 Flying Casanovas — https://archive.org/download/nova_collection/Nova%202001-12-25%20Flying%20Casanovas.ia.mp4
 - Nova 2002-01-08 Death Star — https://archive.org/download/nova_collection/Nova%202002-01-08%20Death%20Star.ia.mp4
@@ -737,14 +834,14 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Nova 2002-02-05 Fireworks! — https://archive.org/download/nova_collection/Nova%202002-02-05%20Fireworks%21.ia.mp4
 - Nova 2002-02-05 Secrets, Lies and Atomic Spies — https://archive.org/download/nova_collection/Nova%202002-02-05%20Secrets%2C%20Lies%20and%20Atomic%20Spies.ia.mp4
 - Nova 2002-02-26 The Missing Link — https://archive.org/download/nova_collection/Nova%202002-02-26%20The%20Missing%20Link.ia.mp4
-- Nova 2002-03-26 Shackleton — https://archive.org/download/nova_collection/Nova%202002-03-26%20Shackleton%27s%20Voyage%20of%20Endurance.ia.mp4
+- Nova 2002-03-26 Shackleton's Voyage of Endurance — https://archive.org/download/nova_collection/Nova%202002-03-26%20Shackleton%27s%20Voyage%20of%20Endurance.ia.mp4
 - Nova 2002-04-30 Why the Towers Fell — https://archive.org/download/nova_collection/Nova%202002-04-30%20Why%20the%20Towers%20Fell.ia.mp4
 - Nova 2002-05-07 Fire Wars — https://archive.org/download/nova_collection/Nova%202002-05-07%20Fire%20Wars.ia.mp4
 - Nova 2002-09-03 Killer Disease on Campus — https://archive.org/download/nova_collection/Nova%202002-09-03%20Killer%20Disease%20on%20Campus.ia.mp4
 - Nova 2002-10-01 Mysterious Life of Caves — https://archive.org/download/nova_collection/Nova%202002-10-01%20Mysterious%20Life%20of%20Caves.ia.mp4
 - Nova 2002-10-08 Lost Roman Treasure — https://archive.org/download/nova_collection/Nova%202002-10-08%20Lost%20Roman%20Treasure.ia.mp4
-- Nova 2002-10-29 Galileo — https://archive.org/download/nova_collection/Nova%202002-10-29%20Galileo%27s%20Battle%20for%20the%20Heavens.ia.mp4
-- Nova 2002-11-12 Volcano — https://archive.org/download/nova_collection/Nova%202002-11-12%20Volcano%27s%20Deadly%20Warning.ia.mp4
+- Nova 2002-10-29 Galileo's Battle for the Heavens — https://archive.org/download/nova_collection/Nova%202002-10-29%20Galileo%27s%20Battle%20for%20the%20Heavens.ia.mp4
+- Nova 2002-11-12 Volcano's Deadly Warning — https://archive.org/download/nova_collection/Nova%202002-11-12%20Volcano%27s%20Deadly%20Warning.ia.mp4
 - Nova 2002-11-19 Sinking City of Venice — https://archive.org/download/nova_collection/Nova%202002-11-19%20Sinking%20City%20of%20Venice.ia.mp4
 - Nova 2002-11-26 The Orchid Hunter — https://archive.org/download/nova_collection/Nova%202002-11-26%20The%20Orchid%20Hunter.mp4
 - Nova 2003-01-07 Spies That Fly — https://archive.org/download/nova_collection/Nova%202003-01-07%20Spies%20That%20Fly.ia.mp4
@@ -758,10 +855,10 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Nova 2003-04-15 Secret of Photo 51 — https://archive.org/download/nova_collection/Nova%202003-04-15%20Secret%20of%20Photo%2051.ia.mp4
 - Nova 2003-09-30 Infinite Secrets — https://archive.org/download/nova_collection/Nova%202003-09-30%20Infinite%20Secrets.ia.mp4
 - Nova 2003-10-07 Who Killed the Red Baron — https://archive.org/download/nova_collection/Nova%202003-10-07%20Who%20Killed%20the%20Red%20Baron.ia.mp4
-- Nova 2003-10-28 The Elegant Universe (1) Einstein — https://archive.org/download/nova_collection/Nova%202003-10-28%20The%20Elegant%20Universe%20%281%29%20Einstein%27s%20Dream.ia.mp4
-- Nova 2003-10-28 The Elegant Universe (2) String — https://archive.org/download/nova_collection/Nova%202003-10-28%20The%20Elegant%20Universe%20%282%29%20String%27s%20the%20Thing.ia.mp4
+- Nova 2003-10-28 The Elegant Universe (1) Einstein's Dream — https://archive.org/download/nova_collection/Nova%202003-10-28%20The%20Elegant%20Universe%20%281%29%20Einstein%27s%20Dream.ia.mp4
+- Nova 2003-10-28 The Elegant Universe (2) String's the Thing — https://archive.org/download/nova_collection/Nova%202003-10-28%20The%20Elegant%20Universe%20%282%29%20String%27s%20the%20Thing.ia.mp4
 - Nova 2003-11-04 The Elegant Universe (3) Welcome to the 11th Dimension — https://archive.org/download/nova_collection/Nova%202003-11-04%20The%20Elegant%20Universe%20%283%29%20Welcome%20to%20the%2011th%20Dimension.ia.mp4
-- Nova 2003-11-11 Wright Brothers — https://archive.org/download/nova_collection/Nova%202003-11-11%20Wright%20Brothers%27%20Flying%20Machine.ia.mp4
+- Nova 2003-11-11 Wright Brothers' Flying Machine — https://archive.org/download/nova_collection/Nova%202003-11-11%20Wright%20Brothers%27%20Flying%20Machine.ia.mp4
 - Nova 2003-11-18 Magnetic Storm — https://archive.org/download/nova_collection/Nova%202003-11-18%20Magnetic%20Storm.ia.mp4
 - Nova 2003-11-18 Volcano Above the Clouds — https://archive.org/download/nova_collection/Nova%202003-11-18%20Volcano%20Above%20the%20Clouds.ia.mp4
 - Nova 2004-01-04 MARS Dead or Alive — https://archive.org/download/nova_collection/Nova%202004-01-04%20MARS%20Dead%20or%20Alive.ia.mp4
@@ -779,7 +876,7 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Nova 2004-09-29 Origins (3) Where Are the Aliens — https://archive.org/download/nova_collection/Nova%202004-09-29%20Origins%20%283%29%20Where%20Are%20the%20Aliens.ia.mp4
 - Nova 2004-09-29 Origins (4) Back to the Beginning — https://archive.org/download/nova_collection/Nova%202004-09-29%20Origins%20%284%29%20Back%20to%20the%20Beginning.ia.mp4
 - Nova 2004-10-12 The Most Dangerous Woman in America — https://archive.org/download/nova_collection/Nova%202004-10-12%20The%20Most%20Dangerous%20Woman%20in%20America.ia.mp4
-- Nova 2004-11-09 America — https://archive.org/download/nova_collection/Nova%202004-11-09%20America%27s%20Stone%20Age%20Explorers.ia.mp4
+- Nova 2004-11-09 America's Stone Age Explorers — https://archive.org/download/nova_collection/Nova%202004-11-09%20America%27s%20Stone%20Age%20Explorers.ia.mp4
 - Nova 2004-11-16 Great Escape — https://archive.org/download/nova_collection/Nova%202004-11-16%20Great%20Escape.ia.mp4
 - Nova 2004-11-23 Ancient Refuge in the Holy Land — https://archive.org/download/nova_collection/Nova%202004-11-23%20Ancient%20Refuge%20in%20the%20Holy%20Land.ia.mp4
 - Nova 2005-01-04 Welcome to Mars — https://archive.org/download/nova_collection/Nova%202005-01-04%20Welcome%20to%20Mars.ia.mp4
@@ -791,10 +888,10 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Nova 2005-03-29 Wave That Shook the World — https://archive.org/download/nova_collection/Nova%202005-03-29%20Wave%20That%20Shook%20the%20World.ia.mp4
 - Nova 2005-09-20 Mystery of the Megaflood — https://archive.org/download/nova_collection/Nova%202005-09-20%20Mystery%20of%20the%20Megaflood.ia.mp4
 - Nova 2005-10-04 Sinking the Supership — https://archive.org/download/nova_collection/Nova%202005-10-04%20Sinking%20the%20Supership.ia.mp4
-- Nova 2005-10-11 Einstein — https://archive.org/download/nova_collection/Nova%202005-10-11%20Einstein%27s%20Big%20Idea.ia.mp4
+- Nova 2005-10-11 Einstein's Big Idea — https://archive.org/download/nova_collection/Nova%202005-10-11%20Einstein%27s%20Big%20Idea.ia.mp4
 - Nova 2005-11-01 Volcano Under the City — https://archive.org/download/nova_collection/Nova%202005-11-01%20Volcano%20Under%20the%20City.ia.mp4
-- Nova 2005-11-08 Hitler — https://archive.org/download/nova_collection/Nova%202005-11-08%20Hitler%27s%20Sunken%20Secret.ia.mp4
-- Nova 2005-11-15 Newton — https://archive.org/download/nova_collection/Nova%202005-11-15%20Newton%27s%20Dark%20Secrets.ia.mp4
+- Nova 2005-11-08 Hitler's Sunken Secret — https://archive.org/download/nova_collection/Nova%202005-11-08%20Hitler%27s%20Sunken%20Secret.ia.mp4
+- Nova 2005-11-15 Newton's Dark Secrets — https://archive.org/download/nova_collection/Nova%202005-11-15%20Newton%27s%20Dark%20Secrets.ia.mp4
 - Nova 2005-11-22 Storm That Drowned a City — https://archive.org/download/nova_collection/Nova%202005-11-22%20Storm%20That%20Drowned%20a%20City.ia.mp4
 - Nova 2006-01-03 The Mummy Who Would Be King — https://archive.org/download/nova_collection/Nova%202006-01-03%20The%20Mummy%20Who%20Would%20Be%20King.ia.mp4
 - Nova 2006-01-17 Deadly Ascent — https://archive.org/download/nova_collection/Nova%202006-01-17%20Deadly%20Ascent.ia.mp4
@@ -843,7 +940,7 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Nova 2008-10-21 Parallel Worlds, Parallel Lives — https://archive.org/download/nova_collection/Nova%202008-10-21%20Parallel%20Worlds%2C%20Parallel%20Lives.ia.mp4
 - Nova 2008-10-28 Fractals Hunting the Hidden Dimension — https://archive.org/download/nova_collection/Nova%202008-10-28%20Fractals%20Hunting%20the%20Hidden%20Dimension.ia.mp4
 - Nova 2008-11-11 Alien from Earth — https://archive.org/download/nova_collection/Nova%202008-11-11%20Alien%20from%20Earth.ia.mp4
-- Nova 2008-11-18 The Bible — https://archive.org/download/nova_collection/Nova%202008-11-18%20The%20Bible%27s%20Buried%20Secrets.mp4
+- Nova 2008-11-18 The Bible's Buried Secrets — https://archive.org/download/nova_collection/Nova%202008-11-18%20The%20Bible%27s%20Buried%20Secrets.mp4
 - Nova 2008-11-25 Ocean Animal Emergency — https://archive.org/download/nova_collection/Nova%202008-11-25%20Ocean%20Animal%20Emergency.ia.mp4
 - Nova 2008-12-30 Is There Life on Mars — https://archive.org/download/nova_collection/Nova%202008-12-30%20Is%20There%20Life%20on%20Mars.ia.mp4
 - Nova 2009-01-20 The Big Energy Gamble — https://archive.org/download/nova_collection/Nova%202009-01-20%20The%20Big%20Energy%20Gamble.ia.mp4
@@ -851,12 +948,12 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Nova 2009-02-03 The Spy Factory — https://archive.org/download/nova_collection/Nova%202009-02-03%20The%20Spy%20Factory.ia.mp4
 - Nova 2009-02-24 Rat Attack — https://archive.org/download/nova_collection/Nova%202009-02-24%20Rat%20Attack.ia.mp4
 - Nova 2009-03-24 Extreme Ice — https://archive.org/download/nova_collection/Nova%202009-03-24%20Extreme%20Ice.ia.mp4
-- Nova 2009-03-31 Last Extinction (Megabeasts — https://archive.org/download/nova_collection/Nova%202009-03-31%20Last%20Extinction%20%28Megabeasts%27%20Sudden%20Death%29.ia.mp4
-- Nova 2009-04-07 Doctors — https://archive.org/download/nova_collection/Nova%202009-04-07%20Doctors%27%20Diaries%20%281%29.ia.mp4
-- Nova 2009-04-14 Doctors — https://archive.org/download/nova_collection/Nova%202009-04-14%20Doctors%27%20Diaries%20%282%29.ia.mp4
+- Nova 2009-03-31 Last Extinction (Megabeasts' Sudden Death) — https://archive.org/download/nova_collection/Nova%202009-03-31%20Last%20Extinction%20%28Megabeasts%27%20Sudden%20Death%29.ia.mp4
+- Nova 2009-04-07 Doctors' Diaries (1) — https://archive.org/download/nova_collection/Nova%202009-04-07%20Doctors%27%20Diaries%20%281%29.ia.mp4
+- Nova 2009-04-14 Doctors' Diaries (2) — https://archive.org/download/nova_collection/Nova%202009-04-14%20Doctors%27%20Diaries%20%282%29.ia.mp4
 - Nova 2009-06-30 Musical Minds — https://archive.org/download/nova_collection/Nova%202009-06-30%20Musical%20Minds.ia.mp4
-- Nova 2009-10-06 Darwin — https://archive.org/download/nova_collection/Nova%202009-10-06%20Darwin%27s%20Darkest%20Hour.ia.mp4
-- Nova 2009-10-13 Hubble — https://archive.org/download/nova_collection/Nova%202009-10-13%20Hubble%27s%20Amazing%20Rescue.ia.mp4
+- Nova 2009-10-06 Darwin's Darkest Hour — https://archive.org/download/nova_collection/Nova%202009-10-06%20Darwin%27s%20Darkest%20Hour.ia.mp4
+- Nova 2009-10-13 Hubble's Amazing Rescue — https://archive.org/download/nova_collection/Nova%202009-10-13%20Hubble%27s%20Amazing%20Rescue.ia.mp4
 - Nova 2009-10-20 Lizard Kings — https://archive.org/download/nova_collection/Nova%202009-10-20%20Lizard%20Kings.ia.mp4
 - Nova 2009-11-03 Becoming Human - First Steps — https://archive.org/download/nova_collection/Nova%202009-11-03%20Becoming%20Human%20-%20First%20Steps.ia.mp4
 - Nova 2009-11-10 Becoming Human - Birth of Humanity — https://archive.org/download/nova_collection/Nova%202009-11-10%20Becoming%20Human%20-%20Birth%20of%20Humanity.ia.mp4
@@ -864,7 +961,7 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Nova 2009-11-24 What Are Dreams — https://archive.org/download/nova_collection/Nova%202009-11-24%20What%20Are%20Dreams.ia.mp4
 - Nova 2009-12-29 What Darwin Never Knew — https://archive.org/download/nova_collection/Nova%202009-12-29%20What%20Darwin%20Never%20Knew.mp4
 - Nova 2010-01-05 Killer Subs in Pearl Harbor — https://archive.org/download/nova_collection/Nova%202010-01-05%20Killer%20Subs%20in%20Pearl%20Harbor.ia.mp4
-- Nova 2010-01-12 Building Pharaoh — https://archive.org/download/nova_collection/Nova%202010-01-12%20Building%20Pharaoh%27s%20Ship.ia.mp4
+- Nova 2010-01-12 Building Pharaoh's Ship — https://archive.org/download/nova_collection/Nova%202010-01-12%20Building%20Pharaoh%27s%20Ship.ia.mp4
 - Nova 2010-01-19 Riddles of the Sphinx — https://archive.org/download/nova_collection/Nova%202010-01-19%20Riddles%20of%20the%20Sphinx.ia.mp4
 - Nova 2010-02-02 Ghosts of Machu Picchu — https://archive.org/download/nova_collection/Nova%202010-02-02%20Ghosts%20of%20Machu%20Picchu.ia.mp4
 - Nova 2010-02-09 Extreme Cave Diving — https://archive.org/download/nova_collection/Nova%202010-02-09%20Extreme%20Cave%20Diving.ia.mp4
@@ -878,7 +975,7 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Nova 2010-11-02 Trapped in an Elevator — https://archive.org/download/nova_collection/Nova%202010-11-02%20Trapped%20in%20an%20Elevator.ia.mp4
 - Nova 2010-11-09 Dogs Decoded — https://archive.org/download/nova_collection/Nova%202010-11-09%20Dogs%20Decoded.ia.mp4
 - Nova 2010-11-16 Secrets of Stonehenge — https://archive.org/download/nova_collection/Nova%202010-11-16%20Secrets%20of%20Stonehenge.ia.mp4
-- Nova 2010-11-23 Quest for Solomon — https://archive.org/download/nova_collection/Nova%202010-11-23%20Quest%20for%20Solomon%27s%20Mines.ia.mp4
+- Nova 2010-11-23 Quest for Solomon's Mines — https://archive.org/download/nova_collection/Nova%202010-11-23%20Quest%20for%20Solomon%27s%20Mines.ia.mp4
 - Nova 2010-12-28 Secrets Beneath the Ice — https://archive.org/download/nova_collection/Nova%202010-12-28%20Secrets%20Beneath%20the%20Ice.ia.mp4
 - Nova 2011-01-11 Deadliest Earthquakes — https://archive.org/download/nova_collection/Nova%202011-01-11%20Deadliest%20Earthquakes.ia.mp4
 - Nova 2011-01-19 Making Stuff (1) Stronger — https://archive.org/download/nova_collection/Nova%202011-01-19%20Making%20Stuff%20%281%29%20Stronger.ia.mp4
@@ -887,8 +984,8 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Nova 2011-02-09 Making Stuff (4) Smarter — https://archive.org/download/nova_collection/Nova%202011-02-09%20Making%20Stuff%20%284%29%20Smarter.ia.mp4
 - Nova 2011-02-09 Smartest Machine on Earth — https://archive.org/download/nova_collection/Nova%202011-02-09%20Smartest%20Machine%20on%20Earth.ia.mp4
 - Nova 2011-02-16 Crash of Flight 447 — https://archive.org/download/nova_collection/Nova%202011-02-16%20Crash%20of%20Flight%20447.ia.mp4
-- Nova 2011-02-23 Venom Nature — https://archive.org/download/nova_collection/Nova%202011-02-23%20Venom%20Nature%27s%20Killer.ia.mp4
-- Nova 2011-03-30 Japan — https://archive.org/download/nova_collection/Nova%202011-03-30%20Japan%27s%20Killer%20Quake.ia.mp4
+- Nova 2011-02-23 Venom Nature's Killer — https://archive.org/download/nova_collection/Nova%202011-02-23%20Venom%20Nature%27s%20Killer.ia.mp4
+- Nova 2011-03-30 Japan's Killer Quake — https://archive.org/download/nova_collection/Nova%202011-03-30%20Japan%27s%20Killer%20Quake.ia.mp4
 - Nova 2011-04-20 Power Surge hevc — https://archive.org/download/nova_collection/Nova%202011-04-20%20Power%20Surge%20hevc.ia.mp4
 - Nova 2011-09-07 Engineering Ground Zero — https://archive.org/download/nova_collection/Nova%202011-09-07%20Engineering%20Ground%20Zero.ia.mp4
 - Nova 2011-09-28 Surviving the Tsunami — https://archive.org/download/nova_collection/Nova%202011-09-28%20Surviving%20the%20Tsunami.mp4
@@ -900,7 +997,7 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Nova 2011-11-16 The Fabric of the Cosmos Quantum Leap — https://archive.org/download/nova_collection/Nova%202011-11-16%20The%20Fabric%20of%20the%20Cosmos%20Quantum%20Leap.ia.mp4
 - Nova 2011-11-23 The Fabric of the Cosmos Universe or Multiverse — https://archive.org/download/nova_collection/Nova%202011-11-23%20The%20Fabric%20of%20the%20Cosmos%20Universe%20or%20Multiverse.ia.mp4
 - Nova 2012-01-04 Deadliest Volcanoes — https://archive.org/download/nova_collection/Nova%202012-01-04%20Deadliest%20Volcanoes.ia.mp4
-- Nova 2012-01-11 Bombing Hitler — https://archive.org/download/nova_collection/Nova%202012-01-11%20Bombing%20Hitler%27s%20Dams.ia.mp4
+- Nova 2012-01-11 Bombing Hitler's Dams — https://archive.org/download/nova_collection/Nova%202012-01-11%20Bombing%20Hitler%27s%20Dams.ia.mp4
 - Nova 2012-01-18 3D Spies of WWII — https://archive.org/download/nova_collection/Nova%202012-01-18%203D%20Spies%20of%20WWII.ia.mp4
 - Nova 2012-01-25 Mystery of a Masterpiece — https://archive.org/download/nova_collection/Nova%202012-01-25%20Mystery%20of%20a%20Masterpiece.ia.mp4
 - Nova 2012-02-01 Ice Age Death Trap — https://archive.org/download/nova_collection/Nova%202012-02-01%20Ice%20Age%20Death%20Trap.ia.mp4
@@ -918,18 +1015,18 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Nova 2013-01-02 Doomsday Volcanoes — https://archive.org/download/nova_collection/Nova%202013-01-02%20Doomsday%20Volcanoes.ia.mp4
 - Nova 2013-01-09 Decoding Neanderthals — https://archive.org/download/nova_collection/Nova%202013-01-09%20Decoding%20Neanderthals.mp4
 - Nova 2013-01-23 Rise of the Drones — https://archive.org/download/nova_collection/Nova%202013-01-23%20Rise%20of%20the%20Drones.mp4
-- Nova 2013-01-30 Who Killed Lindbergh — https://archive.org/download/nova_collection/Nova%202013-01-30%20Who%20Killed%20Lindbergh%27s%20Baby.ia.mp4
-- Nova 2013-02-06 Building Pharaoh — https://archive.org/download/nova_collection/Nova%202013-02-06%20Building%20Pharaoh%27s%20Chariot.ia.mp4
+- Nova 2013-01-30 Who Killed Lindbergh's Baby — https://archive.org/download/nova_collection/Nova%202013-01-30%20Who%20Killed%20Lindbergh%27s%20Baby.ia.mp4
+- Nova 2013-02-06 Building Pharaoh's Chariot — https://archive.org/download/nova_collection/Nova%202013-02-06%20Building%20Pharaoh%27s%20Chariot.ia.mp4
 - Nova 2013-02-13 Earth from Space — https://archive.org/download/nova_collection/Nova%202013-02-13%20Earth%20from%20Space.ia.mp4
 - Nova 2013-02-20 Mind of a Rampage Killer — https://archive.org/download/nova_collection/Nova%202013-02-20%20Mind%20of%20a%20Rampage%20Killer.ia.mp4
 - Nova 2013-03-27 Meteor Strike — https://archive.org/download/nova_collection/Nova%202013-03-27%20Meteor%20Strike.ia.mp4
 - Nova 2013-04-03 Ancient Computer — https://archive.org/download/nova_collection/Nova%202013-04-03%20Ancient%20Computer.ia.mp4
-- Nova 2013-04-10 Australia — https://archive.org/download/nova_collection/Nova%202013-04-10%20Australia%27s%20First%204%20Billion%20Years%20%281%29%20Awakening.ia.mp4
-- Nova 2013-04-17 Australia — https://archive.org/download/nova_collection/Nova%202013-04-17%20Australia%27s%20First%204%20Billion%20Years%20Life%20%282%29%20Explodes.ia.mp4
-- Nova 2013-04-24 Australia — https://archive.org/download/nova_collection/Nova%202013-04-24%20Australia%27s%20First%204%20Billion%20Years%20%283%29%20Monsters.ia.mp4
-- Nova 2013-05-01 Australia — https://archive.org/download/nova_collection/Nova%202013-05-01%20Australia%27s%20First%204%20Billion%20Years%20%284%29%20Strange%20Creatures.ia.mp4
+- Nova 2013-04-10 Australia's First 4 Billion Years (1) Awakening — https://archive.org/download/nova_collection/Nova%202013-04-10%20Australia%27s%20First%204%20Billion%20Years%20%281%29%20Awakening.ia.mp4
+- Nova 2013-04-17 Australia's First 4 Billion Years Life (2) Explodes — https://archive.org/download/nova_collection/Nova%202013-04-17%20Australia%27s%20First%204%20Billion%20Years%20Life%20%282%29%20Explodes.ia.mp4
+- Nova 2013-04-24 Australia's First 4 Billion Years (3) Monsters — https://archive.org/download/nova_collection/Nova%202013-04-24%20Australia%27s%20First%204%20Billion%20Years%20%283%29%20Monsters.ia.mp4
+- Nova 2013-05-01 Australia's First 4 Billion Years (4) Strange Creatures — https://archive.org/download/nova_collection/Nova%202013-05-01%20Australia%27s%20First%204%20Billion%20Years%20%284%29%20Strange%20Creatures.ia.mp4
 - Nova 2013-05-29 Manhunt Boston Bombers — https://archive.org/download/nova_collection/Nova%202013-05-29%20Manhunt%20Boston%20Bombers.ia.mp4
-- Nova 2013-05-29 Oklahoma — https://archive.org/download/nova_collection/Nova%202013-05-29%20Oklahoma%27s%20Deadliest%20Tornadoes.ia.mp4
+- Nova 2013-05-29 Oklahoma's Deadliest Tornadoes — https://archive.org/download/nova_collection/Nova%202013-05-29%20Oklahoma%27s%20Deadliest%20Tornadoes.ia.mp4
 - Nova 2013-09-11 Ground Zero Supertower — https://archive.org/download/nova_collection/Nova%202013-09-11%20Ground%20Zero%20Supertower.mp4
 - Nova 2013-10-09 Megastorm Aftermath — https://archive.org/download/nova_collection/Nova%202013-10-09%20Megastorm%20Aftermath.mp4
 - Nova 2013-10-16 Making Stuff (1) Faster — https://archive.org/download/nova_collection/Nova%202013-10-16%20Making%20Stuff%20%281%29%20Faster.ia.mp4
@@ -948,18 +1045,18 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Nova 2014-04-02 Wild Predator Invasion — https://archive.org/download/nova_collection/Nova%202014-04-02%20Wild%20Predator%20Invasion.ia.mp4
 - Nova 2014-04-09 Inside Animal Minds (1) Bird Genius — https://archive.org/download/nova_collection/Nova%202014-04-09%20Inside%20Animal%20Minds%20%281%29%20Bird%20Genius.ia.mp4
 - Nova 2014-04-16 Inside Animal Minds (2) Dogs & Super Senses — https://archive.org/download/nova_collection/Nova%202014-04-16%20Inside%20Animal%20Minds%20%282%29%20Dogs%20%26%20Super%20Senses.ia.mp4
-- Nova 2014-04-23 Inside Animal Minds (3) Who — https://archive.org/download/nova_collection/Nova%202014-04-23%20Inside%20Animal%20Minds%20%283%29%20Who%27s%20the%20Smartest.ia.mp4
+- Nova 2014-04-23 Inside Animal Minds (3) Who's the Smartest — https://archive.org/download/nova_collection/Nova%202014-04-23%20Inside%20Animal%20Minds%20%283%29%20Who%27s%20the%20Smartest.ia.mp4
 - Nova 2014-05-07 Why Sharks Attack — https://archive.org/download/nova_collection/Nova%202014-05-07%20Why%20Sharks%20Attack.ia.mp4
 - Nova 2014-05-14 Escape from Nazi Alcatraz — https://archive.org/download/nova_collection/Nova%202014-05-14%20Escape%20from%20Nazi%20Alcatraz.ia.mp4
-- Nova 2014-05-28 D Day — https://archive.org/download/nova_collection/Nova%202014-05-28%20D%20Day%27s%20Sunken%20Secrets.ia.mp4
+- Nova 2014-05-28 D Day's Sunken Secrets — https://archive.org/download/nova_collection/Nova%202014-05-28%20D%20Day%27s%20Sunken%20Secrets.ia.mp4
 - Nova 2014-09-10 Vaccines - Calling the Shots — https://archive.org/download/nova_collection/Nova%202014-09-10%20Vaccines%20-%20Calling%20the%20Shots.ia.mp4
 - Nova 2014-09-24 Rise of the Hackers — https://archive.org/download/nova_collection/Nova%202014-09-24%20Rise%20of%20the%20Hackers.ia.mp4
 - Nova 2014-10-08 Surviving Ebola — https://archive.org/download/nova_collection/Nova%202014-10-08%20Surviving%20Ebola.ia.mp4
 - Nova 2014-10-08 Why Planes Vanish — https://archive.org/download/nova_collection/Nova%202014-10-08%20Why%20Planes%20Vanish.ia.mp4
-- Nova 2014-10-22 Ben Franklin — https://archive.org/download/nova_collection/Nova%202014-10-22%20Ben%20Franklin%27s%20Balloons.ia.mp4
+- Nova 2014-10-22 Ben Franklin's Balloons — https://archive.org/download/nova_collection/Nova%202014-10-22%20Ben%20Franklin%27s%20Balloons.ia.mp4
 - Nova 2014-10-29 First Air War — https://archive.org/download/nova_collection/Nova%202014-10-29%20First%20Air%20War.ia.mp4
 - Nova 2014-11-05 Bigger Than T Rex — https://archive.org/download/nova_collection/Nova%202014-11-05%20Bigger%20Than%20T%20%20Rex.ia.mp4
-- Nova 2014-11-12 Emperor — https://archive.org/download/nova_collection/Nova%202014-11-12%20Emperor%27s%20Ghost%20Army.ia.mp4
+- Nova 2014-11-12 Emperor's Ghost Army — https://archive.org/download/nova_collection/Nova%202014-11-12%20Emperor%27s%20Ghost%20Army.ia.mp4
 - Nova 2014-11-19 Killer Landslides — https://archive.org/download/nova_collection/Nova%202014-11-19%20Killer%20Landslides.ia.mp4
 - Nova 2014-12-03 First Man on the Moon — https://archive.org/download/nova_collection/Nova%202014-12-03%20First%20Man%20on%20the%20Moon.ia.mp4
 - Nova 2015-01-14 Big Bang Machine — https://archive.org/download/nova_collection/Nova%202015-01-14%20Big%20Bang%20Machine.ia.mp4
@@ -967,7 +1064,7 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Nova 2015-01-28 Sinkholes - Buried Alive — https://archive.org/download/nova_collection/Nova%202015-01-28%20Sinkholes%20-%20Buried%20Alive.ia.mp4
 - Nova 2015-02-11 Colosseum Roman Death Trap — https://archive.org/download/nova_collection/Nova%202015-02-11%20Colosseum%20Roman%20Death%20Trap.ia.mp4
 - Nova 2015-02-18 Petra Lost City of Stone — https://archive.org/download/nova_collection/Nova%202015-02-18%20Petra%20Lost%20City%20of%20Stone.ia.mp4
-- Nova 2015-02-25 Hagia Sophia Istanbul — https://archive.org/download/nova_collection/Nova%202015-02-25%20Hagia%20Sophia%20Istanbul%27s%20Ancient%20Mystery.mp4
+- Nova 2015-02-25 Hagia Sophia Istanbul's Ancient Mystery — https://archive.org/download/nova_collection/Nova%202015-02-25%20Hagia%20Sophia%20Istanbul%27s%20Ancient%20Mystery.mp4
 - Nova 2015-04-15 The Great Math Mystery — https://archive.org/download/nova_collection/Nova%202015-04-15%20The%20Great%20Math%20Mystery.ia.mp4
 - Nova 2015-04-22 Invisible Universe Revealed — https://archive.org/download/nova_collection/Nova%202015-04-22%20Invisible%20Universe%20Revealed.ia.mp4
 - Nova 2015-05-06 Nazi Attack on America — https://archive.org/download/nova_collection/Nova%202015-05-06%20Nazi%20Attack%20on%20America.mp4
@@ -976,15 +1073,15 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Nova 2015-07-29 Nuclear Meltdown Disaster — https://archive.org/download/nova_collection/Nova%202015-07-29%20Nuclear%20Meltdown%20Disaster.mp4
 - Nova 2015-09-16 Dawn of Humanity (120 min) — https://archive.org/download/nova_collection/Nova%202015-09-16%20Dawn%20of%20Humanity%20%28120%20min%29.ia.mp4
 - Nova 2015-09-23 Arctic Ghost Ship — https://archive.org/download/nova_collection/Nova%202015-09-23%20Arctic%20Ghost%20Ship.ia.mp4
-- Nova 2015-10-07 Secrets of Noah — https://archive.org/download/nova_collection/Nova%202015-10-07%20Secrets%20of%20Noah%27s%20Ark.ia.mp4
+- Nova 2015-10-07 Secrets of Noah's Ark — https://archive.org/download/nova_collection/Nova%202015-10-07%20Secrets%20of%20Noah%27s%20Ark.ia.mp4
 - Nova 2015-10-14 Cyberwar Threat — https://archive.org/download/nova_collection/Nova%202015-10-14%20Cyberwar%20Threat.ia.mp4
 - Nova 2015-10-28 Animal Mummies — https://archive.org/download/nova_collection/Nova%202015-10-28%20Animal%20Mummies.ia.mp4
 - Nova 2015-11-04 Making North America (1) Origins — https://archive.org/download/nova_collection/Nova%202015-11-04%20Making%20North%20America%20%281%29%20Origins.ia.mp4
 - Nova 2015-11-11 Making North America (2) Life — https://archive.org/download/nova_collection/Nova%202015-11-11%20Making%20North%20America%20%282%29%20Life.ia.mp4
 - Nova 2015-11-18 Making North America (3) Human — https://archive.org/download/nova_collection/Nova%202015-11-18%20Making%20North%20America%20%283%29%20Human.ia.mp4
-- Nova 2015-11-25 Inside Einstein — https://archive.org/download/nova_collection/Nova%202015-11-25%20Inside%20Einstein%27s%20Mind.mp4
+- Nova 2015-11-25 Inside Einstein's Mind — https://archive.org/download/nova_collection/Nova%202015-11-25%20Inside%20Einstein%27s%20Mind.mp4
 - Nova 2016-01-06 Secret Tunnel Warfare — https://archive.org/download/nova_collection/Nova%202016-01-06%20Secret%20Tunnel%20Warfare.ia.mp4
-- Nova 2016-01-13 Life — https://archive.org/download/nova_collection/Nova%202016-01-13%20Life%27s%20Rocky%20Start.mp4
+- Nova 2016-01-13 Life's Rocky Start — https://archive.org/download/nova_collection/Nova%202016-01-13%20Life%27s%20Rocky%20Start.mp4
 - Nova 2016-01-20 Mystery Beneath the Ice — https://archive.org/download/nova_collection/Nova%202016-01-20%20Mystery%20Beneath%20the%20Ice.ia.mp4
 - Nova 2016-01-27 Himalayan Megaquake — https://archive.org/download/nova_collection/Nova%202016-01-27%20Himalayan%20Megaquake.ia.mp4
 - Nova 2016-02-03 Creatures of Light — https://archive.org/download/nova_collection/Nova%202016-02-03%20Creatures%20of%20Light.ia.mp4
@@ -992,10 +1089,10 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Nova 2016-02-17 Iceman Reborn — https://archive.org/download/nova_collection/Nova%202016-02-17%20Iceman%20Reborn.mp4
 - Nova 2016-02-24 Rise of the Robots — https://archive.org/download/nova_collection/Nova%202016-02-24%20Rise%20of%20the%20Robots.mp4
 - Nova 2016-04-06 Vikings Unearthed (120 min) — https://archive.org/download/nova_collection/Nova%202016-04-06%20Vikings%20Unearthed%20%28120%20min%29.mp4
-- Nova 2016-04-13 Can Alzheimer — https://archive.org/download/nova_collection/Nova%202016-04-13%20Can%20Alzheimer%27s%20Be%20Stopped.ia.mp4
+- Nova 2016-04-13 Can Alzheimer's Be Stopped — https://archive.org/download/nova_collection/Nova%202016-04-13%20Can%20Alzheimer%27s%20Be%20Stopped.ia.mp4
 - Nova 2016-04-20 Wild Ways — https://archive.org/download/nova_collection/Nova%202016-04-20%20Wild%20Ways.mp4
 - Nova 2016-05-04 Operation Lighthouse Rescue — https://archive.org/download/nova_collection/Nova%202016-05-04%20Operation%20Lighthouse%20Rescue.ia.mp4
-- Nova 2016-05-11 Bombing Hitler — https://archive.org/download/nova_collection/Nova%202016-05-11%20Bombing%20Hitler%27s%20Supergun.ia.mp4
+- Nova 2016-05-11 Bombing Hitler's Supergun — https://archive.org/download/nova_collection/Nova%202016-05-11%20Bombing%20Hitler%27s%20Supergun.ia.mp4
 - Nova 2016-09-07 15 Years of Terror — https://archive.org/download/nova_collection/Nova%202016-09-07%2015%20Years%20of%20Terror.ia.mp4
 - Nova 2016-09-14 School of the Future (120 min) — https://archive.org/download/nova_collection/Nova%202016-09-14%20School%20of%20the%20Future%20%28120%20min%29.mp4
 - Nova 2016-10-05 Great Human Odyssey (120 min) — https://archive.org/download/nova_collection/Nova%202016-10-05%20Great%20Human%20Odyssey%20%28120%20min%29.ia.mp4
@@ -1010,7 +1107,7 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Nova 2017-02-15 The Origami Revolution — https://archive.org/download/nova_collection/Nova%202017-02-15%20The%20Origami%20Revolution.ia.mp4
 - Nova 2017-02-22 Why Trains Crash — https://archive.org/download/nova_collection/Nova%202017-02-22%20Why%20Trains%20Crash.mp4
 - Nova 2017-04-19 Holocaust Escape Tunnel — https://archive.org/download/nova_collection/Nova%202017-04-19%20Holocaust%20Escape%20Tunnel.ia.mp4
-- Nova 2017-04-26 Building Chernobyl — https://archive.org/download/nova_collection/Nova%202017-04-26%20Building%20Chernobyl%27s%20MegaTomb.ia.mp4
+- Nova 2017-04-26 Building Chernobyl's MegaTomb — https://archive.org/download/nova_collection/Nova%202017-04-26%20Building%20Chernobyl%27s%20MegaTomb.ia.mp4
 - Nova 2017-05-17 Chinese Chariot Revealed — https://archive.org/download/nova_collection/Nova%202017-05-17%20Chinese%20Chariot%20Revealed.ia.mp4
 - Nova 2017-05-31 Poisoned Water — https://archive.org/download/nova_collection/Nova%202017-05-31%20Poisoned%20Water.ia.mp4
 - Nova 2017-08-21 Eclipse Over America — https://archive.org/download/nova_collection/Nova%202017-08-21%20Eclipse%20Over%20America.mp4
@@ -1039,8 +1136,8 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Nova 2018-10-24 Flying Supersonic — https://archive.org/download/nova_collection/Nova%202018-10-24%20Flying%20Supersonic.mp4
 - Nova 2018-11-07 Last B-24 — https://archive.org/download/nova_collection/Nova%202018-11-07%20Last%20B-24.ia.mp4
 - Nova 2018-11-14 Thai Cave Rescue — https://archive.org/download/nova_collection/Nova%202018-11-14%20Thai%20Cave%20Rescue.ia.mp4
-- Nova 2018-11-21 World — https://archive.org/download/nova_collection/Nova%202018-11-21%20World%27s%20Fastest%20Animal.mp4
-- Nova 2018-12-26 Apollo — https://archive.org/download/nova_collection/Nova%202018-12-26%20Apollo%27s%20Daring%20Mission.ia.mp4
+- Nova 2018-11-21 World's Fastest Animal — https://archive.org/download/nova_collection/Nova%202018-11-21%20World%27s%20Fastest%20Animal.mp4
+- Nova 2018-12-26 Apollo's Daring Mission — https://archive.org/download/nova_collection/Nova%202018-12-26%20Apollo%27s%20Daring%20Mission.ia.mp4
 - Nova 2019-01-02 Pluto and Beyond — https://archive.org/download/nova_collection/Nova%202019-01-02%20Pluto%20and%20Beyond.mp4
 - Nova 2019-01-23 Kīlauea Hawaiʻi on Fire — https://archive.org/download/nova_collection/Nova%202019-01-23%20K%C4%ABlauea%20Hawai%CA%BBi%20on%20Fire.mp4
 - Nova 2019-02-06 Decoding the Great Pyramid — https://archive.org/download/nova_collection/Nova%202019-02-06%20Decoding%20the%20Great%20Pyramid.mp4
@@ -1057,7 +1154,7 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Nova 2019-08-07 The Planets (4) Saturn — https://archive.org/download/nova_collection/Nova%202019-08-07%20The%20Planets%20%284%29%20Saturn.mp4
 - Nova 2019-08-14 The Planets (5) Ice Worlds — https://archive.org/download/nova_collection/Nova%202019-08-14%20The%20Planets%20%285%29%20Ice%20Worlds.ia.mp4
 - Nova 2019-10-16 Why Bridges Collapse — https://archive.org/download/nova_collection/Nova%202019-10-16%20Why%20Bridges%20Collapse.ia.mp4
-- Nova 2019-10-23 Look Who — https://archive.org/download/nova_collection/Nova%202019-10-23%20Look%20Who%27s%20Driving.ia.mp4
+- Nova 2019-10-23 Look Who's Driving — https://archive.org/download/nova_collection/Nova%202019-10-23%20Look%20Who%27s%20Driving.ia.mp4
 - Nova 2019-10-30 Rise of the Mammals — https://archive.org/download/nova_collection/Nova%202019-10-30%20Rise%20of%20the%20Mammals.ia.mp4
 - Nova 2019-11-06 Dead Sea Scroll Detectives — https://archive.org/download/nova_collection/Nova%202019-11-06%20Dead%20Sea%20Scroll%20Detectives.mp4
 - Nova 2019-11-13 Decoding da Vinci — https://archive.org/download/nova_collection/Nova%202019-11-13%20Decoding%20da%20Vinci.mp4
@@ -1067,9 +1164,9 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Nova 2020-02-12 Dog Tales — https://archive.org/download/nova_collection/Nova%202020-02-12%20Dog%20Tales.ia.mp4
 - Nova 2020-02-19 Cat Tales — https://archive.org/download/nova_collection/Nova%202020-02-19%20Cat%20Tales.ia.mp4
 - Nova 2020-02-26 Mysteries of Sleep — https://archive.org/download/nova_collection/Nova%202020-02-26%20Mysteries%20of%20Sleep.ia.mp4
-- Nova 2020-04-01 Cuba — https://archive.org/download/nova_collection/Nova%202020-04-01%20Cuba%27s%20Cancer%20Hope.ia.mp4
+- Nova 2020-04-01 Cuba's Cancer Hope — https://archive.org/download/nova_collection/Nova%202020-04-01%20Cuba%27s%20Cancer%20Hope.ia.mp4
 - Nova 2020-04-08 The Truth About Fat — https://archive.org/download/nova_collection/Nova%202020-04-08%20The%20Truth%20About%20Fat.ia.mp4
-- Nova 2020-04-15 Blood Sugar Rising America — https://archive.org/download/nova_collection/Nova%202020-04-15%20Blood%20Sugar%20Rising%20America%27s%20Hidden%20Diabetes%20Epidemic%20%28120%20min%29.ia.mp4
+- Nova 2020-04-15 Blood Sugar Rising America's Hidden Diabetes Epidemic (120 min) — https://archive.org/download/nova_collection/Nova%202020-04-15%20Blood%20Sugar%20Rising%20America%27s%20Hidden%20Diabetes%20Epidemic%20%28120%20min%29.ia.mp4
 - Nova 2020-05-13 Decoding COVID 19 — https://archive.org/download/nova_collection/Nova%202020-05-13%20Decoding%20COVID%2019.ia.mp4
 - Nova 2020-05-20 Eagle Power — https://archive.org/download/nova_collection/Nova%202020-05-20%20Eagle%20Power.mp4
 - Nova 2020-09-09 CRISPR Gene Editing Reality Check (120 min) — https://archive.org/download/nova_collection/Nova%202020-09-09%20CRISPR%20Gene%20Editing%20Reality%20Check%20%28120%20min%29.mp4
@@ -1077,7 +1174,7 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Nova 2020-09-16 Secret Mind of Slime — https://archive.org/download/nova_collection/Nova%202020-09-16%20Secret%20Mind%20of%20Slime.mp4
 - Nova 2020-09-23 A to Z The First Alphabet — https://archive.org/download/nova_collection/Nova%202020-09-23%20A%20to%20Z%20The%20First%20Alphabet.ia.mp4
 - Nova 2020-09-30 A to Z How Writing Changed the World — https://archive.org/download/nova_collection/Nova%202020-09-30%20A%20to%20Z%20How%20Writing%20Changed%20the%20World.ia.mp4
-- Nova 2020-10-14 Nature — https://archive.org/download/nova_collection/Nova%202020-10-14%20Nature%27s%20Fear%20Factor.mp4
+- Nova 2020-10-14 Nature's Fear Factor — https://archive.org/download/nova_collection/Nova%202020-10-14%20Nature%27s%20Fear%20Factor.mp4
 - Nova 2020-10-21 Touching the Asteroid — https://archive.org/download/nova_collection/Nova%202020-10-21%20Touching%20the%20Asteroid.mp4
 - Nova 2020-10-28 Can We Cool the Planet — https://archive.org/download/nova_collection/Nova%202020-10-28%20Can%20We%20Cool%20the%20Planet.ia.mp4
 - Nova 2020-11-25 Saving Notre Dame — https://archive.org/download/nova_collection/Nova%202020-11-25%20Saving%20Notre%20Dame.ia.mp4
@@ -1111,7 +1208,7 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Nova 2022-02-16 Great Mammoth Mystery — https://archive.org/download/nova_collection/Nova%202022-02-16%20Great%20Mammoth%20Mystery.mp4
 - Nova 2022-02-23 Augmented (85 min) — https://archive.org/download/nova_collection/Nova%202022-02-23%20Augmented%20%2885%20min%29.mp4
 - Nova 2022-02-23 Predicting My MS (30 min) — https://archive.org/download/nova_collection/Nova%202022-02-23%20Predicting%20My%20MS%20%2830%20min%29.mp4
-- Nova 2022-04-06 Determined Fighting Alzheimer — https://archive.org/download/nova_collection/Nova%202022-04-06%20Determined%20Fighting%20Alzheimer%27s.mp4
+- Nova 2022-04-06 Determined Fighting Alzheimer's — https://archive.org/download/nova_collection/Nova%202022-04-06%20Determined%20Fighting%20Alzheimer%27s.mp4
 - Nova 2022-05-11 Dinosaur Apocalypse (1) The Last Day — https://archive.org/download/nova_collection/Nova%202022-05-11%20Dinosaur%20Apocalypse%20%281%29%20The%20Last%20Day.mp4
 - Nova 2022-05-11 Dinosaur Apocalypse (2) The New Evidence — https://archive.org/download/nova_collection/Nova%202022-05-11%20Dinosaur%20Apocalypse%20%282%29%20The%20New%20Evidence.mp4
 - Nova 2022-05-18 Why Ships Crash — https://archive.org/download/nova_collection/Nova%202022-05-18%20Why%20Ships%20Crash.mp4
@@ -1135,15 +1232,15 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Nova 2023-05-03 Saving the Right Whale — https://archive.org/download/nova_collection/Nova%202023-05-03%20Saving%20the%20Right%20Whale.mp4
 - Nova 2023-05-10 Hidden Volcano Abyss — https://archive.org/download/nova_collection/Nova%202023-05-10%20Hidden%20Volcano%20Abyss.ia.mp4
 - Nova 2023-05-17 Your Brain (1) Perception Deception — https://archive.org/download/nova_collection/Nova%202023-05-17%20Your%20Brain%20%281%29%20Perception%20Deception.mp4
-- Nova 2023-05-24 Your Brain (2) Who — https://archive.org/download/nova_collection/Nova%202023-05-24%20Your%20Brain%20%282%29%20Who%27s%20in%20Control.mp4
+- Nova 2023-05-24 Your Brain (2) Who's in Control — https://archive.org/download/nova_collection/Nova%202023-05-24%20Your%20Brain%20%282%29%20Who%27s%20in%20Control.mp4
 - Nova 2023-10-04 Ancient Earth (1) Birth of the Sky — https://archive.org/download/nova_collection/Nova%202023-10-04%20Ancient%20Earth%20%281%29%20Birth%20of%20the%20Sky.mp4
 - Nova 2023-10-11 Ancient Earth (2) Frozen — https://archive.org/download/nova_collection/Nova%202023-10-11%20Ancient%20Earth%20%282%29%20Frozen.mp4
 - Nova 2023-10-18 Ancient Earth (3) Life Rising — https://archive.org/download/nova_collection/Nova%202023-10-18%20Ancient%20Earth%20%283%29%20Life%20Rising.mp4
 - Nova 2023-10-25 Ancient Earth (4) Inferno — https://archive.org/download/nova_collection/Nova%202023-10-25%20Ancient%20Earth%20%284%29%20Inferno.mp4
 - Nova 2023-11-01 Ancient Earth (5) Humans — https://archive.org/download/nova_collection/Nova%202023-11-01%20Ancient%20Earth%20%285%29%20Humans.mp4
-- Nova 2023-11-08 Inside China — https://archive.org/download/nova_collection/Nova%202023-11-08%20Inside%20China%27s%20Tech%20Boom.mp4
+- Nova 2023-11-08 Inside China's Tech Boom — https://archive.org/download/nova_collection/Nova%202023-11-08%20Inside%20China%27s%20Tech%20Boom.mp4
 - Nova 2023-11-15 The Battle to Beat Malaria — https://archive.org/download/nova_collection/Nova%202023-11-15%20The%20Battle%20to%20Beat%20Malaria.mp4
-- Nova 2023-11-22 Lee and Liza — https://archive.org/download/nova_collection/Nova%202023-11-22%20Lee%20and%20Liza%27s%20Family%20Tree.mp4
+- Nova 2023-11-22 Lee and Liza's Family Tree — https://archive.org/download/nova_collection/Nova%202023-11-22%20Lee%20and%20Liza%27s%20Family%20Tree.mp4
 - Nova 4-22-03 - Secret Of Photo 51 — https://archive.org/download/nova-4-22-03-secret-of-photo-51/Nova%20-%204-22-03%20-%20Secret%20Of%20Photo%2051.mp4
 - NOVA S38 EP13 Finding Life Beyond Earth — https://archive.org/download/nova-pbs-documentaries/NOVA/NOVA%20S38%20EP13%20Finding%20Life%20Beyond%20Earth.mp4
 - NOVA S42 EP15 Dawn Of Humanity — https://archive.org/download/nova-pbs-documentaries/NOVA/NOVA%20S42%20EP15%20Dawn%20Of%20Humanity.mp4
@@ -1164,14 +1261,21 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Partially Restored Video: Events from the Apollo 11 Mission — https://archive.org/download/PartiallyRestoredVideoEventsFromTheApollo11Mission/Apollo_11_Intro_H264_720p.mp4
 - Physical1953 — https://archive.org/download/Physical1953/Physical1953.mp4
 - Physical1953 edit — https://archive.org/download/Physical1953/Physical1953_edit.mp4
+- Plane Talk — https://archive.org/download/PlaneTal1965/PlaneTal1965_edit.mp4
+- Planet Earth - The Living Machine — https://archive.org/download/planet.earth/Planet%20Earth%201%20The%20Living%20Machine.mp4
 - Project Mercury Freedom 7 — https://archive.org/download/project_mercury_freedom_7/project_mercury_freedom_7.mp4
 - Project Mercury: Mercury-Redstone 1 Launch — https://archive.org/download/project_mercury_mr-1_launch/project_mercury_mr-1_launch.mp4
+- Public Service Announcement (PSA) on Pollution - Retro — https://archive.org/download/psa_retro_pollution_640/saucer_bite_one.mp4
+- Railway with a Heart of Gold — https://archive.org/download/railway_with_a_heart_of_gold_1965/railway_with_a_heart_of_gold_1965_512kb.mp4
 - Scarlet Street — https://archive.org/download/ScarletStreet/Scarlet_Street.mp4
 - She Gods of Shark Reef — https://archive.org/download/she_gods_of_shark_reef/she_gods_of_shark_reef.mp4
 - Signal301959 — https://archive.org/download/Signal301959/Signal301959.mp4
 - Signal301959 edit — https://archive.org/download/Signal301959/Signal301959_edit.mp4
+- Sinclair at the Worlds Fair — https://archive.org/download/0701_Sinclair_at_the_Worlds_Fair/0701_Sinclair_at_the_Worlds_Fair_M05793_17_12_06_00_3mb.mp4
 - Sniffles1955 — https://archive.org/download/Sniffles1955/Sniffles1955.mp4
 - Sniffles1955 edit — https://archive.org/download/Sniffles1955/Sniffles1955_edit.mp4
+- South Dakota Saga (Part I) — https://archive.org/download/SouthDak1940/SouthDak1940_edit.mp4
+- South Dakota Saga (Part II) — https://archive.org/download/SouthDak1940_2/SouthDak1940_2_edit.mp4
 - Sudden Birth — https://archive.org/download/sudden_birth/sudden_birth.mp4
 - superman eleventh hour 512kb — https://archive.org/download/superman_eleventh_hour/superman_eleventh_hour_512kb.mp4
 - superman the mechanical monsters 512kb — https://archive.org/download/superman_the_mechanical_monsters/superman_the_mechanical_monsters_512kb.mp4
@@ -1186,15 +1290,19 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - theater hd splice — https://archive.org/download/gov.ntis.ava15996vnb1/theater.hd.splice.mp4
 - theesxuallymatureadult — https://archive.org/download/theesxuallymatureadult/theesxuallymatureadult.mp4
 - TheMagicSword — https://archive.org/download/TheMagicSword/TheMagicSword.mp4
+- This Is Redstone Arsenal — https://archive.org/download/16764thisisredstonearsenalvwr/16764%20This%20Is%20Redstone%20Arsenal_vwr.mp4
 - ThisChar1950 — https://archive.org/download/ThisChar1950/ThisChar1950.mp4
 - ThisChar1950 edit — https://archive.org/download/ThisChar1950/ThisChar1950_edit.mp4
+- Threads of Technology — https://archive.org/download/0559_Threads_of_Technology/0559_Threads_of_Technology_09_12_29_01_3mb.mp4
 - Time of Apollo — https://archive.org/download/gov.ntis.ava03129vnb1/ava03129vnb1_512kb.mp4
 - Trailoft1951 — https://archive.org/download/Trailoft1951/Trailoft1951.mp4
 - Trailoft1951 edit — https://archive.org/download/Trailoft1951/Trailoft1951_edit.mp4
 - tsunami patong beach 512kb — https://archive.org/download/tsunami_patong_beach/tsunami_patong_beach_512kb.mp4
 - Utopia 512kb — https://archive.org/download/utopia/Utopia_512kb.mp4
 - Video- Demonstration of Laminar Flow in a Liquid Onboard the International Space Station (ISS) - 0601215 — https://archive.org/download/MSFC-0601215/0601215.mp4
+- Vietnam Special — https://archive.org/download/gov.archives.arc.653071/gov.archives.arc.653071.mp4
 - viewfromspacereel1 — https://archive.org/download/viewfromspace/viewfromspacereel1.mp4
 - viewfromspacereel2 — https://archive.org/download/viewfromspace/viewfromspacereel2.mp4
 - War Babies — https://archive.org/download/war_babies/war_babies.mp4
+- White Wonder — https://archive.org/download/WhiteWon1958/WhiteWon1958_edit.mp4
 - Zeitgeist Addendum — https://archive.org/download/Zeitgeist.Addendum/Zeitgeist.Addendum.mp4
