@@ -1,4 +1,372 @@
 # SPORTS
 
-Recovered from the archived V188 Cline TV catalog. Direct Archive.org media links only. Duplicate URLs are removed.
+Recovered from the archived Cline TV catalog. Direct Archive.org media links only. Duplicate URLs are removed.
 
+- [Home Movies: Texas Travels and Televised Moon Walk] — https://archive.org/download/6270HMTexasTravelsAndTelevisedMoonWalk01181613/6270_HM_Texas_Travels_and_Televised_Moon_Walk_01_18_16_13.mp4
+- [Television Commercials: Telephone] — https://archive.org/download/Televisi1970/Televisi1970_edit.mp4
+- 0318 Polaroid Dealer Announcement 1964 19 00 57 00 — https://archive.org/download/0318_Polaroid_Dealer_Announcement_1964_19_00_57_00/0318_Polaroid_Dealer_Announcement_1964_19_00_57_00.mp4
+- 0536 Westinghouse Travelers Choice 66 18 41 06 00 3mb — https://archive.org/download/0536_Westinghouse_Travelers_Choice_66_18_41_06_00/0536_Westinghouse_Travelers_Choice_66_18_41_06_00_3mb.mp4
+- 0691 Impact 66 02 17 49 00 — https://archive.org/download/0691_Impact_66_02_17_49_00/0691_Impact_66_02_17_49_00.mp4
+- 0805 Chance You Take The M05846 10 43 54 00 — https://archive.org/download/0805_Chance_You_Take_The_M05846_10_43_54_00/0805_Chance_You_Take_The_M05846_10_43_54_00.mp4
+- 0807 Two-Ford Freedom 07 20 49 00 — https://archive.org/download/0807_Two-Ford_Freedom_07_20_49_00/0807_Two-Ford_Freedom_07_20_49_00.mp4
+- 1221 Economy Twins Cigar Ernie 60-339 Ford TV Spot 1960 00 05 51 00 3mb — https://archive.org/download/1221_Economy_Twins_Cigar_Ernie_60-339_Ford_TV_Spot_1960/1221_Economy_Twins_Cigar_Ernie_60-339_Ford_TV_Spot_1960_00_05_51_00_3mb.mp4
+- 1952 The Ford Television Theatre  — https://archive.org/download/1969-frosty-the-snowman-christmas-movies-for-kids-animated-cartoons-for-children/1952%20The%20Ford%20Television%20Theatre%20%27%27Heart%20Of%20Gold%27%27%20w%20George%20Reeves%20%28Classic%20TV%20Christmas%205%20Star%29.mp4
+- 1954 Chevy Corvette — https://archive.org/download/Car_Commericals_1949-1955/Commercial_-_1954_Chevy_Corvette_512kb.mp4
+- 1954CommercialForMercury — https://archive.org/download/1954CommercialForMercury/1954CommercialForMercury.mp4
+- 1955 commercial for Old Gold filter cigarettes — https://archive.org/download/1955CommercialForOldGoldFilterCigarettes/oldgold1955livecommercial.mp4
+- 1955Chev1955 — https://archive.org/download/1955Chev1955/1955Chev1955.mp4
+- 1955Chev1955 edit — https://archive.org/download/1955Chev1955/1955Chev1955_edit.mp4
+- 1955Dodge — https://archive.org/download/CommercialFor1955Dodge/1955Dodge.mp4
+- 1956chevroletstationwagons — https://archive.org/download/1956CommercialForChevroletStationWagons/1956chevroletstationwagons.mp4
+- 1956for1957chrysler — https://archive.org/download/1956CommercialFor1957ChryslerRangead1/1956for1957chrysler.mp4
+- 1956for1957chryslerAd2 — https://archive.org/download/1956CommercialFor1957ChryslerRangead2/1956for1957chryslerAd2.mp4
+- 1958 I Love Lucy Ford Commercials — https://archive.org/download/1958ILoveLucyFordCommercials/1958%20I%20Love%20Lucy%20Ford%20Commercials.mp4
+- 1958ChevroletTrucks — https://archive.org/download/1958ChevroletTrucks/1958ChevroletTrucks.mp4
+- 1958for1958OldsmobileAd4 — https://archive.org/download/1958for1958OldsmobileAd4/1958for1958OldsmobileAd4.mp4
+- 1958for1959oldsmobile — https://archive.org/download/1958for1959oldsmobile/1958for1959oldsmobile.mp4
+- 1959 commercial for Timex watches (Ad 3) — https://archive.org/download/1959CommercialForTimexWatchesad3/Timex1959Ad3.mp4
+- 1960 for 1961 Chevrolet - Christmas shopping — https://archive.org/download/1960For1961ChevroletChristmasShopping/1960%20for%201961%20Chevrolet%20-%20Christmas%20shopping.mp4
+- 1960chevroletBelair — https://archive.org/download/1959CommercialFor1960ChevroletBelAir/1960chevroletBelair.mp4
+- 1960ChevroletTrucks — https://archive.org/download/1960CommercialForChevroletTrucks/1960ChevroletTrucks.mp4
+- 1964 Remco — https://archive.org/download/1964RemcosMr.KellysCarWash/1964%20Remco%27s%20Mr.%20Kelly%27s%20Car%20Wash.mp4
+- 1965 commercial for Pepto-Bismol Tablets — https://archive.org/download/1965CommercialForPepto-bismalTablets/Pepto-BismalTablets1965.mp4
+- 1968 Speedline 2 in 1 stunt & drag Race Set — https://archive.org/download/1968Speedline2In1StuntDragRaceSet/1968%20Speedline%202%20in%201%20stunt%20%26%20drag%20Race%20Set.mp4
+- 1969 Frosty the Snowman (Christmas Movies for Kids - animated Cartoons for Children) — https://archive.org/download/1969-frosty-the-snowman-christmas-movies-for-kids-animated-cartoons-for-children/1969%20Frosty%20the%20Snowman%20%28Christmas%20Movies%20for%20Kids%20-%20animated%20Cartoons%20for%20Children%29.mp4
+- 1977 Chevrolet Concours — https://archive.org/download/1977ChevroletConcours/1977%20Chevrolet%20Concours.mp4
+- 1977 Chevrolet with Jerry Orbach — https://archive.org/download/1977ChevroletWithJerryOrbach/1977%20Chevrolet%20with%20Jerry%20Orbach.mp4
+- 1977 TV Commercials — https://archive.org/download/1977TVCommercials/1977%20TV%20Commercials.mp4
+- 1982 Ziggy-s Gift (1982 Christmas Special) — https://archive.org/download/1969-frosty-the-snowman-christmas-movies-for-kids-animated-cartoons-for-children/1982%20Ziggy-s%20Gift%20%281982%20Christmas%20Special%29.mp4
+- 1984complete — https://archive.org/download/1984complete/1984complete.mp4
+- 1985 Alien Lottery Final Edit — https://archive.org/download/1985-alien-lottery-final-edit/1985%20Alien%20Lottery%20Final%20Edit.mp4
+- 1985 The Glo Friends Save Christmas (1985 Cool Stuff) — https://archive.org/download/1969-frosty-the-snowman-christmas-movies-for-kids-animated-cartoons-for-children/1985%20The%20Glo%20Friends%20Save%20Christmas%20%281985%20Cool%20Stuff%29.mp4
+- 1987 Santa Bear-s High-Flying Adventure (Jeff Dalby) — https://archive.org/download/1969-frosty-the-snowman-christmas-movies-for-kids-animated-cartoons-for-children/1987%20Santa%20Bear-s%20High-Flying%20Adventure%20%28Jeff%20Dalby%29.mp4
+- 201668 Television Commercials The Body master intros — https://archive.org/download/201668_Television_Commercials_The_Body/201668_Television_Commercials_The_Body_master.intros.mp4
+- 202253 Santa Barbara Everybodys Mistake master intros — https://archive.org/download/202253_Santa_Barbara_Everybodys_Mistake/202253_Santa_Barbara_Everybodys_Mistake_master.intros.mp4
+- 202275 Television Commercials Classic Comedy master intros H 264 — https://archive.org/download/202275_Television_Commercials_Classic_Comedy/202275_Television_Commercials_Classic_Comedy_master.intros_H.264.mp4
+- 202407 Corman New World Spots master intros — https://archive.org/download/202407_Corman_New_World_Spots/202407_Corman_New_World_Spots_master.intros.mp4
+- 25 Years Ago, 1960/05/19 — https://archive.org/download/1960-05-19_25_years_ago/1960-05-19_25_years_ago.mp4
+- 3516 KeyvanHeydari Recovering American Puerto Rican Narratives — https://archive.org/download/ALCF_Heydari_0016/3516_KeyvanHeydari_Recovering_American_Puerto_Rican_Narratives_H264_2048x1152Pillars.mp4
+- 43: The Richard Petty Story — https://archive.org/download/43TheRichardPettyStory_201301/43TheRichardPettyStory.mp4
+- 58Oldsmobile-aired1957 — https://archive.org/download/58OldsmobileCommercials/58Oldsmobile-aired1957.mp4
+- 58OldsmobileAired1957Ad2 — https://archive.org/download/58OldsmobileCommercials/58OldsmobileAired1957Ad2.mp4
+- 60 Minutes Mike Wallace Exposes the 1976 Swine Flu Pandemic Vaccine Injuries — https://archive.org/download/60-minutes-mike-wallace-exposes-the-1976-swine-flu-pandemic-vaccine-injuries/60%20Minutes%20Mike%20Wallace%20Exposes%20the%201976%20Swine%20Flu%20Pandemic%20Vaccine%20Injuries.mp4
+- 84) — https://archive.org/download/wide-world-of-sports-indy-500-stw-9-02-06-84/wide-world-of-sports-indy-500-stw-9-02-06-84.mp4
+- 87) — https://archive.org/download/tyson-v-bonecrusher-incomplete-gtv-9-08-03-87/tyson%20v%20bonecrusher%20incomplete%20gtv-9%2008-03-87.mp4
+- 88) — https://archive.org/download/wide-world-of-sports-tyson-v-holmes-gtv-9-23-01-88/Wide%20World%20Of%20Sports%20-%20Tyson%20V%20Holmes%20GTV-9%2C%2023-01-88.mp4
+- 89) — https://archive.org/download/Wide_World_of_Sports_Ashes_intro_TCN-9_23_6_89/Wide%20World%20of%20Sports%20Ashes%20intro%20%28TCN-9%2C%2023_6_89%29-9JAtxdDXFuo.mp4
+- 91) — https://archive.org/download/wide-world-of-sports-skiing-and-cricket-nws-9-28-12-91/Wide%20World%20of%20Sports%20Skiing%20and%20Cricket%20%5BNWS-9%2C%2028-12-91%5D.mp4
+- 92) — https://archive.org/download/wide-world-of-sports-partial-qtq-9-07-11-92/Wide%20World%20Of%20Sports%20%5BPartial%2C%20QTQ-9%2C%2007-11-92%5D.mp4
+- 94) — https://archive.org/download/cricket_25-01-94/cricket_25-01-94.mp4
+- 95) — https://archive.org/download/wide-world-of-sports-portuguese-f-1-incomplete-nws-9-24-09-95/Wide%20World%20Of%20Sports%20-%20Portuguese%20F1%20%5BIncomplete%2C%20NWS-9%2C%2024-09-95%5D.mp4
+- 97) — https://archive.org/download/Wide_World_of_Sports_-_Ashes_Second_Test_4th_Day_coverage_QTQ-9_22_6_97/Wide%20World%20of%20Sports%20-%20Ashes%20Second%20Test%204th%20Day%20coverage%20%28QTQ-9%2C%2022_6_97%29-j1Gk-2_6Bus.mp4
+- A MC  — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%20%2769%20%27%27Pre-A%20MC%27%27%20%28r%40batsea2009%29%20%28a%20b%20c-tv%201969%20PROMO%29%20%27%27a%20b%20c%20Daytime%27%27%20Lineup.mp4
+- A MC 70 (Opening Seq ) (F@natic-centre@fa) No flower on opening page — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2070%20%28Opening%20Seq.%29%20%28F%40natic-centre%40fa%29%20No%20flower%20on%20opening%20page.mp4
+- A MC 70 (Orig End Cr ) Music Theme (R@bertSh@rp) — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2070%20%28Orig.%20End%20Cr.%29%20Music%20Theme%20%28R%40bertSh%40rp%29.mp4
+- A MC 70-01-16 (d@nna515) (Fri 1-3 07 46) AD2R  — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2070-01-16%20%28d%40nna515%29%20%28Fri%201-3%2007.46%29%20AD2R%20%27%27Where%20is%20Phil....%27%27%20No%20flower%20on%20opening%20page.mp4
+- A MC 70-01-16 (d@nna515) (Fri 2-3 09 44) AD2R Cigar Nick`Mona`Erica Chuck¬Erica Ruth`Ted — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2070-01-16%20%28d%40nna515%29%20%28Fri%202-3%2009.44%29%20AD2R%20Cigar%20Nick%60Mona%60Erica_Chuck%C2%ACErica_Ruth%60Ted.mp4
+- A MC 70-01-16 (d@nna515) (Fri 3-3 01 08) AD2R CLOSING CR (also w JSellis@n) — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2070-01-16%20%28d%40nna515%29%20%28Fri%203-3%2001.08%29%20AD2R%20CLOSING%20CR.%20%28also%20w%20JSellis%40n%29.mp4
+- A MC 70-02-04 Ep 0023a (FULL) (B@bS@aps) (Wed 22 25) Plain cover No adornment — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2070-02-04%20Ep%200023a%20%28FULL%29%20%28B%40bS%40aps%29%20%28Wed%2022.25%29%20Plain%20cover%20No%20adornment.mp4
+- A MC 70-02-04 Ep 0023b (CLOS CR ) (d@nna515 w marc@wuzmyp@mp) (Orig for Feb 4, 1970 ep) — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2070-02-04%20Ep%200023b%20%28CLOS.%20CR.%29%20%28d%40nna515%20w%20marc%40wuzmyp%40mp%29%20%28Orig.%20for%20Feb%204%2C%201970%20ep%29.mp4
+- A MC 70-02-27 Ep 0041 (FULL) (B@bS@aps) (Mon 22 22) — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2070-02-27%20Ep%200041%20%28FULL%29%20%28B%40bS%40aps%29%20%28Mon%2022.22%29.mp4
+- A MC 70-02-27 Ep 0041 (OP SEQ ) (m@rc@wuzmyp@mp (Mon 00 26) (Plain Cvr w no adornment) Used 1st 3 mths only — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2070-02-27%20Ep%200041%20%28OP.%20SEQ.%29%20%28m%40rc%40wuzmyp%40mp%20%28Mon%2000.26%29%20%28Plain%20Cvr%20w%20no%20adornment%29%20Used%201st%203%20mths%20only.mp4
+- A MC 70-02-28 (CLIP) Ep 0042 (f@thergh@stface2 w TheS@apKing) (Tue 00 45) Dr J@e & daughter Tar@ — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2070-02-28%20%28CLIP%29%20Ep%200042%20%28f%40thergh%40stface2%20w%20TheS%40apKing%29%20%28Tue%2000.45%29%20Dr.%20J%40e%20%26%20daughter%20Tar%40.mp4
+- A MC 70-03 (2 PROMOs) (SayN@t@urS@ap w mrgi@sb123) 1) Nick & Amy 2) Phil w mom prep for his prom — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2070-03%20%282%20PROMOs%29%20%28SayN%40t%40urS%40ap%20w%20mrgi%40sb123%29%201%29%20Nick%20%26%20Amy%202%29%20Phil%20w%20mom%20prep%20for%20his%20prom.mp4
+- A MC 70-03 (OP SEQ ) (K@sey85) (No froo-froo on cvr R & top but flower added to opening page) — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2070-03%20%28OP.%20SEQ.%29%20%28K%40sey85%29%20%28No%20froo-froo%20on%20cvr%20R%20%26%20top%20but%20flower%20added%20to%20opening%20page%29.mp4
+- A MC 70-04-29 (FULL) (A~M~C~Fl@shb@ck-B@b S@aps) (Thu 22 03) No froo-froo on cvr R and top — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2070-04-29%20%28FULL%29%20%20%28A~M~C~Fl%40shb%40ck-B%40b%20S%40aps%29%20%28Thu%2022.03%29%20No%20froo-froo%20on%20cvr%20R%20and%20top.mp4
+- A MC 70-05 (CLIP) (f@thergh@stface2 TheS@apKing) ( 01 14) Nick & R@th discuss Phil Nick swears not to tell secret — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2070-05%20%28CLIP%29%20%28f%40thergh%40stface2_TheS%40apKing%29%20%28%2001.14%29%20Nick%20%26%20R%40th%20discuss%20Phil.%20Nick%20swears%20not%20to%20tell%20secret..mp4
+- A MC 70-05 (FULL) (d@nna515) (Tue 17 08 I Love L@cci) No photo of R@semaryPrinz — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2070-05%20%28FULL%29%20%28d%40nna515%29%20%28Tue%2017.08%20I%20Love%20L%40cci%29%20No%20photo%20of%20R%40semaryPrinz.mp4
+- A MC 71-06 (PROMO) (KenGe@rgeJ@nes) New AnneTyler (J@dithBarcr@ft) will wed Nick He wants to sell d@nce studio) — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2071-06%20%28PROMO%29%20%28KenGe%40rgeJ%40nes%29%20New%20AnneTyler%20%28J%40dithBarcr%40ft%29%20will%20wed%20Nick.%20He%20wants%20to%20sell%20d%40nce%20studio%29.mp4
+- A MC 71-06-25 (CLIPs) (S@yN@t@urS@ap) (Fri 06 08) Nick & Ann@Tyl@r are now wed but she wants more than PV — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2071-06-25%20%28CLIPs%29%20%28S%40yN%40t%40urS%40ap%29%20%28Fri%2006.08%29%20Nick%20%26%20Ann%40Tyl%40r%20are%20now%20wed%20but%20she%20wants%20more%20than%20PV.mp4
+- A MC 73 (INTERVVIEW) (@k@renlyng@rney@) A MC Creator Agn@sNix@n w orig Tar@ (K@ren Lyn G@rney) & Phil — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2073%20%28INTERVVIEW%29%20%28%40k%40renlyng%40rney%40%29%20A%20MC%20Creator%20Agn%40sNix%40n%20w%20orig.Tar%40%20%28K%40ren%20Lyn%20G%40rney%29%20%26%20Phil.mp4
+- A MC 73-11-02 and 05 (AUDIO ONLY) (D@nnyHill) ERIC@ testifies at J@ff — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2073-11-02%20and%2005%20%28AUDIO%20ONLY%29%20%28D%40nnyHill%29%20ERIC%40%20testifies%20at%20J%40ff%27s%20murder%20trial.mp4
+- A MC 73-11-05-12-15 (AUDIO ONLY) (D@nnyHill) M@NA under hypnosis recalls something — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2073-11-05-12-15%20%28AUDIO%20ONLY%29%20%28D%40nnyHill%29%20M%40NA%20under%20hypnosis%20recalls%20something.mp4
+- A MC 75 (INTERVIEW 1-5) (SayN@t@urS@ap)  — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2075%20%28INTERVIEW%201-5%29%20%28SayN%40t%40urS%40ap%29%20%27%27Tom%40rrow%27%27%20w%20T%40mSnyder.mp4
+- A MC 75 (INTERVIEW 2-5) (SayN@t@urS@ap)  — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2075%20%28INTERVIEW%202-5%29%20%28SayN%40t%40urS%40ap%29%20%27%27Tom%40rrow%27%27%20w%20T%40mSnyder.mp4
+- A MC 75 (INTERVIEW 3-5) (SayN@t@urS@ap)  — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2075%20%28INTERVIEW%203-5%29%20%28SayN%40t%40urS%40ap%29%20%27%27Tom%40rrow%27%27%20w%20T%40mSnyder.mp4
+- A MC 75 (INTERVIEW 4-5) (SayN@t@urS@ap)  — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2075%20%28INTERVIEW%204-5%29%20%28SayN%40t%40urS%40ap%29%20%27%27Tom%40rrow%27%27%20w%20T%40mSnyder.mp4
+- A MC 75 (INTERVIEW 5-5) (SayN@t@urS@ap)  — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2075%20%28INTERVIEW%205-5%29%20%28SayN%40t%40urS%40ap%29%20%27%27Tom%40rrow%27%27%20w%20T%40mSnyder.mp4
+- A MC 75-07-01 (AUDIO ONLY) (R@bert Sh@rp) Tue 1-3 08 01 — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2075-07-01%20%28AUDIO%20ONLY%29%20%28R%40bert%20Sh%40rp%29%20Tue%201-3%2008.01.mp4
+- A MC 75-07-02a (AUDIO ONLY) (R@bert Sh@rp) Wed 2-3 17 17 — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2075-07-02a%20%28AUDIO%20ONLY%29%20%28R%40bert%20Sh%40rp%29%20Wed%202-3%2017.17.mp4
+- A MC 75-07-02b (AUDIO ONLY) (R@bert Sh@rp) Wed 3-3 19 02 — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2075-07-02b%20%28AUDIO%20ONLY%29%20%28R%40bert%20Sh%40rp%29%20Wed%203-3%2019.02.mp4
+- A MC 76a (A MC Theme Song) (J@stin W@rd-New Chr@styM@nstrels)  — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2076a%20%28A%20MC%20Theme%20Song%29%20%28J%40stin%20W%40rd-New%20Chr%40styM%40nstrels%29%20%27%27THE%20GREAT%20SOAP%20OPERA%20THEMES%27%27.mp4
+- A MC 76b (CLIPS) (@ckgh73994)  — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2076b%20%28CLIPS%29%20%28%40ckgh73994%29%20%27%27Ph%40ebe%20%28RuthW%40rrick%29%20Fl%40shbacks%27%27.mp4
+- A MC 76c (AUDIO ONLY) (D@nnyHil)  — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2076c%20%28AUDIO%20ONLY%29%20%28D%40nnyHil%29%20%27%27M%40na%20blackmails%20Ph%40ebe%20into%20giving%20Ch%40rles%20a%20divorce%20NOW%27%27.mp4
+- A MC 76d (PROMOs) (SayN@t@urS@ap) (5 LITA-All 5 abc soaps) Ph@ebe — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2076d%20%28PROMOs%29%20%28SayN%40t%40urS%40ap%29%20%285%20LITA-All%205%20abc%20soaps%29%20Ph%40ebe%27s%20Divorce.mp4
+- A MC 77 (ADVERT) (Shaun Carr) S@san L@cci (Eric@ K@ne) for  — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2077%20%28ADVERT%29%20%28Shaun%20Carr%29%20S%40san%20L%40cci%20%28Eric%40%20K%40ne%29%20for%20%27%27Riunit%40%20Win%40%27%27.mp4
+- A MC 78 (ADVERT) (ClubBlue) Sus@n L@cci (Eric@ K@ne) for  — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2078%20%28ADVERT%29%20%28ClubBlue%29%20Sus%40n%20L%40cci%20%28Eric%40%20K%40ne%29%20for%20%27%27Close%20Up%20Toothpaste%27%27.mp4
+- A MC 78 (INTERVIEW) (DecadesTVNetwork 29 19) The DickC@vett Show with Agn@sNix@n — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2078%20%28INTERVIEW%29%20%28DecadesTVNetwork%2029.19%29%20The%20DickC%40vett%20Show%20with%20Agn%40sNix%40n.mp4
+- ABC Wide World of Sports - \ — https://archive.org/download/youtube-nsDfsdbbkJc/nsDfsdbbkJc.mp4
+- ABC Wide World Of Sports - 1995-03-18: Nadia — https://archive.org/download/ABCWideWorldOfSports19950318Nadia/ABC%20Wide%20World%20Of%20Sports%20-%201995-03-18%20-%20Nadia.mp4
+- Africa Blood and Guts 1966 -Africa Addio — https://archive.org/download/africa-blood-and-guts-1966-africa-addio/Africa%20Blood%20and%20Guts%201966%20-Africa%20Addio-.mp4
+- Amazing Stories 101 - Ghost Train — https://archive.org/download/AmazingStories/AmazingStories101-GhostTrain.mp4
+- Amazing Stories 102 - The Main Attraction — https://archive.org/download/AmazingStories/AmazingStories102-TheMainAttraction.mp4
+- Amazing Stories 103 - Alamo Jobe — https://archive.org/download/AmazingStories/AmazingStories103-AlamoJobe.mp4
+- Amazing Stories 104 - Mummy, Daddy — https://archive.org/download/AmazingStories/AmazingStories104-MummyDaddy.mp4
+- Amazing Stories 105 - The Mission — https://archive.org/download/AmazingStories/AmazingStories105-TheMission.mp4
+- Amazing Stories 106 - The Amazing Falsworth — https://archive.org/download/AmazingStories/AmazingStories106-TheAmazingFalsworth.mp4
+- Amazing Stories 107 - Fine Tuning — https://archive.org/download/AmazingStories/AmazingStories107-FineTuning.mp4
+- Amazing Stories 108 - Mr Magic — https://archive.org/download/AmazingStories/AmazingStories108-Mr.Magic.mp4
+- Amazing Stories 109 - Guilt Trip — https://archive.org/download/AmazingStories/AmazingStories109-GuiltTrip.mp4
+- Amazing Stories 109 Deleted Scene — https://archive.org/download/AmazingStories/AmazingStories109DeletedScene.mp4
+- Amazing Stories 110 - Remote Control Man — https://archive.org/download/AmazingStories/AmazingStories110-RemoteControlMan.mp4
+- Amazing Stories 110 Deleted Scene — https://archive.org/download/AmazingStories/AmazingStories110DeletedScene.mp4
+- Amazing Stories 111 - Santa  — https://archive.org/download/AmazingStories/AmazingStories111-Santa85.mp4
+- Amazing Stories 112 Deleted Scene — https://archive.org/download/AmazingStories/AmazingStories112DeletedScene.mp4
+- Amazing Stories 113 - The Sitter — https://archive.org/download/AmazingStories/AmazingStories113-TheSitter.mp4
+- Amazing Stories 114 - No Day at the Beach — https://archive.org/download/AmazingStories/AmazingStories114-NoDayAtTheBeach.mp4
+- Amazing Stories 115 - One for the Road — https://archive.org/download/AmazingStories/AmazingStories115-OneForTheRoad.mp4
+- Amazing Stories 115 Deleted Scene — https://archive.org/download/AmazingStories/AmazingStories115DeletedScene.mp4
+- Amazing Stories 116 - Gather Ye Acorns — https://archive.org/download/AmazingStories/AmazingStories116-GatherYeAcorns.mp4
+- Amazing Stories 116 Deleted Scene — https://archive.org/download/AmazingStories/AmazingStories116DeletedScene.mp4
+- Amazing Stories 117 - Boo! — https://archive.org/download/AmazingStories/AmazingStories117-Boo.mp4
+- Amazing Stories 117 Deleted Scene — https://archive.org/download/AmazingStories/AmazingStories117DeletedScene.mp4
+- Amazing Stories 118 - Dorothy and Ben — https://archive.org/download/AmazingStories/AmazingStories118-DorothyAndBen.mp4
+- Amazing Stories 118 Deleted Scene — https://archive.org/download/AmazingStories/AmazingStories118DeletedScene.mp4
+- Amazing Stories 119 - Mirror, Mirror — https://archive.org/download/AmazingStories/AmazingStories119-MirrorMirror.mp4
+- Amazing Stories 120 - Secret Cinema — https://archive.org/download/AmazingStories/AmazingStories120-SecretCinema.mp4
+- Amazing Stories 120 Deleted Scene — https://archive.org/download/AmazingStories/AmazingStories120DeletedScene.mp4
+- Amazing Stories 121 - Hell Toupee — https://archive.org/download/AmazingStories/AmazingStories121-HellToupee.mp4
+- Amazing Stories 122 - The Doll — https://archive.org/download/AmazingStories/AmazingStories122-TheDoll.mp4
+- Amazing Stories 122 Deleted Scene — https://archive.org/download/AmazingStories/AmazingStories122DeletedScene.mp4
+- Amazing Stories 123 - One for the Books — https://archive.org/download/AmazingStories/AmazingStories123-OneForTheBooks.mp4
+- Amazing Stories 123 Deleted Scene — https://archive.org/download/AmazingStories/AmazingStories123DeletedScene.mp4
+- Amazing Stories 124 - Grandpa — https://archive.org/download/AmazingStories/AmazingStories124-GrandpasGhost.mp4
+- Amazing Stories 124 Deleted Scene — https://archive.org/download/AmazingStories/AmazingStories124DeletedScene.mp4
+- Amazing Stories 201 - The Wedding Ring — https://archive.org/download/AmazingStories/AmazingStories201-TheWeddingRing.mp4
+- Amazing Stories 202 - Miscalculation — https://archive.org/download/AmazingStories/AmazingStories202-Miscalculation.mp4
+- Amazing Stories 203 - Magic Saturday — https://archive.org/download/AmazingStories/AmazingStories203-MagicSaturday.mp4
+- Amazing Stories 204 - Welcome to My Nightmare — https://archive.org/download/AmazingStories/AmazingStories204-WelcomeToMyNightmare.mp4
+- Amazing Stories 205 - You Gotta Believe Me — https://archive.org/download/AmazingStories/AmazingStories205-YouGottaBelieveMe.mp4
+- Amazing Stories 206 - The Greibble — https://archive.org/download/AmazingStories/AmazingStories206-TheGreibble.mp4
+- Amazing Stories 207 - Life on Death Row — https://archive.org/download/AmazingStories/AmazingStories207-LifeOnDeathRow.mp4
+- Amazing Stories 208 - Go to the Head of the Class — https://archive.org/download/AmazingStories/AmazingStories208-GoToTheHeadOfTheClass.mp4
+- Amazing Stories 209 - Thanksgiving — https://archive.org/download/AmazingStories/AmazingStories209-Thanksgiving.mp4
+- Amazing Stories 210 - The Pumpkin Competition — https://archive.org/download/AmazingStories/AmazingStories210-ThePumpkinCompetition.mp4
+- Amazing Stories 211 - What If — https://archive.org/download/AmazingStories/AmazingStories211-WhatIf.mp4
+- Amazing Stories 212 - The Eternal Mind — https://archive.org/download/AmazingStories/AmazingStories212-TheEternalMind.mp4
+- Amazing Stories 213 - Lane Change — https://archive.org/download/AmazingStories/AmazingStories213-LaneChange.mp4
+- Amazing Stories 214 - Blue Man Down — https://archive.org/download/AmazingStories/AmazingStories214-BlueManDown.mp4
+- Amazing Stories 215 - The 21 Inch Sun — https://archive.org/download/AmazingStories/AmazingStories215-The21InchSun.mp4
+- Amazing Stories 216 - Family Dog — https://archive.org/download/AmazingStories/AmazingStories216-FamilyDog.mp4
+- Amazing Stories 217 - Gershwins Trunk — https://archive.org/download/AmazingStories/AmazingStories217-GershwinsTrunk.mp4
+- Amazing Stories 218 - Such Interesting Neighbors — https://archive.org/download/AmazingStories/AmazingStories218-SuchInterestingNeighbors.mp4
+- Amazing Stories 219 - Without Diana — https://archive.org/download/AmazingStories/AmazingStories219-WithoutDiana.mp4
+- Amazing Stories 220 - Moving Day — https://archive.org/download/AmazingStories/AmazingStories220-MovingDay.mp4
+- Amazing Stories 221 - Miss Stardust — https://archive.org/download/AmazingStories/AmazingStories221-MissStardust.mp4
+- america10thepromisefulfilledandthepromisebrokenreel1 — https://archive.org/download/america10thepromisefulfilledandthepromisebrokenreel2/america10thepromisefulfilledandthepromisebrokenreel1.mp4
+- america10thepromisefulfilledandthepromisebrokenreel2 — https://archive.org/download/america10thepromisefulfilledandthepromisebrokenreel2/america10thepromisefulfilledandthepromisebrokenreel2.mp4
+- Angel on My Shoulder — https://archive.org/download/angel_on_my_shoulder/angel_on_my_shoulder.mp4
+- Assignment Outer Space — https://archive.org/download/Assignment_Outer_Space/Assignment_Outer_Space.mp4
+- Australian Movie Magazine #7321 — https://archive.org/download/7321_20210301/7321.mp4
+- babies and breadwinners 2 — https://archive.org/download/babies_and_breadwinners_2/babies_and_breadwinners_2.mp4
+- babies and breadwinners 2 edit — https://archive.org/download/babies_and_breadwinners_2/babies_and_breadwinners_2_edit.mp4
+- Batteries 2009 512kb — https://archive.org/download/batteriesnotincluded_2009/Batteries_2009_512kb.mp4
+- bb minnie the moocher 512kb — https://archive.org/download/bb_minnie_the_moocher/bb_minnie_the_moocher_512kb.mp4
+- Beta #34: Alabama For the Record on DirecTV — https://archive.org/download/beta34alabamafortherecord/alabama.ia.mp4
+- Business1968 — https://archive.org/download/Business1968/Business1968.mp4
+- Camel Cigarette Commercials, Reel # 4 — https://archive.org/download/tobacco_hli83d00/VTS_01_1_512kb.mp4
+- CaptainKidd — https://archive.org/download/CaptainKidd_/CaptainKidd.mp4
+- CarnivalOfSouls — https://archive.org/download/CarnivalofSouls/CarnivalOfSouls.mp4
+- ccoPublicDomainAttack of the Giant Leeches — https://archive.org/download/cco_attackofthegiantleeches/ccoPublicDomainAttack_of_the_Giant_Leeches.mp4
+- Century21964 — https://archive.org/download/Century21964/Century21964.mp4
+- Century21964 edit — https://archive.org/download/Century21964/Century21964_edit.mp4
+- Channel 9 Wide World of Sports - 1985 International Grand Prix Telecast intro (QTQ-9) — https://archive.org/download/Channel_9_Wide_World_of_Sports_-_1985_International_Grand_Prix_Telecast_intro_QTQ-9/Channel%209%20Wide%20World%20of%20Sports%20-%201985%20International%20Grand%20Prix%20Telecast%20intro%20%28QTQ-9%29-nZ6ACJKJCkE.mp4
+- chevrolet1956for1957Chevy — https://archive.org/download/chevrolet1956for1957Chevy/chevrolet1956for1957Chevy.mp4
+- chevrolet1960 — https://archive.org/download/1959CommercialFor1960Chevrolet/chevrolet1960.mp4
+- Christmas in Appalachia — https://archive.org/download/christmasinappalachia/christmasinappalachia/christmasinappalachia.mp4
+- Classic 1967 commercial for Instant Quaker Oatmeal with Elizabeth Montgomery — https://archive.org/download/Classic1967CommercialForinstantQuakerOatmealWithElizabethMontgomery/Oatmeal1967Witch_512kb.mp4
+- Classic Aunt Jemima commercial (1967) — https://archive.org/download/ClassicAuntJemimaCommercial1967/Pancake1967_512kb.mp4
+- Cliché Family in Televisionland — https://archive.org/download/cliche_family/cliche_family_512kb.mp4
+- consumerpoweradvertising — https://archive.org/download/consumerpoweradvertising/consumerpoweradvertising.mp4
+- Consuming Women (Women as Consumers) — https://archive.org/download/Consumin1967/Consumin1967_edit.mp4
+- Corvairi1960 — https://archive.org/download/Corvairi1960/Corvairi1960.mp4
+- Corvairi1960 edit — https://archive.org/download/Corvairi1960/Corvairi1960_edit.mp4
+- Countdow1960 — https://archive.org/download/Countdow1960/Countdow1960.mp4
+- Countdow1960 edit — https://archive.org/download/Countdow1960/Countdow1960_edit.mp4
+- crying indian psa hd — https://archive.org/download/crying_indian_psa_hd/crying_indian_psa_hd.mp4
+- David Hall Story, The — https://archive.org/download/0423_David_Hall_Story_The_E00834_00_22_40_00/0423_David_Hall_Story_The_E00834_00_22_40_00.mp4
+- Daytona 500 for Marketing Success — https://archive.org/download/tobacco_ywi52b00/VTS_01_512kb.mp4
+- dead people — https://archive.org/download/dead_people_ipod/dead_people.mp4
+- detroitspatternofgrowth — https://archive.org/download/detroitspatternofgrowth/detroitspatternofgrowth.mp4
+- dodgetexan — https://archive.org/download/CommercialFor1956DodgeTexan/dodgetexan.mp4
+- Dominican Truce. Cease-Fire Brings Calm To Island, 1965/05/06 — https://archive.org/download/1965-05-06_Dominican_Truce/1965-05-06_Dominican_Truce.mp4
+- Dragnet TV — Dragnet (1951) - S02E07 - The Big 22 Rifle for Christmas — https://archive.org/download/Dragnet1951/Dragnet/Season%202/Dragnet%20%281951%29%20-%20S02E07%20-%20The%20Big%20.22%20Rifle%20for%20Christmas.mp4
+- Dragnet TV — Dragnet (1951) - S04E12 - The Big New Year — https://archive.org/download/Dragnet1951/Dragnet/Season%204/Dragnet%20%281951%29%20-%20S04E12%20-%20The%20Big%20New%20Year.mp4
+- Drive-inIntermission7 512kb — https://archive.org/download/DriveInIntermission7/Drive-inIntermission7_512kb.mp4
+- Dustys Trail 2 — https://archive.org/download/Dustys_Trail_2/Dustys_Trail_2.mp4
+- DVD5 — https://archive.org/download/Night.Of.The.Living.Dead_1080p/NightOfTheLivingDead_DVD5.mp4
+- DVD9 — https://archive.org/download/Night.Of.The.Living.Dead_1080p/NightOfTheLivingDead_DVD9.mp4
+- East German Propaganda and Advertising Film — https://archive.org/download/East_German_Advertising_1958/East_German_Advertising_1958_512kb.mp4
+- East German Trabant 601 Car Advertising Film — https://archive.org/download/trabant601/trabant601_512kb.mp4
+- Edsel1957Ad1 — https://archive.org/download/1957CommercialsForTheEdsel/Edsel1957Ad1.mp4
+- Edsel1957Ad2 — https://archive.org/download/1957CommercialsForTheEdsel/Edsel1957Ad2.mp4
+- Edsel1957Ad3 — https://archive.org/download/1957CommercialsForTheEdsel/Edsel1957Ad3.mp4
+- Edwood1 — https://archive.org/download/edwoodtvads/Edwood1.mp4
+- eight on the lam — https://archive.org/download/eight_on_the_lam/eight_on_the_lam.mp4
+- EndoftheWorld — https://archive.org/download/EndoftheWorld/EndoftheWorld.mp4
+- Errichetti#9170 — https://archive.org/download/ALCF_ArthurHVirtue_HomeMovies_Clip9170/Errichetti%239170.mp4
+- Errichetti#9173-77 — https://archive.org/download/ALCF_ArthurHVirtue_HomeMovies_Clip917377/Errichetti%239173-77.mp4
+- Errichetti#9209-10 — https://archive.org/download/ALCF_ArthurHVirtue_HomeMovies_Clip920910/Errichetti%239209-10.mp4
+- FamilyEnforcer — https://archive.org/download/FamilyEnforcer/FamilyEnforcer.mp4
+- Fantastic Planet 1973 DUBBED REMASTERED — https://archive.org/download/fantastic-planet__1973/Fantastic.Planet.1973.DUBBED.REMASTERED.1080p.BluRay.H264.AAC.mp4
+- Final Space S01E01 — https://archive.org/download/final-space_202209/Final.Space.S01.1080p.BluRay.x265-RARBG/Final.Space.S01E01.1080p.BluRay.x265-RARBG.mp4
+- Final Space S01E02 — https://archive.org/download/final-space_202209/Final.Space.S01.1080p.BluRay.x265-RARBG/Final.Space.S01E02.1080p.BluRay.x265-RARBG.mp4
+- Final Space S01E03 — https://archive.org/download/final-space_202209/Final.Space.S01.1080p.BluRay.x265-RARBG/Final.Space.S01E03.1080p.BluRay.x265-RARBG.mp4
+- Final Space S01E04 — https://archive.org/download/final-space_202209/Final.Space.S01.1080p.BluRay.x265-RARBG/Final.Space.S01E04.1080p.BluRay.x265-RARBG.mp4
+- Final Space S01E05 — https://archive.org/download/final-space_202209/Final.Space.S01.1080p.BluRay.x265-RARBG/Final.Space.S01E05.1080p.BluRay.x265-RARBG.mp4
+- Final Space S01E06 — https://archive.org/download/final-space_202209/Final.Space.S01.1080p.BluRay.x265-RARBG/Final.Space.S01E06.1080p.BluRay.x265-RARBG.mp4
+- Final Space S01E07 — https://archive.org/download/final-space_202209/Final.Space.S01.1080p.BluRay.x265-RARBG/Final.Space.S01E07.1080p.BluRay.x265-RARBG.mp4
+- Final Space S01E08 — https://archive.org/download/final-space_202209/Final.Space.S01.1080p.BluRay.x265-RARBG/Final.Space.S01E08.1080p.BluRay.x265-RARBG.mp4
+- Final Space S01E09 — https://archive.org/download/final-space_202209/Final.Space.S01.1080p.BluRay.x265-RARBG/Final.Space.S01E09.1080p.BluRay.x265-RARBG.mp4
+- Final Space S01E10 — https://archive.org/download/final-space_202209/Final.Space.S01.1080p.BluRay.x265-RARBG/Final.Space.S01E10.1080p.BluRay.x265-RARBG.mp4
+- Final Space S02E01 — https://archive.org/download/final-space_202209/Final.Space.S02.1080p.BluRay.x265-RARBG/Final.Space.S02E01.1080p.BluRay.x265-RARBG.mp4
+- Final Space S02E02 — https://archive.org/download/final-space_202209/Final.Space.S02.1080p.BluRay.x265-RARBG/Final.Space.S02E02.1080p.BluRay.x265-RARBG.mp4
+- Final Space S02E03 — https://archive.org/download/final-space_202209/Final.Space.S02.1080p.BluRay.x265-RARBG/Final.Space.S02E03.1080p.BluRay.x265-RARBG.mp4
+- Final Space S02E04 — https://archive.org/download/final-space_202209/Final.Space.S02.1080p.BluRay.x265-RARBG/Final.Space.S02E04.1080p.BluRay.x265-RARBG.mp4
+- Final Space S02E05 — https://archive.org/download/final-space_202209/Final.Space.S02.1080p.BluRay.x265-RARBG/Final.Space.S02E05.1080p.BluRay.x265-RARBG.mp4
+- Final Space S02E06 — https://archive.org/download/final-space_202209/Final.Space.S02.1080p.BluRay.x265-RARBG/Final.Space.S02E06.1080p.BluRay.x265-RARBG.mp4
+- Final Space S02E07 — https://archive.org/download/final-space_202209/Final.Space.S02.1080p.BluRay.x265-RARBG/Final.Space.S02E07.1080p.BluRay.x265-RARBG.mp4
+- Final Space S02E08 — https://archive.org/download/final-space_202209/Final.Space.S02.1080p.BluRay.x265-RARBG/Final.Space.S02E08.1080p.BluRay.x265-RARBG.mp4
+- Final Space S02E09 — https://archive.org/download/final-space_202209/Final.Space.S02.1080p.BluRay.x265-RARBG/Final.Space.S02E09.1080p.BluRay.x265-RARBG.mp4
+- Final Space S02E10 — https://archive.org/download/final-space_202209/Final.Space.S02.1080p.BluRay.x265-RARBG/Final.Space.S02E10.1080p.BluRay.x265-RARBG.mp4
+- Final Space S02E11 — https://archive.org/download/final-space_202209/Final.Space.S02.1080p.BluRay.x265-RARBG/Final.Space.S02E11.1080p.BluRay.x265-RARBG.mp4
+- Final Space S02E12 — https://archive.org/download/final-space_202209/Final.Space.S02.1080p.BluRay.x265-RARBG/Final.Space.S02E12.1080p.BluRay.x265-RARBG.mp4
+- Final Space S02E13 — https://archive.org/download/final-space_202209/Final.Space.S02.1080p.BluRay.x265-RARBG/Final.Space.S02E13.1080p.BluRay.x265-RARBG.mp4
+- Final Space S03E01 — https://archive.org/download/final-space_202209/Final.Space.S03.1080p.WEBRip.x265-RARBG/Final.Space.S03E01.1080p.WEBRip.x265-RARBG.mp4
+- Final Space S03E02 — https://archive.org/download/final-space_202209/Final.Space.S03.1080p.WEBRip.x265-RARBG/Final.Space.S03E02.1080p.WEBRip.x265-RARBG.mp4
+- Final Space S03E03 — https://archive.org/download/final-space_202209/Final.Space.S03.1080p.WEBRip.x265-RARBG/Final.Space.S03E03.1080p.WEBRip.x265-RARBG.mp4
+- Final Space S03E04 — https://archive.org/download/final-space_202209/Final.Space.S03.1080p.WEBRip.x265-RARBG/Final.Space.S03E04.1080p.WEBRip.x265-RARBG.mp4
+- Final Space S03E05 — https://archive.org/download/final-space_202209/Final.Space.S03.1080p.WEBRip.x265-RARBG/Final.Space.S03E05.1080p.WEBRip.x265-RARBG.mp4
+- Final Space S03E06 — https://archive.org/download/final-space_202209/Final.Space.S03.1080p.WEBRip.x265-RARBG/Final.Space.S03E06.1080p.WEBRip.x265-RARBG.mp4
+- Final Space S03E07 — https://archive.org/download/final-space_202209/Final.Space.S03.1080p.WEBRip.x265-RARBG/Final.Space.S03E07.1080p.WEBRip.x265-RARBG.mp4
+- Final Space S03E08 — https://archive.org/download/final-space_202209/Final.Space.S03.1080p.WEBRip.x265-RARBG/Final.Space.S03E08.1080p.WEBRip.x265-RARBG.mp4
+- Final Space S03E09 — https://archive.org/download/final-space_202209/Final.Space.S03.1080p.WEBRip.x265-RARBG/Final.Space.S03E09.1080p.WEBRip.x265-RARBG.mp4
+- Final Space S03E10 — https://archive.org/download/final-space_202209/Final.Space.S03.1080p.WEBRip.x265-RARBG/Final.Space.S03E10.1080p.WEBRip.x265-RARBG.mp4
+- Final Space S03E11 — https://archive.org/download/final-space_202209/Final.Space.S03.1080p.WEBRip.x265-RARBG/Final.Space.S03E11.1080p.WEBRip.x265-RARBG.mp4
+- Final Space S03E12 — https://archive.org/download/final-space_202209/Final.Space.S03.1080p.WEBRip.x265-RARBG/Final.Space.S03E12.1080p.WEBRip.x265-RARBG.mp4
+- Final Space S03E13 — https://archive.org/download/final-space_202209/Final.Space.S03.1080p.WEBRip.x265-RARBG/Final.Space.S03E13.1080p.WEBRip.x265-RARBG.mp4
+- FLIP FROG-FIDDLESTICKS DVD 512kb — https://archive.org/download/FLIP_FROG-FIDDLESTICKS/FLIP_FROG-FIDDLESTICKS_DVD_512kb.mp4
+- FLIP FROG-FIDDLESTICKS VCD 512kb — https://archive.org/download/FLIP_FROG-FIDDLESTICKS/FLIP_FROG-FIDDLESTICKS_VCD_512kb.mp4
+- FLIP THE FROG - FIDDLESTICKS — https://archive.org/download/FLIP_FROG-FIDDLESTICKS/FLIP_FROG-FIDDLESTICKS_256k.mp4
+- FLIP THE FROG - FIDDLESTICKS — https://archive.org/download/FLIP_FROG-FIDDLESTICKS/FLIP_FROG-FIDDLESTICKS_64k.mp4
+- ForwardLookCommercial1955 — https://archive.org/download/1955CommercialForChryslerforwardLook/ForwardLookCommercial1955.mp4
+- Fritz the Cat — https://archive.org/download/fritz-the-cat_202512/Fritz%20the%20Cat.mp4
+- FrontLin1965 — https://archive.org/download/FrontLin1965/FrontLin1965.mp4
+- gags and gals — https://archive.org/download/gags_and_gals/gags_and_gals.mp4
+- gags and gals edit — https://archive.org/download/gags_and_gals/gags_and_gals_edit.mp4
+- GonewiththeWest — https://archive.org/download/GonewiththeWest/GonewiththeWest.mp4
+- Grave-of-the-Vampire — https://archive.org/download/Grave_of_the_Vampire_movie/Grave-of-the-Vampire.mp4
+- Harlem Globetrotters at WDW - 1991 — https://archive.org/download/harlem-globetrotters-at-wdw-1991/Harlem%20Globetrotters%20at%20WDW%20-%201991.mp4
+- Harlem Globetrotters in Australia - 1989 — https://archive.org/download/harlem-globetrotters-at-wdw-1991/Harlem%20Globetrotters%20in%20Australia%20-%201989.mp4
+- Heavy Traffic — https://archive.org/download/heavy-traffic_202512/Heavy%20Traffic.mp4
+- homefront1917to1919wartransformsamericanlife — https://archive.org/download/homefront1917to1919wartransformsamericanlife/homefront1917to1919wartransformsamericanlife.mp4
+- HomeMovie01-01 — https://archive.org/download/Home_Movie_01_01/HomeMovie0101_512kb.mp4
+- Horror Express — https://archive.org/download/Horror_Express/Horror_Express.mp4
+- https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/%27%271970%20-%202011%27%27%20%2870-78%29%20Ty%20Secret%20St.%20Nicky%21%29%20%27%27MEMORIES%27%27%20%28DavidV%40nP~Tribute%29.mp4 — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/%27%271970%20-%202011%27%27%20%2870-78%29%20Ty%20Secret%20St.%20Nicky%21%29%20%27%27MEMORIES%27%27%20%28DavidV%40nP~Tribute%29.mp4
+- https://archive.org/download/Night.Of.The.Living.Dead_1080p/NightOfTheLivingDead_1080p.mp4 — https://archive.org/download/Night.Of.The.Living.Dead_1080p/NightOfTheLivingDead_1080p.mp4
+- hussy1959 — https://archive.org/download/LouisianaHussy_319/hussy1959.mp4
+- Indestructible Man — https://archive.org/download/Indestructible_Man_movie/Indestructible_Man.mp4
+- Ingenuity in Action (Part I) — https://archive.org/download/Ingenuit1958/Ingenuit1958_edit.mp4
+- Ingenuity in Action (Part II) — https://archive.org/download/Ingenuit1958_2/Ingenuit1958_2_edit.mp4
+- INVASION OF THE BEE GIRLS widescreen — https://archive.org/download/InvasionOfTheBeeGirlsWidescreenQualityUpgrade/InvasionOfTheBeeGirlsWidescreen.mp4
+- iPhone & iPod Touch — https://archive.org/download/Night.Of.The.Living.Dead_1080p/NightOfTheLivingDead_iPhone.mp4
+- iPod — https://archive.org/download/Night.Of.The.Living.Dead_1080p/NightOfTheLivingDead_iPod.mp4
+- It — https://archive.org/download/ItsAlive/ItsAlive.mp4
+- Killers From Space — https://archive.org/download/Killers_from_space/Killers_from_space.mp4
+- kukluxklantheinvisibleempire — https://archive.org/download/kukluxklantheinvisibleempire_201505/kukluxklantheinvisibleempire.mp4
+- laborcomesofage — https://archive.org/download/laborcomesofage/laborcomesofage.mp4
+- Ma Barkers Killer Brood — https://archive.org/download/Ma_Barkers_Killer_Brood/Ma_Barkers_Killer_Brood.mp4
+- Marlboro Commercials Compilation — https://archive.org/download/tobacco_qja84e00/Marlboro_512kb.mp4
+- Match Your Mood — https://archive.org/download/match_your_mood/match_your_mood_edit.mp4
+- My Favorite Brunette — https://archive.org/download/my_favorite_brunette/my_favorite_brunette.mp4
+- My Moviea1 — https://archive.org/download/ytv-dragon-ball-z-keeping-up-appearances-commercial-breaks/My%20Moviea1.mp4
+- My Moviea2 — https://archive.org/download/ytv-dragon-ball-z-keeping-up-appearances-commercial-breaks/My%20Moviea2.mp4
+- My Moviea3 — https://archive.org/download/ytv-dragon-ball-z-keeping-up-appearances-commercial-breaks/My%20Moviea3.mp4
+- My Moviea4 — https://archive.org/download/ytv-dragon-ball-z-keeping-up-appearances-commercial-breaks/My%20Moviea4.mp4
+- My Movier1 — https://archive.org/download/ytv-dragon-ball-z-keeping-up-appearances-commercial-breaks/My%20Movier1.mp4
+- My Movier2 — https://archive.org/download/ytv-dragon-ball-z-keeping-up-appearances-commercial-breaks/My%20Movier2.mp4
+- My Movier3 — https://archive.org/download/ytv-dragon-ball-z-keeping-up-appearances-commercial-breaks/My%20Movier3.mp4
+- My Movier4 — https://archive.org/download/ytv-dragon-ball-z-keeping-up-appearances-commercial-breaks/My%20Movier4.mp4
+- Night — https://archive.org/download/night_of_the_living_dead_dvd/Night.mp4
+- Nightmare Castle — https://archive.org/download/nightmare_castle/M4V10002.MP4
+- Nightmare Castle — https://archive.org/download/nightmare_castle/nightmare_castle.mp4
+- NightOfTheLivingDead m2ts — https://archive.org/download/Night.Of.The.Living.Dead_1080p/NightOfTheLivingDead_720p.mp4
+- NightOfTheLivingDead m2ts — https://archive.org/download/Night.Of.The.Living.Dead_1080p/NightOfTheLivingDead.mp4
+- nobodysvictim — https://archive.org/download/nobodysvictim/nobodysvictim.mp4
+- OKusedCars1960 — https://archive.org/download/1960CommercialForOkUsedCars/OKusedCars1960.mp4
+- On Any Sunday (1971) — https://archive.org/download/on-any-sunday-1971-1080p/On.Any.Sunday.1971.1080p.WEBRip.x265-RARBG.mp4
+- OutofThi1954 — https://archive.org/download/OutofThi1954/OutofThi1954.mp4
+- planet outlaws — https://archive.org/download/planet_outlaws_ipod/planet_outlaws.mp4
+- PlaneTal1965 — https://archive.org/download/PlaneTal1965/PlaneTal1965.mp4
+- PlymouthTurbine1955 — https://archive.org/download/1955CommercialForPlymouthBelvedereTurbine/PlymouthTurbine1955.mp4
+- Popeye meetsSinbadtheSailor 512kb — https://archive.org/download/Popeye_meetsSinbadtheSailor/Popeye_meetsSinbadtheSailor_512kb.mp4
+- PostRaisinBran1959 — https://archive.org/download/1959CommercialForPostRaisinBranad1/PostRaisinBran1959.mp4
+- Prisoners Of The Lost Universe (1983) — https://archive.org/download/PrisonersOfTheLostUniverse1983/PrisonersOfTheLostUniverse1983.mp4
+- Programa di dragrace vol. 1 - Koral Tabak — https://archive.org/download/ana-dig-da-silva-19/ANA-DIG-DaSilva-19.mp4
+- Programa di dragrace vol. 2 — https://archive.org/download/ana-dig-da-silva-20/ANA-DIG-DaSilva-20.mp4
+- PS3 — https://archive.org/download/Night.Of.The.Living.Dead_1080p/NightOfTheLivingDead_PS3.mp4
+- psa retro pollution 640 — https://archive.org/download/psa_retro_pollution_640/psa_retro_pollution_640.mp4
+- PSP — https://archive.org/download/Night.Of.The.Living.Dead_1080p/NightOfTheLivingDead_PSP.mp4
+- Rolling Stones at Altamont (Home Movie) — https://archive.org/download/rolling-stones-at-altamont-home-movie/service-mbrs-ntscrm-02628023-02628023.mp4
+- saucer bite none — https://archive.org/download/psa_retro_pollution_640/saucer_bite_none.mp4
+- saucer bite two — https://archive.org/download/psa_retro_pollution_640/saucer_bite_two.mp4
+- SeatbeltPSAs — https://archive.org/download/SeatbeltPSAs/SeatbeltPSAs.mp4
+- Sharp ELSI-8 Calculator Commercial — https://archive.org/download/sharp_calculator_2/sharp_calculator_2_edit.mp4
+- Spiegel van Nederland (62712) — https://archive.org/download/62712_1411108732_s01_Spiegel_van_Nederland_62712/62712_1411108732_s01_Spiegel_van_Nederland_62712.mp4
+- stalking the wild cranberry 1972 512kb — https://archive.org/download/stalking_the_wild_cranberry_1972/stalking_the_wild_cranberry_1972_512kb.mp4
+- sure mac sure psa 512kb — https://archive.org/download/sure_mac_sure_psa/sure_mac_sure_psa_512kb.mp4
+- swingin six — https://archive.org/download/swingin_six/swingin_six.mp4
+- swingin six edit — https://archive.org/download/swingin_six/swingin_six_edit.mp4
+- Teenagers from Outer Space — https://archive.org/download/teenagers_from_outerspace/Teenagers_from_Outer_Space.mp4
+- Ten for Gold — https://archive.org/download/gov.archives.arc.614503/gov.archives.arc.614503.mp4
+- The Brady Bunch - Cast Commercial Compilation — https://archive.org/download/The_Brady_Bunch_Commercial_Compilation/The%20Brady%20Bunch%20-%20Cast%20Commercial%20Compilation.mp4
+- The Fast And The Furious — https://archive.org/download/TheFastandtheFuriousJohnIreland1954goofyrip/TheFastandtheFuriousJohnIreland1954goofyrip.mp4
+- The Ghoul — https://archive.org/download/TheGhoul/TheGhoul_1933.mp4
+- The Glasco Family - The Wichita Years (8mm) — https://archive.org/download/The_Glasco_Family_8mm_Movies/The_Glasco_Family_8mm_Movies_512kb.mp4
+- The Gorilla — https://archive.org/download/the_gorilla/the_gorilla.mp4
+- The House On Haunted Hill — https://archive.org/download/House_On_Haunted_Hill.avi/The_House_on_Haunted_Hill.mp4
+- The Mystery in Dracula — https://archive.org/download/the-mystery-in-draculas-castle-1972-children-family-adv.-part-1-and-2/The%20Mystery%20in%20Dracula%27s%20Castle%20%281972%20Children%2C%20Family%20Adv.%29%20Part%201%20and%202.mp4
+- The Phantom Planet — https://archive.org/download/Phantom_Planet/The_Phantom_Planet.mp4
+- THE SADIST — https://archive.org/download/The_Sadist/THE_SADIST.mp4
+- The Secret of Boyne Castle (1969 WD Children) (Ty, Chris Johnson ) — https://archive.org/download/the-secret-of-boyne-castle-1969-wd-children-ty-chris-johnson./The%20Secret%20of%20Boyne%20Castle%20%281969%20WD%20Children%29%20%28Ty%2C%20Chris%20Johnson.%29.mp4
+- The Terror — https://archive.org/download/TheTerror/TheTerror.mp4
+- The Velvet Underground and Nico 1966 — https://archive.org/download/TheVelvetUndergroundandNico1966/The.Velvet.Underground.and.Nico1966TVrip_512kb.mp4
+- The Yesterday Machine (1965 Time Travel SciFi) (Cult Cinema Classics) — https://archive.org/download/the-yesterday-machine-1965-time-travel-sci-fi-cult-cinema-classics/The%20Yesterday%20Machine%20%281965%20Time%20Travel%20SciFi%29%20%28Cult%20Cinema%20Classics%29.mp4
+- TheAtomicBrain — https://archive.org/download/atomic_brain_1964/TheAtomicBrain.mp4
+- TheMostDangerousGame — https://archive.org/download/TheMostDangerousGame/TheMostDangerousGame.mp4
+- TheThing — https://archive.org/download/TheThingFromAnotherWorld_201712/TheThing.mp4
+- thethirdpollution — https://archive.org/download/thethirdpollution/thethirdpollution.mp4
+- they made me a criminal 1939 — https://archive.org/download/They_Made_Me_A_Criminal_1939/they_made_me_a_criminal_1939.mp4
+- ThiefofBagdad1924 512kb — https://archive.org/download/ThiefOfBagdad1924/ThiefofBagdad1924_512kb.mp4
+- ThisisNotaTest — https://archive.org/download/ThisisNotaTest/ThisisNotaTest.mp4
+- Tioga County, PA Farm City Day Dinner 1993; Morris Old Home Days; Mansfield, PA 1890s Festival 1993; Snowmobile Drag Racing : Keith Lindie Archive Tape 388 — https://archive.org/download/KeithLindieArchiveTape388/VHS388-FF209.mp4
+- Torsion-AireRideDeSoto-1956Adfor1957 — https://archive.org/download/1956CommercialForChryslerTorsion-aireRide/Torsion-AireRideDeSoto-1956Adfor1957.mp4
+- ToughAC1973Campaign — https://archive.org/download/ToughAC1973Campaign/ToughAC1973Campaign.mp4
+- Traveltime: Freedomland — https://archive.org/download/TravelTimeFreedomland/TravelTimeFreedomland.mp4
+- TripDownMktStreet clean — https://archive.org/download/TripDownMarketStreetrBeforeTheFire/TripDownMktStreet_clean.mp4
+- Universal Newsreel Volume 38, Release 23 — https://archive.org/download/200-un-v38-r23_SD_2Mbps/200-un-v38-r23_SD_2Mbps.mp4
+- Universal Newsreel Volume 40, Release 52 — https://archive.org/download/un-un-v40-r52_2Mbps/un-un-v40-r52_2Mbps.mp4
+- Viceroy Commercials Compilation — https://archive.org/download/tobacco_rou03f00/170500066_512kb.mp4
+- ViciousC1964 — https://archive.org/download/ViciousC1964/ViciousC1964.mp4
+- ViciousC1964 edit — https://archive.org/download/ViciousC1964/ViciousC1964_edit.mp4
+- Voyage to the Planet of Prehistoric Women — https://archive.org/download/VoyageToThePlanetOfPrehistoricWomen_20130813/Voyage%20to%20the%20Planet%20of%20Prehistoric%20Women.mp4
+- Voyage to the Planet of Prehistoric Women — https://archive.org/download/VoyagetothePlanetofPrehistoricWomen/VoyagetothePlanetofPrehistoricWomen.mp4
+- VTS 01 1 — https://archive.org/download/night_of_the_living_dead_dvd/VTS_01_1.mp4
+- VTS 01 1 — https://archive.org/download/vts-01-1_20200423_1708/VTS_01_1.mp4
+- VTS 01 2 — https://archive.org/download/night_of_the_living_dead_dvd/VTS_01_2.mp4
+- VTS 01 2 — https://archive.org/download/vts-01-1_20200423_1708/VTS_01_2.mp4
+- VTS 01 3 — https://archive.org/download/night_of_the_living_dead_dvd/VTS_01_3.mp4
+- VTS 02 1 — https://archive.org/download/vts-01-1_20200423_1708/VTS_02_1.mp4
+- VTS 02 2 — https://archive.org/download/vts-01-1_20200423_1708/VTS_02_2.mp4
+- Watashi-wa beretto — https://archive.org/download/watashi-wa-beretto/Watashi-wa%20beretto.mp4
+- week 18 — https://archive.org/download/ShockerInternetDriveIn-Week18aNaschyDoubleFeature/week_18.mp4
+- Week13 — https://archive.org/download/ShockerInternetDriveIn-Week13dementedDoubleFeature/Week13.mp4
+- welcome animation — https://archive.org/download/Welcome2DriveIn/welcome_animation.mp4
+- Westinghouse Air Conditioners Commercial 1 — https://archive.org/download/Westinghouse_2/Westinghouse_2_edit.mp4
+- Wichita-Commercials-01 — https://archive.org/download/WichitaCommercials01/Wichita-Commercials-01.mp4
+- Wide World Of Sports - Australian F1 (NWS-9, 1996) — https://archive.org/download/australian-f-1-nws-9-1996/Australian%20F1%20%5BNWS-9%2C%201996%5D.mp4
+- Wide World Of Sports (Incomplete, NWS-9, 1993) — https://archive.org/download/wide-world-of-sports-nws-9-1993/Wide%20World%20Of%20Sports%20%5BNWS-9%2C%201993%5D.mp4
+- Wide World of Sports 500cc Telecast intro (STW-9, 1994) — https://archive.org/download/Wide_World_of_Sports_500cc_Telecast_intro_STW-9_1994/Wide%20World%20of%20Sports%20500cc%20Telecast%20intro%20%28STW-9%2C%201994%29-t3cDOhswLcE.mp4
+- Wonderful World of Wheels (1960s) — https://archive.org/download/68014-wonderful-world-of-wheels-vwr_202412/68014+Wonderful+World+Of+Wheels_vwr.mp4
+- Young and Innocent — https://archive.org/download/YoungandInnocentTheGirlWasYoung/Young_and_Innocent.mp4
+- Zamfir The Romance of the Pan Flute — https://archive.org/download/uncommon-ephemera-cassette-832-150-4-zamfir-the-romance-of-the-pan-flute-mercury-records-1982/Zamfir%20The%20Romance%20of%20the%20Pan%20Flute.mp4
