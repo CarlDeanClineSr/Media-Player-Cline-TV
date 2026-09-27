@@ -148,8 +148,21 @@ const LIBRARY_SOURCES = [
 function parseLibraryMarkdown(text){
     const items = [];
     for(const line of String(text).split(/\r?\n/)){
-        const m = line.match(/^\s*-\s+(.*?)\s+—\s+(https?:\/\/\S+)\s*$/);
-        if(m) items.push({n:m[1].trim(),u:m[2].trim()});
+        const titled = line.match(/^\s*-\s+(.*?)\s+—\s+(https?:\/\/\S+)\s*$/);
+        if(titled){
+            items.push({n:titled[1].trim(),u:titled[2].trim()});
+            continue;
+        }
+        const recovered = line.match(/^\s*-\s+(https?:\/\/\S+)\s+—\s+source\s+.+$/);
+        if(recovered){
+            const u=recovered[1].trim();
+            let n=u;
+            try{
+                const part=new URL(u).pathname.split('/').pop()||u;
+                n=decodeURIComponent(part).replace(/\.[^.\/]+$/,'').replace(/[._-]+/g,' ').trim()||u;
+            }catch{}
+            items.push({n,u});
+        }
     }
     return items;
 }
