@@ -2,7 +2,148 @@
 
 Recovered from the archived Cline TV catalog. Direct Archive.org media links only. Duplicate URLs are removed.
 
+- 1962 Daytona 500 — https://archive.org/download/QgRSaMOUrv2iXxFiSQpxFygTEc2tUX/tmpasla91bx.mp4
+- 1967 TV Soap: Love is a Many Splendored Thing - 1st of December 1967 — https://archive.org/download/1967_PD_Soapie/LoveisaManySplenderedThing1967.mp4
+- 1x01 The Cage — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x01%20-%20The%20Cage.mp4
+- 1x01 The Human Bomb — https://archive.org/download/Dragnet1951/Dragnet/Season%201/Dragnet%20%281951%29%20-%20S01E01%20-%20The%20Human%20Bomb.mp4
+- 1x02 The Big Actor — https://archive.org/download/Dragnet1951/Dragnet/Season%201/Dragnet%20%281951%29%20-%20S01E02%20-%20The%20Big%20Actor.mp4
+- 1x02 Where No Man Has Gone — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x02%20-%20Where%20No%20Man%20Has%20Gone%20Before.mp4
+- 1x03 Corbomite Maneuver — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x03%20-%20The%20Corbomite%20Maneuver.mp4
+- 1x04 Mudd's Women — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x04%20-%20Mudd%27s%20Women.mp4
+- 1x05 The Big Cast — https://archive.org/download/Dragnet1951/Dragnet/Season%201/Dragnet%20%281951%29%20-%20S01E05%20-%20The%20Big%20Cast.mp4
+- 1x05 The Enemy Within — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x05%20-%20The%20Enemy%20Within.mp4
+- 1x06 The Man Trap — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x06%20-%20The%20Man%20Trap.mp4
+- 1x07 The Naked Time — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x07%20-%20The%20Naked%20Time.mp4
+- 1x08 Charlie X — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x08%20-%20Charlie%20X.mp4
+- 1x09 Balance of Terror — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x09%20-%20Balance%20of%20Terror.mp4
+- 1x10 Little Girls Made of — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x10%20-%20What%20are%20Little%20Girls%20Made%20of.mp4
+- 1x11 Big September Man — https://archive.org/download/Dragnet1951/Dragnet/Season%201/Dragnet%20%281951%29%20-%20S01E11%20-%20The%20Big%20September%20Man.mp4
+- 1x11 Dagger of the Mind — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x11%20-%20Dagger%20of%20the%20Mind.mp4
+- 1x12 Miri — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x12%20-%20Miri.mp4
+- 1x12 The Big Phone Call — https://archive.org/download/Dragnet1951/Dragnet/Season%201/Dragnet%20%281951%29%20-%20S01E12%20-%20The%20Big%20Phone%20Call.mp4
+- 1x13 Conscience of King — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x13%20-%20The%20Conscience%20of%20the%20King.mp4
+- 1x13 The Big Chasing — https://archive.org/download/Dragnet1951/Dragnet/Season%201/Dragnet%20%281951%29%20-%20S01E13%20-%20The%20Big%20Chasing.mp4
+- 1x14 The Big Lamp — https://archive.org/download/Dragnet1951/Dragnet/Season%201/Dragnet%20%281951%29%20-%20S01E14%20-%20The%20Big%20Lamp.mp4
+- 1x14 The Galileo Seven — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x14%20-%20The%20Galileo%20Seven.mp4
+- 1x15 Court Martial — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x15%20-%20Court%20Martial.mp4
+- 1x16 The Menagerie Pt I — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x16%20-%20The%20Menagerie%20-%20Part%20I.mp4
+- 1x17 The Menagerie Pt II — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x17%20-%20The%20Menagerie%20-%20Part%20II.mp4
+- 1x18 Shore Leave — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x18%20-%20Shore%20Leave.mp4
+- 1x19 Squire of Gothos — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x19%20-%20The%20Squire%20of%20Gothos.mp4
+- 1x20 Arena — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x20%20-%20Arena.mp4
+- 1x21 Alternative Factor — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x21%20-%20The%20Alternative%20Factor.mp4
+- 1x22 Tomorrow is Yesterday — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x22%20-%20Tomorrow%20is%20Yesterday.mp4
+- 1x23 Return of Archons — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x23%20-%20The%20Return%20of%20the%20Archons.mp4
+- 1x24 Taste of Armageddon — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x24%20-%20A%20Taste%20of%20Armageddon.mp4
+- 1x25 Space Seed — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x25%20-%20Space%20Seed.mp4
+- 1x26 This Side of Paradise — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x26%20-%20This%20Side%20of%20Paradise.mp4
+- 1x27 Devil in the Dark — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x27%20-%20The%20Devil%20in%20the%20Dark.mp4
+- 1x28 Errand of Mercy — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x28%20-%20Errand%20of%20Mercy.mp4
+- 1x29 City on the Edge — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x29%20-%20The%20City%20on%20the%20Edge%20of%20Forever.mp4
+- 1x30 Operation Annihilate! — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x30%20-%20Operation%20Annihilate%21.mp4
+- 2x01 Catspaw — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x01%20-%20Catspaw.mp4
+- 2x01 The Big Jump — https://archive.org/download/Dragnet1951/Dragnet/Season%202/Dragnet%20%281951%29%20-%20S02E01%20-%20The%20Big%20Jump.mp4
+- 2x02 Metamorphosis — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x02%20-%20Metamorphosis.mp4
+- 2x02 The Big Sorrow — https://archive.org/download/Dragnet1951/Dragnet/Season%202/Dragnet%20%281951%29%20-%20S02E02%20-%20The%20Big%20Sorrow.mp4
+- 2x03 Friday's Child — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x03%20-%20Friday%27s%20Child.mp4
+- 2x04 The Big Seventeen — https://archive.org/download/Dragnet1951/Dragnet/Season%202/Dragnet%20%281951%29%20-%20S02E04%20-%20The%20Big%20Seventeen.mp4
+- 2x04 Who Mourns for Adonais — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x04%20-%20Who%20Mourns%20for%20Adonais.mp4
+- 2x05 Amok Time — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x05%20-%20Amok%20Time.mp4
+- 2x06 Doomsday Machine — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x06%20-%20The%20Doomsday%20Machine.mp4
+- 2x07 Wolf in the Fold — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x07%20-%20Wolf%20in%20the%20Fold.mp4
+- 2x08 The Changeling — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x08%20-%20The%20Changeling.mp4
+- 2x09 The Apple — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x09%20-%20The%20Apple.mp4
+- 2x09 The Big Grandma — https://archive.org/download/Dragnet1951/Dragnet/Season%202/Dragnet%20%281951%29%20-%20S02E09%20-%20The%20Big%20Grandma.mp4
+- 2x10 Mirror, Mirror — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x10%20-%20Mirror%2C%20Mirror.mp4
+- 2x11 The Big Show — https://archive.org/download/Dragnet1951/Dragnet/Season%202/Dragnet%20%281951%29%20-%20S02E11%20-%20The%20Big%20Show.mp4
+- 2x11 The Deadly Years — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x11%20-%20The%20Deadly%20Years.mp4
+- 2x12 I, Mudd — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x12%20-%20I%2C%20Mudd.mp4
+- 2x13 Trouble With Tribbles — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x13%20-%20The%20Trouble%20With%20Tribbles.mp4
+- 2x14 Bread and Circuses — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x14%20-%20Bread%20and%20Circuses.mp4
+- 2x14 The Big Hate — https://archive.org/download/Dragnet1951/Dragnet/Season%202/Dragnet%20%281951%29%20-%20S02E14%20-%20The%20Big%20Hate.mp4
+- 2x15 Journey to Babel — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x15%20-%20Journey%20to%20Babel.mp4
+- 2x16 Private Little War — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x16%20-%20A%20Private%20Little%20War.mp4
+- 2x17 Gamesters of Triskelion — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x17%20-%20The%20Gamesters%20of%20Triskelion.mp4
+- 2x18 Obsession — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x18%20-%20Obsession.mp4
+- 2x18 The Big Run — https://archive.org/download/Dragnet1951/Dragnet/Season%202/Dragnet%20%281951%29%20-%20S02E18%20-%20The%20Big%20Run.mp4
+- 2x19 Immunity Syndrome — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x19%20-%20The%20Immunity%20Syndrome.mp4
+- 2x19 The Big Break — https://archive.org/download/Dragnet1951/Dragnet/Season%202/Dragnet%20%281951%29%20-%20S02E19%20-%20The%20Big%20Break.mp4
+- 2x20 Piece of the Action — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x20%20-%20A%20Piece%20of%20the%20Action.mp4
+- 2x20 The Big Light — https://archive.org/download/Dragnet1951/Dragnet/Season%202/Dragnet%20%281951%29%20-%20S02E20%20-%20The%20Big%20Light.mp4
+- 2x21 By Any Other Name — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x21%20-%20By%20Any%20Other%20Name.mp4
+- 2x22 Return to Tomorrow — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x22%20-%20Return%20to%20Tomorrow.mp4
+- 2x22 The Big Test — https://archive.org/download/Dragnet1951/Dragnet/Season%202/Dragnet%20%281951%29%20-%20S02E22%20-%20The%20Big%20Test.mp4
+- 2x23 Patterns of Force — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x23%20-%20Patterns%20of%20Force%20%281%29.mp4
+- 2x24 The Ultimate Computer — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x24%20-%20The%20Ultimate%20Computer.mp4
+- 2x25 The Omega Glory — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x25%20-%20The%20Omega%20Glory.mp4
+- 2x26 Assignment Earth — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x26%20-%20Assignment%20Earth.mp4
+- 2x26 The Big Frank — https://archive.org/download/Dragnet1951/Dragnet/Season%202/Dragnet%20%281951%29%20-%20S02E26%20-%20The%20Big%20Frank.mp4
+- 2x27 The Big Lease — https://archive.org/download/Dragnet1951/Dragnet/Season%202/Dragnet%20%281951%29%20-%20S02E27%20-%20The%20Big%20Lease.mp4
+- 2x28 The Big Hands — https://archive.org/download/Dragnet1951/Dragnet/Season%202/Dragnet%20%281951%29%20-%20S02E28%20-%20The%20Big%20Hands.mp4
+- 2x32 The Big Barrette — https://archive.org/download/Dragnet1951/Dragnet/Season%202/Dragnet%20%281951%29%20-%20S02E32%20-%20The%20Big%20Barrette.mp4
+- 2x33 The Big Dance — https://archive.org/download/Dragnet1951/Dragnet/Season%202/Dragnet%20%281951%29%20-%20S02E33%20-%20The%20Big%20Dance.mp4
+- 3x01 Spectre of the Gun — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x01%20-%20Spectre%20of%20the%20Gun.mp4
+- 3x02 Elaan of Troyius — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x02%20-%20Elaan%20of%20Troyius.mp4
+- 3x03 The Paradise Syndrome — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x03%20-%20The%20Paradise%20Syndrome.mp4
+- 3x04 Enterprise Incident — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x04%20-%20The%20Enterprise%20Incident.mp4
+- 3x04 The Big Betty — https://archive.org/download/Dragnet1951/Dragnet/Season%203/Dragnet%20%281951%29%20-%20S03E04%20-%20The%20Big%20Betty.mp4
+- 3x05 Children Shall Lead — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x05%20-%20And%20the%20Children%20Shall%20Lead.mp4
+- 3x06 Spock's Brain — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x06%20-%20Spock%27s%20Brain.mp4
+- 3x07 Truth no Beauty — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x07%20-%20Is%20There%20in%20Truth%20no%20Beauty.mp4
+- 3x08 The Empath — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x08%20-%20The%20Empath.mp4
+- 3x09 The Tholian Web — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x09%20-%20The%20Tholian%20Web.mp4
+- 3x10 For the World Is Hollow — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x10%20-%20For%20the%20World%20Is%20Hollow%20and%20I%20Have%20Touched%20the%20Sky.mp4
+- 3x11 Day of the Dove — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x11%20-%20day%20of%20the%20Dove.mp4
+- 3x12 Plato's Stepchildren — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x12%20-%20Plato%27s%20Stepchildren.mp4
+- 3x13 Wink of an Eye — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x13%20-%20Wink%20of%20an%20Eye.mp4
+- 3x14 That Which Survives — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x14%20-%20That%20Which%20Survives.mp4
+- 3x15 Your Last Battlefield — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x15%20-%20Let%20That%20Be%20Your%20Last%20Battlefield.mp4
+- 3x16 The Big Thief — https://archive.org/download/Dragnet1951/Dragnet/Season%203/Dragnet%20%281951%29%20-%20S03E16%20-%20The%20Big%20Thief.mp4
+- 3x16 Whom Gods Destroy — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x16%20-%20Whom%20Gods%20Destroy.mp4
+- 3x17 The Mark of Gideon — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x17%20-%20The%20Mark%20of%20Gideon.mp4
+- 3x18 The Lights of Zetar — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x18%20-%20The%20Lights%20of%20Zetar.mp4
+- 3x19 The Big Trunk — https://archive.org/download/Dragnet1951/Dragnet/Season%203/Dragnet%20%281951%29%20-%20S03E19%20-%20The%20Big%20Trunk.mp4
+- 3x19 The Cloud Minders — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x19%20-%20The%20Cloud%20Minders.mp4
+- 3x20 The Way to Eden — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x20%20-%20The%20Way%20to%20Eden.mp4
+- 3x21 Requiem for Methuselah — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x21%20-%20Requiem%20for%20Methuselah.mp4
+- 3x22 The Big Ham — https://archive.org/download/Dragnet1951/Dragnet/Season%203/Dragnet%20%281951%29%20-%20S03E22%20-%20The%20Big%20Ham.mp4
+- 3x22 The Savage Curtain — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x22%20-%20The%20Savage%20Curtain.mp4
+- 3x23 All Our Yesterdays — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x23%20-%20All%20Our%20Yesterdays.mp4
+- 3x24 The Big Children — https://archive.org/download/Dragnet1951/Dragnet/Season%203/Dragnet%20%281951%29%20-%20S03E24%20-%20The%20Big%20Children.mp4
+- 3x24 Turnabout Intruder — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x24%20-%20Turnabout%20Intruder.mp4
+- 3x27 The Big Winchester — https://archive.org/download/Dragnet1951/Dragnet/Season%203/Dragnet%20%281951%29%20-%20S03E27%20-%20The%20Big%20Winchester.mp4
+- 3x28 The Big Shoplift — https://archive.org/download/Dragnet1951/Dragnet/Season%203/Dragnet%20%281951%29%20-%20S03E28%20-%20The%20Big%20Shoplift.mp4
+- 3x29 Big Hit-Run Killer — https://archive.org/download/Dragnet1951/Dragnet/Season%203/Dragnet%20%281951%29%20-%20S03E29%20-%20The%20Big%20Hit-Run%20Killer.mp4
+- 3x31 The Big Girl — https://archive.org/download/Dragnet1951/Dragnet/Season%203/Dragnet%20%281951%29%20-%20S03E31%20-%20The%20Big%20Girl.mp4
+- 3x34 The Big Frame — https://archive.org/download/Dragnet1951/Dragnet/Season%203/Dragnet%20%281951%29%20-%20S03E34%20-%20The%20Big%20Frame.mp4
+- 3x35 The Big Plant — https://archive.org/download/Dragnet1951/Dragnet/Season%203/Dragnet%20%281951%29%20-%20S03E35%20-%20The%20Big%20Plant.mp4
+- 4x01 The Big Producer — https://archive.org/download/Dragnet1951/Dragnet/Season%204/Dragnet%20%281951%29%20-%20S04E01%20-%20The%20Big%20Producer.mp4
+- 4x02 The Big Fraud — https://archive.org/download/Dragnet1951/Dragnet/Season%204/Dragnet%20%281951%29%20-%20S04E02%20-%20The%20Big%20Fraud.mp4
+- 4x03 The Big Crime — https://archive.org/download/Dragnet1951/Dragnet/Season%204/Dragnet%20%281951%29%20-%20S04E03%20-%20The%20Big%20Crime.mp4
+- 4x04 The Big Pair — https://archive.org/download/Dragnet1951/Dragnet/Season%204/Dragnet%20%281951%29%20-%20S04E04%20-%20The%20Big%20Pair.mp4
+- 4x08 The Big Bar — https://archive.org/download/Dragnet1951/Dragnet/Season%204/Dragnet%20%281951%29%20-%20S04E08%20-%20The%20Big%20Bar.mp4
+- 4x09 The Big Present — https://archive.org/download/Dragnet1951/Dragnet/Season%204/Dragnet%20%281951%29%20-%20S04E09%20-%20The%20Big%20Present.mp4
+- 4x18 The Big Rod — https://archive.org/download/Dragnet1951/Dragnet/Season%204/Dragnet%20%281951%29%20-%20S04E18%20-%20The%20Big%20Rod.mp4
+- 5x03 The Big No Rain — https://archive.org/download/Dragnet1951/Dragnet/Season%205/Dragnet%20%281951%29%20-%20S05E03%20-%20The%20Big%20No%20Rain.mp4
+- 5x06 The Big Gap — https://archive.org/download/Dragnet1951/Dragnet/Season%205/Dragnet%20%281951%29%20-%20S05E06%20-%20The%20Big%20Gap.mp4
+- 5x07 The Big Look — https://archive.org/download/Dragnet1951/Dragnet/Season%205/Dragnet%20%281951%29%20-%20S05E07%20-%20The%20Big%20Look.mp4
+- 5x09 The Big Bird — https://archive.org/download/Dragnet1951/Dragnet/Season%205/Dragnet%20%281951%29%20-%20S05E09%20-%20The%20Big%20Bird.mp4
+- 5x11 The Big Smoke — https://archive.org/download/Dragnet1951/Dragnet/Season%205/Dragnet%20%281951%29%20-%20S05E11%20-%20The%20Big%20Smoke.mp4
+- 5x12 The Big Bounce — https://archive.org/download/Dragnet1951/Dragnet/Season%205/Dragnet%20%281951%29%20-%20S05E12%20-%20The%20Big%20Bounce.mp4
+- 5x13 The Big Shot — https://archive.org/download/Dragnet1951/Dragnet/Season%205/Dragnet%20%281951%29%20-%20S05E13%20-%20The%20Big%20Shot.mp4
+- 5x23 The Big Child — https://archive.org/download/Dragnet1951/Dragnet/Season%205/Dragnet%20%281951%29%20-%20S05E23%20-%20The%20Big%20Child.mp4
+- 5x34 The Big Deal — https://archive.org/download/Dragnet1951/Dragnet/Season%205/Dragnet%20%281951%29%20-%20S05E34%20-%20The%20Big%20Deal.mp4
+- 5x35 The Big Wish — https://archive.org/download/Dragnet1951/Dragnet/Season%205/Dragnet%20%281951%29%20-%20S05E35%20-%20The%20Big%20Wish.mp4
+- 6x12 Big Doting Mother — https://archive.org/download/Dragnet1951/Dragnet/Season%206/Dragnet%20%281951%29%20-%20S06E12%20-%20The%20Big%20Doting%20Mother.mp4
+- 7x28 The Big War — https://archive.org/download/Dragnet1951/Dragnet/Season%207/Dragnet%20%281951%29%20-%20S07E28%20-%20The%20Big%20War.mp4
+- 8x04 The Big Oskar — https://archive.org/download/Dragnet1951/Dragnet/Season%208/Dragnet%20%281951%29%20-%20S08E04%20-%20The%20Big%20Oskar.mp4
+- All Monsters Attack — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/10.AllMonstersAttack1969.mp4
+- Are You Being Served? — His & Hers (S01E05) — https://archive.org/download/are-you-being-served-season1/AYBS Season 1/Are You Being Served s01e05 - His & Hers.mp4
+- Atom Age Vampire — https://archive.org/download/AtomAgeVampire/AtomAgeVampire.mp4
 - BettyWhiteChristmas — https://archive.org/download/DateWithTheAngels-1950sFamilySitcom-ChristmasEpisode/BettyWhiteChristmas.mp4
+- Big Ass Spider — https://archive.org/download/My-Favorite-Movies_202503/Big%20Ass%20Spider.mp4
+- Bloodlust — https://archive.org/download/Bloodlust.mpeg/Bloodlust.mp4
+- Bloody Pit Of Horror — https://archive.org/download/BloodyPitOfHorror/BloodyPitOfHorror.mp4
 - Captain Nice - Promos by Bill Feigenbaum — https://archive.org/download/capn-nice-tv-show/Captain%20Nice%20-%20Promos%20by%20Bill%20Feigenbaum.mp4
 - Captain Nice — 101 - The Man Who Flies Like A Pigeon — https://archive.org/download/capn-nice-tv-show/101_-_The_Man_Who_Flies_Like_A_Pigeon.mp4
 - Captain Nice — 102 - How Sheik Can You Get — https://archive.org/download/capn-nice-tv-show/102_-_How_Sheik_Can_You_Get.mp4
@@ -24,36 +165,220 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Captain Nice113 - May I Have The Last Dance — https://archive.org/download/capn-nice-tv-show/Captain_Nice113_-_May_I_Have_The_Last_Dance.mp4
 - Captain Nice114 - One Rotten Apple — https://archive.org/download/capn-nice-tv-show/Captain_Nice114_-_One_Rotten_Apple.mp4
 - Captain Nice115 - Beware Of Hidden Prophets — https://archive.org/download/capn-nice-tv-show/Captain_Nice115_-_Beware_Of_Hidden_Prophets.mp4
+- Chevy Nova Ad — https://archive.org/download/Classic1967CommercialForChevyIiNova/Chevy2Nova_512kb.mp4
+- Close Encounters (1977) — https://dn710203.ca.archive.org/0/items/close-encounters-of-the-third-kind-1977-dc-remastered-blueray/Close%20Encounters%20of%20the%20Third%20Kind%201977%20DC_REMASTERED_BLUERAY.mp4
+- Colonel March - Silver Curtain — https://archive.org/download/Colonel_March_Silver_Curtain/Colonel_March_Silver_Curtain.mp4
+- Colossus - Forbin Project — https://archive.org/download/colossus-the-forbin-project-1970/Colossus%20-%20The%20Forbin%20Project%20%281970%29.mp4
+- Cpt Scarlet 01 Mysterons — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2001%20The%20Mysterons.mp4
+- Cpt Scarlet 02 Assasin — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2002%20Winged%20Assasin.mp4
+- Cpt Scarlet 03 Big Ben — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2003%20Big%20Ben%20Strikes%20Again.mp4
+- Cpt Scarlet 04 Manhunt — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2004%20Manhunt.mp4
+- Cpt Scarlet 05 Avalanche — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2005%20Avalanche.mp4
+- Cpt Scarlet 06 White Snow — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2006%20White%20as%20Snow.mp4
+- Cpt Scarlet 07 The Trap — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2007%20The%20Trap.mp4
+- Cpt Scarlet 08 Operation Time — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2008%20Operation%20Time.mp4
+- Cpt Scarlet 09 Spectrum Fights — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2009%20Spectrum%20Fights%20Back.mp4
+- Cpt Scarlet 10 Assignment — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2010%20Special%20Assignment.mp4
+- Cpt Scarlet 11 Heart of NY — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2011%20The%20Heart%20of%20New%20York.mp4
+- Cpt Scarlet 12 Lunarville 7 — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2012%20Lunarville%207.mp4
+- Cpt Scarlet 13 Point 783 — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2013%20Point%20783.mp4
+- Cpt Scarlet 14 Model Spy — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2014%20Model%20Spy.mp4
+- Cpt Scarlet 15 Seek/Destroy — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2015%20Seek%20and%20Destroy.mp4
+- Cpt Scarlet 16 Traitor — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2016%20Traitor.mp4
+- Cpt Scarlet 17 Rocket — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2017%20Renegade%20Rocket.mp4
+- Cpt Scarlet 18 Crater 101 — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2018%20Crater%20101.mp4
+- Cpt Scarlet 19 Shadow Fear — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2019%20Shadow%20of%20Fear.mp4
+- Cpt Scarlet 20 Dangerous — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2020%20Dangerous%20Rendevous.mp4
+- Cpt Scarlet 21 Fire at Rig 15 — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2021%20Fire%20at%20Rig%2015.mp4
+- Cpt Scarlet 22 Treble Cross — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2022%20Treble%20Cross.mp4
+- Cpt Scarlet 23 Flight 104 — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2023%20Flight%20104.mp4
+- Cpt Scarlet 24 Place Angels — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2024%20Place%20of%20Angels.mp4
+- Cpt Scarlet 25 Noose of Ice — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2025%20Noose%20of%20Ice.mp4
+- Cpt Scarlet 26 Expo 2068 — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2026%20Expo%202068.mp4
+- Cpt Scarlet 27 Launching — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2027%20The%20Launching.mp4
+- Cpt Scarlet 28 Europa — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2028%20Codename%20Europa.mp4
+- Cpt Scarlet 29 Inferno — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2029%20Inferno.mp4
+- Cpt Scarlet 30 Atlantica — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2030%20Flight%20to%20Atlantica.mp4
+- Cpt Scarlet 31 Cloudbase — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2031%20Attack%20on%20Cloudbase.mp4
+- Cpt Scarlet 32 Inquisition — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2032%20The%20Inquisition.mp4
+- Cpt Scarlet 99 S.I.G — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2099%20S.I.G%20%28interviews.best%20bits%29.mp4
+- Cpt Scarlet Audio Adv — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%20Introducing%20TV21%20Audio%20Adventure.mp4
+- Creature Haunted Sea — https://archive.org/download/CreatureFromTheHauntedSea/CreatureFromTheHauntedSea.mp4
+- Daughter of Horror — https://archive.org/download/daughter_of_horror/daughter_of_horror.mp4
+- Destroy All Monsters — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/9.DestroyAllMonsters1968.mp4
+- Dodge Dart Ad — https://archive.org/download/1967DogdeDartTvCommercialPamAustinClips/Dodgedart.mp4
+- Dragnet TV — Dragnet (1951) - S02E07 - The Big 22 Rifle for Christmas — https://archive.org/download/Dragnet1951/Dragnet/Season%202/Dragnet%20%281951%29%20-%20S02E07%20-%20The%20Big%20.22%20Rifle%20for%20Christmas.mp4
+- Dragnet TV — Dragnet (1951) - S04E12 - The Big New Year — https://archive.org/download/Dragnet1951/Dragnet/Season%204/Dragnet%20%281951%29%20-%20S04E12%20-%20The%20Big%20New%20Year.mp4
+- Ebirah Horror of Deep — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/7.EbirahHorrorOfTheDeep1966.mp4
+- Eight Legged Freaks — https://archive.org/download/My-Favorite-Movies_202503/Eight%20Legged%20Freaks.mp4
+- Ford Falcon Ad — https://archive.org/download/ClassicCommercialForFordFalconusaCirca1966/Falcon_512kb.mp4
+- Ghidorah 3-Headed Monster — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/5.GhidorahTheThree-headedMonster1964.mp4
+- Giant Gila Monster — https://archive.org/download/giant_gila_monster/giant_gila_monster.mp4
+- Godzilla (1956) — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/1.Godzilla-KingOfTheMonsters1956.mp4
+- Godzilla Raids Again (1955) — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/2.GodzillaRaidsAgain1955.mp4
+- Godzilla vs Gigan — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/12.GodzillaVs.Gigan1972.mp4
+- Godzilla vs Hedorah — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/11.GodzillaVs.Hedorah1971.mp4
+- Godzilla vs Mechagodzilla — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/14.GodzillaVs.Mechagodzilla1974.mp4
+- Godzilla vs Megalon — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/13.GodzillaVs.Megalon1973.mp4
+- Grave Of The Vampire — https://archive.org/download/GraveOfTheVampire/GraveOfTheVampirePresentedByMoviePowder.mp4
+- Hitchcock 1x01 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e1-colorized-720p-hd.mp4
+- Hitchcock 1x02 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e2-colorized-720p-hd.mp4
+- Hitchcock 1x03 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e3-colorized-720p-hd.mp4
+- Hitchcock 1x04 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e4-colorized-720p-hd.mp4
+- Hitchcock 1x05 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e5-colorized-720p-hd.mp4
+- Hitchcock 1x06 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e6-colorized-720p-hd.mp4
+- Hitchcock 1x07 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e7-colorized-720p-hd.mp4
+- Hitchcock 1x08 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e8-colorized-720p-hd.mp4
+- Hitchcock 1x10 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e10-colorized-720p-hd.mp4
+- Hitchcock 1x11 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e11-colorized-720p-hd.mp4
+- Hitchcock 1x12 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e12-colorized-720p-hd.mp4
+- Hitchcock 1x13 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e13-colorized-720p-hd.mp4
+- Hitchcock 1x14 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e14-colorized-720p-hd.mp4
+- Hitchcock 1x15 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e15-colorized-576p-sd.mp4
+- Hitchcock 1x16 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e16-colorized-720p-hd.mp4
+- Hitchcock 1x17 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e17-colorized-720p-hd.mp4
+- Hitchcock 1x18 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e18-colorized-720p-hd.mp4
+- Hitchcock 1x19 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e19-colorized-720p-hd.mp4
+- Hitchcock 1x20 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e20-colorized-720p-hd.mp4
+- Hitchcock 1x21 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e21-colorized-576p-sd.mp4
+- Hitchcock 1x22 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e22-colorized-576p-sd.mp4
+- Hitchcock 1x23 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e23-colorized-720p-hd.mp4
+- Hitchcock 1x24 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e24-colorized-720p-hd.mp4
+- Hitchcock 1x25 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e25-colorized-720p-hd.mp4
+- Hitchcock 1x26 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e26-colorized-720p-hd.mp4
+- Hitchcock 1x27 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e27-colorized-720p-hd.mp4
+- Hitchcock 1x28 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e28-colorized-576p-sd.mp4
+- Hitchcock 1x29 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e29-colorized-576p-sd.mp4
+- Hitchcock 1x30 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e30-colorized-576p-sd.mp4
+- Hitchcock 1x31 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e31-colorized-576p-sd.mp4
+- Hitchcock 1x32 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e32-colorized-576p-sd.mp4
+- Hitchcock 1x33 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e33-colorized-576p-sd.mp4
+- Hitchcock 1x34 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e34-colorized-576p-sd.mp4
+- Hitchcock 1x35 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e35-colorized-576p-sd.mp4
+- Hitchcock 1x36 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e36-colorized-576p-sd.mp4
+- Hitchcock 1x37 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e37-colorized-576p-sd.mp4
+- Hitchcock 1x38 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e38-colorized-576p-sd.mp4
+- Hitchcock 1x39 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e39-colorized-576p-sd.mp4
+- Hitchcock 2x01 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e1-colorized-576p-sd.mp4
+- Hitchcock 2x02 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e2-colorized-576p-sd.mp4
+- Hitchcock 2x03 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e3-colorized-576p-sd.mp4
+- Hitchcock 2x04 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e4-colorized-576p-sd.mp4
+- Hitchcock 2x05 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e5-colorized-576p-sd.mp4
+- Hitchcock 2x06 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e6-colorized-sd.mp4
+- Hitchcock 2x07 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e7-colorized-576p-sd.mp4
+- Hitchcock 2x08 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e8-colorized-720p-hd.mp4
+- Hitchcock 2x09 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e9-colorized-576p-sd.mp4
+- Hitchcock 2x10 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e10-colorized-576p-sd.mp4
+- Hitchcock 2x11 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e11-colorized-576p-sd.mp4
+- Hitchcock 2x12 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e12-colorized-sd.mp4
+- Hitchcock 2x13 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e13-colorized-sd.mp4
+- Hitchcock 2x14 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e14-colorized-sd.mp4
+- Hitchcock 2x15 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e15-colorized-576p-sd.mp4
+- Hitchcock 2x16 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e16-colorized-576p-sd.mp4
+- Hitchcock 2x17 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e17-colorized-sd.mp4
+- Hitchcock 2x18 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e18-colorized-sd.mp4
+- Hitchcock 2x19 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e19-colorized-576p-sd.mp4
+- Hitchcock 2x20 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e20-colorized-576p-sd.mp4
+- Hitchcock 2x21 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e21-colorized-576p-sd.mp4
+- Hitchcock 2x22 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e22-colorized-sd.mp4
+- Hitchcock 2x23 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e23-colorized-sd.mp4
+- Hitchcock 2x24 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e24-colorized-576p-sd.mp4
+- Hitchcock 2x25 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e25-colorized-576p-sd.mp4
+- Hitchcock 2x26 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e26-colorized-sd.mp4
+- Hitchcock 2x27 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e27-colorized-576p-sd.mp4
+- Hitchcock 2x28 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e28-colorized-sd.mp4
+- Hitchcock 2x29 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e29-colorized-576p-sd.mp4
+- Hitchcock 2x30 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e30-colorized-sd.mp4
+- Hitchcock 2x31 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e31-colorized-576p-sd.mp4
+- Hitchcock 2x32 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e32-colorized-sd.mp4
+- Hitchcock 2x33 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e33-colorized-sd.mp4
+- Hitchcock 2x34 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e34-colorized-sd.mp4
+- Hitchcock 2x35 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e35-colorized-sd.mp4
+- Hitchcock 2x36 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e36-colorized-576p-sd.mp4
+- Hitchcock 2x37 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e37-colorized-sd.mp4
+- Hitchcock 2x38 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e38-colorized-720p-hd.mp4
+- Hitchcock 2x39 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e39-colorized-576p-sd.mp4
+- Hitchcock 3x01 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e1-colorized-sd.mp4
+- Hitchcock 3x02 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e2-colorized-sd.mp4
+- Hitchcock 3x03 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e3-colorized-sd.mp4
+- Hitchcock 3x04 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e4-colorized-sd.mp4
+- Hitchcock 3x05 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e5-colorized-sd.mp4
+- Hitchcock 3x06 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e6-colorized-sd.mp4
+- Hitchcock 3x07 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e7-colorized-sd.mp4
+- Hitchcock 3x08 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e8-colorized-sd.mp4
+- Hitchcock 3x09 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e9-colorized-sd.mp4
+- Hitchcock 3x10 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e10-colorized-sd.mp4
+- Hitchcock 3x11 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e11-colorized-sd.mp4
+- Hitchcock 3x12 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e12-colorized-576p-sd.mp4
+- Hitchcock 3x13 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e13-colorized-sd.mp4
+- Hitchcock 3x14 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e14-colorized-sd.mp4
+- Hitchcock 3x15 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e15-colorized-sd.mp4
+- Hitchcock 3x16 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e16-colorized-sd.mp4
+- Hitchcock 3x17 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e17-colorized-sd.mp4
+- Hitchcock 3x18 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e18-colorized-sd.mp4
+- Hitchcock 3x19 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e19-colorized-sd.mp4
+- Hitchcock 3x20 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e20-colorized-sd.mp4
+- Hitchcock 3x21 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e21-colorized-sd.mp4
+- Hitchcock 3x22 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e22-colorized-576p-sd.mp4
+- Hitchcock 3x23 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e23-colorized-sd.mp4
+- Hitchcock 3x24 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e24-colorized-sd.mp4
+- Hitchcock 3x25 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e25-colorized-sd.mp4
+- Hitchcock 3x26 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e26-colorized-576p-sd.mp4
+- Hitchcock 3x27 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e27-colorized-sd.mp4
+- Hitchcock 3x28 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e28-colorized-sd.mp4
+- Hitchcock 3x29 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e29-colorized-576p-sd.mp4
+- Hitchcock 3x30 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e30-colorized-sd.mp4
+- Hitchcock 3x31 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e31-colorized-sd.mp4
+- Hitchcock 3x32 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e32-colorized-sd.mp4
+- Hitchcock 3x33 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e33-colorized-sd.mp4
+- Hitchcock 3x34 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e34-colorized-sd.mp4
+- Hitchcock 3x35 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e35-colorized-sd.mp4
+- Hitchcock 3x36 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e36-colorized-576p-sd.mp4
+- Hitchcock 3x37 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e37-colorized-sd.mp4
+- Hitchcock 3x38 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e38-colorized-720p-hd.mp4
+- Hitchcock 3x39 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e39-colorized-576p-sd.mp4
 - Honeymooners 1951 — https://archive.org/download/Cavalcade_Of_Stars/Honeymooners_1951.mp4
-- https://archive.org/download/1967DogdeDartTvCommercialPamAustinClips/Dodgedart.mp4 — https://archive.org/download/1967DogdeDartTvCommercialPamAustinClips/Dodgedart.mp4
-- https://archive.org/download/AtomAgeVampire/AtomAgeVampire.mp4 — https://archive.org/download/AtomAgeVampire/AtomAgeVampire.mp4
-- https://archive.org/download/Bloodlust.mpeg/Bloodlust.mp4 — https://archive.org/download/Bloodlust.mpeg/Bloodlust.mp4
-- https://archive.org/download/BloodyPitOfHorror/BloodyPitOfHorror.mp4 — https://archive.org/download/BloodyPitOfHorror/BloodyPitOfHorror.mp4
-- https://archive.org/download/Classic1967CommercialForChevyIiNova/Chevy2Nova_512kb.mp4 — https://archive.org/download/Classic1967CommercialForChevyIiNova/Chevy2Nova_512kb.mp4
-- https://archive.org/download/ClassicCommercialForFordFalconusaCirca1966/Falcon_512kb.mp4 — https://archive.org/download/ClassicCommercialForFordFalconusaCirca1966/Falcon_512kb.mp4
-- https://archive.org/download/colossus-the-forbin-project-1970/Colossus%20-%20The%20Forbin%20Project%20%281970%29.mp4 — https://archive.org/download/colossus-the-forbin-project-1970/Colossus%20-%20The%20Forbin%20Project%20%281970%29.mp4
-- https://archive.org/download/CreatureFromTheHauntedSea/CreatureFromTheHauntedSea.mp4 — https://archive.org/download/CreatureFromTheHauntedSea/CreatureFromTheHauntedSea.mp4
-- https://archive.org/download/daughter_of_horror/daughter_of_horror.mp4 — https://archive.org/download/daughter_of_horror/daughter_of_horror.mp4
-- https://archive.org/download/giant_gila_monster/giant_gila_monster.mp4 — https://archive.org/download/giant_gila_monster/giant_gila_monster.mp4
-- https://archive.org/download/GraveOfTheVampire/GraveOfTheVampirePresentedByMoviePowder.mp4 — https://archive.org/download/GraveOfTheVampire/GraveOfTheVampirePresentedByMoviePowder.mp4
-- https://archive.org/download/horror_express_ipod/horror_express.mp4 — https://archive.org/download/horror_express_ipod/horror_express.mp4
-- https://archive.org/download/Horror_Hotel/Horror_Hotel.mp4 — https://archive.org/download/Horror_Hotel/Horror_Hotel.mp4
-- https://archive.org/download/Horrors_of_Spider_Island/Horrors_of_Spider_Island.mp4 — https://archive.org/download/Horrors_of_Spider_Island/Horrors_of_Spider_Island.mp4
-- https://archive.org/download/house_on_haunted_hill_ipod/house_on_haunted_hill.mp4 — https://archive.org/download/house_on_haunted_hill_ipod/house_on_haunted_hill.mp4
-- https://archive.org/download/In_The_Year_2889/In_The_Year_2889_1967.avi.mp4 — https://archive.org/download/In_The_Year_2889/In_The_Year_2889_1967.avi.mp4
-- https://archive.org/download/indestructible_man/indestructible_man.mp4 — https://archive.org/download/indestructible_man/indestructible_man.mp4
-- https://archive.org/download/Inner_Sanctum_movie/Inner_Sanctum.mp4 — https://archive.org/download/Inner_Sanctum_movie/Inner_Sanctum.mp4
-- https://archive.org/download/one-million-years-bc-1966_202010/One%20Million%20Years%20BC%20%281966%29.mp4 — https://archive.org/download/one-million-years-bc-1966_202010/One%20Million%20Years%20BC%20%281966%29.mp4
-- https://archive.org/download/PontiacGto1966CarCommercialTvAd/GTOad.mp4 — https://archive.org/download/PontiacGto1966CarCommercialTvAd/GTOad.mp4
-- https://archive.org/download/QgRSaMOUrv2iXxFiSQpxFygTEc2tUX/tmpasla91bx.mp4 — https://archive.org/download/QgRSaMOUrv2iXxFiSQpxFygTEc2tUX/tmpasla91bx.mp4
-- https://archive.org/download/ScreamBloodyMurder/ScreamBloodyMurder.mp4 — https://archive.org/download/ScreamBloodyMurder/ScreamBloodyMurder.mp4
-- https://archive.org/download/ShockerInternetDriveInWeek3-FrankensteinDoubleFeature/shockerWeek3.mp4 — https://archive.org/download/ShockerInternetDriveInWeek3-FrankensteinDoubleFeature/shockerWeek3.mp4
-- https://archive.org/download/The_Eye_Creatures/The_Eye_Creatures_1962.avi.mp4 — https://archive.org/download/The_Eye_Creatures/The_Eye_Creatures_1962.avi.mp4
-- https://archive.org/download/The_Killer_Shrews/The_Killer_Shrews.mp4 — https://archive.org/download/The_Killer_Shrews/The_Killer_Shrews.mp4
-- https://archive.org/download/TheRoswellUFOCrashBBCDocumentaryProof/The%20Roswell%20UFO%20Crash%20BBC%20Documentary%20-%20Proof.mp4 — https://archive.org/download/TheRoswellUFOCrashBBCDocumentaryProof/The%20Roswell%20UFO%20Crash%20BBC%20Documentary%20-%20Proof.mp4
-- https://archive.org/download/tormented/tormented.mp4 — https://archive.org/download/tormented/tormented.mp4
-- https://archive.org/download/wartburg_1000_1966/wartburg_1000_1966_512kb.mp4 — https://archive.org/download/wartburg_1000_1966/wartburg_1000_1966_512kb.mp4
-- https://archive.org/download/white_zombie/white_zombie.mp4 — https://archive.org/download/white_zombie/white_zombie.mp4
+- Horror Express — https://archive.org/download/horror_express_ipod/horror_express.mp4
+- Horror Hotel — https://archive.org/download/Horror_Hotel/Horror_Hotel.mp4
+- Horrors of Spider Island — https://archive.org/download/Horrors_of_Spider_Island/Horrors_of_Spider_Island.mp4
+- House on Haunted Hill — https://archive.org/download/house_on_haunted_hill_ipod/house_on_haunted_hill.mp4
+- In Search of: Amelia Earhart — https://archive.org/download/InSearchOf16mm/In%20Search%20of...Amelia%20Earhart%20%28480p_30fps_H264-128kbit_AAC%29.mp4
+- In Search of: Ancient Aviators — https://archive.org/download/InSearchOf16mm/In%20Search%20of...Ancient%20Aviators%20%28480p_30fps_H264-128kbit_AAC%29.mp4
+- In Search of: Atlantis — https://archive.org/download/InSearchOf16mm/In%20Search%20of...Atlantis%20%28480p_30fps_H264-128kbit_AAC%29.mp4
+- In Search of: Bigfoot — https://archive.org/download/InSearchOf16mm/In%20Search%20of...Bigfoot%20%28480p_30fps_H264-128kbit_AAC%29.mp4
+- In Search of: Call From Space — https://archive.org/download/InSearchOf16mm/In%20Search%20of...A%20Call%20From%20Space%20%28480p_30fps_H264-128kbit_AAC%29.mp4
+- In Search of: Earthquakes — https://archive.org/download/InSearchOf16mm/In%20Search%20of...Earthquakes%20%28480p_30fps_H264-128kbit_AAC%29.mp4
+- In Search of: Inca Treasure — https://archive.org/download/InSearchOf16mm/In%20Search%20of...Inca%20Treasure%20%28480p_30fps_H264-128kbit_AAC%29.mp4
+- In Search of: Martians — https://dn711005.ca.archive.org/0/items/InSearchOf16mm/In%20Search%20of...%20Martians%20%28480p_30fps_H264-128kbit_AAC%29.mp4
+- In Search of: Strange Visitors — https://archive.org/download/InSearchOf16mm/In%20Search%20of...Strange%20Visitors%20%28480p_30fps_H264-128kbit_AAC%29.mp4
+- In Search of: UFOs — https://archive.org/download/InSearchOf16mm/In%20Search%20of...UFOs%20%28480p_30fps_H264-128kbit_AAC%29.mp4
+- In The Year 2889 — https://archive.org/download/In_The_Year_2889/In_The_Year_2889_1967.avi.mp4
+- Indestructible Man — https://archive.org/download/indestructible_man/indestructible_man.mp4
+- Inner Sanctum — https://archive.org/download/Inner_Sanctum_movie/Inner_Sanctum.mp4
+- Invasion Astro-Monster — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/6.InvasionOfAstro-monster1965.mp4
+- King Kong vs Godzilla — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/3.KingKongVs.Godzilla1962.mp4
+- Kolchak S00E01 Night Stalker — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S00E01%20-%20The%20Night%20Stalker.mp4
+- Kolchak S00E02 Night Strangler — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S00E02%20-%20The%20Night%20Strangler.mp4
+- Kolchak S01E01 The Ripper — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E01%20-%20The%20Ripper.mp4
+- Kolchak S01E02 The Zombie — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E02%20-%20The%20Zombie.mp4
+- Kolchak S01E03 They Will Be — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E03%20-%20They%20Have%20Been%20They%20Are%20They%20Will%20Be.mp4
+- Kolchak S01E04 The Vampire — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E04%20-%20The%20Vampire.mp4
+- Kolchak S01E05 The Werewolf — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E05%20-%20The%20Werewolf.mp4
+- Kolchak S01E06 Firefall — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E06%20-%20Firefall.mp4
+- Kolchak S01E07 Devils Platform — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E07%20-%20The%20Devils%20Platform.mp4
+- Kolchak S01E08 Bad Medicine — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E08%20-%20Bad%20Medicine.mp4
+- Kolchak S01E09 Spanish Moss — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E09%20-%20The%20Spanish%20Moss%20Murders.mp4
+- Kolchak S01E10 Energy Eater — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E10%20-%20The%20Energy%20Eater.mp4
+- Kolchak S01E11 Horror Heights — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E11%20-%20Horror%20In%20The%20Heights.mp4
+- Kolchak S01E12 Mr RING — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E12%20-%20Mr%20RING.mp4
+- Kolchak S01E13 Primal Scream — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E13%20-%20Primal%20Scream.mp4
+- Kolchak S01E14 Trevi — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E14%20-%20The%20Trevi%20Collection.mp4
+- Kolchak S01E15 Chopper — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E15%20-%20Chopper.mp4
+- Kolchak S01E16 Demon In Lace — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E16%20-%20Demon%20In%20Lace.mp4
+- Kolchak S01E17 Legacy Terror — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E17%20-%20Legacy%20of%20Terror.mp4
+- Kolchak S01E18 Knightly Murders — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E18%20-%20The%20Knightly%20Murders.mp4
+- Kolchak S01E19 Youth Killer — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E19%20-%20The%20Youth%20Killer.mp4
+- Kolchak S01E20 The Sentry — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E20%20-%20The%20Sentry.mp4
 - Last of the Summer Wine S1E01 - Of Funerals and Fish (Pilot) — https://archive.org/download/last-of-the-summer-wine-s-1-e-02-short-back-and-palais-glide/Last%20of%20the%20Summer%20Wine%20S1E01%20-%20Of%20Funerals%20and%20Fish%20%28Pilot%29.mp4
 - Last of the Summer Wine S1E02 - Short Back and Palais Glide — https://archive.org/download/last-of-the-summer-wine-s-1-e-02-short-back-and-palais-glide/Last%20of%20the%20Summer%20Wine%20S1E02%20-%20Short%20Back%20and%20Palais%20Glide.mp4
 - Last of the Summer Wine S1E03 - Inventor of the 40 Foot Ferret — https://archive.org/download/last-of-the-summer-wine-s-1-e-02-short-back-and-palais-glide/Last%20of%20the%20Summer%20Wine%20S1E03%20-%20Inventor%20of%20the%2040%20Foot%20Ferret.mp4
@@ -62,6 +387,7 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Last of the Summer Wine S1E06 - The New Mobile Trio — https://archive.org/download/last-of-the-summer-wine-s-1-e-02-short-back-and-palais-glide/Last%20of%20the%20Summer%20Wine%20S1E06%20-%20The%20New%20Mobile%20Trio.mp4
 - Last of the Summer Wine S1E07 - Hail Smiling Morn or Thereabouts — https://archive.org/download/last-of-the-summer-wine-s-1-e-02-short-back-and-palais-glide/Last%20of%20the%20Summer%20Wine%20S1E07%20-%20Hail%20Smiling%20Morn%20or%20Thereabouts.mp4
 - LegionOfOldTimers1949 — https://archive.org/download/LegionOfOldTimers1949/LegionOfOldTimers1949.mp4
+- Little Shop Of Horrors — https://archive.org/download/My-Favorite-Movies_202503/Little%20Shop%20Of%20Horrors%20%281986%29.mp4
 - MesaOfLostWomen — https://archive.org/download/MesaOfLostWomen/MesaOfLostWomen.mp4
 - Miss Marple — S01Ep01 The Body in the Library (Part One) — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/01%20The%20Body%20in%20the%20Library%20%281984%29/S01Ep01%20The%20Body%20in%20the%20Library%20%28Part%20One%29.mp4
 - Miss Marple — S01Ep02 The Body in the Library (Part Two) — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/01%20The%20Body%20in%20the%20Library%20%281984%29/S01Ep02%20The%20Body%20in%20the%20Library%20%28Part%20Two%29.mp4
@@ -76,14 +402,50 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Miss Marple — S02Ep01 Ep02 The Murder at the Vicarage — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/05%20The%20Murder%20at%20the%20Vicarage%20%281986%29/S02Ep01%20Ep02%20The%20Murder%20at%20the%20Vicarage.mp4
 - Miss Marple — S02Ep03 Sleeping Murder (Part One) — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/06%20Sleeping%20Murder%20%281987%29/S02Ep03%20Sleeping%20Murder%20%28Part%20One%29.mp4
 - Miss Marple — S02Ep04 Sleeping Murder (Part Two) — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/06%20Sleeping%20Murder%20%281987%29/S02Ep04%20Sleeping%20Murder%20%28Part%20Two%29.mp4
-- Miss Marple — S02Ep05 At Bertram — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/07%20At%20Bertram%27s%20Hotel%20%281987%29/S02Ep05%20At%20Bertram%27s%20Hotel%20%28Part%20One%29.mp4
-- Miss Marple — S02Ep06 At Bertram — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/07%20At%20Bertram%27s%20Hotel%20%281987%29/S02Ep06%20At%20Bertram%27s%20Hotel%20%28Part%20Two%29.mp4
+- Miss Marple — S02Ep05 At Bertram's Hotel (Part One) — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/07%20At%20Bertram%27s%20Hotel%20%281987%29/S02Ep05%20At%20Bertram%27s%20Hotel%20%28Part%20One%29.mp4
+- Miss Marple — S02Ep06 At Bertram's Hotel (Part Two) — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/07%20At%20Bertram%27s%20Hotel%20%281987%29/S02Ep06%20At%20Bertram%27s%20Hotel%20%28Part%20Two%29.mp4
 - Miss Marple — S02Ep07 Nemesis (Part One) — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/08%20Nemesis%20%281987%29/S02Ep07%20Nemesis%20%28Part%20One%29.mp4
 - Miss Marple — S02Ep08 Nemesis (Part Two) — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/08%20Nemesis%20%281987%29/S02Ep08%20Nemesis%20%28Part%20Two%29.mp4
 - Miss Marple — S03Ep01 4 50 from Paddington — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/09%204.50%20from%20Paddington%20%281987%29/S03Ep01%204.50%20from%20Paddington.mp4
 - Miss Marple — S03Ep02 A Caribbean Mystery — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/10%20A%20Caribbean%20Mystery%20%281989%29/S03Ep02%20A%20Caribbean%20Mystery.mp4
 - Miss Marple — S03Ep03 They Do It with Mirrors — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/11%20They%20Do%20It%20with%20Mirrors%20%281991%29/S03Ep03%20They%20Do%20It%20with%20Mirrors.mp4
-- Miss Marple — S03Ep04 The Mirror Crack — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/12%20The%20Mirror%20Crack%27d%20from%20Side%20to%20Side%20%281992%29/S03Ep04%20The%20Mirror%20Crack%27d%20from%20Side%20to%20Side.mp4
+- Miss Marple — S03Ep04 The Mirror Crack'd from Side to Side — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/12%20The%20Mirror%20Crack%27d%20from%20Side%20to%20Side%20%281992%29/S03Ep04%20The%20Mirror%20Crack%27d%20from%20Side%20to%20Side.mp4
+- Monty Python - Whither Canada? — https://archive.org/download/mpfc-remastered_20210305_1553/01.%20Whither%20Canada%3F.mp4
+- Mothra vs Godzilla — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/4.MothraVs.Godzilla1964.mp4
+- One Million Years BC — https://archive.org/download/one-million-years-bc-1966_202010/One%20Million%20Years%20BC%20%281966%29.mp4
+- Outer Limits 1x01 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e1-1963-colorized.mp4
+- Outer Limits 1x02 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e2-1963-colorized.mp4
+- Outer Limits 1x03 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e3-1963-colorized.mp4
+- Outer Limits 1x04 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e4-1963-colorized-720p-hd.mp4
+- Outer Limits 1x05 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e5-1963-colorized-720p-hd.mp4
+- Outer Limits 1x06 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e6-1963-colorized-720p-hd.mp4
+- Outer Limits 1x07 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e7-1963-colorized-720p-hd.mp4
+- Outer Limits 1x08 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e8-1963-colorized-720p-hd.mp4
+- Outer Limits 1x09 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e9-1963-colorized-720p-hd.mp4
+- Outer Limits 1x10 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e10-1963-colorized-720p-hd.mp4
+- Outer Limits 1x11 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e11-1963-colorized-720p-hd.mp4
+- Outer Limits 1x12 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e12-1963-colorized-720p-hd.mp4
+- Outer Limits 1x13 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e13-1963-colorized-720p-hd.mp4
+- Outer Limits 1x14 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e14-1963-colorized-720p-hd.mp4
+- Outer Limits 1x15 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e15-1963-colorized-720p-hd.mp4
+- Outer Limits 1x16 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e16-1963-colorized-720p-hd.mp4
+- Outer Limits 1x17 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e17-1963-colorized-720p-hd.mp4
+- Outer Limits 1x18 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e18-colorized-720p-hd.mp4
+- Outer Limits 1x19 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e19-1963-colorized-576p-sd.mp4
+- Outer Limits 1x20 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e20-1963-colorized.mp4
+- Outer Limits 1x21 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e21-1963-colorized.mp4
+- Outer Limits 1x22 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e22-1963-colorized-720p-hd.mp4
+- Outer Limits 1x23 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e23-1963-colorized-720p-hd.mp4
+- Outer Limits 1x24 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e24-1963-colorized-576p-sd.mp4
+- Outer Limits 1x25 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e25-1963-colorized-576p-sd.mp4
+- Outer Limits 1x27 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e27-1963-colorized-576p-sd.mp4
+- Outer Limits 1x28 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e28-1963-colorized-576p-sd.mp4
+- Outer Limits 1x29 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e29-1963-colorized-576p-sd.mp4
+- Outer Limits 1x30 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e30-1963-colorized-576p-sd.mp4
+- Outer Limits 1x31 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e31-1963-colorized-576p-sd.mp4
+- Outer Limits 1x32 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e32-1963-colorized-576p-sd.mp4
+- Pontiac GTO Ad — https://archive.org/download/PontiacGto1966CarCommercialTvAd/GTOad.mp4
+- Roswell BBC Doc — https://archive.org/download/TheRoswellUFOCrashBBCDocumentaryProof/The%20Roswell%20UFO%20Crash%20BBC%20Documentary%20-%20Proof.mp4
 - s01e01 EntertheLoneRanger — https://archive.org/download/theloneranger_201705/s01e01_EntertheLoneRanger.mp4
 - s01e02 TheLoneRangerFightsOn — https://archive.org/download/theloneranger_201705/s01e02_TheLoneRangerFightsOn.mp4
 - s01e03TheLoneRangersTriumph — https://archive.org/download/theloneranger_201705/s01e03TheLoneRangersTriumph.mp4
@@ -100,8 +462,63 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - s01e14 themaskedrider — https://archive.org/download/theloneranger_201705/s01e14_themaskedrider.mp4
 - s01e15 OldJoesSister — https://archive.org/download/theloneranger_201705/s01e15_OldJoesSister.mp4
 - s01e16 CanonBallMckay — https://archive.org/download/theloneranger_201705/s01e16_CanonBallMckay.mp4
+- Scream Bloody Murder — https://archive.org/download/ScreamBloodyMurder/ScreamBloodyMurder.mp4
+- Shocker Week3 Frankenstein — https://archive.org/download/ShockerInternetDriveInWeek3-FrankensteinDoubleFeature/shockerWeek3.mp4
+- Son of Godzilla — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/8.SonOfGodzilla1967.mp4
+- Space 1999 AB Chrysalis — https://archive.org/download/Space1999.Series1_201602/Space%201999%20S02E12%20The%20AB%20Chrysalis.mp4
+- Space 1999 All That Glisters — https://archive.org/download/Space1999.Series1_201602/Space%201999%20S02E09%20All%20That%20Glisters.mp4
+- Space 1999 Alpha Child — https://archive.org/download/Space1999.Series1/Space%201999%20S01E07%20Alpha%20Child.mp4
+- Space 1999 Another Time — https://archive.org/download/Space1999.Series1/Space%201999%20S01E16%20Another%20Time%2C%20Another%20Place.mp4
+- Space 1999 Black Sun — https://archive.org/download/Space1999.Series1/Space%201999%20S01E10%20Black%20Sun.mp4
+- Space 1999 Breakaway — https://archive.org/download/Space1999.Series1/Space%201999%20S01E01%20Breakaway.mp4
+- Space 1999 Brian the Brain — https://archive.org/download/Space1999.Series1_201602/Space%201999%20S02E05%20Brian%20the%20Brain.mp4
+- Space 1999 Bringers Wonder — https://archive.org/download/Space1999.Series1_201602/Space%201999%20S02E18%20The%20Bringers%20of%20Wonder%20%281%29.mp4
+- Space 1999 Bringers Wonder 2 — https://archive.org/download/Space1999.Series1_201602/Space%201999%20S02E19%20The%20Bringers%20of%20Wonder%20%282%29.mp4
+- Space 1999 Catacombs Moon — https://archive.org/download/Space1999.Series1_201602/Space%201999%20S02E13%20Catacombs%20of%20the%20Moon.mp4
+- Space 1999 Collision Course — https://archive.org/download/Space1999.Series1/Space%201999%20S01E03%20Collision%20Course.mp4
+- Space 1999 Death's Dominion — https://archive.org/download/Space1999.Series1/Space%201999%20S01E05%20Death%27s%20Other%20Dominion.mp4
+- Space 1999 Devil's Planet — https://archive.org/download/Space1999.Series1_201602/Space%201999%20S02E22%20Devil%27s%20Planet.mp4
+- Space 1999 Dorzak — https://archive.org/download/Space1999.Series1_201602/Space%201999%20S02E21%20Dorzak.mp4
+- Space 1999 Dragon's Domain — https://archive.org/download/Space1999.Series1/Space%201999%20S01E08%20Dragon%27s%20Domain.mp4
+- Space 1999 Earthbound — https://archive.org/download/Space1999.Series1/Space%201999%20S01E14%20Earthbound.mp4
+- Space 1999 End of Eternity — https://archive.org/download/Space1999.Series1/Space%201999%20S01E12%20End%20of%20Eternity.mp4
+- Space 1999 Final Message — https://archive.org/download/Space1999.Series1_201602/Space%201999%20.%20The%20Final%20Message%20From%20Moonbase%20Alpha.mp4
+- Space 1999 Force of Life — https://archive.org/download/Space1999.Series1/Space%201999%20S01E02%20Force%20of%20Life.mp4
+- Space 1999 Guardian of Piri — https://archive.org/download/Space1999.Series1/Space%201999%20S01E11%20Guardian%20of%20Piri.mp4
+- Space 1999 Immunity Syndrome — https://archive.org/download/Space1999.Series1_201602/Space%201999%20S02E23%20The%20Immunity%20Syndrome.mp4
+- Space 1999 Infernal Machine — https://archive.org/download/Space1999.Series1/Space%201999%20S01E18%20The%20Infernal%20Machine.mp4
+- Space 1999 Journey to Where — https://archive.org/download/Space1999.Series1_201602/Space%201999%20S02E03%20Journey%20to%20Where.mp4
+- Space 1999 Lambda Factor — https://archive.org/download/Space1999.Series1_201602/Space%201999%20S02E17%20The%20Lambda%20Factor.mp4
+- Space 1999 Last Enemy — https://archive.org/download/Space1999.Series1/Space%201999%20S01E24%20The%20Last%20Enemy.mp4
+- Space 1999 Last Sunset — https://archive.org/download/Space1999.Series1/Space%201999%20S01E17%20The%20Last%20Sunset.mp4
+- Space 1999 Mark of Archanon — https://archive.org/download/Space1999.Series1_201602/Space%201999%20S02E07%20The%20Mark%20of%20Archanon.mp4
+- Space 1999 Matter Balance — https://archive.org/download/Space1999.Series1_201602/Space%201999%20S02E15%20A%20Matter%20of%20Balance.mp4
+- Space 1999 Matter of Life — https://archive.org/download/Space1999.Series1/Space%201999%20S01E13%20Matter%20of%20Life%20and%20Death.mp4
+- Space 1999 Missing Link — https://archive.org/download/Space1999.Series1/Space%201999%20S01E20%20Missing%20Link.mp4
+- Space 1999 Mission Darians — https://archive.org/download/Space1999.Series1/Space%201999%20S01E09%20Mission%20of%20the%20Darians.mp4
+- Space 1999 Moment Humanity — https://archive.org/download/Space1999.Series1_201602/Space%201999%20S02E04%20One%20Moment%20of%20Humanity.mp4
+- Space 1999 New Adam Eve — https://archive.org/download/Space1999.Series1_201602/Space%201999%20S02E06%20New%20Adam%20New%20Eve.mp4
+- Space 1999 Ring Around Moon — https://archive.org/download/Space1999.Series1/Space%201999%20S01E19%20Ring%20Around%20the%20Moon.mp4
+- Space 1999 Rules of Luton — https://archive.org/download/Space1999.Series1_201602/Space%201999%20S02E08%20The%20Rules%20of%20Luton.mp4
+- Space 1999 Seance Spectre — https://archive.org/download/Space1999.Series1_201602/Space%201999%20S02E20%20The%20Seance%20Spectre.mp4
+- Space 1999 Seed Destruction — https://archive.org/download/Space1999.Series1_201602/Space%201999%20S02E11%20Seed%20of%20Destruction.mp4
+- Space 1999 Space Brain — https://archive.org/download/Space1999.Series1/Space%201999%20S01E21%20Space%20Brain.mp4
+- Space 1999 Space Warp — https://archive.org/download/Space1999.Series1_201602/Space%201999%20S02E14%20Space%20Warp.mp4
+- Space 1999 Testament Arkadia — https://archive.org/download/Space1999.Series1/Space%201999%20S01E23%20The%20Testament%20of%20Arkadia.mp4
+- Space 1999 The Beta Cloud — https://archive.org/download/Space1999.Series1_201602/Space%201999%20S02E16%20The%20Beta%20Cloud.mp4
+- Space 1999 The Dorcons — https://archive.org/download/Space1999.Series1_201602/Space%201999%20S02E24%20The%20Dorcons.mp4
+- Space 1999 The Exiles — https://archive.org/download/Space1999.Series1_201602/Space%201999%20S02E02%20The%20Exiles.mp4
+- Space 1999 The Full Circle — https://archive.org/download/Space1999.Series1/Space%201999%20S01E15%20The%20Full%20Circle.mp4
+- Space 1999 The Metamorph — https://archive.org/download/Space1999.Series1_201602/Space%201999%20S02E01%20The%20Metamorph.mp4
+- Space 1999 The Taybor — https://archive.org/download/Space1999.Series1_201602/Space%201999%20S02E10%20The%20Taybor.mp4
+- Space 1999 Troubled Spirit — https://archive.org/download/Space1999.Series1/Space%201999%20S01E22%20The%20Troubled%20Spirit.mp4
+- Space 1999 Voyager Return — https://archive.org/download/Space1999.Series1/Space%201999%20S01E06%20Voyager%27s%20Return.mp4
+- Space 1999 War Games — https://archive.org/download/Space1999.Series1/Space%201999%20S01E04%20War%20Games.mp4
+- Space 1999. The Final Message From Moonbase Alpha — https://archive.org/download/Space1999.Series1_201602/Space%201999.%20The%20Final%20Message%20From%20Moonbase%20Alpha.mp4
 - TarzanandtheTrappers — https://archive.org/download/TarzanandtheTrappers/TarzanandtheTrappers.mp4
 - TeenageDevilDolls — https://archive.org/download/TeenageDevilDolls/TeenageDevilDolls.mp4
+- Terror of Mechagodzilla — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/15.TerrorOfMechagodzilla1975.mp4
+- The Adventures of Long John Silver - Episode 1: The Necklace — https://archive.org/download/TheAdventuresOfLongJohnSilver-Episode1theNecklace/TheAdventuresOfLongJohnSilver-TheNecklace-limou3okxka.mp4
 - The Dick Cavett Show — Dick Cavett Show 1970-04-09 Paul Simon, Mickey Mantle, Whitey Ford, Marcel Marceau — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201970-04-09%20Paul%20Simon%2C%20Mickey%20Mantle%2C%20Whitey%20Ford%2C%20Marcel%20Marceau.mp4
 - The Dick Cavett Show — Dick Cavett Show 1970-11-10 Fred Astaire — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201970-11-10%20Fred%20Astaire.mp4
 - The Dick Cavett Show — Dick Cavett Show 1971-02-10 Maximilian Schell, Duke Ellington, Sally Field — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201971-02-10%20Maximilian%20Schell%2C%20Duke%20Ellington%2C%20Sally%20Field.mp4
@@ -124,6 +541,9 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - The Dick Cavett Show — Dick Cavett Show 1992-04-08 Christopher Reeve — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201992-04-08%20Christopher%20Reeve.mp4
 - The Dick Cavett Show — Dick Cavett Show 1992-04-20 Jackie Mason — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201992-04-20%20Jackie%20Mason.mp4
 - The Dick Cavett Show — Dick Cavett Show 1992-11-16 Harvey Keitel — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201992-11-16%20Harvey%20Keitel.mp4
+- The Emperor Norton (1966) — Season 7, Episode 23, of Bonanza — https://archive.org/download/TheEmperorNortonBonanza1966/The_Emperor_Norton_Bonanza_1966.mp4
+- The Eye Creatures — https://archive.org/download/The_Eye_Creatures/The_Eye_Creatures_1962.avi.mp4
+- The Killer Shrews — https://archive.org/download/The_Killer_Shrews/The_Killer_Shrews.mp4
 - The Phantom Planet — https://archive.org/download/PhantomPlanet/classicscifiphantomplanet1.mp4
 - The Phantom Planet — https://archive.org/download/PhantomPlanet/phantomplanet2.mp4
 - The Prisoner 01 Arrival — https://archive.org/download/The_Prisoner/ThePrisoner01Arrival.mp4
@@ -136,17 +556,48 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - The Prisoner 08 Dance Of The Dead — https://archive.org/download/The_Prisoner/ThePrisoner08DanceOfTheDead.mp4
 - The Prisoner 09 Checkmate — https://archive.org/download/The_Prisoner/ThePrisoner09Checkmate.mp4
 - The Prisoner 10 Hammer Into Anvil — https://archive.org/download/The_Prisoner/ThePrisoner10HammerIntoAnvil.mp4
-- The Prisoner 11 It — https://archive.org/download/The_Prisoner/ThePrisoner11ItsYourFuneral.mp4
+- The Prisoner 11 It's Your Funeral — https://archive.org/download/The_Prisoner/ThePrisoner11ItsYourFuneral.mp4
 - The Prisoner 12 A Change Of Mind — https://archive.org/download/The_Prisoner/ThePrisoner12AChangeOfMind.mp4
 - The Prisoner 13 Do Not Forsake Me Oh My Darling — https://archive.org/download/The_Prisoner/ThePrisoner13DoNotForsakeMeOhMyDarling.mp4
 - The Prisoner 14 Living In Harmony — https://archive.org/download/The_Prisoner/ThePrisoner14LivingInHarmony.mp4
 - The Prisoner 15 The Girl Who Was Death — https://archive.org/download/The_Prisoner/ThePrisoner15TheGirlWhoWasDeath.mp4
 - The Prisoner 16 Once Upon A Time — https://archive.org/download/The_Prisoner/ThePrisoner16OnceUponATime.mp4
 - The Prisoner 17 Fall Out — https://archive.org/download/The_Prisoner/ThePrisoner17FallOut.mp4
+- The Saint (2017) — https://archive.org/download/2017-the-saint-movie-1080p-spanish-or-english/(2017) -------- The Saint -- movie  (1080p, Spanish or English).mp4
 - TheCaseofLadyBeryl — https://archive.org/download/SherlockHolmes-TheCaseofLadyBeryl/TheCaseofLadyBeryl.mp4
 - TheCaseoftheShyBallerina — https://archive.org/download/SherlockHolmes-TheCaseoftheShyBallerina/TheCaseoftheShyBallerina.mp4
 - TheHoneymoonersSketch1951 — https://archive.org/download/Cavalcade_Of_Stars/TheHoneymoonersSketch1951.mp4
 - Three Stooges 1949 Failed TV Pilot — https://archive.org/download/3StoogesPilot/ThreeStooges1949FailedPilot.mp4
+- Tormented — https://archive.org/download/tormented/tormented.mp4
+- UFO 01 Identified — https://archive.org/download/UFO.complete/UFO.01.Identified.mp4
+- UFO 02 Exposed — https://archive.org/download/UFO.complete/UFO.02.Exposed.mp4
+- UFO 03 Cat With Ten Lives — https://archive.org/download/UFO.complete/UFO.03.The%20Cat%20With%20Ten%20Lives.mp4
+- UFO 04 Conflict — https://archive.org/download/UFO.complete/UFO.04.Conflict.mp4
+- UFO 05 Priorities — https://archive.org/download/UFO.complete/UFO.05.A%20Question%20of%20Priorities.mp4
+- UFO 06 ESP — https://archive.org/download/UFO.complete/UFO.06.ESP.mp4
+- UFO 07 Kill Straker — https://archive.org/download/UFO.complete/UFO.07.Kill%20Straker.mp4
+- UFO 08 Sub Smash — https://archive.org/download/UFO.complete/UFO.08.Sub%20Smash.mp4
+- UFO 09 Destruction — https://archive.org/download/UFO.complete/UFO.09.Destruction.mp4
+- UFO 10 The Square Triangle — https://archive.org/download/UFO.complete/UFO.10.The%20Square%20Triangle.mp4
+- UFO 11 Close Up — https://archive.org/download/UFO.complete/UFO.11.Close%20Up.mp4
+- UFO 12 The Psychobombs — https://archive.org/download/UFO.complete/UFO.12.The%20Psychobombs.mp4
+- UFO 13 Survival — https://archive.org/download/UFO.complete/UFO.13.Survival.mp4
+- UFO 14 Mindbender — https://archive.org/download/UFO.complete/UFO.14.Mindbender.mp4
+- UFO 15 Flight Path — https://archive.org/download/UFO.complete/UFO.15.Flight%20Path.mp4
+- UFO 16 Man Who Came Back — https://archive.org/download/UFO.complete/UFO.16.The%20Man%20Who%20Came%20Back.mp4
+- UFO 17 Dalotek Affair — https://archive.org/download/UFO.complete/UFO.17.The%20Dalotek%20Affair.mp4
+- UFO 18 Timelash — https://archive.org/download/UFO.complete/UFO.18.Timelash.mp4
+- UFO 19 Ordeal — https://archive.org/download/UFO.complete/UFO.19.Ordeal.mp4
+- UFO 20 Court Martial — https://archive.org/download/UFO.complete/UFO.20.Court%20Martial.mp4
+- UFO 21 Computer Affair — https://archive.org/download/UFO.complete/UFO.21.Computer%20Affair.mp4
+- UFO 22 Confetti Check — https://archive.org/download/UFO.complete/UFO.22.Confetti%20Check%20A%20OK.mp4
+- UFO 23 Sound of Silence — https://archive.org/download/UFO.complete/UFO.23.The%20Sound%20of%20Silence.mp4
+- UFO 24 Reflections In Water — https://archive.org/download/UFO.complete/UFO.24.Reflections%20In%20The%20Water.mp4
+- UFO 25 Responsibility Seat — https://archive.org/download/UFO.complete/UFO.25.The%20Responsibility%20Seat.mp4
+- UFO 26 The Long Sleep — https://archive.org/download/UFO.complete/UFO.26.The%20Long%20Sleep.mp4
+- Wartburg 1000 Ad — https://archive.org/download/wartburg_1000_1966/wartburg_1000_1966_512kb.mp4
+- White Zombie — https://archive.org/download/white_zombie/white_zombie.mp4
 - Wonderfu1960 — https://archive.org/download/Wonderfu1960/Wonderfu1960.mp4
 - Wonderfu1960 edit — https://archive.org/download/Wonderfu1960/Wonderfu1960_edit.mp4
+- World War Z — https://archive.org/download/My-Favorite-Movies_202503/World%20War%20Z.mp4
 - キャプテンナイス (CAPTAIN NICE) — https://archive.org/download/capn-nice-tv-show/%E3%82%AD%E3%83%A3%E3%83%97%E3%83%86%E3%83%B3%E3%83%8A%E3%82%A4%E3%82%B9%20%28CAPTAIN%20NICE%29.mp4
