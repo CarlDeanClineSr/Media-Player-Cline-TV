@@ -1,62 +1,166 @@
 # CLINE TV — NEW CHANNEL LIBRARY
 
-This is the organized catalog for the new TV-style lineup. Original titles and Archive.org media URLs are preserved. No title has been rewritten just to fit a channel. Items that cannot be placed confidently are in REVIEW HOLD at the end and are not player channels yet.
+**Purpose:** a TV-style lineup, not an Archive.org dump. Channels are ordered by viewing interest. The original program title and direct media URL are retained. No renamed titles are used as catalog truth.
 
-## Channel order
+## LINEUP
 
-- **CH 01 — MOVIE NIGHT** · 76 programs
-- **CH 02 — ACTION & ADVENTURE** · 1 programs
-- **CH 03 — SCI-FI & SPACE** · 5 programs
-- **CH 04 — HORROR & MONSTERS** · 19 programs
-- **CH 05 — COMEDY & ROMANCE** · 1 programs
-- **CH 06 — WESTERNS & HISTORICAL** · 1 programs
-- **CH 07 — FAMILY & ANIMATION** · 329 programs
-- **CH 08 — CLASSIC TV** · 203 programs
-- **CH 09 — SCI-FI TV** · 159 programs
-- **CH 10 — CRIME & MYSTERY TV** · 1 programs
-- **CH 11 — COMEDY & VARIETY TV** · 1 programs
-- **CH 12 — FAMILY & CHILDREN TV** · 3 programs
-- **CH 13 — DOCUMENTARIES** · 90 programs
-- **CH 14 — SCIENCE & COSMOS** · 990 programs
-- **CH 15 — HISTORY & WAR** · 18 programs
-- **CH 16 — SPACE & NASA** · 48 programs
-- **CH 17 — SPORTS** · 18 programs
-- **CH 18 — OLD-TIME RADIO** · 1603 programs
-- **CH 19 — RADIO DRAMA & MYSTERY** · 177 programs
-- **CH 20 — RADIO COMEDY** · 0 programs
-- **CH 21 — MUSIC & JAZZ** · 93 programs
-- **CH 22 — NEWS & PUBLIC AFFAIRS** · 68 programs
-- **CH 23 — EDUCATION & TECHNOLOGY** · 0 programs
-- **CH 24 — SPECIALS & EVENTS** · 6 programs
+- **CH 01 — FEATURE FILMS** · 119 programs
+- **CH 02 — SCI-FI & SPACE FILMS** · 45 programs
+- **CH 03 — HORROR & MONSTERS** · 20 programs
+- **CH 04 — FAMILY & ANIMATION FILMS** · 9 programs
+- **CH 05 — CLASSIC & WESTERN FILMS** · 1 programs
+- **CH 06 — COMEDY & ROMANCE FILMS** · 6 programs
+- **CH 07 — CLASSIC TV** · 451 programs
+- **CH 08 — SCI-FI TV** · 189 programs
+- **CH 09 — CRIME & MYSTERY TV** · 120 programs
+- **CH 10 — COMEDY & VARIETY TV** · 1 programs
+- **CH 11 — FAMILY & CHILDREN TV** · 613 programs
+- **CH 12 — DOCUMENTARIES** · 163 programs
+- **CH 13 — SCIENCE & COSMOS** · 1074 programs
+- **CH 14 — HISTORY & WAR** · 6 programs
+- **CH 15 — SPACE & NASA** · 59 programs
+- **CH 16 — SPORTS** · 196 programs
+- **CH 17 — OLD-TIME RADIO** · 1741 programs
+- **CH 18 — RADIO DRAMA & MYSTERY** · 312 programs
+- **CH 19 — RADIO COMEDY & SATIRE** · 0 programs
+- **CH 20 — MUSIC & JAZZ** · 95 programs
+- **CH 21 — NEWS & PUBLIC AFFAIRS** · 57 programs
+- **CH 22 — EDUCATION & TECHNOLOGY** · 156 programs
+- **CH 23 — SPECIALS & EVENTS** · 0 programs
 
-**Review hold:** 1558 programs
+**Review hold:** 35 programs — not assigned to a player channel until reviewed.
 
 ---
 
-## CH 01 — MOVIE NIGHT
+## CH 01 — FEATURE FILMS
 
+- 1955Chev1955 — https://archive.org/download/1955Chev1955/1955Chev1955.mp4
+- 1955Chev1955 edit — https://archive.org/download/1955Chev1955/1955Chev1955_edit.mp4
+- A Christmas Story (1983) — https://dn720300.ca.archive.org/0/items/a-christmas-story_202105/A%20Christmas%20Story%20.ia.mp4
 - A Hard Day’s Night (1964) — https://archive.org/download/aharddaysnightmovie/1964.8.11
 - Acapulco Gold(1976) — https://archive.org/download/acapulco.-gold.-1976.1080p.-blu-ray.-h-264.-aac-rarbg/Acapulco.Gold.1976.1080p.BluRay.H264.AAC-RARBG.ia.mp4
-- All Quiet on the Western Front (1930) — https://dn721904.ca.archive.org/0/items/All_Quiet_on_the_Western_Front_1930_AMC_Film_Preservation/All_Quiet_on_the_Western_Front_1930_AMC_Film_Preservation.mp4
-- Amazing Spider-man 2 — https://archive.org/download/My-Favorite-Movies_202503/Spider-man%205%20The%20Amazing%20Spider-man%202.mp4
+- Angel on My Shoulder — https://archive.org/download/angel_on_my_shoulder/angel_on_my_shoulder.mp4
+- babies and breadwinners 2 — https://archive.org/download/babies_and_breadwinners_2/babies_and_breadwinners_2.mp4
+- babies and breadwinners 2 edit — https://archive.org/download/babies_and_breadwinners_2/babies_and_breadwinners_2_edit.mp4
+- Batteries 2009 512kb — https://archive.org/download/batteriesnotincluded_2009/Batteries_2009_512kb.mp4
+- bb minnie the moocher 512kb — https://archive.org/download/bb_minnie_the_moocher/bb_minnie_the_moocher_512kb.mp4
+- Black Gold — https://archive.org/download/Black_Gold/BlackGold.mp4
+- CaptainKidd — https://archive.org/download/CaptainKidd_/CaptainKidd.mp4
+- CarnivalOfSouls — https://archive.org/download/CarnivalofSouls/CarnivalOfSouls.mp4
+- Carol For Another Christmas — https://archive.org/download/carol-for-another-christmas-1964/Carol
+- ccoPublicDomainAttack of the Giant Leeches — https://archive.org/download/cco_attackofthegiantleeches/ccoPublicDomainAttack_of_the_Giant_Leeches.mp4
 - Christmas Vacation — https://archive.org/download/My-Favorite-Movies_202503/National%20Lampoon%27s%20Christmas%20Vacation.mp4
+- Corvairi1960 — https://archive.org/download/Corvairi1960/Corvairi1960.mp4
+- Corvairi1960 edit — https://archive.org/download/Corvairi1960/Corvairi1960_edit.mp4
+- Countdow1960 — https://archive.org/download/Countdow1960/Countdow1960.mp4
+- Countdow1960 edit — https://archive.org/download/Countdow1960/Countdow1960_edit.mp4
 - Day After Tomorrow — https://archive.org/download/My-Favorite-Movies_202503/The%20Day%20After%20Tomarrow.mp4
+- dead people — https://archive.org/download/dead_people_ipod/dead_people.mp4
+- Deep Red — https://archive.org/download/DeepRed1975/DeepRed.mp4
+- Desert Gold — https://archive.org/download/DesertGold/DesertGold.mp4
+- Drive-inIntermission7 512kb — https://archive.org/download/DriveInIntermission7/Drive-inIntermission7_512kb.mp4
+- DVD5 — https://archive.org/download/Night.Of.The.Living.Dead_1080p/NightOfTheLivingDead_DVD5.mp4
+- DVD9 — https://archive.org/download/Night.Of.The.Living.Dead_1080p/NightOfTheLivingDead_DVD9.mp4
 - E.T. The Extra Terrestrial — https://archive.org/download/My-Favorite-Movies_202503/E.T%20The%20Extra%20Terrestrial.mp4
-- Fantastic Planet 1973 DUBBED REMASTERED — https://archive.org/download/fantastic-planet__1973/Fantastic.Planet.1973.DUBBED.REMASTERED.1080p.BluRay.H264.AAC.mp4
+- EndoftheWorld — https://archive.org/download/EndoftheWorld/EndoftheWorld.mp4
+- Fiddler On The Roof — https://archive.org/download/fiddler-on-the-roof/Fiddler
+- FLIP FROG-FIDDLESTICKS DVD 512kb — https://archive.org/download/FLIP_FROG-FIDDLESTICKS/FLIP_FROG-FIDDLESTICKS_DVD_512kb.mp4
+- FLIP FROG-FIDDLESTICKS VCD 512kb — https://archive.org/download/FLIP_FROG-FIDDLESTICKS/FLIP_FROG-FIDDLESTICKS_VCD_512kb.mp4
+- FLIP THE FROG - FIDDLESTICKS — https://archive.org/download/FLIP_FROG-FIDDLESTICKS/FLIP_FROG-FIDDLESTICKS_256k.mp4
+- FLIP THE FROG - FIDDLESTICKS — https://archive.org/download/FLIP_FROG-FIDDLESTICKS/FLIP_FROG-FIDDLESTICKS_64k.mp4
+- gags and gals — https://archive.org/download/gags_and_gals/gags_and_gals.mp4
+- gags and gals edit — https://archive.org/download/gags_and_gals/gags_and_gals_edit.mp4
 - Gangster Story — https://archive.org/download/GangsterStory/GangsterStoryPresentedByMoviePowder.mp4
-- Ghidorah The Three Headed Monster (1964) — https://archive.org/download/RecurringDinosaurInfestationFilms/4.GhidorahTheThreeHeadedMonster1964.mp4
-- Grave-of-the-Vampire — https://archive.org/download/Grave_of_the_Vampire_movie/Grave-of-the-Vampire.mp4
-- Halo 4 Forward Unto Dawn — https://archive.org/download/My-Favorite-Movies_202503/Halo%204%20Forward%20Unto%20Dawn.mp4
+- Gold — https://archive.org/download/Gold-1932/Gold.mp4
+- GonewiththeWest — https://archive.org/download/GonewiththeWest/GonewiththeWest.mp4
+- Good Bad & Ugly — https://archive.org/download/TheGoodTheBadAndTheUgly1966/The%20Good%2C%20the%20Bad%20and%20the%20Ugly%20%5B1966%5D.mp4
 - Help! - The Beatles Movie — https://archive.org/download/help_20201109/Help!.mp4
-- Herbie Fully Loaded — https://archive.org/download/My-Favorite-Movies_202503/%282005%29%20Herbie%20Fully%20Loaded.mp4
-- Herbie Goes Bananas — https://archive.org/download/My-Favorite-Movies_202503/%281980%29%20Herbie%20Goes%20Bananas.mp4
-- Herbie Monte Carlo — https://archive.org/download/My-Favorite-Movies_202503/%281977%29%20Herbie%20Goes%20To%20Monte%20Carlo.mp4
-- Herbie Rides Again — https://archive.org/download/My-Favorite-Movies_202503/%281974%29%20Herbie%20Rides%20Again.mp4
+- How Green Was My Valley (1941) — https://archive.org/download/HowGreenWasMyValley1941_201812/How
+- https://archive.org/download/Night.Of.The.Living.Dead_1080p/NightOfTheLivingDead_1080p.mp4 — https://archive.org/download/Night.Of.The.Living.Dead_1080p/NightOfTheLivingDead_1080p.mp4
+- https://archive.org/download/Night.Of.The.Living.Dead_1080p/NightOfTheLivingDead_720p.mp4 — https://archive.org/download/Night.Of.The.Living.Dead_1080p/NightOfTheLivingDead_720p.mp4
+- hussy1959 — https://archive.org/download/LouisianaHussy_319/hussy1959.mp4
 - Indestructible Man — https://archive.org/download/Indestructible_Man_movie/Indestructible_Man.mp4
 - Into The Storm — https://archive.org/download/My-Favorite-Movies_202503/Into%20The%20Storm.mp4
+- INVASION OF THE BEE GIRLS widescreen — https://archive.org/download/InvasionOfTheBeeGirlsWidescreenQualityUpgrade/InvasionOfTheBeeGirlsWidescreen.mp4
+- Invasion of the Saucer Men (1957) — https://archive.org/download/invasion-of-the-saucer-men-1957-colorized-classics/Invasion%20of%20the%20Saucer%20Men%20%281957%29%20Colorized%20Classics.mp4
+- iPhone & iPod Touch — https://archive.org/download/Night.Of.The.Living.Dead_1080p/NightOfTheLivingDead_iPhone.mp4
+- iPod — https://archive.org/download/Night.Of.The.Living.Dead_1080p/NightOfTheLivingDead_iPod.mp4
 - Iron Man (2008) — https://archive.org/download/My-Favorite-Movies_202503/Iron%20Man%20%282008%29.mp4
 - Iron Man 2 — https://archive.org/download/My-Favorite-Movies_202503/Iron%20Man%202.mp4
 - Iron Man 3 — https://archive.org/download/My-Favorite-Movies_202503/Iron%20Man%203.mp4
+- Island of the sunken gold / De brandende vulkaan — https://archive.org/download/Island_of_the-sunken_gold/De_brandende_vulkaan_episode_1_to_5_512kb.mp4
+- It's Alive — https://archive.org/download/ItsAlive/ItsAlive.mp4
+- King Kong (1933) — Colorized 1989 — https://ia601609.us.archive.org/25/items/king-kong-in-color-1989/King-Kong-in-Color-1989.mp4
+- Kronos (1957) — Colorized — https://dn710200.ca.archive.org/0/items/kronos-1957-colorized-mvoie-576p-sd/kronos-1957-colorized%20mvoie-576p-sd.mp4
+- Le Tatoué (1968) — https://archive.org/download/le-tatoue-1968/Le
+- Long John Silver (1954) — https://archive.org/download/LongJohnSilver1954/Long
+- Ma Barkers Killer Brood — https://archive.org/download/Ma_Barkers_Killer_Brood/Ma_Barkers_Killer_Brood.mp4
+- Messiah of Evil — https://archive.org/download/MessiahofEvil_avi/Messiah_of_Evil.mp4
+- Murder à la Mod (1968 Film Noir, Crime, Murder, Mystery, Dramady) — https://archive.org/download/murder-a-la-mod-1968-film-noir-dramady-crime-murcer-mystery/Murder
+- My Favorite Brunette — https://archive.org/download/my_favorite_brunette/my_favorite_brunette.mp4
+- Night — https://archive.org/download/night_of_the_living_dead_dvd/Night.mp4
+- NightOfTheLivingDead m2ts — https://archive.org/download/Night.Of.The.Living.Dead_1080p/NightOfTheLivingDead.mp4
+- OutofThi1954 — https://archive.org/download/OutofThi1954/OutofThi1954.mp4
+- Popeye meetsSinbadtheSailor 512kb — https://archive.org/download/Popeye_meetsSinbadtheSailor/Popeye_meetsSinbadtheSailor_512kb.mp4
+- Pot o Gold — https://archive.org/download/pot_o_gold/pot_o_gold.mp4
+- Prisoners Of The Lost Universe (1983) — https://archive.org/download/PrisonersOfTheLostUniverse1983/PrisonersOfTheLostUniverse1983.mp4
+- PS3 — https://archive.org/download/Night.Of.The.Living.Dead_1080p/NightOfTheLivingDead_PS3.mp4
+- PSP — https://archive.org/download/Night.Of.The.Living.Dead_1080p/NightOfTheLivingDead_PSP.mp4
+- Red vs Blue Restoration — https://archive.org/download/My-Favorite-Movies_202503/Red%20vs%20Blue%20Restoration.mp4
+- Road To El Dorado — https://archive.org/download/My-Favorite-Movies_202503/The%20Road%20To%20El%20Dorado.mp4
+- Santa Claus Conquers The Martians ( 1964) HD VERSION — https://archive.org/download/y-2-mate.is-santa-claus-conquers-the-martians-1964-adventure-comedy-sci-fi-chris/Y2Mate.is
+- Seconds (1966) — https://archive.org/download/seconds.-1966.1080p.-blu-ray.-h-264.-aac-rarbg/Seconds.1966.1080p.BluRay.H264.AAC-RARBG.ia.mp4
+- Silver Spurs — https://archive.org/download/silver_spurs/silver_spurs.mp4
+- Silver Trail, The — https://archive.org/download/the_silver_trail/the_silver_trail.mp4
+- Silver_Fleet_The — https://archive.org/download/Silver_Fleet_The/Silver_Fleet_The_.mp4
+- swingin six — https://archive.org/download/swingin_six/swingin_six.mp4
+- swingin six edit — https://archive.org/download/swingin_six/swingin_six_edit.mp4
+- The Brain That Wouldnt Die — https://archive.org/download/TheBrainThatWouldntDie_165/TheBrainThatWouldNotDie1962.mp4
+- The Day the Earth Stood Still (1951) — https://dn720705.ca.archive.org/0/items/day-the-earth-stood-still-1951/Day%20the%20Earth%20Stood%20Still%201951.mp4
+- The Fast And The Furious — https://archive.org/download/TheFastandtheFuriousJohnIreland1954goofyrip/TheFastandtheFuriousJohnIreland1954goofyrip.mp4
+- The Ghoul — https://archive.org/download/TheGhoul/TheGhoul_1933.mp4
+- The Gorilla — https://archive.org/download/the_gorilla/the_gorilla.mp4
+- The Graduate (1967) — https://archive.org/download/the-graduate-1967_202301/The
+- The Grim Reaper (1976) — https://archive.org/download/the-grim-reaper-1976/The
+- The Homecoming: A Christmas Story (1971) — https://archive.org/download/the-waltons-christmas-movie-the-homecoming-ty-for-sharing-morris-pattison-this-is-a-classic/The
+- The House On Haunted Hill — https://archive.org/download/House_On_Haunted_Hill.avi/The_House_on_Haunted_Hill.mp4
+- The Invisible Man (1933) — https://dn720208.ca.archive.org/0/items/invisible-man-1933/Invisible%20Man%201933.mp4
+- The Last Starfighter (1984) — https://ia801508.us.archive.org/7/items/the-last-starfighter-1984-mca-universal-home-video-vhs-rip/THE%20LAST%20STARFIGHTER%201984%20MCA%20UNIVERSAL%20HOME%20VIDEO%20VHS%20RIP.mp4
+- The Phantom Planet — https://archive.org/download/Phantom_Planet/The_Phantom_Planet.mp4
+- The Silver Horde — https://archive.org/download/SilverHorde1930/The_Silver_Horde_1930.mp4
+- The Terror — https://archive.org/download/TheTerror/TheTerror.mp4
+- The Thing (1982) — Cinema 17 WOC — https://dn710202.ca.archive.org/0/items/the-thing-cinema-17-woc-phl-17-7.19.91-8pm/The%20Thing%20-%20Cinema%2017%20WOC%20-%20PHL17%2C%207.19.91%20%40%208pm.mp4
+- The Thing from Another World (1951) — TBS Turner Colorized — https://dn710009.ca.archive.org/0/items/the-thing-from-another-world-tbs-turner-colorized-version/The%20Thing%20From%20Another%20World%20%28TBS%20Turner%20Colorized%20Version%29%20and%20Inside%20Detroit%20%28Partial%29.ia.mp4
+- The Time Machine (1978) — https://archive.org/download/the-time-machine-1978-time-travel-sci-fi/The%20Time%20Machine%20%281978%20Time%20Travel%20SciFi%29.mp4
+- The Wizard of Oz — https://archive.org/download/My-Favorite-Movies_202503/The%20Wizard%20of%20Oz.mp4
+- TheAtomicBrain — https://archive.org/download/atomic_brain_1964/TheAtomicBrain.mp4
+- TheMostDangerousGame — https://archive.org/download/TheMostDangerousGame/TheMostDangerousGame.mp4
+- TheThing — https://archive.org/download/TheThingFromAnotherWorld_201712/TheThing.mp4
+- they made me a criminal 1939 — https://archive.org/download/They_Made_Me_A_Criminal_1939/they_made_me_a_criminal_1939.mp4
+- ThiefofBagdad1924 512kb — https://archive.org/download/ThiefOfBagdad1924/ThiefofBagdad1924_512kb.mp4
+- ThisisNotaTest — https://archive.org/download/ThisisNotaTest/ThisisNotaTest.mp4
+- Titanic (1997) — https://archive.org/download/My-Favorite-Movies_202503/Titanic%20%281997%29.mp4
+- Total Recall (1990) — https://ia801603.us.archive.org/23/items/1990-total-recall-1990-carolco-vhs-480p-h-264/1990%20Total%20Recall%20%281990%20Carolco%20VHS%29%20480p%20H264.mp4
+- Twister — https://archive.org/download/My-Favorite-Movies_202503/Twister.mp4
+- Une vierge chez les morts-vivants — https://archive.org/download/a-virgin-among-the-living-dead/A
+- Venom (2018) — https://archive.org/download/My-Favorite-Movies_202503/Venom%20%282018%29.mp4
+- Venom The Last Dance — https://archive.org/download/My-Favorite-Movies_202503/Venom%20The%20Last%20Dance.mp4
+- VTS 01 1 — https://archive.org/download/night_of_the_living_dead_dvd/VTS_01_1.mp4
+- VTS 01 2 — https://archive.org/download/night_of_the_living_dead_dvd/VTS_01_2.mp4
+- VTS 01 3 — https://archive.org/download/night_of_the_living_dead_dvd/VTS_01_3.mp4
+- week 18 — https://archive.org/download/ShockerInternetDriveIn-Week18aNaschyDoubleFeature/week_18.mp4
+- Week13 — https://archive.org/download/ShockerInternetDriveIn-Week13dementedDoubleFeature/Week13.mp4
+- Woman of the Lake (1966) — https://archive.org/download/woman.of.the.-lake.-1966.-dvdrip.-onna.no.-mizuumi.-yoshishige.-yoshida/Woman.of.the.Lake.1966.DVDRip.Onna.no.Mizuumi.Yoshishige.Yoshida.mp4
+- Young and Innocent — https://archive.org/download/YoungandInnocentTheGirlWasYoung/Young_and_Innocent.mp4
+- Zontar the Thing from Venus (Restored) — https://archive.org/download/ZontarTheThingFromVenusrestored/Zontarrestored.mp4
+
+## CH 02 — SCI-FI & SPACE FILMS
+
+- All Quiet on the Western Front (1930) — https://dn721904.ca.archive.org/0/items/All_Quiet_on_the_Western_Front_1930_AMC_Film_Preservation/All_Quiet_on_the_Western_Front_1930_AMC_Film_Preservation.mp4
+- Amazing Spider-man 2 — https://archive.org/download/My-Favorite-Movies_202503/Spider-man%205%20The%20Amazing%20Spider-man%202.mp4
+- Assignment Outer Space — https://archive.org/download/Assignment_Outer_Space/Assignment_Outer_Space.mp4
+- Fantastic Planet 1973 DUBBED REMASTERED — https://archive.org/download/fantastic-planet__1973/Fantastic.Planet.1973.DUBBED.REMASTERED.1080p.BluRay.H264.AAC.mp4
+- Halo 4 Forward Unto Dawn — https://archive.org/download/My-Favorite-Movies_202503/Halo%204%20Forward%20Unto%20Dawn.mp4
 - Jurassic Park (1993) — https://archive.org/download/My-Favorite-Movies_202503/Jurassic%20Park%20%281993%29.mp4
 - Jurassic Park 3 — https://archive.org/download/My-Favorite-Movies_202503/Jurassic%20Park%203.mp4
 - Jurassic Park Lost World — https://archive.org/download/My-Favorite-Movies_202503/Jurassic%20Park%202%20The%20Lost%20World.mp4
@@ -64,16 +168,12 @@ This is the organized catalog for the new TV-style lineup. Original titles and A
 - Jurassic World Dominion — https://archive.org/download/My-Favorite-Movies_202503/Jurassic%20World%203%20Dominion.mp4
 - Jurassic World Fallen Kingdom — https://archive.org/download/My-Favorite-Movies_202503/Jurassic%20World%202%20Fallen%20Kingdom.mp4
 - Jurassic World Rebirth — https://archive.org/download/My-Favorite-Movies_202503/Jurassic%20World%204%20Rebirth.mp4
+- Killers From Space — https://archive.org/download/Killers_from_space/Killers_from_space.mp4
 - Mars Needs Moms — https://archive.org/download/My-Favorite-Movies_202503/Mars%20Needs%20Moms.mp4
-- Murder à la Mod (1968 Film Noir, Crime, Murder, Mystery, Dramady) — https://archive.org/download/murder-a-la-mod-1968-film-noir-dramady-crime-murcer-mystery/Murder
 - planet outlaws — https://archive.org/download/planet_outlaws_ipod/planet_outlaws.mp4
 - Ready Player One — https://archive.org/download/My-Favorite-Movies_202503/Ready%20Player%20One.mp4
-- Red vs Blue Restoration — https://archive.org/download/My-Favorite-Movies_202503/Red%20vs%20Blue%20Restoration.mp4
-- Road To El Dorado — https://archive.org/download/My-Favorite-Movies_202503/The%20Road%20To%20El%20Dorado.mp4
+- Robinson Crusoe on Mars (1964) — https://dn711000.ca.archive.org/0/items/RobinsonCrusoeOnMarsEn/RobinsonCrusoeOnMarsEn.mp4
 - Robots — https://archive.org/download/My-Favorite-Movies_202503/Robots.mp4
-- Rush Hour 1 — https://archive.org/download/My-Favorite-Movies_202503/Rush%20Hour%201.mp4
-- Rush Hour 2 — https://archive.org/download/My-Favorite-Movies_202503/Rush%20Hour%202.mp4
-- Rush Hour 3 — https://archive.org/download/My-Favorite-Movies_202503/Rush%20Hour%203.mp4
 - Spider-man (2002) — https://archive.org/download/My-Favorite-Movies_202503/Spider-man%20%282002%29.mp4
 - Spider-man 2 — https://archive.org/download/My-Favorite-Movies_202503/Spider-man%202.mp4
 - Spider-man 3 — https://archive.org/download/My-Favorite-Movies_202503/Spider-man%203.mp4
@@ -91,43 +191,22 @@ This is the organized catalog for the new TV-style lineup. Original titles and A
 - Star Wars Ep 9 — https://archive.org/download/My-Favorite-Movies_202503/Star%20Wars%20Episode%209%20The%20Rise%20of%20Skywalker.mp4
 - Sweet Sweetback’s Badass Song - Full Movie — https://archive.org/download/1566981383/1566981383.mp4
 - Target Earth (1954) — https://archive.org/download/target-earth-1954-colorized/Target%20Earth%201954%20colorized.mp4
+- Teenagers from Outer Space — https://archive.org/download/teenagers_from_outerspace/Teenagers_from_Outer_Space.mp4
 - The Amazing Spider-man — https://archive.org/download/My-Favorite-Movies_202503/Spider-man%204%20The%20Amazing%20Spider-man.mp4
-- The Homecoming: A Christmas Story (1971) — https://archive.org/download/the-waltons-christmas-movie-the-homecoming-ty-for-sharing-morris-pattison-this-is-a-classic/The
-- The Love Bug (1968) — https://archive.org/download/My-Favorite-Movies_202503/%281968%29%20The%20Love%20Bug.mp4
-- The Love Bug (1997) — https://archive.org/download/My-Favorite-Movies_202503/%281997%29%20The%20Love%20Bug.mp4
-- The Phantom Planet — https://archive.org/download/Phantom_Planet/The_Phantom_Planet.mp4
 - The Quiet Earth (1985) — https://ia800709.us.archive.org/4/items/the-quiet-earth-1985-vhs-rip/THE%20QUIET%20EARTH%201985%20VHS%20RIP.mp4
-- The Wizard of Oz — https://archive.org/download/My-Favorite-Movies_202503/The%20Wizard%20of%20Oz.mp4
-- Titanic (1997) — https://archive.org/download/My-Favorite-Movies_202503/Titanic%20%281997%29.mp4
 - TripDownMktStreet clean — https://archive.org/download/TripDownMarketStreetrBeforeTheFire/TripDownMktStreet_clean.mp4
 - Tron (1982) — https://archive.org/download/My-Favorite-Movies_202503/Tron%20%281982%29.mp4
 - Tron Ares — https://archive.org/download/My-Favorite-Movies_202503/Tron%20%282025%29%20Tron%20Ares.mp4
 - Tron Legacy — https://archive.org/download/My-Favorite-Movies_202503/Tron%20%282010%29%20Tron%20Legacy.mp4
-- Twister — https://archive.org/download/My-Favorite-Movies_202503/Twister.mp4
-- Venom (2018) — https://archive.org/download/My-Favorite-Movies_202503/Venom%20%282018%29.mp4
 - Venom Let There Be Carnage — https://archive.org/download/My-Favorite-Movies_202503/Venom%20Let%20There%20Be%20Carnage.mp4
-- Venom The Last Dance — https://archive.org/download/My-Favorite-Movies_202503/Venom%20The%20Last%20Dance.mp4
 - Voyage to the Planet of Prehistoric Women — https://archive.org/download/VoyageToThePlanetOfPrehistoricWomen_20130813/Voyage%20to%20the%20Planet%20of%20Prehistoric%20Women.mp4
 - Voyage to the Planet of Prehistoric Women — https://archive.org/download/VoyagetothePlanetofPrehistoricWomen/VoyagetothePlanetofPrehistoricWomen.mp4
-- week 18 — https://archive.org/download/ShockerInternetDriveIn-Week18aNaschyDoubleFeature/week_18.mp4
-- Week13 — https://archive.org/download/ShockerInternetDriveIn-Week13dementedDoubleFeature/Week13.mp4
 
-## CH 02 — ACTION & ADVENTURE
-
-- Santa Claus Conquers The Martians ( 1964) HD VERSION — https://archive.org/download/y-2-mate.is-santa-claus-conquers-the-martians-1964-adventure-comedy-sci-fi-chris/Y2Mate.is
-
-## CH 03 — SCI-FI & SPACE
-
-- Assignment Outer Space — https://archive.org/download/Assignment_Outer_Space/Assignment_Outer_Space.mp4
-- Killers From Space — https://archive.org/download/Killers_from_space/Killers_from_space.mp4
-- Robinson Crusoe on Mars (1964) — https://dn711000.ca.archive.org/0/items/RobinsonCrusoeOnMarsEn/RobinsonCrusoeOnMarsEn.mp4
-- Teenagers from Outer Space — https://archive.org/download/teenagers_from_outerspace/Teenagers_from_Outer_Space.mp4
-- The Time Machine (1978) — https://archive.org/download/the-time-machine-1978-time-travel-sci-fi/The%20Time%20Machine%20%281978%20Time%20Travel%20SciFi%29.mp4
-
-## CH 04 — HORROR & MONSTERS
+## CH 03 — HORROR & MONSTERS
 
 - A Ghost Story for Christmas — Lot No. 249 (2023) — https://archive.org/download/a-ghost-story-for-christmas-1971/A
 - Frankenstein (1931) — Colorized — https://dn600309.us.archive.org/0/items/frankenstein-1931-colorized/Frankenstein%201931%20colorized.mp4
+- Ghidorah The Three Headed Monster (1964) — https://archive.org/download/RecurringDinosaurInfestationFilms/4.GhidorahTheThreeHeadedMonster1964.mp4
 - Ghost-Town Gold — https://archive.org/download/three_mesquiteers/three_mesquiteers.mp4
 - Godzilla (1998) — https://archive.org/download/My-Favorite-Movies_202503/Godzilla%20%281998%29.mp4
 - Godzilla (2014) — https://archive.org/download/My-Favorite-Movies_202503/Godzilla%20%282014%29.mp4
@@ -137,383 +216,146 @@ This is the organized catalog for the new TV-style lineup. Original titles and A
 - Godzilla Vs Kong 2 The New Empire — https://archive.org/download/My-Favorite-Movies_202503/Godzilla%20Vs%20Kong%202%20The%20New%20Empire.mp4
 - Godzilla vs Monster Zero (1965) — https://archive.org/download/RecurringDinosaurInfestationFilms/6.GodzillaVsMonsterZero1965.mp4
 - Godzilla vs The Sea Monster (1966) — https://archive.org/download/RecurringDinosaurInfestationFilms/7.GodzillaVsTheSeaMonster1966.mp4
+- Grave-of-the-Vampire — https://archive.org/download/Grave_of_the_Vampire_movie/Grave-of-the-Vampire.mp4
 - Horror Express — https://archive.org/download/Horror_Express/Horror_Express.mp4
 - Mothra vs Godzilla (1964) — https://archive.org/download/RecurringDinosaurInfestationFilms/5.MothraVsGodzilla1964.mp4
 - Nightmare Castle — https://archive.org/download/nightmare_castle/M4V10002.MP4
 - Nightmare Castle — https://archive.org/download/nightmare_castle/nightmare_castle.mp4
 - Nightmare Castle — https://archive.org/download/NightmareCastle/MoviePowderPresentsNightmareCastle.mp4
-- The House On Haunted Hill — https://archive.org/download/House_On_Haunted_Hill.avi/The_House_on_Haunted_Hill.mp4
 - The Monster That Challenged the World (1957) — Colorized — https://dn720309.ca.archive.org/0/items/monster-that-challenged-the-world-1957-colorized/Monster%20That%20Challenged%20the%20World%201957%20colorized.mp4
 - Young Frankenstein (1974) — Colorized — https://ia801003.us.archive.org/1/items/young-frankenstein-colorized-1974-720p/Young%20Frankenstein%20%28Colorized%2C%201974%29%20720p.mp4
 
-## CH 05 — COMEDY & ROMANCE
-
-- A Dolls House (1973 Christmas, Drama, Romance) — https://archive.org/download/a-dolls-house-1973-christmas-drama-romance/A
-
-## CH 06 — WESTERNS & HISTORICAL
-
-- Rio Lobo (1970 John Wayne Western Civil War) — https://archive.org/download/rio-lobo-1970-john-wayne-western-civil-war/Rio
-
-## CH 07 — FAMILY & ANIMATION
+## CH 04 — FAMILY & ANIMATION FILMS
 
 - Atlantis 2 Milo's Return — https://archive.org/download/My-Favorite-Movies_202503/Atlantis%202%20Milo%27s%20Return.mp4
 - Atlantis Lost Empire — https://archive.org/download/My-Favorite-Movies_202503/Atlantis%20%282001%29%20The%20Lost%20Empire.mp4
 - FamilyEnforcer — https://archive.org/download/FamilyEnforcer/FamilyEnforcer.mp4
+- Herbie Fully Loaded — https://archive.org/download/My-Favorite-Movies_202503/%282005%29%20Herbie%20Fully%20Loaded.mp4
+- Herbie Goes Bananas — https://archive.org/download/My-Favorite-Movies_202503/%281980%29%20Herbie%20Goes%20Bananas.mp4
+- Herbie Monte Carlo — https://archive.org/download/My-Favorite-Movies_202503/%281977%29%20Herbie%20Goes%20To%20Monte%20Carlo.mp4
+- Herbie Rides Again — https://archive.org/download/My-Favorite-Movies_202503/%281974%29%20Herbie%20Rides%20Again.mp4
 - Princess and the Frog — https://archive.org/download/My-Favorite-Movies_202503/The%20Princess%20and%20the%20Frog.mp4
 - welcome animation — https://archive.org/download/Welcome2DriveIn/welcome_animation.mp4
-- 01 Three Is A Magic Number — https://archive.org/download/schoolhouse-rock-30th/01%20Three%20Is%20A%20Magic%20Number.mp4
-- 02 My Hero Zero — https://archive.org/download/schoolhouse-rock-30th/02%20My%20Hero%20Zero.mp4
-- 03 Elementary My Dear — https://archive.org/download/schoolhouse-rock-30th/03%20Elementary%20My%20Dear.mp4
-- 04 The Four Legged Zoo — https://archive.org/download/schoolhouse-rock-30th/04%20The%20Four%20Legged%20Zoo.mp4
-- 05 Ready Or Not — https://archive.org/download/schoolhouse-rock-30th/05%20Ready%20Or%20Not%20Here%20I%20Come.mp4
-- 06 I Got Six — https://archive.org/download/schoolhouse-rock-30th/06%20I%20Got%20Six.mp4
-- 07 Lucky Seven Sampson — https://archive.org/download/schoolhouse-rock-30th/07%20Lucky%20Seven%20Sampson.mp4
-- 08 Figure Eight — https://archive.org/download/schoolhouse-rock-30th/08%20Figure%20Eight.mp4
-- 09 Naughty Number Nine — https://archive.org/download/schoolhouse-rock-30th/09%20Naughty%20Number%20Nine.mp4
-- 10 The Good Eleven — https://archive.org/download/schoolhouse-rock-30th/10%20The%20Good%20Eleven.mp4
-- 11 Little Twelvetoes — https://archive.org/download/schoolhouse-rock-30th/11%20Little%20Twelvetoes.mp4
-- 12 Noun Person Place Thing — https://archive.org/download/schoolhouse-rock-30th/12%20A%20Noun%20Is%20A%20Person%20Place%20Or%20Thing.mp4
-- 13 Verb Whats Happening — https://archive.org/download/schoolhouse-rock-30th/13%20Verb%20Thats%20Whats%20Happening.mp4
-- 14 Conjunction Junction — https://archive.org/download/schoolhouse-rock-30th/14%20Conjunction%20Junction.mp4
-- 15 Interjections — https://archive.org/download/schoolhouse-rock-30th/15%20Interjections.mp4
-- 16 Unpack Your Adjectives — https://archive.org/download/schoolhouse-rock-30th/16%20Unpack%20Your%20Adjectives.mp4
-- 17 Lolly Lolly Lolly Adverbs — https://archive.org/download/schoolhouse-rock-30th/17%20Lolly%20Lolly%20Lolly%20Get%20Your%20Adverbs%20Here.mp4
-- 18 Rufus Xavier Sasparilla — https://archive.org/download/schoolhouse-rock-30th/18%20Rufus%20Xavier%20Sasparilla.mp4
-- 19 Busy Prepositions — https://archive.org/download/schoolhouse-rock-30th/19%20Busy%20Prepositions.mp4
-- 20 The Tale Of Mr Morton — https://archive.org/download/schoolhouse-rock-30th/20%20The%20Tale%20Of%20Mr%20Morton.mp4
-- 21 No More Kings — https://archive.org/download/schoolhouse-rock-30th/21%20No%20More%20Kings.mp4
-- 22 Shot Heard Round World — https://archive.org/download/schoolhouse-rock-30th/22%20The%20Shot%20Heard%20Round%20the%20World.mp4
-- 23 The Preamble — https://archive.org/download/schoolhouse-rock-30th/23%20The%20Preamble.mp4
-- 24 Sufferin Till Suffrage — https://archive.org/download/schoolhouse-rock-30th/24%20Sufferin%20Till%20Suffrage.mp4
-- 25 Im Just A Bill — https://archive.org/download/schoolhouse-rock-30th/25%20Im%20Just%20A%20Bill.mp4
-- 26 American Melting Pot — https://archive.org/download/schoolhouse-rock-30th/26%20The%20Great%20American%20Melting%20Pot.mp4
-- 27 Elbow Room — https://archive.org/download/schoolhouse-rock-30th/27%20Elbow%20Room.mp4
-- 28 Fireworks — https://archive.org/download/schoolhouse-rock-30th/28%20Fireworks.mp4
-- 29 Mother Necessity — https://archive.org/download/schoolhouse-rock-30th/29%20Mother%20Necessity.mp4
-- 30 Three Ring Government — https://archive.org/download/schoolhouse-rock-30th/30%20Three%20Ring%20Government.mp4
-- 31 Vote To College — https://archive.org/download/schoolhouse-rock-30th/31%20Im%20Gonna%20Send%20Your%20Vote%20To%20College%20In%20Surround.mp4
-- 32 You Earned Your Diploma — https://archive.org/download/schoolhouse-rock-30th/32%20You%20Earned%20Your%20Diploma%20and%20Presidential%20Minute.mp4
-- 33 A Victim Of Gravity — https://archive.org/download/schoolhouse-rock-30th/33%20A%20Victim%20Of%20Gravity.mp4
-- 34 Interplanet Janet — https://archive.org/download/schoolhouse-rock-30th/34%20Interplanet%20Janet.mp4
-- 35 The Body Machine — https://archive.org/download/schoolhouse-rock-30th/35%20The%20Body%20Machine.mp4
-- 36 Do The Circulation — https://archive.org/download/schoolhouse-rock-30th/36%20Do%20The%20Circulation.mp4
-- 37 The Energy Blues — https://archive.org/download/schoolhouse-rock-30th/37%20The%20Energy%20Blues.mp4
-- 38 Them Not So Dry Bones — https://archive.org/download/schoolhouse-rock-30th/38%20Them%20Not%20So%20Dry%20Bones.mp4
-- 39 Electricity Electricity — https://archive.org/download/schoolhouse-rock-30th/39%20Electricity%20Electricity.mp4
-- 40 Telegraph Line — https://archive.org/download/schoolhouse-rock-30th/40%20Telegraph%20Line.mp4
-- 41 The Weather Show — https://archive.org/download/schoolhouse-rock-30th/41%20The%20Weather%20Show.mp4
-- 42 Scooter Computer Intro — https://archive.org/download/schoolhouse-rock-30th/42%20Scooter%20Computer%20Introduction.mp4
-- 43 Scooter Comp Hardware — https://archive.org/download/schoolhouse-rock-30th/43%20Scooter%20Computer%20Hardware.mp4
-- 44 Scooter Comp Software — https://archive.org/download/schoolhouse-rock-30th/44%20Scooter%20Computer%20Software.mp4
-- 45 Number Cruncher — https://archive.org/download/schoolhouse-rock-30th/45%20Scooter%20Computer%20Number%20Cruncher.mp4
-- 46 Dollars And Sense — https://archive.org/download/schoolhouse-rock-30th/46%20Dollars%20And%20Sense.mp4
-- 47 Tax Man Max — https://archive.org/download/schoolhouse-rock-30th/47%20Tax%20Man%20Max.mp4
-- 48 Where The Money Goes — https://archive.org/download/schoolhouse-rock-30th/48%20Where%20The%20Money%20Goes.mp4
-- 49 Seven Dollars 50 Cents — https://archive.org/download/schoolhouse-rock-30th/49%20Seven%20Dollars%20Fifty%20Cents%20Once%20A%20Week.mp4
-- 50 Tyrannosaurus Debt — https://archive.org/download/schoolhouse-rock-30th/50%20Tyrannosaurus%20Debt.mp4
-- 51 This For That — https://archive.org/download/schoolhouse-rock-30th/51%20This%20For%20That.mp4
-- 52 Walkin On Wall Street — https://archive.org/download/schoolhouse-rock-30th/52%20Walkin%20On%20The%20Wall%20Street.mp4
-- 53 The Checks In The Mail — https://archive.org/download/schoolhouse-rock-30th/53%20The%20Checks%20In%20The%20Mail.mp4
-- 54 Report from North Pole — https://archive.org/download/schoolhouse-rock-30th/54%20Report%20from%20the%20North%20Pole.mp4
-- 55 Little Things We Do — https://archive.org/download/schoolhouse-rock-30th/55%20The%20Little%20Things%20We%20Do.mp4
-- 56 The Trash Can Band — https://archive.org/download/schoolhouse-rock-30th/56%20The%20Trash%20Can%20Band.mp4
-- 57 You Oughta Savin Water — https://archive.org/download/schoolhouse-rock-30th/57%20You%20Oughta%20Be%20Savin%20Water.mp4
-- 58 The Rainforest — https://archive.org/download/schoolhouse-rock-30th/58%20The%20Rainforest.mp4
-- 59 Save the Ocean — https://archive.org/download/schoolhouse-rock-30th/59%20Save%20the%20Ocean.mp4
-- 60 Clean Rivers Song — https://archive.org/download/schoolhouse-rock-30th/60%20Fat%20Cat%20Blue%20-%20The%20Clean%20Rivers%20Song.mp4
-- 61 A Tiny Urban Zoo — https://archive.org/download/schoolhouse-rock-30th/61%20A%20Tiny%20Urban%20Zoo.mp4
-- 62 Solar Power to People — https://archive.org/download/schoolhouse-rock-30th/62%20Solar%20Power%20to%20the%20People.mp4
-- 63 Windy and Windmills — https://archive.org/download/schoolhouse-rock-30th/63%20Windy%20and%20the%20Windmills.mp4
-- 64 Don't Be Carbon Sasquatch — https://archive.org/download/schoolhouse-rock-30th/64%20Don%27t%20Be%20a%20Carbon%20Sasquatch.mp4
-- 65 The Three Rs — https://archive.org/download/schoolhouse-rock-30th/65%20The%20Three%20Rs.mp4
-- 66 MV Conjunction Junction — https://archive.org/download/schoolhouse-rock-30th/66%20Music%20Video%20-%20Conjunction%20Junction%20-%20Better%20Than%20Ezra.mp4
-- 67 MV Electricity Goodness — https://archive.org/download/schoolhouse-rock-30th/67%20Music%20Video%20-%20Electricity%20Electricity%20-%20Goodness.mp4
-- 68 MV Im Just a Bill — https://archive.org/download/schoolhouse-rock-30th/68%20Music%20Video%20-%20Im%20Just%20a%20Bill%20-%20Deluxe%20Folk%20Implosion.mp4
-- 69 MV My Hero Zero — https://archive.org/download/schoolhouse-rock-30th/69%20Music%20Video%20-%20My%20Hero%20Zero%20-%20Lemonheads.mp4
-- 70 Making Of Vote To College — https://archive.org/download/schoolhouse-rock-30th/70%20The%20Making%20Of%20Im%20Gonna%20Send%20Your%20Vote%20To%20College.mp4
-- 71 Directors Commentaries — https://archive.org/download/schoolhouse-rock-30th/71%20Directors%20Commentaries.mp4
-- 72 Emmy Awards Featurette — https://archive.org/download/schoolhouse-rock-30th/72%20Emmy%20Awards%20Featurette.mp4
-- 73 Nike Commercial Magic No — https://archive.org/download/schoolhouse-rock-30th/73%20Nike%20Commercial%20Three%20is%20A%20Magic%20Number.mp4
-- Alvin & the Chipmunks — Princess and the Pig (S07E11b) — https://archive.org/download/1983-alvin-and-the-chipmunks-complete/Chipmunks
-- Date with the Angels - 1950s Family Sitcom - Christmas Episode — https://archive.org/download/DateWithTheAngels-1950sFamilySitcom-ChristmasEpisode/DateWithTheAngels-Christmas.mp4
-- Disney Cartoon Classics — An Officer and a Duck — https://archive.org/download/258AS/An
-- Disney Cartoon Classics — Donald’s Bee Pictures — https://archive.org/download/255AS/Donald's
-- Disney Cartoon Classics — From Pluto with Love — https://archive.org/download/261AS/From
-- Disney Cartoon Classics — How the Best Was Won — https://archive.org/download/259AS/How
-- Disney Cartoon Classics — Life with Mickey! — https://archive.org/download/260AS/Life
-- Disney Cartoon Classics — Minnie — https://archive.org/download/wdcc-lge-minnie-vhsrip/WDCC.LGE.Minnie.VHSRip.mp4
-- Disney Cartoon Classics — The Disney Dream Factory — https://archive.org/download/257AS/The
-- Disney Cartoon Classics — The World According to Goofy — https://archive.org/download/256AS/The
-- Frosty the Snowman (1969) — https://archive.org/download/1969-frosty-the-snowman-christmas-movies-for-kids-animated-cartoons-for-children/2011
-- Pink Panther — Olympinks! — https://archive.org/download/ThePinkPanther-cartoons/The
-- Pink Panther — We Give Pink Stamps (1965) — https://archive.org/download/the-pink-panther-cartoon-collection/003
-- Reading Rainbow — The Gift of the Sacred Dog (S01E10) — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S01E10.The.Gift.of.the.Sacred.Dog.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S01E01 Tight Times — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S01E01.Tight.Times.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S01E02 Miss Nelson is Back — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S01E02.Miss.Nelson.is.Back.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S01E03 Bea and Mr Jones — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S01E03.Bea.and.Mr.Jones.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S01E04 Bringing the Rain to Kapiti Plain — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S01E04.Bringing.the.Rain.to.Kapiti.Plain.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S01E05 Louis the Fish — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S01E05.Louis.the.Fish.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S01E06 Digging Up Dinosaurs — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S01E06.Digging.Up.Dinosaurs.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S01E07 Liang and the Magic Paintbrush — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S01E07.Liang.and.the.Magic.Paintbrush.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S01E08 Gila Monsters Meet You at the Airport — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S01E08.Gila.Monsters.Meet.You.at.the.Airport.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S01E09 Three Days on a River in a Red Canoe — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S01E09.Three.Days.on.a.River.in.a.Red.Canoe.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S01E11 Gregory the Terrible Eater — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S01E11.Gregory.the.Terrible.Eater.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S01E12 Three By the Sea — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S01E12.Three.By.the.Sea.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S01E13 Arthurs Eyes — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S01E13.Arthurs.Eyes.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S01E14 The Day Jimmys Boa Ate the Wash — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S01E14.The.Day.Jimmys.Boa.Ate.the.Wash.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S01E15 Tys One-Man Band — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S01E15.Tys.One-Man.Band.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S02E01 Hot-Air Henry — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S02E01.Hot-Air.Henry.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S02E02 Simons Book — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S02E02.Simons.Book.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S02E03 Ox-Cart Man — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S02E03.Ox-Cart.Man.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S02E04 Mystery on the Docks — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S02E04.Mystery.on.the.Docks.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S02E05 A Chair for My Mother — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S02E05.A.Chair.for.My.Mother.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S03E01 Paul Bunyan — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S03E01.Paul.Bunyan.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S03E02 The Patchwork Quilt — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S03E02.The.Patchwork.Quilt.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S03E03 Hill of Fire — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S03E03.Hill.of.Fire.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S03E04 The Tortoise and the Hare — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S03E04.The.Tortoise.and.the.Hare.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S03E05 Perfect the Pig — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S03E05.Perfect.the.Pig.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S04E01 Animal Cafe — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S04E01.Animal.Cafe.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S04E02 Alistair in Outer Space — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S04E02.Alistair.in.Outer.Space.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S04E03 Feelings — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S04E03.Feelings.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S04E04 Watch the Stars Come Out — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S04E04.Watch.the.Stars.Come.Out.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S04E05 Mama Dont Allow — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S04E05.Mama.Dont.Allow.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S04E06 Space Case — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S04E06.Space.Case.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S04E07 The Milk Makers — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S04E07.The.Milk.Makers.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S04E08 Imogenes Antlers — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S04E08.Imogenes.Antlers.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S04E09 Germs Make Me Sick — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S04E09.Germs.Make.Me.Sick.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S04E10 Abiyoyo — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S04E10.Abiyoyo.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S05E01 The Life Cycle of the Honey Bee — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S05E01.The.Life.Cycle.of.the.Honey.Bee.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S05E02 Keep the Lights Burning Abbie — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S05E02.Keep.the.Lights.Burning.Abbie.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S05E03 Chickens Arent the Only Ones — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S05E03.Chickens.Arent.the.Only.Ones.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S05E04 The Paper Crane — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S05E04.The.Paper.Crane.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S05E05 The Runaway Duck — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S05E05.The.Runaway.Duck.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S05E06 A Three Hat Day — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S05E06.A.Three.Hat.Day.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S05E07 Rumpelstiltskin — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S05E07.Rumpelstiltskin.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S05E08 Best Friends — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S05E08.Best.Friends.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S05E09 Meanwhile Back at the Ranch — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S05E09.Meanwhile.Back.at.the.Ranch.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S05E10 My Little Island — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S05E10.My.Little.Island.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S06E01 The Bionic Bunny Show — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S06E01.The.Bionic.Bunny.Show.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S06E02 Bugs — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S06E02.Bugs.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S06E03 The Robbery at the Diamond Dog Diner — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S06E03.The.Robbery.at.the.Diamond.Dog.Diner.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S06E04 Brush — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S06E04.Brush.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S06E05 The Purple Coat — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S06E05.The.Purple.Coat.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S06E06 Barn Dance — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S06E06.Barn.Dance.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S06E07 Duncan and Dolores — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S06E07.Duncan.and.Dolores.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S06E08 Knots on a Counting Rope — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S06E08.Knots.on.a.Counting.Rope.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S06E09 Mummies Made in Egypt — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S06E09.Mummies.Made.in.Egypt.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S06E10 Mufaros Beautiful Daughters — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S06E10.Mufaros.Beautiful.Daughters.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S07E01 Humphrey the Lost Whale A True Story — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S07E01.Humphrey.the.Lost.Whale.A.True.Story.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S07E02 Stay Away from the Junkyard — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S07E02.Stay.Away.from.the.Junkyard.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S07E03 Little Ninos Pizzeria — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S07E03.Little.Ninos.Pizzeria.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S07E04 Ludlow Laughs — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S07E04.Ludlow.Laughs.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S07E05 Dinosaur Bob and His Adventures with the Family Lazardo — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S07E05.Dinosaur.Bob.and.His.Adventures.with.the.Family.Lazardo.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S07E06 Dive to the Coral Reefs — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S07E06.Dive.to.the.Coral.Reefs.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S07E07 Desert Giant — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S07E07.Desert.Giant.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S07E08 Tooth-Gnasher Superflash — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S07E08.Tooth-Gnasher.Superflash.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S07E09 Bored- Nothing to Do — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S07E09.Bored-.Nothing.to.Do.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S07E10 Sports Pages — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S07E10.Sports.Pages.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S08E01 The Magic School Bus Inside the Earth — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S08E01.The.Magic.School.Bus.Inside.the.Earth.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S08E02 Jack the Seal and the Sea — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S08E02.Jack.the.Seal.and.the.Sea.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S08E03 The Bicycle Man — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S08E03.The.Bicycle.Man.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S08E04 Florence and Eric Take the Cake — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S08E04.Florence.and.Eric.Take.the.Cake.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S08E05 Sunken Treasure — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S08E05.Sunken.Treasure.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S09E01 Alistairs Time Machine — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S09E01.Alistairs.Time.Machine.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S09E02 The Adventures of Taxi Dog — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S09E02.The.Adventures.of.Taxi.Dog.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S09E03 The Legend of the Indian Paintbrush — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S09E03.The.Legend.of.the.Indian.Paintbrush.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S09E04 Galimoto — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S09E04.Galimoto.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S09E05 Fox on the Job — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S09E05.Fox.on.the.Job.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S09E06 Opt An Illusionary Tale — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S09E06.Opt.An.Illusionary.Tale.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S09E07 Raccoons and Ripe Corn — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S09E07.Raccoons.and.Ripe.Corn.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S09E08 The Lady with the Ship on Her Head — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S09E08.The.Lady.with.the.Ship.on.Her.Head.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S09E09 Kate Shelley and the Midnight Express — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S09E09.Kate.Shelley.and.the.Midnight.Express.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S09E10 Snowy Day Stories and Poems — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S09E10.Snowy.Day.Stories.and.Poems.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S10E01 Tar Beach — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S10E01.Tar.Beach.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S10E02 The Wall — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S10E02.The.Wall.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S10E03 Sam the Sea Cow — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S10E03.Sam.the.Sea.Cow.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S10E04 Rechenkas Eggs — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S10E04.Rechenkas.Eggs.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S10E05 Sophie and Lou — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S10E05.Sophie.and.Lou.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S10E06 Come a Tide — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S10E06.Come.a.Tide.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S10E07 The Piggy in the Puddle — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S10E07.The.Piggy.in.the.Puddle.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S10E08 Seashore Surprises — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S10E08.Seashore.Surprises.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S10E09 Through Moon and Stars and Night Skies — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S10E09.Through.Moon.and.Stars.and.Night.Skies.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S10E10 Berlioz the Bear — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S10E10.Berlioz.the.Bear.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S11E01 Amazing Grace — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S11E01.Amazing.Grace.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S11E02 The Furry News — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S11E02.The.Furry.News.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S11E03 Mrs Katz and Tush — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S11E03.Mrs.Katz.and.Tush.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
-- Reading Rainbow S11E04 The Salamander Room — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S11E04.The.Salamander.Room.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
-- Reading Rainbow S11E05 Silent Lotus — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S11E05.Silent.Lotus.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
-- Reading Rainbow S11E06 Follow the Drinking Gourd — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S11E06.Follow.the.Drinking.Gourd.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
-- Reading Rainbow S11E07 If You Give a Mouse a Cookie — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S11E07.If.You.Give.a.Mouse.a.Cookie.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S11E08 Is This a House for a Hermit Crab — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S11E08.Is.This.a.House.for.a.Hermit.Crab.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S11E09 And Still the Turtle Watched — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S11E09.And.Still.the.Turtle.Watched.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
-- Reading Rainbow S11E10 29-Jun-99 — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S11E10.29-Jun-99.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
-- Reading Rainbow S12E01 Nosey Mrs Rat — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S12E01.Nosey.Mrs.Rat.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
-- Reading Rainbow S12E02 Borreguita and the Coyote — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S12E02.Borreguita.and.the.Coyote.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
-- Reading Rainbow S12E03 Summer — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S12E03.Summer.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S12E04 Once There Was a Tree — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S12E04.Once.There.Was.a.Tree.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
-- Reading Rainbow S12E05 Appelemondos Dreams — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S12E05.Appelemondos.Dreams.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
-- Reading Rainbow S12E06 The Lotus Seed — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S12E06.The.Lotus.Seed.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
-- Reading Rainbow S12E07 Hail to Mail — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S12E07.Hail.to.Mail.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
-- Reading Rainbow S12E08 Stellaluna — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S12E08.Stellaluna.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
-- Reading Rainbow S12E09 My Shadow — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S12E09.My.Shadow.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S12E10 Ruth Law Thrills a Nation — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S12E10.Ruth.Law.Thrills.a.Nation.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
-- Reading Rainbow S13E01 The Wonderful Tower of Watts — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S13E01.The.Wonderful.Tower.of.Watts.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S13E02 Martha Speaks — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S13E02.Martha.Speaks.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
-- Reading Rainbow S13E03 Alejandros Gift — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S13E03.Alejandros.Gift.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
-- Reading Rainbow S13E04 The Sign Painters Dream — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S13E04.The.Sign.Painters.Dream.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
-- Reading Rainbow S13E05 Archibald Frisby — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S13E05.Archibald.Frisby.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
-- Reading Rainbow S14E01 Fly Away Home — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S14E01.Fly.Away.Home.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
-- Reading Rainbow S14E02 Uncle Jeds Barbershop — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S14E02.Uncle.Jeds.Barbershop.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
-- Reading Rainbow S14E03 How to Make An Apple Pie and See the World — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S14E03.How.to.Make.An.Apple.Pie.and.See.the.World.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S14E04 Owen — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S14E04.Owen.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S14E05 How Much is a Million — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S14E05.How.Much.is.a.Million.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
-- Reading Rainbow S15E01 Always My Dad — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S15E01.Always.My.Dad.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
-- Reading Rainbow S15E02 Bread is for Eating — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S15E02.Bread.is.for.Eating.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
-- Reading Rainbow S15E03 Hotel Animal — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S15E03.Hotel.Animal.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
-- Reading Rainbow S15E04 Someplace Else — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S15E04.Someplace.Else.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
-- Reading Rainbow S15E05 Zin Zin Zin A Violin — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S15E05.Zin.Zin.Zin.A.Violin.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S16E01 On the Day You Were Born — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S16E01.On.the.Day.You.Were.Born.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
-- Reading Rainbow S16E02 Hip Cat — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S16E02.Hip.Cat.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
-- Reading Rainbow S16E03 Reginas Big Mistake — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S16E03.Reginas.Big.Mistake.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
-- Reading Rainbow S16E04 Giving Thanks A Native American Good Morning Message — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S16E04.Giving.Thanks.A.Native.American.Good.Morning.Message.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S16E05 The Carousel — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S16E05.The.Carousel.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
-- Reading Rainbow S17E01 Math Cure — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S17E01.Math.Cure.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
-- Reading Rainbow S17E02 My Life with the Wave — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S17E02.My.Life.with.the.Wave.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
-- Reading Rainbow S17E03 Saturday Sancocho — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S17E03.Saturday.Sancocho.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
-- Reading Rainbow S17E04 When Aunt Lena Did the Rhumba — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S17E04.When.Aunt.Lena.Did.the.Rhumba.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
-- Reading Rainbow S17E05 Work Song — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S17E05.Work.Song.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
-- Reading Rainbow S18E01 The Shamans Apprentice — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S18E01.The.Shamans.Apprentice.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
-- Reading Rainbow S18E02 Pet Stories You Dont Have to Walk — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S18E02.Pet.Stories.You.Dont.Have.to.Walk.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S18E03 Lemonade for Sale — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S18E03.Lemonade.for.Sale.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
-- Reading Rainbow S18E04 The Secret Shortcut — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S18E04.The.Secret.Shortcut.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
-- Reading Rainbow S18E05 My America A Poetry Atlas of the United States — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S18E05.My.America.A.Poetry.Atlas.of.the.United.States.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
-- Reading Rainbow S18E06 Badgers Parting Gift — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S18E06.Badgers.Parting.Gift.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
-- Reading Rainbow S19E01 The Tin Forest — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S19E01.The.Tin.Forest.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S19E02 Max — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S19E02.Max.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
-- Reading Rainbow S19E03 Enemy Pie — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S19E03.Enemy.Pie.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
-- Reading Rainbow S19E04 Our Big Home — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S19E04.Our.Big.Home.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
-- Reading Rainbow S20E01 Visiting Day — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S20E01.Visiting.Day.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
-- Reading Rainbow S20E02 Unique Monique — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S20E02.Unique.Monique.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
-- Reading Rainbow S20E03 Mr George Baker — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S20E03.Mr.George.Baker.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S20E04 Beegu — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S20E04.Beegu.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
-- Reading Rainbow S20E05 Two Old Potatoes and Me — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S20E05.Two.Old.Potatoes.and.Me.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
-- Reading Rainbow S21E01 The Biggest Test in the Universe — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S21E01.The.Biggest.Test.in.the.Universe.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
-- Reading Rainbow S21E02 I Lost My Tooth in Africa — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S21E02.I.Lost.My.Tooth.in.Africa.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
-- Reading Rainbow S21E03 Boxes for Katje — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S21E03.Boxes.for.Katje.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
-- Reading Rainbow S21E04 Game Day — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S21E04.Game.Day.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
-- Reading Rainbow S21E05 Show Way — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S21E05.Show.Way.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
-- Rocky & Bullwinkle & Friends - Extra 1 - Bullwinkle Puppet Intros — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Extras/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20Extra%201%20-%20Bullwinkle%20Puppet%20Intros.mp4
-- Schoolhouse Rock — 73 Nike Commercial Three is a Magic Number — https://archive.org/download/schoolhouse-rock-30th/73%20Nike%20Commercial%20Three%20is%20a%20Magic%20Number.mp4
-- Supaidaman — 23 - To the Love Academy of the Homeless Children — https://archive.org/download/Supaidman/Supaidaman/23%20-%20To%20the%20Love%20Academy%20of%20the%20Homeless%20Children.mp4
-- The Bear Who Slept Through Christmas (1973) — https://archive.org/download/the-bear-who-slept-who-christmas-1973-family-home-entertainment-1984/The
-- The Beatles — A Hard Day’s Night / I Want to Hold Your Hand — https://archive.org/download/thebeatlescartoon_201910/01-A
-- The Beatles — All My Loving / Day Tripper (S02E06) — https://archive.org/download/the-beatles-cartoon_2023/The
-- The Snow Queen (Animation) — https://archive.org/download/the_snow_queen_1959_animation/snow_queen_us_version.mp4
-- X-Men — EP01 - Night of the Sentinels — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP01%20-%20Night%20of%20the%20Sentinels.mp4
-- X-Men — EP02 - Night of the Sentinels Pt 2 — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP02%20-%20Night%20of%20the%20Sentinels%20Pt.%202.mp4
-- X-Men — EP03 - Enter Magneto — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP03%20-%20Enter%20Magneto.mp4
-- X-Men — EP04 - Deadly Reunions — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP04%20-%20Deadly%20Reunions.mp4
-- X-Men — EP05 - Captive Hearts — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP05%20-%20Captive%20Hearts.mp4
-- X-Men — EP06 - Cold Vengeance — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP06%20-%20Cold%20Vengeance.mp4
-- X-Men — EP07 - Slave Island — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP07%20-%20Slave%20Island.mp4
-- X-Men — EP08 - The Unstoppable Juggernaut — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP08%20-%20The%20Unstoppable%20Juggernaut.mp4
-- X-Men — EP09 - The Cure — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP09%20-%20The%20Cure.mp4
-- X-Men — EP10 - Come the Apocalypse — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP10%20-%20Come%20the%20Apocalypse.mp4
-- X-Men — EP11 - Days of Future Past — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP11%20-%20Days%20of%20Future%20Past.mp4
-- X-Men — EP12 - Days of Future Past Pt 2 — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP12%20-%20Days%20of%20Future%20Past%20Pt.%202.mp4
-- X-Men — EP13 - The Final Decision — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP13%20-%20The%20Final%20Decision.mp4
-- X-Men — EP14 - Till Death Do Us Part — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP14%20-%20Till%20Death%20Do%20Us%20Part.mp4
-- X-Men — EP15 - Till Death Do Us Part Pt 2 — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP15%20-%20Till%20Death%20Do%20Us%20Part%20Pt.%202.mp4
-- X-Men — EP16 - Whatever It Takes — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP16%20-%20Whatever%20It%20Takes.mp4
-- X-Men — EP17 - Red Dawn — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP17%20-%20Red%20Dawn.mp4
-- X-Men — EP18 - Repo Man — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP18%20-%20Repo%20Man.mp4
-- X-Men — EP19 - X-Ternally Yours — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP19%20-%20X-Ternally%20Yours.mp4
-- X-Men — EP20 - Time Fugitives — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP20%20-%20Time%20Fugitives.mp4
-- X-Men — EP21 - Time Fugitives Pt 2 — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP21%20-%20Time%20Fugitives%20Pt.%202.mp4
-- X-Men — EP22 - A Rogue's Tale — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP22%20-%20A%20Rogue%27s%20Tale.mp4
-- X-Men — EP23 - Beauty & the Beast — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP23%20-%20Beauty%20%26%20the%20Beast.mp4
-- X-Men — EP24 - Mojovision — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP24%20-%20Mojovision.mp4
-- X-Men — EP25 - Reunion — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP25%20-%20Reunion.mp4
-- X-Men — EP26 - Reunion Pt 2 — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP26%20-%20Reunion%20Pt.%202.mp4
-- X-Men — EP27 - Out of the Past — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP27%20-%20Out%20of%20the%20Past.mp4
-- X-Men — EP28 - Out of the Past Pt 2 — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP28%20-%20Out%20of%20the%20Past%20Pt.%202.mp4
-- X-Men — EP29 - The Phoenix Saga, Part I Sacrifice — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP29%20-%20The%20Phoenix%20Saga%2C%20Part%20I%20Sacrifice.mp4
-- X-Men — EP30 - The Phoenix Saga, Part II The Dark Shroud — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP30%20-%20The%20Phoenix%20Saga%2C%20Part%20II%20The%20Dark%20Shroud.mp4
-- X-Men — EP31 - The Phoenix Saga, Part III The Cry of the Banshee — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP31%20-%20The%20Phoenix%20Saga%2C%20Part%20III%20The%20Cry%20of%20the%20Banshee.mp4
-- X-Men — EP32 - The Phoenix Saga, Part IV The Starjammers — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP32%20-%20The%20Phoenix%20Saga%2C%20Part%20IV%20The%20Starjammers.mp4
-- X-Men — EP33 - The Phoenix Saga, Part V Child of Light — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP33%20-%20The%20Phoenix%20Saga%2C%20Part%20V%20Child%20of%20Light.mp4
-- X-Men — EP34 - No Mutant Is an Island — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP34%20-%20No%20Mutant%20Is%20an%20Island.mp4
-- X-Men — EP35 - Obsession — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP35%20-%20Obsession.mp4
-- X-Men — EP36 - Longshot — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP36%20-%20Longshot.mp4
-- X-Men — EP37 - Cold Comfort — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP37%20-%20Cold%20Comfort.mp4
-- X-Men — EP38 - Savage Land, Strange Heart - Part One — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP38%20-%20Savage%20Land%2C%20Strange%20Heart%20-%20Part%20One.mp4
-- X-Men — EP39 - Savage Land, Strange Heart - Part Two — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP39%20-%20Savage%20Land%2C%20Strange%20Heart%20-%20Part%20Two.mp4
-- X-Men — EP40 - The Dark Phoenix, Part I Dazzled — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP40%20-%20The%20Dark%20Phoenix%2C%20Part%20I%20Dazzled.mp4
-- X-Men — EP41 - The Dark Phoenix, Part II The Inner Circle — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP41%20-%20The%20Dark%20Phoenix%2C%20Part%20II%20The%20Inner%20Circle.mp4
-- X-Men — EP42 - The Dark Phoenix, Part III The Dark Phoenix — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP42%20-%20The%20Dark%20Phoenix%2C%20Part%20III%20The%20Dark%20Phoenix.mp4
-- X-Men — EP43 - The Dark Phoenix, Part IV The Fate of the Phoenix — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP43%20-%20The%20Dark%20Phoenix%2C%20Part%20IV%20The%20Fate%20of%20the%20Phoenix.mp4
-- X-Men — EP44 - Orphan's End — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP44%20-%20Orphan%27s%20End.mp4
-- X-Men — EP45 - Love in Vain — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP45%20-%20Love%20in%20Vain.mp4
-- X-Men — EP46 - The Juggernaut Returns — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP46%20-%20The%20Juggernaut%20Returns.mp4
-- X-Men — EP47 - A Deal with the Devil — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP47%20-%20A%20Deal%20with%20the%20Devil.mp4
-- X-Men — EP48 - Sanctuary (Part 1) — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP48%20-%20Sanctuary%20%28Part%201%29.mp4
-- X-Men — EP49 - Sanctuary (Part 2) — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP49%20-%20Sanctuary%20%28Part%202%29.mp4
-- X-Men — EP50 - Xavier Remembers — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP50%20-%20Xavier%20Remembers.mp4
-- X-Men — EP51 - Courage — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP51%20-%20Courage.mp4
-- X-Men — EP52 - Secrets, Not Long Buried — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP52%20-%20Secrets%2C%20Not%20Long%20Buried.mp4
-- X-Men — EP53 - Nightcrawler — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP53%20-%20Nightcrawler.mp4
-- X-Men — EP54 - One Man's Worth (Part 1) — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP54%20-%20One%20Man%27s%20Worth%20%28Part%201%29.mp4
-- X-Men — EP55 - One Man's Worth (Part 2) — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP55%20-%20One%20Man%27s%20Worth%20%28Part%202%29.mp4
-- X-Men — EP56 - Proteus (Part 1) — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP56%20-%20Proteus%20%28Part%201%29.mp4
-- X-Men — EP57 - Proteus (Part 2) — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP57%20-%20Proteus%20%28Part%202%29.mp4
-- X-Men — EP58 - Family Ties — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP58%20-%20Family%20Ties.mp4
-- X-Men — EP59 - Bloodlines — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP59%20-%20Bloodlines.mp4
-- X-Men — EP60 - Lotus and the Steel — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP60%20-%20Lotus%20and%20the%20Steel.mp4
-- X-Men — EP61 - Weapon X, Lies, and Video Tape — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP61%20-%20Weapon%20X%2C%20Lies%2C%20and%20Video%20Tape.mp4
-- X-Men — EP62 - Have Yourself a Morlock Little X-Mas — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP62%20-%20Have%20Yourself%20a%20Morlock%20Little%20X-Mas.mp4
-- X-Men — EP63 - Beyond Good and Evil (Part 1) The End of Time — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP63%20-%20Beyond%20Good%20and%20Evil%20%28Part%201%29%20The%20End%20of%20Time.mp4
-- X-Men — EP64 - Beyond Good and Evil (Part 2) Promise of Apocalypse — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP64%20-%20Beyond%20Good%20and%20Evil%20%28Part%202%29%20Promise%20of%20Apocalypse.mp4
-- X-Men — EP65 - Beyond Good and Evil (Part 3) The Lazarus Chamber — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP65%20-%20Beyond%20Good%20and%20Evil%20%28Part%203%29%20The%20Lazarus%20Chamber.mp4
-- X-Men — EP66 - Beyond Good and Evil (Part 4) End and Beginning — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP66%20-%20Beyond%20Good%20and%20Evil%20%28Part%204%29%20End%20and%20Beginning.mp4
-- X-Men — EP67 - The Phalanx Covenant (Part 1) — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP67%20-%20The%20Phalanx%20Covenant%20%28Part%201%29.mp4
-- X-Men — EP68 - The Phalanx Covenant (Part 2) — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP68%20-%20The%20Phalanx%20Covenant%20%28Part%202%29.mp4
-- X-Men — EP69 - Storm Front (Part 1) — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP69%20-%20Storm%20Front%20%28Part%201%29.mp4
-- X-Men — EP70 - Storm Front (Part 2) — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP70%20-%20Storm%20Front%20%28Part%202%29.mp4
-- X-Men — EP71 - The Fifth Horseman — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP71%20-%20The%20Fifth%20Horseman.mp4
-- X-Men — EP72 - Jubilees Fairytale Theatre — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP72%20-%20Jubilees%20Fairytale%20Theatre.mp4
-- X-Men — EP73 - Old Soldiers — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP73%20-%20Old%20Soldiers.mp4
-- X-Men — EP74 - Hidden Agendas — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP74%20-%20Hidden%20Agendas.mp4
-- X-Men — EP75 - Descent — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP75%20-%20Descent.mp4
-- X-Men — EP76 - Graduation Day — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP76%20-%20Graduation%20Day.mp4
 
-## CH 08 — CLASSIC TV
+## CH 05 — CLASSIC & WESTERN FILMS
 
+- Rio Lobo (1970 John Wayne Western Civil War) — https://archive.org/download/rio-lobo-1970-john-wayne-western-civil-war/Rio
+
+## CH 06 — COMEDY & ROMANCE FILMS
+
+- A Dolls House (1973 Christmas, Drama, Romance) — https://archive.org/download/a-dolls-house-1973-christmas-drama-romance/A
+- Rush Hour 1 — https://archive.org/download/My-Favorite-Movies_202503/Rush%20Hour%201.mp4
+- Rush Hour 2 — https://archive.org/download/My-Favorite-Movies_202503/Rush%20Hour%202.mp4
+- Rush Hour 3 — https://archive.org/download/My-Favorite-Movies_202503/Rush%20Hour%203.mp4
+- The Love Bug (1968) — https://archive.org/download/My-Favorite-Movies_202503/%281968%29%20The%20Love%20Bug.mp4
+- The Love Bug (1997) — https://archive.org/download/My-Favorite-Movies_202503/%281997%29%20The%20Love%20Bug.mp4
+
+## CH 07 — CLASSIC TV
+
+- 1x01 The Cage — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x01%20-%20The%20Cage.mp4
 - 1x01 The Human Bomb — https://archive.org/download/Dragnet1951/Dragnet/Season%201/Dragnet%20%281951%29%20-%20S01E01%20-%20The%20Human%20Bomb.mp4
 - 1x02 The Big Actor — https://archive.org/download/Dragnet1951/Dragnet/Season%201/Dragnet%20%281951%29%20-%20S01E02%20-%20The%20Big%20Actor.mp4
+- 1x02 Where No Man Has Gone — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x02%20-%20Where%20No%20Man%20Has%20Gone%20Before.mp4
+- 1x03 Corbomite Maneuver — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x03%20-%20The%20Corbomite%20Maneuver.mp4
+- 1x04 Mudd's Women — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x04%20-%20Mudd%27s%20Women.mp4
 - 1x05 The Big Cast — https://archive.org/download/Dragnet1951/Dragnet/Season%201/Dragnet%20%281951%29%20-%20S01E05%20-%20The%20Big%20Cast.mp4
+- 1x05 The Enemy Within — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x05%20-%20The%20Enemy%20Within.mp4
+- 1x06 The Man Trap — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x06%20-%20The%20Man%20Trap.mp4
+- 1x07 The Naked Time — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x07%20-%20The%20Naked%20Time.mp4
+- 1x08 Charlie X — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x08%20-%20Charlie%20X.mp4
+- 1x09 Balance of Terror — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x09%20-%20Balance%20of%20Terror.mp4
+- 1x10 Little Girls Made of — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x10%20-%20What%20are%20Little%20Girls%20Made%20of.mp4
 - 1x11 Big September Man — https://archive.org/download/Dragnet1951/Dragnet/Season%201/Dragnet%20%281951%29%20-%20S01E11%20-%20The%20Big%20September%20Man.mp4
+- 1x11 Dagger of the Mind — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x11%20-%20Dagger%20of%20the%20Mind.mp4
+- 1x12 Miri — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x12%20-%20Miri.mp4
 - 1x12 The Big Phone Call — https://archive.org/download/Dragnet1951/Dragnet/Season%201/Dragnet%20%281951%29%20-%20S01E12%20-%20The%20Big%20Phone%20Call.mp4
+- 1x13 Conscience of King — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x13%20-%20The%20Conscience%20of%20the%20King.mp4
 - 1x13 The Big Chasing — https://archive.org/download/Dragnet1951/Dragnet/Season%201/Dragnet%20%281951%29%20-%20S01E13%20-%20The%20Big%20Chasing.mp4
 - 1x14 The Big Lamp — https://archive.org/download/Dragnet1951/Dragnet/Season%201/Dragnet%20%281951%29%20-%20S01E14%20-%20The%20Big%20Lamp.mp4
+- 1x14 The Galileo Seven — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x14%20-%20The%20Galileo%20Seven.mp4
+- 1x15 Court Martial — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x15%20-%20Court%20Martial.mp4
+- 1x16 The Menagerie Pt I — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x16%20-%20The%20Menagerie%20-%20Part%20I.mp4
+- 1x17 The Menagerie Pt II — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x17%20-%20The%20Menagerie%20-%20Part%20II.mp4
+- 1x18 Shore Leave — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x18%20-%20Shore%20Leave.mp4
+- 1x19 Squire of Gothos — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x19%20-%20The%20Squire%20of%20Gothos.mp4
+- 1x20 Arena — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x20%20-%20Arena.mp4
+- 1x21 Alternative Factor — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x21%20-%20The%20Alternative%20Factor.mp4
+- 1x22 Tomorrow is Yesterday — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x22%20-%20Tomorrow%20is%20Yesterday.mp4
+- 1x23 Return of Archons — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x23%20-%20The%20Return%20of%20the%20Archons.mp4
+- 1x24 Taste of Armageddon — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x24%20-%20A%20Taste%20of%20Armageddon.mp4
+- 1x25 Space Seed — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x25%20-%20Space%20Seed.mp4
+- 1x26 This Side of Paradise — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x26%20-%20This%20Side%20of%20Paradise.mp4
+- 1x27 Devil in the Dark — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x27%20-%20The%20Devil%20in%20the%20Dark.mp4
+- 1x28 Errand of Mercy — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x28%20-%20Errand%20of%20Mercy.mp4
+- 1x29 City on the Edge — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x29%20-%20The%20City%20on%20the%20Edge%20of%20Forever.mp4
+- 1x30 Operation Annihilate! — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x30%20-%20Operation%20Annihilate%21.mp4
+- 2x01 Catspaw — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x01%20-%20Catspaw.mp4
 - 2x01 The Big Jump — https://archive.org/download/Dragnet1951/Dragnet/Season%202/Dragnet%20%281951%29%20-%20S02E01%20-%20The%20Big%20Jump.mp4
+- 2x02 Metamorphosis — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x02%20-%20Metamorphosis.mp4
 - 2x02 The Big Sorrow — https://archive.org/download/Dragnet1951/Dragnet/Season%202/Dragnet%20%281951%29%20-%20S02E02%20-%20The%20Big%20Sorrow.mp4
+- 2x03 Friday's Child — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x03%20-%20Friday%27s%20Child.mp4
 - 2x04 The Big Seventeen — https://archive.org/download/Dragnet1951/Dragnet/Season%202/Dragnet%20%281951%29%20-%20S02E04%20-%20The%20Big%20Seventeen.mp4
+- 2x04 Who Mourns for Adonais — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x04%20-%20Who%20Mourns%20for%20Adonais.mp4
+- 2x05 Amok Time — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x05%20-%20Amok%20Time.mp4
+- 2x06 Doomsday Machine — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x06%20-%20The%20Doomsday%20Machine.mp4
+- 2x07 Wolf in the Fold — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x07%20-%20Wolf%20in%20the%20Fold.mp4
+- 2x08 The Changeling — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x08%20-%20The%20Changeling.mp4
+- 2x09 The Apple — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x09%20-%20The%20Apple.mp4
 - 2x09 The Big Grandma — https://archive.org/download/Dragnet1951/Dragnet/Season%202/Dragnet%20%281951%29%20-%20S02E09%20-%20The%20Big%20Grandma.mp4
+- 2x10 Mirror, Mirror — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x10%20-%20Mirror%2C%20Mirror.mp4
 - 2x11 The Big Show — https://archive.org/download/Dragnet1951/Dragnet/Season%202/Dragnet%20%281951%29%20-%20S02E11%20-%20The%20Big%20Show.mp4
+- 2x11 The Deadly Years — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x11%20-%20The%20Deadly%20Years.mp4
+- 2x12 I, Mudd — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x12%20-%20I%2C%20Mudd.mp4
+- 2x13 Trouble With Tribbles — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x13%20-%20The%20Trouble%20With%20Tribbles.mp4
+- 2x14 Bread and Circuses — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x14%20-%20Bread%20and%20Circuses.mp4
 - 2x14 The Big Hate — https://archive.org/download/Dragnet1951/Dragnet/Season%202/Dragnet%20%281951%29%20-%20S02E14%20-%20The%20Big%20Hate.mp4
+- 2x15 Journey to Babel — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x15%20-%20Journey%20to%20Babel.mp4
+- 2x16 Private Little War — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x16%20-%20A%20Private%20Little%20War.mp4
+- 2x17 Gamesters of Triskelion — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x17%20-%20The%20Gamesters%20of%20Triskelion.mp4
+- 2x18 Obsession — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x18%20-%20Obsession.mp4
 - 2x18 The Big Run — https://archive.org/download/Dragnet1951/Dragnet/Season%202/Dragnet%20%281951%29%20-%20S02E18%20-%20The%20Big%20Run.mp4
+- 2x19 Immunity Syndrome — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x19%20-%20The%20Immunity%20Syndrome.mp4
 - 2x19 The Big Break — https://archive.org/download/Dragnet1951/Dragnet/Season%202/Dragnet%20%281951%29%20-%20S02E19%20-%20The%20Big%20Break.mp4
+- 2x20 Piece of the Action — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x20%20-%20A%20Piece%20of%20the%20Action.mp4
 - 2x20 The Big Light — https://archive.org/download/Dragnet1951/Dragnet/Season%202/Dragnet%20%281951%29%20-%20S02E20%20-%20The%20Big%20Light.mp4
+- 2x21 By Any Other Name — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x21%20-%20By%20Any%20Other%20Name.mp4
+- 2x22 Return to Tomorrow — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x22%20-%20Return%20to%20Tomorrow.mp4
 - 2x22 The Big Test — https://archive.org/download/Dragnet1951/Dragnet/Season%202/Dragnet%20%281951%29%20-%20S02E22%20-%20The%20Big%20Test.mp4
+- 2x23 Patterns of Force — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x23%20-%20Patterns%20of%20Force%20%281%29.mp4
+- 2x24 The Ultimate Computer — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x24%20-%20The%20Ultimate%20Computer.mp4
+- 2x25 The Omega Glory — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x25%20-%20The%20Omega%20Glory.mp4
+- 2x26 Assignment Earth — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x26%20-%20Assignment%20Earth.mp4
 - 2x26 The Big Frank — https://archive.org/download/Dragnet1951/Dragnet/Season%202/Dragnet%20%281951%29%20-%20S02E26%20-%20The%20Big%20Frank.mp4
 - 2x27 The Big Lease — https://archive.org/download/Dragnet1951/Dragnet/Season%202/Dragnet%20%281951%29%20-%20S02E27%20-%20The%20Big%20Lease.mp4
 - 2x28 The Big Hands — https://archive.org/download/Dragnet1951/Dragnet/Season%202/Dragnet%20%281951%29%20-%20S02E28%20-%20The%20Big%20Hands.mp4
 - 2x32 The Big Barrette — https://archive.org/download/Dragnet1951/Dragnet/Season%202/Dragnet%20%281951%29%20-%20S02E32%20-%20The%20Big%20Barrette.mp4
 - 2x33 The Big Dance — https://archive.org/download/Dragnet1951/Dragnet/Season%202/Dragnet%20%281951%29%20-%20S02E33%20-%20The%20Big%20Dance.mp4
+- 3x01 Spectre of the Gun — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x01%20-%20Spectre%20of%20the%20Gun.mp4
+- 3x02 Elaan of Troyius — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x02%20-%20Elaan%20of%20Troyius.mp4
+- 3x03 The Paradise Syndrome — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x03%20-%20The%20Paradise%20Syndrome.mp4
+- 3x04 Enterprise Incident — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x04%20-%20The%20Enterprise%20Incident.mp4
 - 3x04 The Big Betty — https://archive.org/download/Dragnet1951/Dragnet/Season%203/Dragnet%20%281951%29%20-%20S03E04%20-%20The%20Big%20Betty.mp4
+- 3x06 Spock's Brain — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x06%20-%20Spock%27s%20Brain.mp4
+- 3x07 Truth no Beauty — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x07%20-%20Is%20There%20in%20Truth%20no%20Beauty.mp4
+- 3x08 The Empath — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x08%20-%20The%20Empath.mp4
+- 3x09 The Tholian Web — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x09%20-%20The%20Tholian%20Web.mp4
+- 3x10 For the World Is Hollow — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x10%20-%20For%20the%20World%20Is%20Hollow%20and%20I%20Have%20Touched%20the%20Sky.mp4
+- 3x11 Day of the Dove — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x11%20-%20day%20of%20the%20Dove.mp4
+- 3x13 Wink of an Eye — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x13%20-%20Wink%20of%20an%20Eye.mp4
+- 3x14 That Which Survives — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x14%20-%20That%20Which%20Survives.mp4
+- 3x15 Your Last Battlefield — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x15%20-%20Let%20That%20Be%20Your%20Last%20Battlefield.mp4
 - 3x16 The Big Thief — https://archive.org/download/Dragnet1951/Dragnet/Season%203/Dragnet%20%281951%29%20-%20S03E16%20-%20The%20Big%20Thief.mp4
+- 3x16 Whom Gods Destroy — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x16%20-%20Whom%20Gods%20Destroy.mp4
+- 3x17 The Mark of Gideon — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x17%20-%20The%20Mark%20of%20Gideon.mp4
+- 3x18 The Lights of Zetar — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x18%20-%20The%20Lights%20of%20Zetar.mp4
 - 3x19 The Big Trunk — https://archive.org/download/Dragnet1951/Dragnet/Season%203/Dragnet%20%281951%29%20-%20S03E19%20-%20The%20Big%20Trunk.mp4
+- 3x19 The Cloud Minders — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x19%20-%20The%20Cloud%20Minders.mp4
+- 3x20 The Way to Eden — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x20%20-%20The%20Way%20to%20Eden.mp4
+- 3x21 Requiem for Methuselah — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x21%20-%20Requiem%20for%20Methuselah.mp4
 - 3x22 The Big Ham — https://archive.org/download/Dragnet1951/Dragnet/Season%203/Dragnet%20%281951%29%20-%20S03E22%20-%20The%20Big%20Ham.mp4
+- 3x22 The Savage Curtain — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x22%20-%20The%20Savage%20Curtain.mp4
+- 3x23 All Our Yesterdays — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x23%20-%20All%20Our%20Yesterdays.mp4
+- 3x24 Turnabout Intruder — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x24%20-%20Turnabout%20Intruder.mp4
 - 3x27 The Big Winchester — https://archive.org/download/Dragnet1951/Dragnet/Season%203/Dragnet%20%281951%29%20-%20S03E27%20-%20The%20Big%20Winchester.mp4
 - 3x28 The Big Shoplift — https://archive.org/download/Dragnet1951/Dragnet/Season%203/Dragnet%20%281951%29%20-%20S03E28%20-%20The%20Big%20Shoplift.mp4
 - 3x29 Big Hit-Run Killer — https://archive.org/download/Dragnet1951/Dragnet/Season%203/Dragnet%20%281951%29%20-%20S03E29%20-%20The%20Big%20Hit-Run%20Killer.mp4
@@ -522,7 +364,6 @@ This is the organized catalog for the new TV-style lineup. Original titles and A
 - 3x35 The Big Plant — https://archive.org/download/Dragnet1951/Dragnet/Season%203/Dragnet%20%281951%29%20-%20S03E35%20-%20The%20Big%20Plant.mp4
 - 4x01 The Big Producer — https://archive.org/download/Dragnet1951/Dragnet/Season%204/Dragnet%20%281951%29%20-%20S04E01%20-%20The%20Big%20Producer.mp4
 - 4x02 The Big Fraud — https://archive.org/download/Dragnet1951/Dragnet/Season%204/Dragnet%20%281951%29%20-%20S04E02%20-%20The%20Big%20Fraud.mp4
-- 4x03 The Big Crime — https://archive.org/download/Dragnet1951/Dragnet/Season%204/Dragnet%20%281951%29%20-%20S04E03%20-%20The%20Big%20Crime.mp4
 - 4x04 The Big Pair — https://archive.org/download/Dragnet1951/Dragnet/Season%204/Dragnet%20%281951%29%20-%20S04E04%20-%20The%20Big%20Pair.mp4
 - 4x08 The Big Bar — https://archive.org/download/Dragnet1951/Dragnet/Season%204/Dragnet%20%281951%29%20-%20S04E08%20-%20The%20Big%20Bar.mp4
 - 4x09 The Big Present — https://archive.org/download/Dragnet1951/Dragnet/Season%204/Dragnet%20%281951%29%20-%20S04E09%20-%20The%20Big%20Present.mp4
@@ -540,125 +381,332 @@ This is the organized catalog for the new TV-style lineup. Original titles and A
 - 6x12 Big Doting Mother — https://archive.org/download/Dragnet1951/Dragnet/Season%206/Dragnet%20%281951%29%20-%20S06E12%20-%20The%20Big%20Doting%20Mother.mp4
 - 7x28 The Big War — https://archive.org/download/Dragnet1951/Dragnet/Season%207/Dragnet%20%281951%29%20-%20S07E28%20-%20The%20Big%20War.mp4
 - 8x04 The Big Oskar — https://archive.org/download/Dragnet1951/Dragnet/Season%208/Dragnet%20%281951%29%20-%20S08E04%20-%20The%20Big%20Oskar.mp4
+- All Monsters Attack — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/10.AllMonstersAttack1969.mp4
+- Are You Being Served? — His & Hers (S01E05) — https://archive.org/download/are-you-being-served-season1/AYBS
+- Atom Age Vampire — https://archive.org/download/AtomAgeVampire/AtomAgeVampire.mp4
 - BettyWhiteChristmas — https://archive.org/download/DateWithTheAngels-1950sFamilySitcom-ChristmasEpisode/BettyWhiteChristmas.mp4
-- Dragnet TV — Dragnet (1951) - S02E07 - The Big 22 Rifle for Christmas — https://archive.org/download/Dragnet1951/Dragnet/Season%202/Dragnet%20%281951%29%20-%20S02E07%20-%20The%20Big%20.22%20Rifle%20for%20Christmas.mp4
-- Dragnet TV — Dragnet (1951) - S04E12 - The Big New Year — https://archive.org/download/Dragnet1951/Dragnet/Season%204/Dragnet%20%281951%29%20-%20S04E12%20-%20The%20Big%20New%20Year.mp4
-- Hitchcock 1x01 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e1-colorized-720p-hd.mp4
-- Hitchcock 1x02 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e2-colorized-720p-hd.mp4
-- Hitchcock 1x03 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e3-colorized-720p-hd.mp4
-- Hitchcock 1x04 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e4-colorized-720p-hd.mp4
-- Hitchcock 1x05 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e5-colorized-720p-hd.mp4
-- Hitchcock 1x06 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e6-colorized-720p-hd.mp4
-- Hitchcock 1x07 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e7-colorized-720p-hd.mp4
-- Hitchcock 1x08 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e8-colorized-720p-hd.mp4
-- Hitchcock 1x10 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e10-colorized-720p-hd.mp4
-- Hitchcock 1x11 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e11-colorized-720p-hd.mp4
-- Hitchcock 1x12 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e12-colorized-720p-hd.mp4
-- Hitchcock 1x13 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e13-colorized-720p-hd.mp4
-- Hitchcock 1x14 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e14-colorized-720p-hd.mp4
-- Hitchcock 1x15 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e15-colorized-576p-sd.mp4
-- Hitchcock 1x16 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e16-colorized-720p-hd.mp4
-- Hitchcock 1x17 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e17-colorized-720p-hd.mp4
-- Hitchcock 1x18 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e18-colorized-720p-hd.mp4
-- Hitchcock 1x19 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e19-colorized-720p-hd.mp4
-- Hitchcock 1x20 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e20-colorized-720p-hd.mp4
-- Hitchcock 1x21 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e21-colorized-576p-sd.mp4
-- Hitchcock 1x22 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e22-colorized-576p-sd.mp4
-- Hitchcock 1x23 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e23-colorized-720p-hd.mp4
-- Hitchcock 1x24 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e24-colorized-720p-hd.mp4
-- Hitchcock 1x25 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e25-colorized-720p-hd.mp4
-- Hitchcock 1x26 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e26-colorized-720p-hd.mp4
-- Hitchcock 1x27 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e27-colorized-720p-hd.mp4
-- Hitchcock 1x28 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e28-colorized-576p-sd.mp4
-- Hitchcock 1x29 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e29-colorized-576p-sd.mp4
-- Hitchcock 1x30 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e30-colorized-576p-sd.mp4
-- Hitchcock 1x31 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e31-colorized-576p-sd.mp4
-- Hitchcock 1x32 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e32-colorized-576p-sd.mp4
-- Hitchcock 1x33 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e33-colorized-576p-sd.mp4
-- Hitchcock 1x34 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e34-colorized-576p-sd.mp4
-- Hitchcock 1x35 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e35-colorized-576p-sd.mp4
-- Hitchcock 1x36 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e36-colorized-576p-sd.mp4
-- Hitchcock 1x37 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e37-colorized-576p-sd.mp4
-- Hitchcock 1x38 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e38-colorized-576p-sd.mp4
-- Hitchcock 1x39 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e39-colorized-576p-sd.mp4
-- Hitchcock 2x01 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e1-colorized-576p-sd.mp4
-- Hitchcock 2x02 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e2-colorized-576p-sd.mp4
-- Hitchcock 2x03 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e3-colorized-576p-sd.mp4
-- Hitchcock 2x04 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e4-colorized-576p-sd.mp4
-- Hitchcock 2x05 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e5-colorized-576p-sd.mp4
-- Hitchcock 2x06 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e6-colorized-sd.mp4
-- Hitchcock 2x07 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e7-colorized-576p-sd.mp4
-- Hitchcock 2x08 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e8-colorized-720p-hd.mp4
-- Hitchcock 2x09 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e9-colorized-576p-sd.mp4
-- Hitchcock 2x10 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e10-colorized-576p-sd.mp4
-- Hitchcock 2x11 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e11-colorized-576p-sd.mp4
-- Hitchcock 2x12 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e12-colorized-sd.mp4
-- Hitchcock 2x13 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e13-colorized-sd.mp4
-- Hitchcock 2x14 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e14-colorized-sd.mp4
-- Hitchcock 2x15 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e15-colorized-576p-sd.mp4
-- Hitchcock 2x16 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e16-colorized-576p-sd.mp4
-- Hitchcock 2x17 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e17-colorized-sd.mp4
-- Hitchcock 2x18 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e18-colorized-sd.mp4
-- Hitchcock 2x19 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e19-colorized-576p-sd.mp4
-- Hitchcock 2x20 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e20-colorized-576p-sd.mp4
-- Hitchcock 2x21 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e21-colorized-576p-sd.mp4
-- Hitchcock 2x22 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e22-colorized-sd.mp4
-- Hitchcock 2x23 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e23-colorized-sd.mp4
-- Hitchcock 2x24 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e24-colorized-576p-sd.mp4
-- Hitchcock 2x25 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e25-colorized-576p-sd.mp4
-- Hitchcock 2x26 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e26-colorized-sd.mp4
-- Hitchcock 2x27 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e27-colorized-576p-sd.mp4
-- Hitchcock 2x28 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e28-colorized-sd.mp4
-- Hitchcock 2x29 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e29-colorized-576p-sd.mp4
-- Hitchcock 2x30 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e30-colorized-sd.mp4
-- Hitchcock 2x31 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e31-colorized-576p-sd.mp4
-- Hitchcock 2x32 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e32-colorized-sd.mp4
-- Hitchcock 2x33 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e33-colorized-sd.mp4
-- Hitchcock 2x34 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e34-colorized-sd.mp4
-- Hitchcock 2x35 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e35-colorized-sd.mp4
-- Hitchcock 2x36 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e36-colorized-576p-sd.mp4
-- Hitchcock 2x37 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e37-colorized-sd.mp4
-- Hitchcock 2x38 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e38-colorized-720p-hd.mp4
-- Hitchcock 2x39 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e39-colorized-576p-sd.mp4
-- Hitchcock 3x01 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e1-colorized-sd.mp4
-- Hitchcock 3x02 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e2-colorized-sd.mp4
-- Hitchcock 3x03 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e3-colorized-sd.mp4
-- Hitchcock 3x04 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e4-colorized-sd.mp4
-- Hitchcock 3x05 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e5-colorized-sd.mp4
-- Hitchcock 3x06 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e6-colorized-sd.mp4
-- Hitchcock 3x07 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e7-colorized-sd.mp4
-- Hitchcock 3x08 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e8-colorized-sd.mp4
-- Hitchcock 3x09 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e9-colorized-sd.mp4
-- Hitchcock 3x10 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e10-colorized-sd.mp4
-- Hitchcock 3x11 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e11-colorized-sd.mp4
-- Hitchcock 3x12 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e12-colorized-576p-sd.mp4
-- Hitchcock 3x13 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e13-colorized-sd.mp4
-- Hitchcock 3x14 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e14-colorized-sd.mp4
-- Hitchcock 3x15 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e15-colorized-sd.mp4
-- Hitchcock 3x16 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e16-colorized-sd.mp4
-- Hitchcock 3x17 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e17-colorized-sd.mp4
-- Hitchcock 3x18 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e18-colorized-sd.mp4
-- Hitchcock 3x19 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e19-colorized-sd.mp4
-- Hitchcock 3x20 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e20-colorized-sd.mp4
-- Hitchcock 3x21 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e21-colorized-sd.mp4
-- Hitchcock 3x22 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e22-colorized-576p-sd.mp4
-- Hitchcock 3x23 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e23-colorized-sd.mp4
-- Hitchcock 3x24 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e24-colorized-sd.mp4
-- Hitchcock 3x25 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e25-colorized-sd.mp4
-- Hitchcock 3x26 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e26-colorized-576p-sd.mp4
-- Hitchcock 3x27 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e27-colorized-sd.mp4
-- Hitchcock 3x28 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e28-colorized-sd.mp4
-- Hitchcock 3x29 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e29-colorized-576p-sd.mp4
-- Hitchcock 3x30 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e30-colorized-sd.mp4
-- Hitchcock 3x31 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e31-colorized-sd.mp4
-- Hitchcock 3x32 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e32-colorized-sd.mp4
-- Hitchcock 3x33 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e33-colorized-sd.mp4
-- Hitchcock 3x34 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e34-colorized-sd.mp4
-- Hitchcock 3x35 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e35-colorized-sd.mp4
-- Hitchcock 3x36 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e36-colorized-576p-sd.mp4
-- Hitchcock 3x37 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e37-colorized-sd.mp4
-- Hitchcock 3x38 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e38-colorized-720p-hd.mp4
-- Hitchcock 3x39 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e39-colorized-576p-sd.mp4
+- Big Ass Spider — https://archive.org/download/My-Favorite-Movies_202503/Big%20Ass%20Spider.mp4
+- Bloodlust — https://archive.org/download/Bloodlust.mpeg/Bloodlust.mp4
+- Bloody Pit Of Horror — https://archive.org/download/BloodyPitOfHorror/BloodyPitOfHorror.mp4
+- Captain Nice - Promos by Bill Feigenbaum — https://archive.org/download/capn-nice-tv-show/Captain%20Nice%20-%20Promos%20by%20Bill%20Feigenbaum.mp4
+- Captain Nice — 101 - The Man Who Flies Like A Pigeon — https://archive.org/download/capn-nice-tv-show/101_-_The_Man_Who_Flies_Like_A_Pigeon.mp4
+- Captain Nice — 102 - How Sheik Can You Get — https://archive.org/download/capn-nice-tv-show/102_-_How_Sheik_Can_You_Get.mp4
+- Captain Nice — 112 - Tastes OK But Something s Missing — https://archive.org/download/capn-nice-tv-show/112_-_Tastes_OK_But_Something_s_Missing.mp4
+- Captain Nice — CapnNice103 - That Thing — https://archive.org/download/capn-nice-tv-show/CapnNice103_-_That_Thing.mp4
+- Captain Nice — CapnNice106 - Is Big Town Burning — https://archive.org/download/capn-nice-tv-show/CapnNice106_-_Is_Big_Town_Burning.mp4
+- Captain Nice — CapnNice107 - Don t Take Any Wooden Indians — https://archive.org/download/capn-nice-tv-show/CapnNice107_-_Don_t_Take_Any_Wooden_Indians.mp4
+- Captain Nice — Pop Goes the Culture -Alice Ghostley talks Captain Nice — https://archive.org/download/capn-nice-tv-show/Pop%20Goes%20the%20Culture%20-Alice%20Ghostley%20talks%20Captain%20Nice.mp4
+- Captain Nice — The Forgotten Superheroes - Captain Nice & Mr Terrific — https://archive.org/download/capn-nice-tv-show/The%20Forgotten%20Superheroes%20-%20Captain%20Nice%20%26%20Mr.%20Terrific.mp4
+- Captain Nice — William Daniels on starring in the TV series Captain Nice - TelevisionAcademy com Interviews — https://archive.org/download/capn-nice-tv-show/William%20Daniels%20on%20starring%20in%20the%20TV%20series%20%20Captain%20Nice%20%20-%20TelevisionAcademy.com%20Interviews.mp4
+- Captain Nice on 13 Week Theatre — https://archive.org/download/capn-nice-tv-show/Captain%20Nice%20%20on%2013%20Week%20Theatre.mp4
+- Captain Nice Vs Mr Terrific — https://archive.org/download/capn-nice-tv-show/Captain%20Nice%20Vs%20Mr.%20Terrific.mp4
+- Captain Nice104 - That Was The Bridge That Was — https://archive.org/download/capn-nice-tv-show/Captain_Nice104_-_That_Was_The_Bridge_That_Was.mp4
+- Captain Nice105 - The Man With Three Blue Eyes — https://archive.org/download/capn-nice-tv-show/Captain_Nice105_-_The_Man_With_Three_Blue_Eyes.mp4
+- Captain Nice108 - That s What Mothers Are For — https://archive.org/download/capn-nice-tv-show/Captain_Nice108_-_That_s_What_Mothers_Are_For.mp4
+- Captain Nice109 - Whatever Lola Wants — https://archive.org/download/capn-nice-tv-show/Captain_Nice109_-_Whatever_Lola_Wants.mp4
+- Captain Nice110 - Who s Afraid of Amanda Woolfe — https://archive.org/download/capn-nice-tv-show/Captain_Nice110_-_Who_s_Afraid_of_Amanda_Woolfe.mp4
+- Captain Nice111 - The Week They Stole Payday — https://archive.org/download/capn-nice-tv-show/Captain_Nice111_-_The_Week_They_Stole_Payday.mp4
+- Captain Nice113 - May I Have The Last Dance — https://archive.org/download/capn-nice-tv-show/Captain_Nice113_-_May_I_Have_The_Last_Dance.mp4
+- Captain Nice114 - One Rotten Apple — https://archive.org/download/capn-nice-tv-show/Captain_Nice114_-_One_Rotten_Apple.mp4
+- Captain Nice115 - Beware Of Hidden Prophets — https://archive.org/download/capn-nice-tv-show/Captain_Nice115_-_Beware_Of_Hidden_Prophets.mp4
+- Chevy Nova Ad — https://archive.org/download/Classic1967CommercialForChevyIiNova/Chevy2Nova_512kb.mp4
+- Close Encounters (1977) — https://dn710203.ca.archive.org/0/items/close-encounters-of-the-third-kind-1977-dc-remastered-blueray/Close%20Encounters%20of%20the%20Third%20Kind%201977%20DC_REMASTERED_BLUERAY.mp4
+- Colonel March - Silver Curtain — https://archive.org/download/Colonel_March_Silver_Curtain/Colonel_March_Silver_Curtain.mp4
+- Colossus - Forbin Project — https://archive.org/download/colossus-the-forbin-project-1970/Colossus%20-%20The%20Forbin%20Project%20%281970%29.mp4
+- Cpt Scarlet 01 Mysterons — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2001%20The%20Mysterons.mp4
+- Cpt Scarlet 02 Assasin — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2002%20Winged%20Assasin.mp4
+- Cpt Scarlet 03 Big Ben — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2003%20Big%20Ben%20Strikes%20Again.mp4
+- Cpt Scarlet 04 Manhunt — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2004%20Manhunt.mp4
+- Cpt Scarlet 05 Avalanche — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2005%20Avalanche.mp4
+- Cpt Scarlet 06 White Snow — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2006%20White%20as%20Snow.mp4
+- Cpt Scarlet 07 The Trap — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2007%20The%20Trap.mp4
+- Cpt Scarlet 08 Operation Time — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2008%20Operation%20Time.mp4
+- Cpt Scarlet 09 Spectrum Fights — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2009%20Spectrum%20Fights%20Back.mp4
+- Cpt Scarlet 10 Assignment — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2010%20Special%20Assignment.mp4
+- Cpt Scarlet 11 Heart of NY — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2011%20The%20Heart%20of%20New%20York.mp4
+- Cpt Scarlet 12 Lunarville 7 — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2012%20Lunarville%207.mp4
+- Cpt Scarlet 13 Point 783 — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2013%20Point%20783.mp4
+- Cpt Scarlet 14 Model Spy — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2014%20Model%20Spy.mp4
+- Cpt Scarlet 15 Seek/Destroy — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2015%20Seek%20and%20Destroy.mp4
+- Cpt Scarlet 16 Traitor — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2016%20Traitor.mp4
+- Cpt Scarlet 17 Rocket — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2017%20Renegade%20Rocket.mp4
+- Cpt Scarlet 18 Crater 101 — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2018%20Crater%20101.mp4
+- Cpt Scarlet 19 Shadow Fear — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2019%20Shadow%20of%20Fear.mp4
+- Cpt Scarlet 20 Dangerous — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2020%20Dangerous%20Rendevous.mp4
+- Cpt Scarlet 21 Fire at Rig 15 — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2021%20Fire%20at%20Rig%2015.mp4
+- Cpt Scarlet 22 Treble Cross — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2022%20Treble%20Cross.mp4
+- Cpt Scarlet 23 Flight 104 — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2023%20Flight%20104.mp4
+- Cpt Scarlet 24 Place Angels — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2024%20Place%20of%20Angels.mp4
+- Cpt Scarlet 25 Noose of Ice — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2025%20Noose%20of%20Ice.mp4
+- Cpt Scarlet 26 Expo 2068 — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2026%20Expo%202068.mp4
+- Cpt Scarlet 27 Launching — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2027%20The%20Launching.mp4
+- Cpt Scarlet 28 Europa — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2028%20Codename%20Europa.mp4
+- Cpt Scarlet 29 Inferno — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2029%20Inferno.mp4
+- Cpt Scarlet 30 Atlantica — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2030%20Flight%20to%20Atlantica.mp4
+- Cpt Scarlet 31 Cloudbase — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2031%20Attack%20on%20Cloudbase.mp4
+- Cpt Scarlet 32 Inquisition — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2032%20The%20Inquisition.mp4
+- Cpt Scarlet 99 S.I.G — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2099%20S.I.G%20%28interviews.best%20bits%29.mp4
+- Cpt Scarlet Audio Adv — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%20Introducing%20TV21%20Audio%20Adventure.mp4
+- Creature Haunted Sea — https://archive.org/download/CreatureFromTheHauntedSea/CreatureFromTheHauntedSea.mp4
+- Daughter of Horror — https://archive.org/download/daughter_of_horror/daughter_of_horror.mp4
+- Destroy All Monsters — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/9.DestroyAllMonsters1968.mp4
+- Dodge Dart Ad — https://archive.org/download/1967DogdeDartTvCommercialPamAustinClips/Dodgedart.mp4
+- Ebirah Horror of Deep — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/7.EbirahHorrorOfTheDeep1966.mp4
+- Eight Legged Freaks — https://archive.org/download/My-Favorite-Movies_202503/Eight%20Legged%20Freaks.mp4
+- Ford Falcon Ad — https://archive.org/download/ClassicCommercialForFordFalconusaCirca1966/Falcon_512kb.mp4
+- Ghidorah 3-Headed Monster — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/5.GhidorahTheThree-headedMonster1964.mp4
+- Giant Gila Monster — https://archive.org/download/giant_gila_monster/giant_gila_monster.mp4
+- Godzilla (1956) — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/1.Godzilla-KingOfTheMonsters1956.mp4
+- Godzilla Raids Again (1955) — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/2.GodzillaRaidsAgain1955.mp4
+- Godzilla vs Gigan — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/12.GodzillaVs.Gigan1972.mp4
+- Godzilla vs Hedorah — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/11.GodzillaVs.Hedorah1971.mp4
+- Godzilla vs Mechagodzilla — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/14.GodzillaVs.Mechagodzilla1974.mp4
+- Godzilla vs Megalon — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/13.GodzillaVs.Megalon1973.mp4
+- Grave Of The Vampire — https://archive.org/download/GraveOfTheVampire/GraveOfTheVampirePresentedByMoviePowder.mp4
+- Honeymooners 1951 — https://archive.org/download/Cavalcade_Of_Stars/Honeymooners_1951.mp4
+- Horror Express — https://archive.org/download/horror_express_ipod/horror_express.mp4
+- Horror Hotel — https://archive.org/download/Horror_Hotel/Horror_Hotel.mp4
+- Horrors of Spider Island — https://archive.org/download/Horrors_of_Spider_Island/Horrors_of_Spider_Island.mp4
+- House on Haunted Hill — https://archive.org/download/house_on_haunted_hill_ipod/house_on_haunted_hill.mp4
+- In Search of: Amelia Earhart — https://archive.org/download/InSearchOf16mm/In%20Search%20of...Amelia%20Earhart%20%28480p_30fps_H264-128kbit_AAC%29.mp4
+- In Search of: Ancient Aviators — https://archive.org/download/InSearchOf16mm/In%20Search%20of...Ancient%20Aviators%20%28480p_30fps_H264-128kbit_AAC%29.mp4
+- In Search of: Atlantis — https://archive.org/download/InSearchOf16mm/In%20Search%20of...Atlantis%20%28480p_30fps_H264-128kbit_AAC%29.mp4
+- In Search of: Bigfoot — https://archive.org/download/InSearchOf16mm/In%20Search%20of...Bigfoot%20%28480p_30fps_H264-128kbit_AAC%29.mp4
+- In Search of: Call From Space — https://archive.org/download/InSearchOf16mm/In%20Search%20of...A%20Call%20From%20Space%20%28480p_30fps_H264-128kbit_AAC%29.mp4
+- In Search of: Earthquakes — https://archive.org/download/InSearchOf16mm/In%20Search%20of...Earthquakes%20%28480p_30fps_H264-128kbit_AAC%29.mp4
+- In Search of: Inca Treasure — https://archive.org/download/InSearchOf16mm/In%20Search%20of...Inca%20Treasure%20%28480p_30fps_H264-128kbit_AAC%29.mp4
+- In Search of: Martians — https://dn711005.ca.archive.org/0/items/InSearchOf16mm/In%20Search%20of...%20Martians%20%28480p_30fps_H264-128kbit_AAC%29.mp4
+- In Search of: Strange Visitors — https://archive.org/download/InSearchOf16mm/In%20Search%20of...Strange%20Visitors%20%28480p_30fps_H264-128kbit_AAC%29.mp4
+- In The Year 2889 — https://archive.org/download/In_The_Year_2889/In_The_Year_2889_1967.avi.mp4
+- Indestructible Man — https://archive.org/download/indestructible_man/indestructible_man.mp4
+- Inner Sanctum — https://archive.org/download/Inner_Sanctum_movie/Inner_Sanctum.mp4
+- Invasion Astro-Monster — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/6.InvasionOfAstro-monster1965.mp4
+- King Kong vs Godzilla — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/3.KingKongVs.Godzilla1962.mp4
+- Kolchak S00E01 Night Stalker — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S00E01%20-%20The%20Night%20Stalker.mp4
+- Kolchak S00E02 Night Strangler — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S00E02%20-%20The%20Night%20Strangler.mp4
+- Kolchak S01E01 The Ripper — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E01%20-%20The%20Ripper.mp4
+- Kolchak S01E02 The Zombie — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E02%20-%20The%20Zombie.mp4
+- Kolchak S01E03 They Will Be — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E03%20-%20They%20Have%20Been%20They%20Are%20They%20Will%20Be.mp4
+- Kolchak S01E04 The Vampire — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E04%20-%20The%20Vampire.mp4
+- Kolchak S01E05 The Werewolf — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E05%20-%20The%20Werewolf.mp4
+- Kolchak S01E06 Firefall — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E06%20-%20Firefall.mp4
+- Kolchak S01E07 Devils Platform — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E07%20-%20The%20Devils%20Platform.mp4
+- Kolchak S01E08 Bad Medicine — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E08%20-%20Bad%20Medicine.mp4
+- Kolchak S01E09 Spanish Moss — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E09%20-%20The%20Spanish%20Moss%20Murders.mp4
+- Kolchak S01E10 Energy Eater — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E10%20-%20The%20Energy%20Eater.mp4
+- Kolchak S01E11 Horror Heights — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E11%20-%20Horror%20In%20The%20Heights.mp4
+- Kolchak S01E12 Mr RING — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E12%20-%20Mr%20RING.mp4
+- Kolchak S01E13 Primal Scream — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E13%20-%20Primal%20Scream.mp4
+- Kolchak S01E14 Trevi — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E14%20-%20The%20Trevi%20Collection.mp4
+- Kolchak S01E15 Chopper — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E15%20-%20Chopper.mp4
+- Kolchak S01E16 Demon In Lace — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E16%20-%20Demon%20In%20Lace.mp4
+- Kolchak S01E17 Legacy Terror — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E17%20-%20Legacy%20of%20Terror.mp4
+- Kolchak S01E18 Knightly Murders — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E18%20-%20The%20Knightly%20Murders.mp4
+- Kolchak S01E19 Youth Killer — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E19%20-%20The%20Youth%20Killer.mp4
+- Kolchak S01E20 The Sentry — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E20%20-%20The%20Sentry.mp4
+- Last of the Summer Wine S1E01 - Of Funerals and Fish (Pilot) — https://archive.org/download/last-of-the-summer-wine-s-1-e-02-short-back-and-palais-glide/Last%20of%20the%20Summer%20Wine%20S1E01%20-%20Of%20Funerals%20and%20Fish%20%28Pilot%29.mp4
+- Last of the Summer Wine S1E02 - Short Back and Palais Glide — https://archive.org/download/last-of-the-summer-wine-s-1-e-02-short-back-and-palais-glide/Last%20of%20the%20Summer%20Wine%20S1E02%20-%20Short%20Back%20and%20Palais%20Glide.mp4
+- Last of the Summer Wine S1E03 - Inventor of the 40 Foot Ferret — https://archive.org/download/last-of-the-summer-wine-s-1-e-02-short-back-and-palais-glide/Last%20of%20the%20Summer%20Wine%20S1E03%20-%20Inventor%20of%20the%2040%20Foot%20Ferret.mp4
+- Last of the Summer Wine S1E04 - Paté and Chips — https://archive.org/download/last-of-the-summer-wine-s-1-e-02-short-back-and-palais-glide/Last%20of%20the%20Summer%20Wine%20S1E04%20-%20Pate%CC%81%20and%20Chips.mp4
+- Last of the Summer Wine S1E05 - Spring Fever — https://archive.org/download/last-of-the-summer-wine-s-1-e-02-short-back-and-palais-glide/Last%20of%20the%20Summer%20Wine%20S1E05%20-%20Spring%20Fever.mp4
+- Last of the Summer Wine S1E06 - The New Mobile Trio — https://archive.org/download/last-of-the-summer-wine-s-1-e-02-short-back-and-palais-glide/Last%20of%20the%20Summer%20Wine%20S1E06%20-%20The%20New%20Mobile%20Trio.mp4
+- Last of the Summer Wine S1E07 - Hail Smiling Morn or Thereabouts — https://archive.org/download/last-of-the-summer-wine-s-1-e-02-short-back-and-palais-glide/Last%20of%20the%20Summer%20Wine%20S1E07%20-%20Hail%20Smiling%20Morn%20or%20Thereabouts.mp4
+- LegionOfOldTimers1949 — https://archive.org/download/LegionOfOldTimers1949/LegionOfOldTimers1949.mp4
+- Little Shop Of Horrors — https://archive.org/download/My-Favorite-Movies_202503/Little%20Shop%20Of%20Horrors%20%281986%29.mp4
+- MesaOfLostWomen — https://archive.org/download/MesaOfLostWomen/MesaOfLostWomen.mp4
+- Miss Marple — S01Ep01 The Body in the Library (Part One) — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/01%20The%20Body%20in%20the%20Library%20%281984%29/S01Ep01%20The%20Body%20in%20the%20Library%20%28Part%20One%29.mp4
+- Miss Marple — S01Ep02 The Body in the Library (Part Two) — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/01%20The%20Body%20in%20the%20Library%20%281984%29/S01Ep02%20The%20Body%20in%20the%20Library%20%28Part%20Two%29.mp4
+- Miss Marple — S01Ep03 The Body in the Library (Part Three) — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/01%20The%20Body%20in%20the%20Library%20%281984%29/S01Ep03%20The%20Body%20in%20the%20Library%20%28Part%20Three%29.mp4
+- Miss Marple — S01Ep04 The Moving Finger (Part One) — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/02%20The%20Moving%20Finger%20%281985%29/S01Ep04%20The%20Moving%20Finger%20%28Part%20One%29.mp4
+- Miss Marple — S01Ep05 The Moving Finger (Part Two) — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/02%20The%20Moving%20Finger%20%281985%29/S01Ep05%20The%20Moving%20Finger%20%28Part%20Two%29.mp4
+- Miss Marple — S01Ep06 A Murder Is Announced (Part One) — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/03%20A%20Murder%20Is%20Announced%20%281985%29/S01Ep06%20A%20Murder%20Is%20Announced%20%28Part%20One%29.mp4
+- Miss Marple — S01Ep07 A Murder Is Announced (Part Two) — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/03%20A%20Murder%20Is%20Announced%20%281985%29/S01Ep07%20A%20Murder%20Is%20Announced%20%28Part%20Two%29.mp4
+- Miss Marple — S01Ep08 A Murder Is Announced (Part Three) — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/03%20A%20Murder%20Is%20Announced%20%281985%29/S01Ep08%20A%20Murder%20Is%20Announced%20%28Part%20Three%29.mp4
+- Miss Marple — S01Ep09 A Pocketful of Rye (Part One) — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/04%20A%20Pocketful%20of%20Rye%20%281985%29/S01Ep09%20A%20Pocketful%20of%20Rye%20%28Part%20One%29.mp4
+- Miss Marple — S01Ep10 A Pocketful of Rye (Part Two) — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/04%20A%20Pocketful%20of%20Rye%20%281985%29/S01Ep10%20A%20Pocketful%20of%20Rye%20%28Part%20Two%29.mp4
+- Miss Marple — S02Ep01 Ep02 The Murder at the Vicarage — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/05%20The%20Murder%20at%20the%20Vicarage%20%281986%29/S02Ep01%20Ep02%20The%20Murder%20at%20the%20Vicarage.mp4
+- Miss Marple — S02Ep03 Sleeping Murder (Part One) — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/06%20Sleeping%20Murder%20%281987%29/S02Ep03%20Sleeping%20Murder%20%28Part%20One%29.mp4
+- Miss Marple — S02Ep04 Sleeping Murder (Part Two) — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/06%20Sleeping%20Murder%20%281987%29/S02Ep04%20Sleeping%20Murder%20%28Part%20Two%29.mp4
+- Miss Marple — S02Ep05 At Bertram's Hotel (Part One) — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/07%20At%20Bertram%27s%20Hotel%20%281987%29/S02Ep05%20At%20Bertram%27s%20Hotel%20%28Part%20One%29.mp4
+- Miss Marple — S02Ep06 At Bertram's Hotel (Part Two) — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/07%20At%20Bertram%27s%20Hotel%20%281987%29/S02Ep06%20At%20Bertram%27s%20Hotel%20%28Part%20Two%29.mp4
+- Miss Marple — S02Ep07 Nemesis (Part One) — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/08%20Nemesis%20%281987%29/S02Ep07%20Nemesis%20%28Part%20One%29.mp4
+- Miss Marple — S02Ep08 Nemesis (Part Two) — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/08%20Nemesis%20%281987%29/S02Ep08%20Nemesis%20%28Part%20Two%29.mp4
+- Miss Marple — S03Ep01 4 50 from Paddington — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/09%204.50%20from%20Paddington%20%281987%29/S03Ep01%204.50%20from%20Paddington.mp4
+- Miss Marple — S03Ep03 They Do It with Mirrors — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/11%20They%20Do%20It%20with%20Mirrors%20%281991%29/S03Ep03%20They%20Do%20It%20with%20Mirrors.mp4
+- Miss Marple — S03Ep04 The Mirror Crack'd from Side to Side — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/12%20The%20Mirror%20Crack%27d%20from%20Side%20to%20Side%20%281992%29/S03Ep04%20The%20Mirror%20Crack%27d%20from%20Side%20to%20Side.mp4
+- Monty Python - Whither Canada? — https://archive.org/download/mpfc-remastered_20210305_1553/01.%20Whither%20Canada%3F.mp4
+- Mothra vs Godzilla — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/4.MothraVs.Godzilla1964.mp4
+- One Million Years BC — https://archive.org/download/one-million-years-bc-1966_202010/One%20Million%20Years%20BC%20%281966%29.mp4
+- Pontiac GTO Ad — https://archive.org/download/PontiacGto1966CarCommercialTvAd/GTOad.mp4
+- Roswell BBC Doc — https://archive.org/download/TheRoswellUFOCrashBBCDocumentaryProof/The%20Roswell%20UFO%20Crash%20BBC%20Documentary%20-%20Proof.mp4
+- s01e01 EntertheLoneRanger — https://archive.org/download/theloneranger_201705/s01e01_EntertheLoneRanger.mp4
+- s01e02 TheLoneRangerFightsOn — https://archive.org/download/theloneranger_201705/s01e02_TheLoneRangerFightsOn.mp4
+- s01e03TheLoneRangersTriumph — https://archive.org/download/theloneranger_201705/s01e03TheLoneRangersTriumph.mp4
+- s01e04 TheLegionofOldTimers — https://archive.org/download/theloneranger_201705/s01e04_TheLegionofOldTimers.mp4
+- s01e05 RustlersHideout — https://archive.org/download/theloneranger_201705/s01e05_RustlersHideout.mp4
+- s01e06 Warhorse — https://archive.org/download/theloneranger_201705/s01e06_Warhorse.mp4
+- s01e07 PeteandPedro — https://archive.org/download/theloneranger_201705/s01e07_PeteandPedro.mp4
+- s01e08 TheRenegades — https://archive.org/download/theloneranger_201705/s01e08_TheRenegades.mp4
+- s01e09 TheTenderfeet — https://archive.org/download/theloneranger_201705/s01e09_TheTenderfeet.mp4
+- s01e10 Highheels — https://archive.org/download/theloneranger_201705/s01e10_Highheels.mp4
+- s01e11 SixgunsLegacy — https://archive.org/download/theloneranger_201705/s01e11_SixgunsLegacy.mp4
+- s01e12 Returnoftheconvict — https://archive.org/download/theloneranger_201705/s01e12_Returnoftheconvict.mp4
+- s01e13 finderskeepers — https://archive.org/download/theloneranger_201705/s01e13_finderskeepers.mp4
+- s01e14 themaskedrider — https://archive.org/download/theloneranger_201705/s01e14_themaskedrider.mp4
+- s01e15 OldJoesSister — https://archive.org/download/theloneranger_201705/s01e15_OldJoesSister.mp4
+- s01e16 CanonBallMckay — https://archive.org/download/theloneranger_201705/s01e16_CanonBallMckay.mp4
+- Scream Bloody Murder — https://archive.org/download/ScreamBloodyMurder/ScreamBloodyMurder.mp4
+- Shocker Week3 Frankenstein — https://archive.org/download/ShockerInternetDriveInWeek3-FrankensteinDoubleFeature/shockerWeek3.mp4
+- Son of Godzilla — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/8.SonOfGodzilla1967.mp4
+- TarzanandtheTrappers — https://archive.org/download/TarzanandtheTrappers/TarzanandtheTrappers.mp4
+- TeenageDevilDolls — https://archive.org/download/TeenageDevilDolls/TeenageDevilDolls.mp4
+- Terror of Mechagodzilla — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/15.TerrorOfMechagodzilla1975.mp4
+- The Adventures of Long John Silver - Episode 1: The Necklace — https://archive.org/download/TheAdventuresOfLongJohnSilver-Episode1theNecklace/TheAdventuresOfLongJohnSilver-TheNecklace-limou3okxka.mp4
+- The Dick Cavett Show — Dick Cavett Show 1970-04-09 Paul Simon, Mickey Mantle, Whitey Ford, Marcel Marceau — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201970-04-09%20Paul%20Simon%2C%20Mickey%20Mantle%2C%20Whitey%20Ford%2C%20Marcel%20Marceau.mp4
+- The Dick Cavett Show — Dick Cavett Show 1970-11-10 Fred Astaire — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201970-11-10%20Fred%20Astaire.mp4
+- The Dick Cavett Show — Dick Cavett Show 1971-02-10 Maximilian Schell, Duke Ellington, Sally Field — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201971-02-10%20Maximilian%20Schell%2C%20Duke%20Ellington%2C%20Sally%20Field.mp4
+- The Dick Cavett Show — Dick Cavett Show 1971-03-08 Lucille Ball, Lucie Arnaz, Carol Burnett — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201971-03-08%20Lucille%20Ball%2C%20Lucie%20Arnaz%2C%20Carol%20Burnett.mp4
+- The Dick Cavett Show — Dick Cavett Show 1971-08-12 Dizzy Gillespie, Evel Knievel, Averell Harriman — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201971-08-12%20Dizzy%20Gillespie%2C%20Evel%20Knievel%2C%20Averell%20Harriman.mp4
+- The Dick Cavett Show — Dick Cavett Show 1972-02-11 Liza Minnelli, Robert Klein, Pete Seeger — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201972-02-11%20Liza%20Minnelli%2C%20Robert%20Klein%2C%20Pete%20Seeger.mp4
+- The Dick Cavett Show — Dick Cavett Show 1972-04-17 Alexis Smith, Gloria Swanson, Elsa Lanchester, Jeanette Rankin — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201972-04-17%20Alexis%20Smith%2C%20Gloria%20Swanson%2C%20Elsa%20Lanchester%2C%20Jeanette%20Rankin.mp4
+- The Dick Cavett Show — Dick Cavett Show 1972-06-22 Art Carney, Alexis Smith, Clement Freud — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201972-06-22%20Art%20Carney%2C%20Alexis%20Smith%2C%20Clement%20Freud.mp4
+- The Dick Cavett Show — Dick Cavett Show 1973-08-06 Norman Mailer (Marilyn Monroe) — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201973-08-06%20Norman%20Mailer%20%28Marilyn%20Monroe%29.mp4
+- The Dick Cavett Show — Dick Cavett Show 1974-03-07 Lucille Ball — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201974-03-07%20Lucille%20Ball.mp4
+- The Dick Cavett Show — Dick Cavett Show 1978-05-31 Burt Reynolds — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201978-05-31%20Burt%20Reynolds.mp4
+- The Dick Cavett Show — Dick Cavett Show 1978-06-15 Brian De Palma, Martin Scorsese (2-parts) — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201978-06-15%20Brian%20De%20Palma%2C%20Martin%20Scorsese%20%282-parts%29.mp4
+- The Dick Cavett Show — Dick Cavett Show 1979-06-05 Arthur Miller (3-parts) — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201979-06-05%20Arthur%20Miller%20%283-parts%29.mp4
+- The Dick Cavett Show — Dick Cavett Show 1979-06-07 Masters And Johnson (2-parts) — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201979-06-07%20Masters%20And%20Johnson%20%282-parts%29.mp4
+- The Dick Cavett Show — Dick Cavett Show 1980-07-09 Bob Fosse (2-parts) — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201980-07-09%20Bob%20Fosse%20%282-parts%29.mp4
+- The Dick Cavett Show — Dick Cavett Show 1982-03-22 Cher (2-parts) — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201982-03-22%20Cher%20%282-parts%29.mp4
+- The Dick Cavett Show — Dick Cavett Show 1985-09-30 Joan Rivers — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201985-09-30%20Joan%20Rivers.mp4
+- The Dick Cavett Show — Dick Cavett Show 1985-12-02 Dick Clark & Walter Matthau — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201985-12-02%20Dick%20Clark%20%26%20Walter%20Matthau.mp4
+- The Dick Cavett Show — Dick Cavett Show 1985-12-16 Richard Pryor — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201985-12-16%20Richard%20Pryor.mp4
+- The Dick Cavett Show — Dick Cavett Show 1992-04-08 Christopher Reeve — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201992-04-08%20Christopher%20Reeve.mp4
+- The Dick Cavett Show — Dick Cavett Show 1992-04-20 Jackie Mason — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201992-04-20%20Jackie%20Mason.mp4
+- The Dick Cavett Show — Dick Cavett Show 1992-11-16 Harvey Keitel — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201992-11-16%20Harvey%20Keitel.mp4
+- The Emperor Norton (1966) — Season 7, Episode 23, of Bonanza — https://archive.org/download/TheEmperorNortonBonanza1966/The_Emperor_Norton_Bonanza_1966.mp4
+- The Eye Creatures — https://archive.org/download/The_Eye_Creatures/The_Eye_Creatures_1962.avi.mp4
+- The Killer Shrews — https://archive.org/download/The_Killer_Shrews/The_Killer_Shrews.mp4
+- The Phantom Planet — https://archive.org/download/PhantomPlanet/classicscifiphantomplanet1.mp4
+- The Phantom Planet — https://archive.org/download/PhantomPlanet/phantomplanet2.mp4
+- The Prisoner 01 Arrival — https://archive.org/download/The_Prisoner/ThePrisoner01Arrival.mp4
+- The Prisoner 02 The Chimes Of Big Ben — https://archive.org/download/The_Prisoner/ThePrisoner02TheChimesOfBigBen.mp4
+- The Prisoner 03 A B And C — https://archive.org/download/The_Prisoner/ThePrisoner03A.b.and.c.mp4
+- The Prisoner 04 Free For All — https://archive.org/download/The_Prisoner/ThePrisoner04FreeForAll.mp4
+- The Prisoner 05 The Schizoid Man — https://archive.org/download/The_Prisoner/ThePrisoner05TheSchizoidMan.mp4
+- The Prisoner 06 The General — https://archive.org/download/The_Prisoner/ThePrisoner06TheGeneral.mp4
+- The Prisoner 07 Many Happy Returns — https://archive.org/download/The_Prisoner/ThePrisoner07ManyHappyReturns.mp4
+- The Prisoner 08 Dance Of The Dead — https://archive.org/download/The_Prisoner/ThePrisoner08DanceOfTheDead.mp4
+- The Prisoner 09 Checkmate — https://archive.org/download/The_Prisoner/ThePrisoner09Checkmate.mp4
+- The Prisoner 10 Hammer Into Anvil — https://archive.org/download/The_Prisoner/ThePrisoner10HammerIntoAnvil.mp4
+- The Prisoner 11 It's Your Funeral — https://archive.org/download/The_Prisoner/ThePrisoner11ItsYourFuneral.mp4
+- The Prisoner 12 A Change Of Mind — https://archive.org/download/The_Prisoner/ThePrisoner12AChangeOfMind.mp4
+- The Prisoner 13 Do Not Forsake Me Oh My Darling — https://archive.org/download/The_Prisoner/ThePrisoner13DoNotForsakeMeOhMyDarling.mp4
+- The Prisoner 14 Living In Harmony — https://archive.org/download/The_Prisoner/ThePrisoner14LivingInHarmony.mp4
+- The Prisoner 15 The Girl Who Was Death — https://archive.org/download/The_Prisoner/ThePrisoner15TheGirlWhoWasDeath.mp4
+- The Prisoner 16 Once Upon A Time — https://archive.org/download/The_Prisoner/ThePrisoner16OnceUponATime.mp4
+- The Prisoner 17 Fall Out — https://archive.org/download/The_Prisoner/ThePrisoner17FallOut.mp4
+- The Saint (2017) — https://archive.org/download/2017-the-saint-movie-1080p-spanish-or-english/(2017)
+- TheCaseofLadyBeryl — https://archive.org/download/SherlockHolmes-TheCaseofLadyBeryl/TheCaseofLadyBeryl.mp4
+- TheCaseoftheShyBallerina — https://archive.org/download/SherlockHolmes-TheCaseoftheShyBallerina/TheCaseoftheShyBallerina.mp4
+- Three Stooges 1949 Failed TV Pilot — https://archive.org/download/3StoogesPilot/ThreeStooges1949FailedPilot.mp4
+- Tormented — https://archive.org/download/tormented/tormented.mp4
+- Wartburg 1000 Ad — https://archive.org/download/wartburg_1000_1966/wartburg_1000_1966_512kb.mp4
+- White Zombie — https://archive.org/download/white_zombie/white_zombie.mp4
+- Wonderfu1960 — https://archive.org/download/Wonderfu1960/Wonderfu1960.mp4
+- Wonderfu1960 edit — https://archive.org/download/Wonderfu1960/Wonderfu1960_edit.mp4
+- World War Z — https://archive.org/download/My-Favorite-Movies_202503/World%20War%20Z.mp4
+- キャプテンナイス (CAPTAIN NICE) — https://archive.org/download/capn-nice-tv-show/%E3%82%AD%E3%83%A3%E3%83%97%E3%83%86%E3%83%B3%E3%83%8A%E3%82%A4%E3%82%B9%20%28CAPTAIN%20NICE%29.mp4
+- Atlantis Crystal Water Death — https://archive.org/download/man-from-atlantis-complete-series-1977/Man%20from%20Atlantis%20S01E07%20-%20Crystal%20Water%20Sudden%20Death.mp4
+- Atlantis CW Hyde — https://archive.org/download/man-from-atlantis-complete-series-1977/Man%20from%20Atlantis%20S01E09%20-%20CW%20Hyde.mp4
+- Atlantis Deadly Carnival — https://archive.org/download/man-from-atlantis-complete-series-1977/Man%20from%20Atlantis%20S01E13%20-%20Deadly%20Carnival.mp4
+- Atlantis Death Scouts — https://archive.org/download/man-from-atlantis-complete-series-1977/Man%20from%20Atlantis%20S00E02%20-%20The%20Death%20Scouts.mp4
+- Atlantis Disappearances — https://archive.org/download/man-from-atlantis-complete-series-1977/Man%20from%20Atlantis%20S00E04%20-%20The%20Disappearances.mp4
+- Atlantis Giant — https://archive.org/download/man-from-atlantis-complete-series-1977/Man%20from%20Atlantis%20S01E04%20-%20Giant.mp4
+- Atlantis Hawk Of Mu — https://archive.org/download/man-from-atlantis-complete-series-1977/Man%20from%20Atlantis%20S01E03%20-%20Hawk%20Of%20Mu.mp4
+- Atlantis Imp — https://archive.org/download/man-from-atlantis-complete-series-1977/Man%20from%20Atlantis%20S01E11%20-%20Imp.mp4
+- Atlantis Killer Spores — https://archive.org/download/man-from-atlantis-complete-series-1977/Man%20from%20Atlantis%20S00E03%20-%20Killer%20Spores.mp4
+- Atlantis Man O'War — https://archive.org/download/man-from-atlantis-complete-series-1977/Man%20from%20Atlantis%20S01E05%20-%20Man%20O%27War.mp4
+- Atlantis Melt Down — https://archive.org/download/man-from-atlantis-complete-series-1977/Man%20from%20Atlantis%20S01E01%20-%20Melt%20Down.mp4
+- Atlantis Naked Montague — https://archive.org/download/man-from-atlantis-complete-series-1977/Man%20from%20Atlantis%20S01E08%20-%20The%20Naked%20Montague.mp4
+- Atlantis S00E01 — https://archive.org/download/man-from-atlantis-complete-series-1977/Man%20from%20Atlantis%20S00E01%20-%20Man%20from%20Atlantis.mp4
+- Atlantis Scavenger Hunt — https://archive.org/download/man-from-atlantis-complete-series-1977/Man%20from%20Atlantis%20S01E10%20-%20Scavenger%20Hunt.mp4
+- Atlantis Shoot Out Lands End — https://archive.org/download/man-from-atlantis-complete-series-1977/Man%20from%20Atlantis%20S01E06%20-%20Shoot%20Out%20At%20Lands%20End.mp4
+- Atlantis Siren — https://archive.org/download/man-from-atlantis-complete-series-1977/Man%20from%20Atlantis%20S01E12%20-%20Siren.mp4
+- Atlantis The Mudworm — https://archive.org/download/man-from-atlantis-complete-series-1977/Man%20from%20Atlantis%20S01E02%20-%20The%20Mudworm.mp4
+- Buck Rogers Amazon Women — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S01E10%20-%20Planet%20of%20the%20Amazon%20Women.mp4
+- Buck Rogers Ardala Returns — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S01E17%20-%20Ardala%20Returns.mp4
+- Buck Rogers Awakening — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S01E01-E02%20-%20Awakening%20.mp4
+- Buck Rogers Blast for Buck — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S01E16%20-%20A%20Blast%20for%20Buck.mp4
+- Buck Rogers Cosmic Wiz Kid — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S01E11%20-%20Cosmic%20Wiz%20Kid.mp4
+- Buck Rogers Cruise Ship — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S01E13-%20Cruise%20Ship%20to%20the%20Starsm.mp4
+- Buck Rogers Dorian Secret — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S02E13%20-%20The%20Dorian%20Secret.mp4
+- Buck Rogers Dream of Jennifer — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S01E20%20-%20A%20Dream%20of%20Jennifer.mp4
+- Buck Rogers Duel to Death — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S01E22%20-%20Bucks%20Duel%20to%20the%20Death.mp4
+- Buck Rogers Escape Bliss — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S01E12%20-%20Escape%20From%20Wedded%20Bliss.mp4
+- Buck Rogers Fighting 69th — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S01E08%20-%20Return%20of%20the%20Fighting%2069th.mp4
+- Buck Rogers Golden Man — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S02E07%20-%20The%20Golden%20Man.mp4
+- Buck Rogers Guardians — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S02E05%20-%20The%20Guardians.mp4
+- Buck Rogers Hand of Goral — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S02E11%20-%20The%20Hand%20of%20the%20Goral.mp4
+- Buck Rogers Happy B-Day — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S01E15%20-%20Happy%20Birthday%2C%20Buck.mp4
+- Buck Rogers Journey Oasis — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S02E03-E04%20-%20Journey%20to%20Oasis.mp4
+- Buck Rogers Kill a City Pt1 — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S01E06%20-%20The%20Plot%20to%20Kill%20a%20City%20Pt-1.mp4
+- Buck Rogers Kill a City Pt2 — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S01E07%20-%20The%20Plot%20to%20Kill%20a%20City%20Pt-2.mp4
+- Buck Rogers Mark of Saurian — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S02E06%20-%20Mark%20of%20the%20Saurian.mp4
+- Buck Rogers Olympiad — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S01E19%20-%20Olympiad.mp4
+- Buck Rogers Shgoratchx — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S02E10%20-%20Shgoratchx.mp4
+- Buck Rogers Slave Girls — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S01E03-E04%20-%20Planet%20of%20the%20Slave%20Girls.mp4
+- Buck Rogers Space Rockers — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S01E21%20-%20Space%20Rockers.mp4
+- Buck Rogers Space Vampire — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S01E14%20-%20Space%20Vampire.mp4
+- Buck Rogers Testimony Traitor — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S02E12%20-%20Testimony%20of%20a%20Traitor.mp4
+- Buck Rogers The Crystals — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S02E08%20-%20The%20Crystals.mp4
+- Buck Rogers The Satyr — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S02E09%20-%20The%20Satyr.mp4
+- Buck Rogers Time of Hawk — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S02E01-E02%20-%20Time%20of%20the%20Hawk.mp4
+- Buck Rogers Twiki is Missing — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S01E18%20-%20Twiki%20is%20Missing.mp4
+- Buck Rogers Unchained Woman — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S01E09%20-%20Unchained%20Woman.mp4
+- Buck Rogers Vegas — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S01E05%20-%20Vegas%20in%20Space.mp4
+- Buck Rogers War Witch Pt1 — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S01E23%20-%20Flight%20of%20the%20War%20Witch%20Pt-1.mp4
+- Buck Rogers War Witch Pt2 — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S01E24%20-%20Flight%20of%20the%20War%20Witch%20Pt-2.mp4
+- Final Space S01E01 — https://archive.org/download/final-space_202209/Final.Space.S01.1080p.BluRay.x265-RARBG/Final.Space.S01E01.1080p.BluRay.x265-RARBG.mp4
+- Final Space S01E02 — https://archive.org/download/final-space_202209/Final.Space.S01.1080p.BluRay.x265-RARBG/Final.Space.S01E02.1080p.BluRay.x265-RARBG.mp4
+- Final Space S01E03 — https://archive.org/download/final-space_202209/Final.Space.S01.1080p.BluRay.x265-RARBG/Final.Space.S01E03.1080p.BluRay.x265-RARBG.mp4
+- Final Space S01E04 — https://archive.org/download/final-space_202209/Final.Space.S01.1080p.BluRay.x265-RARBG/Final.Space.S01E04.1080p.BluRay.x265-RARBG.mp4
+- Final Space S01E05 — https://archive.org/download/final-space_202209/Final.Space.S01.1080p.BluRay.x265-RARBG/Final.Space.S01E05.1080p.BluRay.x265-RARBG.mp4
+- Final Space S01E06 — https://archive.org/download/final-space_202209/Final.Space.S01.1080p.BluRay.x265-RARBG/Final.Space.S01E06.1080p.BluRay.x265-RARBG.mp4
+- Final Space S01E07 — https://archive.org/download/final-space_202209/Final.Space.S01.1080p.BluRay.x265-RARBG/Final.Space.S01E07.1080p.BluRay.x265-RARBG.mp4
+- Final Space S01E08 — https://archive.org/download/final-space_202209/Final.Space.S01.1080p.BluRay.x265-RARBG/Final.Space.S01E08.1080p.BluRay.x265-RARBG.mp4
+- Final Space S01E09 — https://archive.org/download/final-space_202209/Final.Space.S01.1080p.BluRay.x265-RARBG/Final.Space.S01E09.1080p.BluRay.x265-RARBG.mp4
+- Final Space S01E10 — https://archive.org/download/final-space_202209/Final.Space.S01.1080p.BluRay.x265-RARBG/Final.Space.S01E10.1080p.BluRay.x265-RARBG.mp4
+- Final Space S02E01 — https://archive.org/download/final-space_202209/Final.Space.S02.1080p.BluRay.x265-RARBG/Final.Space.S02E01.1080p.BluRay.x265-RARBG.mp4
+- Final Space S02E02 — https://archive.org/download/final-space_202209/Final.Space.S02.1080p.BluRay.x265-RARBG/Final.Space.S02E02.1080p.BluRay.x265-RARBG.mp4
+- Final Space S02E03 — https://archive.org/download/final-space_202209/Final.Space.S02.1080p.BluRay.x265-RARBG/Final.Space.S02E03.1080p.BluRay.x265-RARBG.mp4
+- Final Space S02E04 — https://archive.org/download/final-space_202209/Final.Space.S02.1080p.BluRay.x265-RARBG/Final.Space.S02E04.1080p.BluRay.x265-RARBG.mp4
+- Final Space S02E05 — https://archive.org/download/final-space_202209/Final.Space.S02.1080p.BluRay.x265-RARBG/Final.Space.S02E05.1080p.BluRay.x265-RARBG.mp4
+- Final Space S02E06 — https://archive.org/download/final-space_202209/Final.Space.S02.1080p.BluRay.x265-RARBG/Final.Space.S02E06.1080p.BluRay.x265-RARBG.mp4
+- Final Space S02E07 — https://archive.org/download/final-space_202209/Final.Space.S02.1080p.BluRay.x265-RARBG/Final.Space.S02E07.1080p.BluRay.x265-RARBG.mp4
+- Final Space S02E08 — https://archive.org/download/final-space_202209/Final.Space.S02.1080p.BluRay.x265-RARBG/Final.Space.S02E08.1080p.BluRay.x265-RARBG.mp4
+- Final Space S02E09 — https://archive.org/download/final-space_202209/Final.Space.S02.1080p.BluRay.x265-RARBG/Final.Space.S02E09.1080p.BluRay.x265-RARBG.mp4
+- Final Space S02E10 — https://archive.org/download/final-space_202209/Final.Space.S02.1080p.BluRay.x265-RARBG/Final.Space.S02E10.1080p.BluRay.x265-RARBG.mp4
+- Final Space S02E11 — https://archive.org/download/final-space_202209/Final.Space.S02.1080p.BluRay.x265-RARBG/Final.Space.S02E11.1080p.BluRay.x265-RARBG.mp4
+- Final Space S02E12 — https://archive.org/download/final-space_202209/Final.Space.S02.1080p.BluRay.x265-RARBG/Final.Space.S02E12.1080p.BluRay.x265-RARBG.mp4
+- Final Space S02E13 — https://archive.org/download/final-space_202209/Final.Space.S02.1080p.BluRay.x265-RARBG/Final.Space.S02E13.1080p.BluRay.x265-RARBG.mp4
+- Final Space S03E01 — https://archive.org/download/final-space_202209/Final.Space.S03.1080p.WEBRip.x265-RARBG/Final.Space.S03E01.1080p.WEBRip.x265-RARBG.mp4
+- Final Space S03E02 — https://archive.org/download/final-space_202209/Final.Space.S03.1080p.WEBRip.x265-RARBG/Final.Space.S03E02.1080p.WEBRip.x265-RARBG.mp4
+- Final Space S03E03 — https://archive.org/download/final-space_202209/Final.Space.S03.1080p.WEBRip.x265-RARBG/Final.Space.S03E03.1080p.WEBRip.x265-RARBG.mp4
+- Final Space S03E04 — https://archive.org/download/final-space_202209/Final.Space.S03.1080p.WEBRip.x265-RARBG/Final.Space.S03E04.1080p.WEBRip.x265-RARBG.mp4
+- Final Space S03E05 — https://archive.org/download/final-space_202209/Final.Space.S03.1080p.WEBRip.x265-RARBG/Final.Space.S03E05.1080p.WEBRip.x265-RARBG.mp4
+- Final Space S03E06 — https://archive.org/download/final-space_202209/Final.Space.S03.1080p.WEBRip.x265-RARBG/Final.Space.S03E06.1080p.WEBRip.x265-RARBG.mp4
+- Final Space S03E07 — https://archive.org/download/final-space_202209/Final.Space.S03.1080p.WEBRip.x265-RARBG/Final.Space.S03E07.1080p.WEBRip.x265-RARBG.mp4
+- Final Space S03E08 — https://archive.org/download/final-space_202209/Final.Space.S03.1080p.WEBRip.x265-RARBG/Final.Space.S03E08.1080p.WEBRip.x265-RARBG.mp4
+- Final Space S03E09 — https://archive.org/download/final-space_202209/Final.Space.S03.1080p.WEBRip.x265-RARBG/Final.Space.S03E09.1080p.WEBRip.x265-RARBG.mp4
+- Final Space S03E10 — https://archive.org/download/final-space_202209/Final.Space.S03.1080p.WEBRip.x265-RARBG/Final.Space.S03E10.1080p.WEBRip.x265-RARBG.mp4
+- Final Space S03E11 — https://archive.org/download/final-space_202209/Final.Space.S03.1080p.WEBRip.x265-RARBG/Final.Space.S03E11.1080p.WEBRip.x265-RARBG.mp4
+- Final Space S03E12 — https://archive.org/download/final-space_202209/Final.Space.S03.1080p.WEBRip.x265-RARBG/Final.Space.S03E12.1080p.WEBRip.x265-RARBG.mp4
+- Final Space S03E13 — https://archive.org/download/final-space_202209/Final.Space.S03.1080p.WEBRip.x265-RARBG/Final.Space.S03E13.1080p.WEBRip.x265-RARBG.mp4
+
+## CH 08 — SCI-FI TV
+
+- In Search of: UFOs — https://archive.org/download/InSearchOf16mm/In%20Search%20of...UFOs%20%28480p_30fps_H264-128kbit_AAC%29.mp4
 - Outer Limits 1x01 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e1-1963-colorized.mp4
 - Outer Limits 1x02 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e2-1963-colorized.mp4
 - Outer Limits 1x03 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e3-1963-colorized.mp4
@@ -690,12 +738,6 @@ This is the organized catalog for the new TV-style lineup. Original titles and A
 - Outer Limits 1x30 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e30-1963-colorized-576p-sd.mp4
 - Outer Limits 1x31 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e31-1963-colorized-576p-sd.mp4
 - Outer Limits 1x32 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e32-1963-colorized-576p-sd.mp4
-- The Emperor Norton (1966) — Season 7, Episode 23, of Bonanza — https://archive.org/download/TheEmperorNortonBonanza1966/The_Emperor_Norton_Bonanza_1966.mp4
-
-## CH 09 — SCI-FI TV
-
-- In Search of: UFOs — https://archive.org/download/InSearchOf16mm/In%20Search%20of...UFOs%20%28480p_30fps_H264-128kbit_AAC%29.mp4
-- Roswell BBC Doc — https://archive.org/download/TheRoswellUFOCrashBBCDocumentaryProof/The%20Roswell%20UFO%20Crash%20BBC%20Documentary%20-%20Proof.mp4
 - Space 1999 AB Chrysalis — https://archive.org/download/Space1999.Series1_201602/Space%201999%20S02E12%20The%20AB%20Chrysalis.mp4
 - Space 1999 All That Glisters — https://archive.org/download/Space1999.Series1_201602/Space%201999%20S02E09%20All%20That%20Glisters.mp4
 - Space 1999 Alpha Child — https://archive.org/download/Space1999.Series1/Space%201999%20S01E07%20Alpha%20Child.mp4
@@ -854,114 +896,916 @@ This is the organized catalog for the new TV-style lineup. Original titles and A
 - Project UFO 2x12 — https://archive.org/download/project-ufo-complete-series-1978/Project%20UFO%20S02E12%20-%20The%20Whitman%20Tower%20Incident.mp4
 - Project UFO 2x13 — https://archive.org/download/project-ufo-complete-series-1978/Project%20UFO%20S02E13%20-%20The%20Wild%20Blue%20Yonder%20Incident.mp4
 
-## CH 10 — CRIME & MYSTERY TV
+## CH 09 — CRIME & MYSTERY TV
 
+- 4x03 The Big Crime — https://archive.org/download/Dragnet1951/Dragnet/Season%204/Dragnet%20%281951%29%20-%20S04E03%20-%20The%20Big%20Crime.mp4
+- Dragnet TV — Dragnet (1951) - S02E07 - The Big 22 Rifle for Christmas — https://archive.org/download/Dragnet1951/Dragnet/Season%202/Dragnet%20%281951%29%20-%20S02E07%20-%20The%20Big%20.22%20Rifle%20for%20Christmas.mp4
+- Dragnet TV — Dragnet (1951) - S04E12 - The Big New Year — https://archive.org/download/Dragnet1951/Dragnet/Season%204/Dragnet%20%281951%29%20-%20S04E12%20-%20The%20Big%20New%20Year.mp4
+- Hitchcock 1x01 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e1-colorized-720p-hd.mp4
+- Hitchcock 1x02 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e2-colorized-720p-hd.mp4
+- Hitchcock 1x03 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e3-colorized-720p-hd.mp4
+- Hitchcock 1x04 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e4-colorized-720p-hd.mp4
+- Hitchcock 1x05 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e5-colorized-720p-hd.mp4
+- Hitchcock 1x06 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e6-colorized-720p-hd.mp4
+- Hitchcock 1x07 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e7-colorized-720p-hd.mp4
+- Hitchcock 1x08 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e8-colorized-720p-hd.mp4
+- Hitchcock 1x10 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e10-colorized-720p-hd.mp4
+- Hitchcock 1x11 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e11-colorized-720p-hd.mp4
+- Hitchcock 1x12 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e12-colorized-720p-hd.mp4
+- Hitchcock 1x13 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e13-colorized-720p-hd.mp4
+- Hitchcock 1x14 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e14-colorized-720p-hd.mp4
+- Hitchcock 1x15 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e15-colorized-576p-sd.mp4
+- Hitchcock 1x16 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e16-colorized-720p-hd.mp4
+- Hitchcock 1x17 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e17-colorized-720p-hd.mp4
+- Hitchcock 1x18 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e18-colorized-720p-hd.mp4
+- Hitchcock 1x19 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e19-colorized-720p-hd.mp4
+- Hitchcock 1x20 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e20-colorized-720p-hd.mp4
+- Hitchcock 1x21 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e21-colorized-576p-sd.mp4
+- Hitchcock 1x22 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e22-colorized-576p-sd.mp4
+- Hitchcock 1x23 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e23-colorized-720p-hd.mp4
+- Hitchcock 1x24 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e24-colorized-720p-hd.mp4
+- Hitchcock 1x25 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e25-colorized-720p-hd.mp4
+- Hitchcock 1x26 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e26-colorized-720p-hd.mp4
+- Hitchcock 1x27 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e27-colorized-720p-hd.mp4
+- Hitchcock 1x28 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e28-colorized-576p-sd.mp4
+- Hitchcock 1x29 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e29-colorized-576p-sd.mp4
+- Hitchcock 1x30 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e30-colorized-576p-sd.mp4
+- Hitchcock 1x31 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e31-colorized-576p-sd.mp4
+- Hitchcock 1x32 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e32-colorized-576p-sd.mp4
+- Hitchcock 1x33 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e33-colorized-576p-sd.mp4
+- Hitchcock 1x34 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e34-colorized-576p-sd.mp4
+- Hitchcock 1x35 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e35-colorized-576p-sd.mp4
+- Hitchcock 1x36 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e36-colorized-576p-sd.mp4
+- Hitchcock 1x37 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e37-colorized-576p-sd.mp4
+- Hitchcock 1x38 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e38-colorized-576p-sd.mp4
+- Hitchcock 1x39 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e39-colorized-576p-sd.mp4
+- Hitchcock 2x01 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e1-colorized-576p-sd.mp4
+- Hitchcock 2x02 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e2-colorized-576p-sd.mp4
+- Hitchcock 2x03 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e3-colorized-576p-sd.mp4
+- Hitchcock 2x04 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e4-colorized-576p-sd.mp4
+- Hitchcock 2x05 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e5-colorized-576p-sd.mp4
+- Hitchcock 2x06 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e6-colorized-sd.mp4
+- Hitchcock 2x07 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e7-colorized-576p-sd.mp4
+- Hitchcock 2x08 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e8-colorized-720p-hd.mp4
+- Hitchcock 2x09 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e9-colorized-576p-sd.mp4
+- Hitchcock 2x10 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e10-colorized-576p-sd.mp4
+- Hitchcock 2x11 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e11-colorized-576p-sd.mp4
+- Hitchcock 2x12 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e12-colorized-sd.mp4
+- Hitchcock 2x13 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e13-colorized-sd.mp4
+- Hitchcock 2x14 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e14-colorized-sd.mp4
+- Hitchcock 2x15 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e15-colorized-576p-sd.mp4
+- Hitchcock 2x16 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e16-colorized-576p-sd.mp4
+- Hitchcock 2x17 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e17-colorized-sd.mp4
+- Hitchcock 2x18 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e18-colorized-sd.mp4
+- Hitchcock 2x19 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e19-colorized-576p-sd.mp4
+- Hitchcock 2x20 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e20-colorized-576p-sd.mp4
+- Hitchcock 2x21 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e21-colorized-576p-sd.mp4
+- Hitchcock 2x22 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e22-colorized-sd.mp4
+- Hitchcock 2x23 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e23-colorized-sd.mp4
+- Hitchcock 2x24 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e24-colorized-576p-sd.mp4
+- Hitchcock 2x25 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e25-colorized-576p-sd.mp4
+- Hitchcock 2x26 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e26-colorized-sd.mp4
+- Hitchcock 2x27 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e27-colorized-576p-sd.mp4
+- Hitchcock 2x28 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e28-colorized-sd.mp4
+- Hitchcock 2x29 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e29-colorized-576p-sd.mp4
+- Hitchcock 2x30 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e30-colorized-sd.mp4
+- Hitchcock 2x31 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e31-colorized-576p-sd.mp4
+- Hitchcock 2x32 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e32-colorized-sd.mp4
+- Hitchcock 2x33 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e33-colorized-sd.mp4
+- Hitchcock 2x34 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e34-colorized-sd.mp4
+- Hitchcock 2x35 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e35-colorized-sd.mp4
+- Hitchcock 2x36 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e36-colorized-576p-sd.mp4
+- Hitchcock 2x37 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e37-colorized-sd.mp4
+- Hitchcock 2x38 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e38-colorized-720p-hd.mp4
+- Hitchcock 2x39 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e39-colorized-576p-sd.mp4
+- Hitchcock 3x01 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e1-colorized-sd.mp4
+- Hitchcock 3x02 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e2-colorized-sd.mp4
+- Hitchcock 3x03 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e3-colorized-sd.mp4
+- Hitchcock 3x04 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e4-colorized-sd.mp4
+- Hitchcock 3x05 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e5-colorized-sd.mp4
+- Hitchcock 3x06 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e6-colorized-sd.mp4
+- Hitchcock 3x07 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e7-colorized-sd.mp4
+- Hitchcock 3x08 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e8-colorized-sd.mp4
+- Hitchcock 3x09 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e9-colorized-sd.mp4
+- Hitchcock 3x10 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e10-colorized-sd.mp4
+- Hitchcock 3x11 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e11-colorized-sd.mp4
+- Hitchcock 3x12 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e12-colorized-576p-sd.mp4
+- Hitchcock 3x13 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e13-colorized-sd.mp4
+- Hitchcock 3x14 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e14-colorized-sd.mp4
+- Hitchcock 3x15 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e15-colorized-sd.mp4
+- Hitchcock 3x16 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e16-colorized-sd.mp4
+- Hitchcock 3x17 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e17-colorized-sd.mp4
+- Hitchcock 3x18 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e18-colorized-sd.mp4
+- Hitchcock 3x19 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e19-colorized-sd.mp4
+- Hitchcock 3x20 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e20-colorized-sd.mp4
+- Hitchcock 3x21 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e21-colorized-sd.mp4
+- Hitchcock 3x22 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e22-colorized-576p-sd.mp4
+- Hitchcock 3x23 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e23-colorized-sd.mp4
+- Hitchcock 3x24 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e24-colorized-sd.mp4
+- Hitchcock 3x25 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e25-colorized-sd.mp4
+- Hitchcock 3x26 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e26-colorized-576p-sd.mp4
+- Hitchcock 3x27 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e27-colorized-sd.mp4
+- Hitchcock 3x28 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e28-colorized-sd.mp4
+- Hitchcock 3x29 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e29-colorized-576p-sd.mp4
+- Hitchcock 3x30 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e30-colorized-sd.mp4
+- Hitchcock 3x31 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e31-colorized-sd.mp4
+- Hitchcock 3x32 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e32-colorized-sd.mp4
+- Hitchcock 3x33 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e33-colorized-sd.mp4
+- Hitchcock 3x34 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e34-colorized-sd.mp4
+- Hitchcock 3x35 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e35-colorized-sd.mp4
+- Hitchcock 3x36 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e36-colorized-576p-sd.mp4
+- Hitchcock 3x37 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e37-colorized-sd.mp4
+- Hitchcock 3x38 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e38-colorized-720p-hd.mp4
+- Hitchcock 3x39 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e39-colorized-576p-sd.mp4
 - Miss Marple — S03Ep02 A Caribbean Mystery — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/10%20A%20Caribbean%20Mystery%20%281989%29/S03Ep02%20A%20Caribbean%20Mystery.mp4
 
-## CH 11 — COMEDY & VARIETY TV
+## CH 10 — COMEDY & VARIETY TV
 
 - TheHoneymoonersSketch1951 — https://archive.org/download/Cavalcade_Of_Stars/TheHoneymoonersSketch1951.mp4
 
-## CH 12 — FAMILY & CHILDREN TV
+## CH 11 — FAMILY & CHILDREN TV
 
 - 3x05 Children Shall Lead — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x05%20-%20And%20the%20Children%20Shall%20Lead.mp4
 - 3x12 Plato's Stepchildren — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x12%20-%20Plato%27s%20Stepchildren.mp4
 - 3x24 The Big Children — https://archive.org/download/Dragnet1951/Dragnet/Season%203/Dragnet%20%281951%29%20-%20S03E24%20-%20The%20Big%20Children.mp4
+- 01 Three Is A Magic Number — https://archive.org/download/schoolhouse-rock-30th/01%20Three%20Is%20A%20Magic%20Number.mp4
+- 02 My Hero Zero — https://archive.org/download/schoolhouse-rock-30th/02%20My%20Hero%20Zero.mp4
+- 03 Elementary My Dear — https://archive.org/download/schoolhouse-rock-30th/03%20Elementary%20My%20Dear.mp4
+- 04 The Four Legged Zoo — https://archive.org/download/schoolhouse-rock-30th/04%20The%20Four%20Legged%20Zoo.mp4
+- 05 Ready Or Not — https://archive.org/download/schoolhouse-rock-30th/05%20Ready%20Or%20Not%20Here%20I%20Come.mp4
+- 06 I Got Six — https://archive.org/download/schoolhouse-rock-30th/06%20I%20Got%20Six.mp4
+- 07 Lucky Seven Sampson — https://archive.org/download/schoolhouse-rock-30th/07%20Lucky%20Seven%20Sampson.mp4
+- 08 Figure Eight — https://archive.org/download/schoolhouse-rock-30th/08%20Figure%20Eight.mp4
+- 09 Naughty Number Nine — https://archive.org/download/schoolhouse-rock-30th/09%20Naughty%20Number%20Nine.mp4
+- 10 The Good Eleven — https://archive.org/download/schoolhouse-rock-30th/10%20The%20Good%20Eleven.mp4
+- 11 Little Twelvetoes — https://archive.org/download/schoolhouse-rock-30th/11%20Little%20Twelvetoes.mp4
+- 12 Noun Person Place Thing — https://archive.org/download/schoolhouse-rock-30th/12%20A%20Noun%20Is%20A%20Person%20Place%20Or%20Thing.mp4
+- 13 Verb Whats Happening — https://archive.org/download/schoolhouse-rock-30th/13%20Verb%20Thats%20Whats%20Happening.mp4
+- 14 Conjunction Junction — https://archive.org/download/schoolhouse-rock-30th/14%20Conjunction%20Junction.mp4
+- 15 Interjections — https://archive.org/download/schoolhouse-rock-30th/15%20Interjections.mp4
+- 16 Unpack Your Adjectives — https://archive.org/download/schoolhouse-rock-30th/16%20Unpack%20Your%20Adjectives.mp4
+- 17 Lolly Lolly Lolly Adverbs — https://archive.org/download/schoolhouse-rock-30th/17%20Lolly%20Lolly%20Lolly%20Get%20Your%20Adverbs%20Here.mp4
+- 18 Rufus Xavier Sasparilla — https://archive.org/download/schoolhouse-rock-30th/18%20Rufus%20Xavier%20Sasparilla.mp4
+- 19 Busy Prepositions — https://archive.org/download/schoolhouse-rock-30th/19%20Busy%20Prepositions.mp4
+- 20 The Tale Of Mr Morton — https://archive.org/download/schoolhouse-rock-30th/20%20The%20Tale%20Of%20Mr%20Morton.mp4
+- 21 No More Kings — https://archive.org/download/schoolhouse-rock-30th/21%20No%20More%20Kings.mp4
+- 22 Shot Heard Round World — https://archive.org/download/schoolhouse-rock-30th/22%20The%20Shot%20Heard%20Round%20the%20World.mp4
+- 23 The Preamble — https://archive.org/download/schoolhouse-rock-30th/23%20The%20Preamble.mp4
+- 24 Sufferin Till Suffrage — https://archive.org/download/schoolhouse-rock-30th/24%20Sufferin%20Till%20Suffrage.mp4
+- 25 Im Just A Bill — https://archive.org/download/schoolhouse-rock-30th/25%20Im%20Just%20A%20Bill.mp4
+- 26 American Melting Pot — https://archive.org/download/schoolhouse-rock-30th/26%20The%20Great%20American%20Melting%20Pot.mp4
+- 27 Elbow Room — https://archive.org/download/schoolhouse-rock-30th/27%20Elbow%20Room.mp4
+- 28 Fireworks — https://archive.org/download/schoolhouse-rock-30th/28%20Fireworks.mp4
+- 29 Mother Necessity — https://archive.org/download/schoolhouse-rock-30th/29%20Mother%20Necessity.mp4
+- 30 Three Ring Government — https://archive.org/download/schoolhouse-rock-30th/30%20Three%20Ring%20Government.mp4
+- 31 Vote To College — https://archive.org/download/schoolhouse-rock-30th/31%20Im%20Gonna%20Send%20Your%20Vote%20To%20College%20In%20Surround.mp4
+- 32 You Earned Your Diploma — https://archive.org/download/schoolhouse-rock-30th/32%20You%20Earned%20Your%20Diploma%20and%20Presidential%20Minute.mp4
+- 33 A Victim Of Gravity — https://archive.org/download/schoolhouse-rock-30th/33%20A%20Victim%20Of%20Gravity.mp4
+- 34 Interplanet Janet — https://archive.org/download/schoolhouse-rock-30th/34%20Interplanet%20Janet.mp4
+- 35 The Body Machine — https://archive.org/download/schoolhouse-rock-30th/35%20The%20Body%20Machine.mp4
+- 36 Do The Circulation — https://archive.org/download/schoolhouse-rock-30th/36%20Do%20The%20Circulation.mp4
+- 37 The Energy Blues — https://archive.org/download/schoolhouse-rock-30th/37%20The%20Energy%20Blues.mp4
+- 38 Them Not So Dry Bones — https://archive.org/download/schoolhouse-rock-30th/38%20Them%20Not%20So%20Dry%20Bones.mp4
+- 39 Electricity Electricity — https://archive.org/download/schoolhouse-rock-30th/39%20Electricity%20Electricity.mp4
+- 40 Telegraph Line — https://archive.org/download/schoolhouse-rock-30th/40%20Telegraph%20Line.mp4
+- 41 The Weather Show — https://archive.org/download/schoolhouse-rock-30th/41%20The%20Weather%20Show.mp4
+- 42 Scooter Computer Intro — https://archive.org/download/schoolhouse-rock-30th/42%20Scooter%20Computer%20Introduction.mp4
+- 43 Scooter Comp Hardware — https://archive.org/download/schoolhouse-rock-30th/43%20Scooter%20Computer%20Hardware.mp4
+- 44 Scooter Comp Software — https://archive.org/download/schoolhouse-rock-30th/44%20Scooter%20Computer%20Software.mp4
+- 45 Number Cruncher — https://archive.org/download/schoolhouse-rock-30th/45%20Scooter%20Computer%20Number%20Cruncher.mp4
+- 46 Dollars And Sense — https://archive.org/download/schoolhouse-rock-30th/46%20Dollars%20And%20Sense.mp4
+- 47 Tax Man Max — https://archive.org/download/schoolhouse-rock-30th/47%20Tax%20Man%20Max.mp4
+- 48 Where The Money Goes — https://archive.org/download/schoolhouse-rock-30th/48%20Where%20The%20Money%20Goes.mp4
+- 49 Seven Dollars 50 Cents — https://archive.org/download/schoolhouse-rock-30th/49%20Seven%20Dollars%20Fifty%20Cents%20Once%20A%20Week.mp4
+- 50 Tyrannosaurus Debt — https://archive.org/download/schoolhouse-rock-30th/50%20Tyrannosaurus%20Debt.mp4
+- 51 This For That — https://archive.org/download/schoolhouse-rock-30th/51%20This%20For%20That.mp4
+- 52 Walkin On Wall Street — https://archive.org/download/schoolhouse-rock-30th/52%20Walkin%20On%20The%20Wall%20Street.mp4
+- 53 The Checks In The Mail — https://archive.org/download/schoolhouse-rock-30th/53%20The%20Checks%20In%20The%20Mail.mp4
+- 54 Report from North Pole — https://archive.org/download/schoolhouse-rock-30th/54%20Report%20from%20the%20North%20Pole.mp4
+- 55 Little Things We Do — https://archive.org/download/schoolhouse-rock-30th/55%20The%20Little%20Things%20We%20Do.mp4
+- 56 The Trash Can Band — https://archive.org/download/schoolhouse-rock-30th/56%20The%20Trash%20Can%20Band.mp4
+- 57 You Oughta Savin Water — https://archive.org/download/schoolhouse-rock-30th/57%20You%20Oughta%20Be%20Savin%20Water.mp4
+- 58 The Rainforest — https://archive.org/download/schoolhouse-rock-30th/58%20The%20Rainforest.mp4
+- 59 Save the Ocean — https://archive.org/download/schoolhouse-rock-30th/59%20Save%20the%20Ocean.mp4
+- 60 Clean Rivers Song — https://archive.org/download/schoolhouse-rock-30th/60%20Fat%20Cat%20Blue%20-%20The%20Clean%20Rivers%20Song.mp4
+- 61 A Tiny Urban Zoo — https://archive.org/download/schoolhouse-rock-30th/61%20A%20Tiny%20Urban%20Zoo.mp4
+- 62 Solar Power to People — https://archive.org/download/schoolhouse-rock-30th/62%20Solar%20Power%20to%20the%20People.mp4
+- 63 Windy and Windmills — https://archive.org/download/schoolhouse-rock-30th/63%20Windy%20and%20the%20Windmills.mp4
+- 64 Don't Be Carbon Sasquatch — https://archive.org/download/schoolhouse-rock-30th/64%20Don%27t%20Be%20a%20Carbon%20Sasquatch.mp4
+- 65 The Three Rs — https://archive.org/download/schoolhouse-rock-30th/65%20The%20Three%20Rs.mp4
+- 66 MV Conjunction Junction — https://archive.org/download/schoolhouse-rock-30th/66%20Music%20Video%20-%20Conjunction%20Junction%20-%20Better%20Than%20Ezra.mp4
+- 67 MV Electricity Goodness — https://archive.org/download/schoolhouse-rock-30th/67%20Music%20Video%20-%20Electricity%20Electricity%20-%20Goodness.mp4
+- 68 MV Im Just a Bill — https://archive.org/download/schoolhouse-rock-30th/68%20Music%20Video%20-%20Im%20Just%20a%20Bill%20-%20Deluxe%20Folk%20Implosion.mp4
+- 69 MV My Hero Zero — https://archive.org/download/schoolhouse-rock-30th/69%20Music%20Video%20-%20My%20Hero%20Zero%20-%20Lemonheads.mp4
+- 70 Making Of Vote To College — https://archive.org/download/schoolhouse-rock-30th/70%20The%20Making%20Of%20Im%20Gonna%20Send%20Your%20Vote%20To%20College.mp4
+- 71 Directors Commentaries — https://archive.org/download/schoolhouse-rock-30th/71%20Directors%20Commentaries.mp4
+- 72 Emmy Awards Featurette — https://archive.org/download/schoolhouse-rock-30th/72%20Emmy%20Awards%20Featurette.mp4
+- 73 Nike Commercial Magic No — https://archive.org/download/schoolhouse-rock-30th/73%20Nike%20Commercial%20Three%20is%20A%20Magic%20Number.mp4
+- A Charles Dickens Christmas (Mr Pickwicks Christmas) — https://archive.org/download/MrPickwicksChristmas/MrPickwicksChristmas.mp4
+- A Charlie Brown Christmas 1965 (Original Print) color corrected — https://archive.org/download/you-cut-20231030-080602598/YouCut_20231030_080602598.mp4
+- A Charlie Brown Christmas Original Version — https://archive.org/download/a-charlie-brown-christmas-original-version/A
+- A Kockásfülű Nyúl (The Rabbit With Checkered Ears) — https://archive.org/download/a-kockasfulu-nyul/A
+- A Very Merry Cricket (1973) — https://archive.org/download/a-very-merry-cricket/a
+- Alvin & the Chipmunks — Princess and the Pig (S07E11b) — https://archive.org/download/1983-alvin-and-the-chipmunks-complete/Chipmunks
+- Betty Boop: Musical Mountaineers — https://archive.org/download/bb_musical_mountaineers/bb_musical_mountaineers_512kb.mp4
+- Captain Gallant of the Foreign Legion: S1E36, The Boy Who Found Christmas (DVD Quality) — https://archive.org/download/Captain-Gallant_S1E36_The-Boy-Who-Found-Christmas/Captain-Gallant_S1E36_The-Boy-Who-Found-Christmas.mp4
+- Casper — There's Good Boos Tonight — https://archive.org/download/noveltoon_casper_tfg_theres_good_boos_tonight/noveltoon_casper_tfg_theres_good_boos_tonight_512kb.mp4
+- Cheese Burglar featuring Herman — https://archive.org/download/Herman_CheeseBurglar/Herman_CheeseBurglar_512kb.mp4
+- CommandP1942 — https://archive.org/download/CommandP1942/CommandP1942.mp4
+- CommandP1942 edit — https://archive.org/download/CommandP1942/CommandP1942_edit.mp4
+- Daffy Duck and Porky Pig Meet the Groovie Goolies — https://archive.org/download/Groovie-Goolies-Collection/UK
+- Date with the Angels - 1950s Family Sitcom - Christmas Episode — https://archive.org/download/DateWithTheAngels-1950sFamilySitcom-ChristmasEpisode/DateWithTheAngels-Christmas.mp4
+- Disney Cartoon Classics — An Officer and a Duck — https://archive.org/download/258AS/An
+- Disney Cartoon Classics — Donald’s Bee Pictures — https://archive.org/download/255AS/Donald's
+- Disney Cartoon Classics — From Pluto with Love — https://archive.org/download/261AS/From
+- Disney Cartoon Classics — How the Best Was Won — https://archive.org/download/259AS/How
+- Disney Cartoon Classics — Life with Mickey! — https://archive.org/download/260AS/Life
+- Disney Cartoon Classics — Minnie — https://archive.org/download/wdcc-lge-minnie-vhsrip/WDCC.LGE.Minnie.VHSRip.mp4
+- Disney Cartoon Classics — The Disney Dream Factory — https://archive.org/download/257AS/The
+- Disney Cartoon Classics — The World According to Goofy — https://archive.org/download/256AS/The
+- DuckandC1951 edit — https://archive.org/download/DuckandC1951/DuckandC1951_edit.mp4
+- DuckandC1951.ia — https://archive.org/download/DuckandC1951/DuckandC1951.ia.mp4
+- Fat Albert (2004) — https://archive.org/download/het-hey-hey/The
+- Flower Angel — Harmony Gold English Dub — https://archive.org/download/flowerangel1985_201912/Flower
+- Frosty the Snowman (1969) — https://archive.org/download/1969-frosty-the-snowman-christmas-movies-for-kids-animated-cartoons-for-children/2011
+- Gabby: Alls Well — https://archive.org/download/gabby_alls_well/gabby_alls_well_512kb.mp4
+- Gulliver's Travels — https://archive.org/download/GulliversTravels720p_652/GulliversTravels.mp4
+- H.R. Pufnstuf — Drugachusettes (satire) — https://archive.org/download/h_r_pufnstuf/pufnstuf_satire_sam_and_criminy_craffft_present_drugachusettes.mp4
+- H.R. Pufnstuf — Drugachusettes (satire) [alternate MP4] — https://archive.org/download/h_r_pufnstuf/pufnstuf_satire_sam_and_criminy_craffft_present_drugachusettes.ia.mp4
+- H.R. Pufnstuf — Movie — https://archive.org/download/h_r_pufnstuf/pufnstuf_movie.mp4
+- H.R. Pufnstuf 01 the magic path — https://archive.org/download/h_r_pufnstuf/pufnstuf_01_the_magic_path.mp4
+- H.R. Pufnstuf 02 The wheely bird — https://archive.org/download/h_r_pufnstuf/pufnstuf_02_The_wheely_bird.mp4
+- H.R. Pufnstuf 03 show biz witch — https://archive.org/download/h_r_pufnstuf/pufnstuf_03_show_biz_witch.mp4
+- H.R. Pufnstuf 04 the mechanical boy — https://archive.org/download/h_r_pufnstuf/pufnstuf_04_the_mechanical_boy.mp4
+- H.R. Pufnstuf 05 the stand in — https://archive.org/download/h_r_pufnstuf/pufnstuf_05_the_stand_in.mp4
+- H.R. Pufnstuf 06 the golden key — https://archive.org/download/h_r_pufnstuf/pufnstuf_06_the_golden_key.mp4
+- H.R. Pufnstuf 07 the birthday party — https://archive.org/download/h_r_pufnstuf/pufnstuf_07_the_birthday_party.mp4
+- H.R. Pufnstuf 08 the box kite kaper — https://archive.org/download/h_r_pufnstuf/pufnstuf_08_the_box_kite_kaper.mp4
+- H.R. Pufnstuf 09 you cant have your cake — https://archive.org/download/h_r_pufnstuf/pufnstuf_09_you_cant_have_your_cake.mp4
+- H.R. Pufnstuf 10 the horse with the golden throat — https://archive.org/download/h_r_pufnstuf/pufnstuf_10_the_horse_with_the_golden_throat.mp4
+- H.R. Pufnstuf 11 dinner for two — https://archive.org/download/h_r_pufnstuf/pufnstuf_11_dinner_for_two.mp4
+- H.R. Pufnstuf 12 flute book and candle — https://archive.org/download/h_r_pufnstuf/pufnstuf_12_flute_book_and_candle.mp4
+- H.R. Pufnstuf 13 tooth for a tooth — https://archive.org/download/h_r_pufnstuf/pufnstuf_13_tooth_for_a_tooth.mp4
+- H.R. Pufnstuf 14 the visiting witch — https://archive.org/download/h_r_pufnstuf/pufnstuf_14_the_visiting_witch.mp4
+- H.R. Pufnstuf 15 the almost election of witchiepoo — https://archive.org/download/h_r_pufnstuf/pufnstuf_15_the_almost_election_of_witchiepoo.mp4
+- H.R. Pufnstuf 16 whaddya mean the horse gets the girl — https://archive.org/download/h_r_pufnstuf/pufnstuf_16_whaddya_mean_the_horse_gets_the_girl.mp4
+- H.R. Pufnstuf 17 jimmy who — https://archive.org/download/h_r_pufnstuf/pufnstuf_17_jimmy_who.mp4
+- Hectors Hectic Life — https://archive.org/download/hectors_hectic_life/hectors_hectic_life_512kb.mp4
+- Hep Cat Symphony — https://archive.org/download/HepCatSymphony/HepCatSymphony_512kb.mp4
+- How The Grinch Stole Christmas — https://archive.org/download/HowTheGrinchStoleChristmas_201812/How
+- Jonny Quest E01 - The Mystery of the Lizard Men — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E01%20-%20The%20Mystery%20of%20the%20Lizard%20Men.mp4
+- Jonny Quest E01 - The Mystery of the Lizard Men [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E01%20-%20The%20Mystery%20of%20the%20Lizard%20Men.ia.mp4
+- Jonny Quest E02 - Arctic Splashdown — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E02%20-%20Arctic%20Splashdown.mp4
+- Jonny Quest E02 - Arctic Splashdown [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E02%20-%20Arctic%20Splashdown.ia.mp4
+- Jonny Quest E03 - The Curse of Anubis — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E03%20-%20The%20Curse%20of%20Anubis.mp4
+- Jonny Quest E03 - The Curse of Anubis [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E03%20-%20The%20Curse%20of%20Anubis.ia.mp4
+- Jonny Quest E04 - The Curse of Anubis — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E04%20-%20The%20Curse%20of%20Anubis.mp4
+- Jonny Quest E04 - The Curse of Anubis [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E04%20-%20The%20Curse%20of%20Anubis.ia.mp4
+- Jonny Quest E05 - Riddle of the Gold — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E05%20-%20Riddle%20of%20the%20Gold.mp4
+- Jonny Quest E05 - Riddle of the Gold [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E05%20-%20Riddle%20of%20the%20Gold.ia.mp4
+- Jonny Quest E06 - Treasure of the Temple — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E06%20-%20Treasure%20of%20the%20Temple.mp4
+- Jonny Quest E06 - Treasure of the Temple [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E06%20-%20Treasure%20of%20the%20Temple.ia.mp4
+- Jonny Quest E07 - Calcutta Adventure — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E07%20-%20Calcutta%20Adventure.mp4
+- Jonny Quest E07 - Calcutta Adventure [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E07%20-%20Calcutta%20Adventure.ia.mp4
+- Jonny Quest E08 - The Robot Spy — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E08%20-%20The%20Robot%20Spy.mp4
+- Jonny Quest E08 - The Robot Spy [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E08%20-%20The%20Robot%20Spy.ia.mp4
+- Jonny Quest E09 - Double Danger — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E09%20-%20Double%20Danger.mp4
+- Jonny Quest E09 - Double Danger [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E09%20-%20Double%20Danger.ia.mp4
+- Jonny Quest E10 - Shadow of the Condor — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E10%20-%20Shadow%20of%20the%20Condor.mp4
+- Jonny Quest E10 - Shadow of the Condor [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E10%20-%20Shadow%20of%20the%20Condor.ia.mp4
+- Jonny Quest E11 - Skull and Double Crossbones — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E11%20-%20Skull%20and%20Double%20Crossbones.mp4
+- Jonny Quest E11 - Skull and Double Crossbones [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E11%20-%20Skull%20and%20Double%20Crossbones.ia.mp4
+- Jonny Quest E12 - The Dreadful Doll — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E12%20-%20The%20Dreadful%20Doll.mp4
+- Jonny Quest E12 - The Dreadful Doll [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E12%20-%20The%20Dreadful%20Doll.ia.mp4
+- Jonny Quest E13 - A Small Matter of Pygmies — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E13%20-%20A%20Small%20Matter%20of%20Pygmies.mp4
+- Jonny Quest E13 - A Small Matter of Pygmies [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E13%20-%20A%20Small%20Matter%20of%20Pygmies.ia.mp4
+- Jonny Quest E14 - Dragons of Ashida — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E14%20-%20Dragons%20of%20Ashida.mp4
+- Jonny Quest E14 - Dragons of Ashida [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E14%20-%20Dragons%20of%20Ashida.ia.mp4
+- Jonny Quest E15 - Turu the Terrible — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E15%20-%20Turu%20the%20Terrible.mp4
+- Jonny Quest E15 - Turu the Terrible [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E15%20-%20Turu%20the%20Terrible.ia.mp4
+- Jonny Quest E16 - The Fraudulent Volcano — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E16%20-%20The%20Fraudulent%20Volcano.mp4
+- Jonny Quest E16 - The Fraudulent Volcano [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E16%20-%20The%20Fraudulent%20Volcano.ia.mp4
+- Jonny Quest E17 - Werewolf of the Timberland — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E17%20-%20Werewolf%20of%20the%20Timberland.mp4
+- Jonny Quest E17 - Werewolf of the Timberland [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E17%20-%20Werewolf%20of%20the%20Timberland.ia.mp4
+- Jonny Quest E18 - Pirates from Below — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E18%20-%20Pirates%20from%20Below.mp4
+- Jonny Quest E18 - Pirates from Below [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E18%20-%20Pirates%20from%20Below.ia.mp4
+- Jonny Quest E19 - Attack of the Tree People — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E19%20-%20Attack%20of%20the%20Tree%20People.mp4
+- Jonny Quest E19 - Attack of the Tree People [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E19%20-%20Attack%20of%20the%20Tree%20People.ia.mp4
+- Jonny Quest E20 - The Invisible Monster — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E20%20-%20The%20Invisible%20Monster.mp4
+- Jonny Quest E20 - The Invisible Monster [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E20%20-%20The%20Invisible%20Monster.ia.mp4
+- Jonny Quest E21 - The Devils Tower — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E21%20-%20The%20Devils%20Tower.mp4
+- Jonny Quest E21 - The Devils Tower [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E21%20-%20The%20Devils%20Tower.ia.mp4
+- Jonny Quest E22 - The Quetong Missile Mystery — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E22%20-%20The%20Quetong%20Missile%20Mystery.mp4
+- Jonny Quest E22 - The Quetong Missile Mystery [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E22%20-%20The%20Quetong%20Missile%20Mystery.ia.mp4
+- Jonny Quest E23 - The House of Seven Gargoyles — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E23%20-%20The%20House%20of%20Seven%20Gargoyles.mp4
+- Jonny Quest E23 - The House of Seven Gargoyles [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E23%20-%20The%20House%20of%20Seven%20Gargoyles.ia.mp4
+- Jonny Quest E24 - Terror Island — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E24%20-%20Terror%20Island.mp4
+- Jonny Quest E24 - Terror Island [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E24%20-%20Terror%20Island.ia.mp4
+- Jonny Quest E25 - Monster in the Monastery — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E25%20-%20Monster%20in%20the%20Monastery.mp4
+- Jonny Quest E25 - Monster in the Monastery [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E25%20-%20Monster%20in%20the%20Monastery.ia.mp4
+- Jonny Quest E26 - The Sea Haunt — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E26%20-%20The%20Sea%20Haunt.mp4
+- Jonny Quest E26 - The Sea Haunt [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E26%20-%20The%20Sea%20Haunt.ia.mp4
+- Lassie — A Christmas Story (1958) — https://archive.org/download/lassie-a-christmas-story-1959-film-noir-christmas-special/Lassie
+- Little Audrey In Butterscotch and Soda — https://archive.org/download/LittleAudreyInbutterscotchAndSoda1948/ButterscotchAndSoda_512kb.mp4
+- Little Lulu: Bargain Counter Attack — https://archive.org/download/little_lulu_bargain_counter_attack/little_lulu_bargain_counter_attack_512kb.mp4
+- Looney Tunes — Horton Hatches the Egg (1942) — https://archive.org/download/the-1000-looney-tunes-merrie-melodies/1942/s1942e11
+- Marvel Super Heroes — Avengers Assemble — https://archive.org/download/marvel-super-heroes/Marvel
+- Mister Magoos Christmas Carol (1962) — https://archive.org/download/mister-magoos-christmas-carol-1962/Mister
+- Modern Guide to Health — https://archive.org/download/modern_guide_to_health_TNA/modern_guide_to_health_TNA_512kb.mp4
+- Noveltoon: Tarts and Flowers — https://archive.org/download/noveltoon_tarts_and_flowers/noveltoon_tarts_and_flowers_512kb.mp4
+- Noveltoon: The Stupidstitious Cat — https://archive.org/download/noveltoon_the_stupidstitious_cat/noveltoon_the_stupidstitious_cat_512kb.mp4
+- Nu, Pogodi! — Episode 15 — https://archive.org/download/nu-pogodi-complete/Season
+- Ozzie and Harriet - Christmas Tree Lot in 3D — https://archive.org/download/Ozzie-Harriet_Christmas-Tree-Lot_3D/OZZIEANDHARRIET_3D.mp4
+- Patriotic Popeye — https://archive.org/download/popeye_patriotic_popeye/popeye_patriotic_popeye_512kb.mp4
+- Peter Pan (1953) — https://archive.org/download/peterpan1953capturedfromthe1990classicsvhs/Peter
+- Pink Panther — Olympinks! — https://archive.org/download/ThePinkPanther-cartoons/The
+- Pink Panther — We Give Pink Stamps (1965) — https://archive.org/download/the-pink-panther-cartoon-collection/003
+- Popeye for President — https://archive.org/download/Popeye_forPresident/Popeye_forPresident_512kb.mp4
+- Popeye the Sailor Meets Aladdin and His Wonderful Lamp — https://archive.org/download/Popeye_the_Sailor_Meets_Aladdin_and_His_Wonderful_Lamp/Popeye_-_Aladdin_and_His_Wonderful_Lamp_512kb.mp4
+- Popeye The Sailor: Big Bad Sinbad — https://archive.org/download/popeye_big_bad_sinbad/popeye_big_bad_sinbad_512kb.mp4
+- Popeye the Sailor: Nearlyweds — https://archive.org/download/Popeye_Nearlyweds/Popeye_Nearlyweds_512kb.mp4
+- Popeye: Bride and Gloom — https://archive.org/download/Popeye_BrideandGloom/Popeye_BrideandGloom_512kb.mp4
+- Popeye: I Dont Scare — https://archive.org/download/popeye_i_dont_scare/popeye_i_dont_scare_512kb.mp4
+- Popeye: Taxi-Turvy — https://archive.org/download/popeye_taxi-turvey/popeye_taxi-turvey_512kb.mp4
+- Private Eye Popeye — https://archive.org/download/popeye_private_eye_popeye/popeye_private_eye_popeye_512kb.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E01 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E01.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E02 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E02.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E03 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E03.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E04 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E04.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E05 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E05.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E06 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E06.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E07 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E07.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E09 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E09.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E10 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E10.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E11 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E11.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E12 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E12.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E13 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E13.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E14 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E14.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E15 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E15.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E16 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E16.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E17 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E17.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E18 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E18.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E19 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E19.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E20 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E20.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E21 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E21.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E22 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E22.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E23 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E23.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E24 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E24.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E25 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E25.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E26 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E26.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E27 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E27.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E28 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E28.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E29 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E29.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E30 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E30.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E31 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E31.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E32 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E32.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E33 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E33.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E34 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E34.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E35 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E35.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E36 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E36.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E37 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E37.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E38 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E38.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E39 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E39.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E40 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E40.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E41 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E41.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E42 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E42.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E43 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E43.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E44 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E44.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E45 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E45.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E46 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E46.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E47 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E47.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E48 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E48.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E49 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/RockyAndBullwinkleAndFriends-S02E49.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E50 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E50.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E51 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E51.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E52 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E52.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S03E01 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S03E01.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S03E02 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/RockyAndBullwinkleAndFriends-S03E02.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S03E03 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/RockyAndBullwinkleAndFriends-S03E03.mp4
+- Rocky & Bullwinkle & Friends - Extra - Goof Gas Attack Outtake — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Extras/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20Extra%20-%20Goof%20Gas%20Attack%20Outtake.mp4
+- Rocky & Bullwinkle & Friends - Extra 1 - Bullwinkle Puppet Intros — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Extras/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20Extra%201%20-%20Bullwinkle%20Puppet%20Intros.mp4
+- Rocky & Bullwinkle & Friends - Extra 1 - Dear Bullwinkle — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Extras/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20Extra%201%20-%20Dear%20Bullwinkle.mp4
+- Rocky & Bullwinkle & Friends - Extra 1 - Scuba Commercial (with Pencil Test) — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Extras/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20Extra%201%20-%20Scuba%20Commercial%20%28with%20Pencil%20Test%29.mp4
+- Rocky & Bullwinkle & Friends - Extra 2 - Bowling Commercial (with Pencil Test) — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Extras/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20Extra%202%20-%20Bowling%20Commercial%20%28with%20Pencil%20Test%29.mp4
+- Rocky & Bullwinkle & Friends - Extra 2 - Classic TV Promo Spots — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Extras/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20Extra%202%20-%20Classic%20TV%20Promo%20Spots.mp4
+- Rocky & Bullwinkle & Friends - Extra 2 - The Best of Bullwinkle Follies — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Extras/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20Extra%202%20-%20The%20Best%20of%20Bullwinkle%20Follies.mp4
+- Rocky & Bullwinkle & Friends - Extra 3 - Pogo Commercial (with Pencil Test) — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Extras/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20Extra%203%20-%20Pogo%20Commercial%20%28with%20Pencil%20Test%29.mp4
+- Rocky & Bullwinkle & Friends - Extra 3 - Rocky & Bullwinkle Savings Stamp Club — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Extras/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20Extra%203%20-%20Rocky%20%26%20Bullwinkle%20Savings%20Stamp%20Club.mp4
+- Rocky & Bullwinkle & Friends - Extra 3 - Season 4 Sneak Peek — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Extras/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20Extra%203%20-%20Season%204%20Sneak%20Peek.mp4
+- Rocky & Bullwinkle & Friends - Extra 4 - June Foray Interview — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Extras/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20Extra%204%20-%20June%20Foray%20Interview.mp4
+- Rocky & Bullwinkle & Friends - Extra 4 - Sneak Peak Season 2 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Extras/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20Extra%204%20-%20Sneak%20Peak%20Season%202.mp4
+- Rocky & Bullwinkle & Friends - Extra 5 - Boris Badenov, Master of Disguise — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Extras/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20Extra%205%20-%20Boris%20Badenov%2C%20Master%20of%20Disguise.mp4
+- Rocky & Bullwinkle & Friends - Extra 5 - Season 3 Sneak Peak — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Extras/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20Extra%205%20-%20Season%203%20Sneak%20Peak.mp4
+- Rocky & Bullwinkle & Friends - Extra 6 - Moosecalls, The Best of Bullwinkle Sings — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Extras/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20Extra%206%20-%20Moosecalls%2C%20The%20Best%20of%20Bullwinkle%20Sings.mp4
+- Rocky & Bullwinkle & Friends - S01E01 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E01.mp4
+- Rocky & Bullwinkle & Friends - S01E02 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E02.mp4
+- Rocky & Bullwinkle & Friends - S01E03 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E03.mp4
+- Rocky & Bullwinkle & Friends - S01E04 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E04.mp4
+- Rocky & Bullwinkle & Friends - S01E05 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E05.mp4
+- Rocky & Bullwinkle & Friends - S01E06 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E06.mp4
+- Rocky & Bullwinkle & Friends - S01E07 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E07.mp4
+- Rocky & Bullwinkle & Friends - S01E08 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E08.mp4
+- Rocky & Bullwinkle & Friends - S01E09 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E09.mp4
+- Rocky & Bullwinkle & Friends - S01E10 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E10.mp4
+- Rocky & Bullwinkle & Friends - S01E11 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E11.mp4
+- Rocky & Bullwinkle & Friends - S01E12 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E12.mp4
+- Rocky & Bullwinkle & Friends - S01E13 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E13.mp4
+- Rocky & Bullwinkle & Friends - S01E14 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E14.mp4
+- Rocky & Bullwinkle & Friends - S01E15 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E15.mp4
+- Rocky & Bullwinkle & Friends - S01E16 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E16.mp4
+- Rocky & Bullwinkle & Friends - S01E17 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E17.mp4
+- Rocky & Bullwinkle & Friends - S01E18 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E18.mp4
+- Rocky & Bullwinkle & Friends - S01E19 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E19.mp4
+- Rocky & Bullwinkle & Friends - S01E20 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E20.mp4
+- Rocky & Bullwinkle & Friends - S01E21 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E21.mp4
+- Rocky & Bullwinkle & Friends - S01E22 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E22.mp4
+- Rocky & Bullwinkle & Friends - S01E23 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E23.mp4
+- Rocky & Bullwinkle & Friends - S01E24 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E24.mp4
+- Rocky & Bullwinkle & Friends - S01E25 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E25.mp4
+- Rocky & Bullwinkle & Friends - S01E26 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E26.mp4
+- RockyBullwinkleFriends-S03e04 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e04.mp4
+- RockyBullwinkleFriends-S03e05 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e05.mp4
+- RockyBullwinkleFriends-S03e06 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e06.mp4
+- RockyBullwinkleFriends-S03e07 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e07.mp4
+- RockyBullwinkleFriends-S03e08 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e08.mp4
+- RockyBullwinkleFriends-S03e09 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e09.mp4
+- RockyBullwinkleFriends-S03e10 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e10.mp4
+- RockyBullwinkleFriends-S03e11 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e11.mp4
+- RockyBullwinkleFriends-S03e12 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e12.mp4
+- RockyBullwinkleFriends-S03e13 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e13.mp4
+- RockyBullwinkleFriends-S03e14 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e14.mp4
+- RockyBullwinkleFriends-S03e15 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e15.mp4
+- RockyBullwinkleFriends-S03e16 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e16.mp4
+- RockyBullwinkleFriends-S03e17 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e17.mp4
+- RockyBullwinkleFriends-S03e18 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e18.mp4
+- RockyBullwinkleFriends-S03e19 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e19.mp4
+- RockyBullwinkleFriends-S03e20 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e20.mp4
+- RockyBullwinkleFriends-S03e21 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e21.mp4
+- RockyBullwinkleFriends-S03e22 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e22.mp4
+- RockyBullwinkleFriends-S03e23 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e23.mp4
+- RockyBullwinkleFriends-S03e26 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e26.mp4
+- RockyBullwinkleFriends-S03e27 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e27.mp4
+- RockyBullwinkleFriends-S03e28 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e28.mp4
+- RockyBullwinkleFriends-S03e29 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e29.mp4
+- RockyBullwinkleFriends-S03e30 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e30.mp4
+- RockyBullwinkleFriends-S03e31 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e31.mp4
+- RockyBullwinkleFriends-S03e32 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e32.mp4
+- RockyBullwinkleFriends-S03e33 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e33.mp4
+- RockyBullwinkleFriends-S04e01 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S04e01.mp4
+- RockyBullwinkleFriends-S04e02 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S04e02.mp4
+- RockyBullwinkleFriends-S04e03 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S04e03.mp4
+- RockyBullwinkleFriends-S04e04 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S04e04.mp4
+- RockyBullwinkleFriends-S04e05 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S04e05.mp4
+- RockyBullwinkleFriends-S04e06 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S04e06.mp4
+- RockyBullwinkleFriends-S04e07 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S04e07.mp4
+- RockyBullwinkleFriends-S04e08 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S04e08.mp4
+- RockyBullwinkleFriends-S04e10 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S04e10.mp4
+- RockyBullwinkleFriends-S04e11 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S04e11.mp4
+- RockyBullwinkleFriends-S04e12 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S04e12.mp4
+- RockyBullwinkleFriends-S04e13 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S04e13.mp4
+- RockyBullwinkleFriends-S04e14 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S04e14.mp4
+- RockyBullwinkleFriends-S04e15 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S04e15.mp4
+- RockyBullwinkleFriends-S04e16 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S04e16.mp4
+- RockyBullwinkleFriends-S04e17 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S04e17.mp4
+- RockyBullwinkleFriends-S04e18 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S04e18.mp4
+- RockyBullwinkleFriends-S04e19 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S04e19.mp4
+- RockyBullwinkleFriends-S05e01 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e01.mp4
+- RockyBullwinkleFriends-S05e02 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e02.mp4
+- RockyBullwinkleFriends-S05e03 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e03.mp4
+- RockyBullwinkleFriends-S05e04 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e04.mp4
+- RockyBullwinkleFriends-S05e05 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e05.mp4
+- RockyBullwinkleFriends-S05e06 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e06.mp4
+- RockyBullwinkleFriends-S05e07 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e07.mp4
+- RockyBullwinkleFriends-S05e08 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e08.mp4
+- RockyBullwinkleFriends-S05e09 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e09.mp4
+- RockyBullwinkleFriends-S05e10 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e10.mp4
+- RockyBullwinkleFriends-S05e11 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e11.mp4
+- RockyBullwinkleFriends-S05e12 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e12.mp4
+- RockyBullwinkleFriends-S05e13 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e13.mp4
+- RockyBullwinkleFriends-S05e14 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e14.mp4
+- RockyBullwinkleFriends-S05e15 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e15.mp4
+- RockyBullwinkleFriends-S05e16 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e16.mp4
+- RockyBullwinkleFriends-S05e17 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e17.mp4
+- RockyBullwinkleFriends-S05e18 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e18.mp4
+- RockyBullwinkleFriends-S05e19 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e19.mp4
+- RockyBullwinkleFriends-S05e20 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e20.mp4
+- RockyBullwinkleFriends-S05e21 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e21.mp4
+- RockyBullwinkleFriends-S05e22 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e22.mp4
+- RockyBullwinkleFriends-S05e23 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e23.mp4
+- RockyBullwinkleFriends-S05e24 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e24.mp4
+- RockyBullwinkleFriends-S05e25 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e25.mp4
+- RockyBullwinkleFriends-S05e26 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e26.mp4
+- RockyBullwinkleFriends-S05e27 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e27.mp4
+- RockyBullwinkleFriends-S05e28 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e28.mp4
+- RockyBullwinkleFriends-S05e29 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e29.mp4
+- RockyBullwinkleFriends-S05e30 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e30.mp4
+- RockyBullwinkleFriends-S05e31 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e31.mp4
+- RockyBullwinkleFriends-S05e32 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e32.mp4
+- RockyBullwinkleFriends-S05e33 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e33.mp4
+- Santa Claus (1959) — https://archive.org/download/santa-claus-1959/SantaClaus1959.mp4
+- Scrub Me Mama With A Boogie Beat — https://archive.org/download/ScrubMeMamaWithABoogieBeat/ScrubMeMamaWithABoogieBeat.mp4
+- Shuteye Popeye — https://archive.org/download/popeye_shuteye_popeye/popeye_shuteye_popeye_512kb.mp4
+- Silly Symphonies - King Neptune — https://archive.org/download/videoplayback-3_202106-walt-disney-king-neptune/videoplayback%20%283%29.mp4
+- Silly Symphonies - The Skeleton Dance (1929) — https://archive.org/download/walt-disneys-silly-symphonies-the-complete-collection-1929-39/01%20-%20The%20Skeleton%20Dance%20%281929%29.mp4
+- Snow Foolin — https://archive.org/download/SnowFoolin/ClaCinOnl_an_SnowFoolin_512kb.mp4
+- Speed Racer — 03 Challenge of the Masked Racer 1 — https://archive.org/download/speed-racer-tv/03
+- Spider-Man (1967) — 1 - The Origin Of Spiderman — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/1%20-%20The%20Origin%20Of%20Spiderman.mp4
+- Spider-Man (1967) — 10 - Revolt In The Fifth Dimension — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/10%20-%20Revolt%20In%20The%20Fifth%20Dimension.mp4
+- Spider-Man (1967) — 10 - Vine — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/10%20-%20Vine.mp4
+- Spider-Man (1967) — 10A - The Revenge Of Dr Magneto — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/10A%20-%20The%20Revenge%20Of%20Dr.%20Magneto.mp4
+- Spider-Man (1967) — 10B - The Sinister Prime Minister — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/10B%20-%20The%20Sinister%20Prime%20Minister.mp4
+- Spider-Man (1967) — 11 - Pardo Presents — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/11%20-%20Pardo%20Presents.mp4
+- Spider-Man (1967) — 11 - Specialists And Slaves — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/11%20-%20Specialists%20And%20Slaves.mp4
+- Spider-Man (1967) — 11A - The Night Of The Villains — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/11A%20-%20The%20Night%20Of%20The%20Villains.mp4
+- Spider-Man (1967) — 11B - Here Comes Trubble — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/11B%20-%20Here%20Comes%20Trubble.mp4
+- Spider-Man (1967) — 12 - Cloud City Of Gold — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/12%20-%20Cloud%20City%20Of%20Gold.mp4
+- Spider-Man (1967) — 12 - Down To Earth — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/12%20-%20Down%20To%20Earth.mp4
+- Spider-Man (1967) — 12A - Spider-Man Meets Doctor Noah Boddy — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/12A%20-%20Spider-Man%20Meets%20Doctor%20Noah%20Boddy.mp4
+- Spider-Man (1967) — 12B - The Fantastic Fakir — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/12B%20-%20The%20Fantastic%20Fakir.mp4
+- Spider-Man (1967) — 13 - Neptune's Nose Cone — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/13%20-%20Neptune%27s%20Nose%20Cone.mp4
+- Spider-Man (1967) — 13 - Trip To Tomorrow — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/13%20-%20Trip%20To%20Tomorrow.mp4
+- Spider-Man (1967) — 13A - Return Of The Flying Dutchman — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/13A%20-%20Return%20Of%20The%20Flying%20Dutchman.mp4
+- Spider-Man (1967) — 13B - Farewell Performance — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/13B%20-%20Farewell%20Performance.mp4
+- Spider-Man (1967) — 14 - Home — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/14%20-%20Home.mp4
+- Spider-Man (1967) — 14A - The Golden Rhino — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/14A%20-%20The%20Golden%20Rhino.mp4
+- Spider-Man (1967) — 14B - Blueprint For Crime — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/14B%20-%20Blueprint%20For%20Crime.mp4
+- Spider-Man (1967) — 15 - Blotto — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/15%20-%20Blotto.mp4
+- Spider-Man (1967) — 15A - The Spider And The Fly — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/15A%20-%20The%20Spider%20And%20The%20Fly.mp4
+- Spider-Man (1967) — 15B - The Slippery Doctor Von Schlick — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/15B%20-%20The%20Slippery%20Doctor%20Von%20Schlick.mp4
+- Spider-Man (1967) — 16 - Thunder Rumble — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/16%20-%20Thunder%20Rumble.mp4
+- Spider-Man (1967) — 16A - The Vulture's Prey — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/16A%20-%20The%20Vulture%27s%20Prey.mp4
+- Spider-Man (1967) — 16B - The Dark Terrors — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/16B%20-%20The%20Dark%20Terrors.mp4
+- Spider-Man (1967) — 17 - Spiderman Meets Skyboy — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/17%20-%20Spiderman%20Meets%20Skyboy.mp4
+- Spider-Man (1967) — 17A - The Terrible Triumph Of Dr Octopus — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/17A%20-%20The%20Terrible%20Triumph%20Of%20Dr.%20Octopus.mp4
+- Spider-Man (1967) — 17B - Magic Malice — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/17B%20-%20Magic%20Malice.mp4
+- Spider-Man (1967) — 18 - Cold Storage — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/18%20-%20Cold%20Storage.mp4
+- Spider-Man (1967) — 18A - Fountain Of Terror — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/18A%20-%20Fountain%20Of%20Terror.mp4
+- Spider-Man (1967) — 18B - Fiddler On The Loose — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/18B%20-%20Fiddler%20On%20The%20Loose.mp4
+- Spider-Man (1967) — 19 - To Cage A Spider — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/19%20-%20To%20Cage%20A%20Spider.mp4
+- Spider-Man (1967) — 19A - To Catch A Spider — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/19A%20-%20To%20Catch%20A%20Spider.mp4
+- Spider-Man (1967) — 19B - Double Identity — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/19B%20-%20Double%20Identity.mp4
+- Spider-Man (1967) — 1A - The Power Of Dr Octopus — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/1A%20-%20The%20Power%20Of%20Dr.%20Octopus.mp4
+- Spider-Man (1967) — 1A - The Winged Thing — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/1A%20-%20The%20Winged%20Thing.mp4
+- Spider-Man (1967) — 1B - Conner's Reptiles — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/1B%20-%20Conner%27s%20Reptiles.mp4
+- Spider-Man (1967) — 1B - Sub-Zero For Spidey — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/1B%20-%20Sub-Zero%20For%20Spidey.mp4
+- Spider-Man (1967) — 2 - King Pinned — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/2%20-%20King%20Pinned.mp4
+- Spider-Man (1967) — 20A - Sting Of The Scorpion — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/20A%20-%20Sting%20Of%20The%20Scorpion.mp4
+- Spider-Man (1967) — 20B - Trick Or Treachery — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/20B%20-%20Trick%20Or%20Treachery.mp4
+- Spider-Man (1967) — 2A - Trouble With Snow — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/2A%20-%20Trouble%20With%20Snow.mp4
+- Spider-Man (1967) — 2A - Where Crawls The Lizard — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/2A%20-%20Where%20Crawls%20The%20Lizard.mp4
+- Spider-Man (1967) — 2B - Electro The Human Lightning Bolt — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/2B%20-%20Electro%20The%20Human%20Lightning%20Bolt.mp4
+- Spider-Man (1967) — 2B - Spiderman Vs Desperado — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/2B%20-%20Spiderman%20Vs.%20Desperado.mp4
+- Spider-Man (1967) — 3 - Swing City — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/3%20-%20Swing%20City.mp4
+- Spider-Man (1967) — 3 - The Menace Of Mysterio — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/3%20-%20The%20Menace%20Of%20Mysterio.mp4
+- Spider-Man (1967) — 3A - Sky Harbor — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/3A%20-%20Sky%20Harbor.mp4
+- Spider-Man (1967) — 3B - The Big Brainwasher — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/3B%20-%20The%20Big%20Brainwasher.mp4
+- Spider-Man (1967) — 4 - Criminals In The Clouds — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/4%20-%20Criminals%20In%20The%20Clouds.mp4
+- Spider-Man (1967) — 4A - The Sky Is Falling — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/4A%20-%20The%20Sky%20Is%20Falling.mp4
+- Spider-Man (1967) — 4A - The Vanishing Doctor Vespasian — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/4A%20-%20The%20Vanishing%20Doctor%20Vespasian.mp4
+- Spider-Man (1967) — 4B - Captured By J Jonah Jameson — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/4B%20-%20Captured%20By%20J.%20Jonah%20Jameson.mp4
+- Spider-Man (1967) — 4B - The Scourge Of The Scarf — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/4B%20-%20The%20Scourge%20Of%20The%20Scarf.mp4
+- Spider-Man (1967) — 5 - Menace From The Bottom Of The World — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/5%20-%20Menace%20From%20The%20Bottom%20Of%20The%20World.mp4
+- Spider-Man (1967) — 5A - Never Step On A Scorpion — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/5A%20-%20Never%20Step%20On%20A%20Scorpion.mp4
+- Spider-Man (1967) — 5A - Super Swami — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/5A%20-%20Super%20Swami.mp4
+- Spider-Man (1967) — 5B - Sands Of Crime — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/5B%20-%20Sands%20Of%20Crime.mp4
+- Spider-Man (1967) — 5B - The Birth Of Micro Man — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/5B%20-%20The%20Birth%20Of%20Micro%20Man.mp4
+- Spider-Man (1967) — 6 - Diamond Dust — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/6%20-%20Diamond%20Dust.mp4
+- Spider-Man (1967) — 6A - Diet Of Destruction — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/6A%20-%20Diet%20Of%20Destruction.mp4
+- Spider-Man (1967) — 6A - Knight Must Fall — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/6A%20-%20Knight%20Must%20Fall.mp4
+- Spider-Man (1967) — 6B - The Devious Dr Dumpty — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/6B%20-%20The%20Devious%20Dr.%20Dumpty.mp4
+- Spider-Man (1967) — 6B - The Witching Hour — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/6B%20-%20The%20Witching%20Hour.mp4
+- Spider-Man (1967) — 7 - Spiderman Battles The Molement — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/7%20-%20Spiderman%20Battles%20The%20Molement.mp4
+- Spider-Man (1967) — 7 - Up From Nowhere — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/7%20-%20Up%20From%20Nowhere.mp4
+- Spider-Man (1967) — 7A - Kilowatt Kaper — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/7A%20-%20Kilowatt%20Kaper.mp4
+- Spider-Man (1967) — 7B - The Peril Of Parafino — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/7B%20-%20The%20Peril%20Of%20Parafino.mp4
+- Spider-Man (1967) — 8 - Horn Of The Rhino — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/8%20-%20Horn%20Of%20The%20Rhino.mp4
+- Spider-Man (1967) — 8 - Phantom From The Depths Of Time — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/8%20-%20Phantom%20From%20The%20Depths%20Of%20Time.mp4
+- Spider-Man (1967) — 8 - Rollarama — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/8%20-%20Rollarama.mp4
+- Spider-Man (1967) — 9 - The Evil Sorcerer — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/9%20-%20The%20Evil%20Sorcerer.mp4
+- Spider-Man (1967) — 9A - Rhino — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/9A%20-%20Rhino.mp4
+- Spider-Man (1967) — 9A - The One-Eyed Idol — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/9A%20-%20The%20One-Eyed%20Idol.mp4
+- Spider-Man (1967) — 9B - Fifth Avenue Phantom — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/9B%20-%20Fifth%20Avenue%20Phantom.mp4
+- Spider-Man (1967) — 9B - The Madness Of Mysterio — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/9B%20-%20The%20Madness%20Of%20Mysterio.mp4
+- Supaidaman — 01 - The Time of Revenge Has Come! Beat Down Iron Cross Group!! — https://archive.org/download/Supaidman/Supaidaman/01%20-%20The%20Time%20of%20Revenge%20Has%20Come%21%20Beat%20Down%20Iron%20Cross%20Group%21%21.mp4
+- Supaidaman — 02 - Mysterious World! The Man Who Follows His Fate — https://archive.org/download/Supaidman/Supaidaman/02%20-%20Mysterious%20World%21%20The%20Man%20Who%20Follows%20His%20Fate.mp4
+- Supaidaman — 03 - Mysterious Thief 001 VS Spider-Man — https://archive.org/download/Supaidman/Supaidaman/03%20-%20Mysterious%20Thief%20001%20VS.%20Spider-Man.mp4
+- Supaidaman — 04 - The Terrifying Half Merman! The Miracle-Calling Silver Thread — https://archive.org/download/Supaidman/Supaidaman/04%20-%20The%20Terrifying%20Half%20Merman%21%20The%20Miracle-Calling%20Silver%20Thread.mp4
+- Supaidaman — 05 - Crash Machine GP-7! The Oath Siblings — https://archive.org/download/Supaidman/Supaidaman/05%20-%20Crash%20Machine%20GP-7%21%20The%20Oath%20Siblings.mp4
+- Supaidaman — 06 - Shuddering Laboratory! Devilish Professor Monster — https://archive.org/download/Supaidman/Supaidaman/06%20-%20Shuddering%20Laboratory%21%20Devilish%20Professor%20Monster.mp4
+- Supaidaman — 07 - Fearful Hit Tune! Song Dancing Murder Rock — https://archive.org/download/Supaidman/Supaidaman/07%20-%20Fearful%20Hit%20Tune%21%20Song%20Dancing%20Murder%20Rock.mp4
+- Supaidaman — 08 - A Very Mysterious Folktale - The Cursed Cat Mound — https://archive.org/download/Supaidman/Supaidaman/08%20-%20A%20Very%20Mysterious%20Folktale%20-%20The%20Cursed%20Cat%20Mound.mp4
+- Supaidaman — 09 - Motion Accessory is a Loveful Beetle Insect Spy — https://archive.org/download/Supaidman/Supaidaman/09%20-%20Motion%20Accessory%20is%20a%20Loveful%20Beetle%20Insect%20Spy.mp4
+- Supaidaman — 10 - To the Flaming Hell - See the Tears of the Snake Woman — https://archive.org/download/Supaidman/Supaidaman/10%20-%20To%20the%20Flaming%20Hell%20-%20See%20the%20Tears%20of%20the%20Snake%20Woman.mp4
+- Supaidaman — 11 - Professor Monster's Ultra Poisoning — https://archive.org/download/Supaidman/Supaidaman/11%20-%20Professor%20Monster%27s%20Ultra%20Poisoning.mp4
+- Supaidaman — 12 - Becoming Splendid - To the Murderous Machine of Transformation — https://archive.org/download/Supaidman/Supaidaman/12%20-%20Becoming%20Splendid%20-%20To%20the%20Murderous%20Machine%20of%20Transformation.mp4
+- Supaidaman — 13 - The Skull Group VS The Devilish Hearse — https://archive.org/download/Supaidman/Supaidaman/13%20-%20The%20Skull%20Group%20VS.%20The%20Devilish%20Hearse.mp4
+- Supaidaman — 14 - Giving Father! Fight to the Song of the Hero — https://archive.org/download/Supaidman/Supaidaman/14%20-%20Giving%20Father%21%20Fight%20to%20the%20Song%20of%20the%20Hero.mp4
+- Supaidaman — 15 - The Life of Our Arrangement — https://archive.org/download/Supaidman/Supaidaman/15%20-%20The%20Life%20of%20Our%20Arrangement.mp4
+- Supaidaman — 16 - Fine Dog! Run to the Under of Father — https://archive.org/download/Supaidman/Supaidaman/16%20-%20Fine%20Dog%21%20Run%20to%20the%20Under%20of%20Father.mp4
+- Supaidaman — 17 - Pro Wrestler Samson's Tears — https://archive.org/download/Supaidman/Supaidaman/17%20-%20Pro%20Wrestler%20Samson%27s%20Tears.mp4
+- Supaidaman — 18 - In the Mother's Chest - Resurrect the Young Boys — https://archive.org/download/Supaidman/Supaidaman/18%20-%20In%20the%20Mother%27s%20Chest%20-%20Resurrect%20the%20Young%20Boys.mp4
+- Supaidaman — 19 - The Boy Phantom - To the Villageless Map — https://archive.org/download/Supaidman/Supaidaman/19%20-%20The%20Boy%20Phantom%20-%20To%20the%20Villageless%20Map.mp4
+- Supaidaman — 20 - Riddle - Calling the Riddle of My Secret Birth — https://archive.org/download/Supaidman/Supaidaman/20%20-%20Riddle%20-%20Calling%20the%20Riddle%20of%20My%20Secret%20Birth.mp4
+- Supaidaman — 21 - Fall to the Great Skies - Father's Love — https://archive.org/download/Supaidman/Supaidaman/21%20-%20Fall%20to%20the%20Great%20Skies%20-%20Father%27s%20Love.mp4
+- Supaidaman — 22 - Shedding Tears to the Dark Fate - Father and Child — https://archive.org/download/Supaidman/Supaidaman/22%20-%20Shedding%20Tears%20to%20the%20Dark%20Fate%20-%20Father%20and%20Child.mp4
+- Supaidaman — 23 - To the Love Academy of the Homeless Children — https://archive.org/download/Supaidman/Supaidaman/23%20-%20To%20the%20Love%20Academy%20of%20the%20Homeless%20Children.mp4
+- Supaidaman — 24 - Cockroach Boy - Great War — https://archive.org/download/Supaidman/Supaidaman/24%20-%20Cockroach%20Boy%20-%20Great%20War.mp4
+- Supaidaman — 25 - Treasure, Dog, and Double Grow Human — https://archive.org/download/Supaidman/Supaidaman/25%20-%20Treasure%2C%20Dog%2C%20and%20Double%20Grow%20Human.mp4
+- Supaidaman — 26 - To the Absolute Crisis - The Imitation Hero — https://archive.org/download/Supaidman/Supaidaman/26%20-%20To%20the%20Absolute%20Crisis%20-%20The%20Imitation%20Hero.mp4
+- Supaidaman — 27 - Farewell War Buddy - Beloved German Shepherd — https://archive.org/download/Supaidman/Supaidaman/27%20-%20Farewell%20War%20Buddy%20-%20Beloved%20German%20Shepherd.mp4
+- Supaidaman — 28 - The Front of the Alley - Boys' Detective Group — https://archive.org/download/Supaidman/Supaidaman/28%20-%20The%20Front%20of%20the%20Alley%20-%20Boys%27%20Detective%20Group.mp4
+- Supaidaman — 29 - Hurry, GP-7 - Time of Stop Sign — https://archive.org/download/Supaidman/Supaidaman/29%20-%20Hurry%2C%20GP-7%20-%20Time%20of%20Stop%20Sign.mp4
+- Supaidaman — 30 - Good Luck, Beautiful Police Officer — https://archive.org/download/Supaidman/Supaidaman/30%20-%20Good%20Luck%2C%20Beautiful%20Police%20Officer.mp4
+- Supaidaman — 31 - There Is No Child-Taking Detective Tomorrow — https://archive.org/download/Supaidman/Supaidaman/31%20-%20There%20Is%20No%20Child-Taking%20Detective%20Tomorrow.mp4
+- Supaidaman — 32 - Sweet Whispering Enchantress — https://archive.org/download/Supaidman/Supaidaman/32%20-%20Sweet%20Whispering%20Enchantress.mp4
+- Supaidaman — 33 - The Boy Teases the Horrible Wild Girl — https://archive.org/download/Supaidman/Supaidaman/33%20-%20The%20Boy%20Teases%20the%20Horrible%20Wild%20Girl.mp4
+- Supaidaman — 34 - Surprising Camera - Murderous Event — https://archive.org/download/Supaidman/Supaidaman/34%20-%20Surprising%20Camera%20-%20Murderous%20Event.mp4
+- Supaidaman — 35 - From the Unexplored Amazon - Here Comes the Mummified Beautiful Woman — https://archive.org/download/Supaidman/Supaidaman/35%20-%20From%20the%20Unexplored%20Amazon%20-%20Here%20Comes%20the%20Mummified%20Beautiful%20Woman.mp4
+- Supaidaman — 36 - The Onion Silver Mask and the Boys' Detective Group — https://archive.org/download/Supaidman/Supaidaman/36%20-%20The%20Onion%20Silver%20Mask%20and%20the%20Boys%27%20Detective%20Group.mp4
+- Supaidaman — 37 - From the Secret Messenger of Hell - Great King Enma — https://archive.org/download/Supaidman/Supaidaman/37%20-%20From%20the%20Secret%20Messenger%20of%20Hell%20-%20Great%20King%20Enma.mp4
+- Supaidaman — 38 - The First Tin Plate Evening Star and the Boys' Detective Group — https://archive.org/download/Supaidman/Supaidaman/38%20-%20The%20First%20Tin%20Plate%20Evening%20Star%20and%20the%20Boys%27%20Detective%20Group.mp4
+- Supaidaman — 39 - Sports World - One Great Meeting — https://archive.org/download/Supaidman/Supaidaman/39%20-%20Sports%20World%20-%20One%20Great%20Meeting.mp4
+- Supaidaman — 40 - Farewell Zero Battle Tricks — https://archive.org/download/Supaidman/Supaidaman/40%20-%20Farewell%20Zero%20Battle%20Tricks.mp4
+- Supaidaman — 41 - The Hero's Shining Hot Blood — https://archive.org/download/Supaidman/Supaidaman/41%20-%20The%20Hero%27s%20Shining%20Hot%20Blood.mp4
+- Supaidaman — Supaidāman - The Movie — https://archive.org/download/Supaidman/Supaidaman/Supaid%C4%81man%20-%20The%20Movie.mp4
+- Superman The Magnetic Telescope — https://archive.org/download/Superman_The_Magnetic_Telescope/Superman_The_Magnetic_Telescope_512kb.mp4
+- The Bear Who Slept Through Christmas (1973) — https://archive.org/download/the-bear-who-slept-who-christmas-1973-family-home-entertainment-1984/The
+- The Beatles — A Hard Day’s Night / I Want to Hold Your Hand — https://archive.org/download/thebeatlescartoon_201910/01-A
+- The Beatles — All My Loving / Day Tripper (S02E06) — https://archive.org/download/the-beatles-cartoon_2023/The
+- The Bob Hope Show, Christmas In Vietnam — https://archive.org/download/ChristmasInVietnam/1968-12-22
+- The Candle Maker — https://archive.org/download/TheCandleMaker/ClaCinOnl_an_TheCandleMaker.mp4
+- The Christmas Visitor — https://archive.org/download/TheChristmasVisitor/ClaCinOnl_an_TheChristmasVisitor.mp4
+- The Friendly Ghost — https://archive.org/download/TheFriendlyGhost/TheFriendlyGhost_512kb.mp4
+- The Leprechauns Christmas Gold (1981) — https://archive.org/download/1981theleprechaunschristmasgold/1981
+- The Snow Queen (Animation) — https://archive.org/download/the_snow_queen_1959_animation/snow_queen_us_version.mp4
+- The Year Without A Santa Claus (1974) — https://archive.org/download/the-year-without-a-santa-claus-1974_202203/The
+- Tintin and Destination Moon — https://archive.org/download/complete-tintin/14.%20TinTin%20and%20Destination%20Moon.mp4
+- Tintin and Flight 714 — https://archive.org/download/complete-tintin/20.%20TinTin%20and%20Flight%20714.mp4
+- Tintin and the Black Island — https://archive.org/download/complete-tintin/5.%20TinTin%20and%20the%20Black%20Island.mp4
+- Tintin and the Blue Lotus — https://archive.org/download/complete-tintin/1.%20TinTin%20and%20the%20Blue%20Lotus.mp4
+- Tintin and the Broken Ear — https://archive.org/download/complete-tintin/4.TinTin%20and%20the%20Broken%20Ear.mp4
+- Tintin and the Calculus Affair — https://archive.org/download/complete-tintin/16.%20TinTin%20and%20the%20Calculus%20Affair.mp4
+- Tintin and the Castafiore Emerald — https://archive.org/download/complete-tintin/19.%20TinTin%20and%20the%20Castafiore%20Emearld.mp4
+- Tintin and the Cigars of the Pharaoh — https://archive.org/download/complete-tintin/3.%20TinTin%20and%20the%20Cigars%20of%20the%20Pharaoh.mp4
+- Tintin and the Crab with the Golden Claws — https://archive.org/download/complete-tintin/7.%20TinTin%20and%20the%20Crab%20with%20the%20Golden%20Claws.mp4
+- Tintin and the Explorers on the Moon — https://archive.org/download/complete-tintin/15.%20TinTin%20and%20the%20Explorers%20on%20the%20Moon.mp4
+- Tintin and the King Ottokar's Sceptre — https://archive.org/download/complete-tintin/6.%20TinTin%20and%20the%20Kinf%20Ottokar%27s%20Sceptre.mp4
+- Tintin and the Land of Black Gold — https://archive.org/download/complete-tintin/13.%20TinTin%20and%20the%20Land%20of%20Black%20Gold.mp4
+- Tintin and the Picaros — https://archive.org/download/complete-tintin/21.%20TinTin%20and%20the%20Picaros.mp4
+- Tintin and the Prisoners of the Sun — https://archive.org/download/complete-tintin/12.%20TinTin%20and%20the%20Prisoners%20of%20the%20Sun.mp4
+- Tintin and the Red Rackham Treasure — https://archive.org/download/complete-tintin/10.%20TinTin%20and%20the%20Red%20Rackham%20Treasure.mp4
+- Tintin and the Red Sea Sharks — https://archive.org/download/complete-tintin/17.%20TinTin%20and%20the%20Red%20Sea%20Sharks.mp4
+- Tintin and the Secret of the Unicorn — https://archive.org/download/complete-tintin/9.%20TinTin%20and%20the%20Secret%20of%20the%20Unicorn.mp4
+- Tintin and the Seven Crystals Balls — https://archive.org/download/complete-tintin/11.%20TinTin%20and%20the%20Seven%20Crystals%20Balls.mp4
+- Tintin and the Shooting Star — https://archive.org/download/complete-tintin/8.%20TinTin%20and%20the%20Shooting%20Star.mp4
+- Tintin in America — https://archive.org/download/complete-tintin/2.%20TinTin%20in%20America.mp4
+- Tintin in Tibet — https://archive.org/download/complete-tintin/18.%20TinTin%20in%20Tibet.mp4
+- Twas the Night Before Christmas — https://archive.org/download/twas-the-night-before-christmas-1974-full-movie-freedownloadvideo.net/twas-the-night-before-christmas-1974-full-movie-freedownloadvideo.net.mp4
+- X-Men — EP01 - Night of the Sentinels — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP01%20-%20Night%20of%20the%20Sentinels.mp4
+- X-Men — EP02 - Night of the Sentinels Pt 2 — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP02%20-%20Night%20of%20the%20Sentinels%20Pt.%202.mp4
+- X-Men — EP03 - Enter Magneto — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP03%20-%20Enter%20Magneto.mp4
+- X-Men — EP04 - Deadly Reunions — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP04%20-%20Deadly%20Reunions.mp4
+- X-Men — EP05 - Captive Hearts — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP05%20-%20Captive%20Hearts.mp4
+- X-Men — EP06 - Cold Vengeance — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP06%20-%20Cold%20Vengeance.mp4
+- X-Men — EP07 - Slave Island — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP07%20-%20Slave%20Island.mp4
+- X-Men — EP08 - The Unstoppable Juggernaut — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP08%20-%20The%20Unstoppable%20Juggernaut.mp4
+- X-Men — EP09 - The Cure — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP09%20-%20The%20Cure.mp4
+- X-Men — EP10 - Come the Apocalypse — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP10%20-%20Come%20the%20Apocalypse.mp4
+- X-Men — EP11 - Days of Future Past — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP11%20-%20Days%20of%20Future%20Past.mp4
+- X-Men — EP12 - Days of Future Past Pt 2 — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP12%20-%20Days%20of%20Future%20Past%20Pt.%202.mp4
+- X-Men — EP13 - The Final Decision — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP13%20-%20The%20Final%20Decision.mp4
+- X-Men — EP14 - Till Death Do Us Part — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP14%20-%20Till%20Death%20Do%20Us%20Part.mp4
+- X-Men — EP15 - Till Death Do Us Part Pt 2 — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP15%20-%20Till%20Death%20Do%20Us%20Part%20Pt.%202.mp4
+- X-Men — EP16 - Whatever It Takes — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP16%20-%20Whatever%20It%20Takes.mp4
+- X-Men — EP17 - Red Dawn — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP17%20-%20Red%20Dawn.mp4
+- X-Men — EP18 - Repo Man — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP18%20-%20Repo%20Man.mp4
+- X-Men — EP19 - X-Ternally Yours — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP19%20-%20X-Ternally%20Yours.mp4
+- X-Men — EP20 - Time Fugitives — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP20%20-%20Time%20Fugitives.mp4
+- X-Men — EP21 - Time Fugitives Pt 2 — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP21%20-%20Time%20Fugitives%20Pt.%202.mp4
+- X-Men — EP22 - A Rogue's Tale — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP22%20-%20A%20Rogue%27s%20Tale.mp4
+- X-Men — EP23 - Beauty & the Beast — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP23%20-%20Beauty%20%26%20the%20Beast.mp4
+- X-Men — EP24 - Mojovision — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP24%20-%20Mojovision.mp4
+- X-Men — EP25 - Reunion — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP25%20-%20Reunion.mp4
+- X-Men — EP26 - Reunion Pt 2 — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP26%20-%20Reunion%20Pt.%202.mp4
+- X-Men — EP27 - Out of the Past — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP27%20-%20Out%20of%20the%20Past.mp4
+- X-Men — EP28 - Out of the Past Pt 2 — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP28%20-%20Out%20of%20the%20Past%20Pt.%202.mp4
+- X-Men — EP29 - The Phoenix Saga, Part I Sacrifice — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP29%20-%20The%20Phoenix%20Saga%2C%20Part%20I%20Sacrifice.mp4
+- X-Men — EP30 - The Phoenix Saga, Part II The Dark Shroud — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP30%20-%20The%20Phoenix%20Saga%2C%20Part%20II%20The%20Dark%20Shroud.mp4
+- X-Men — EP31 - The Phoenix Saga, Part III The Cry of the Banshee — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP31%20-%20The%20Phoenix%20Saga%2C%20Part%20III%20The%20Cry%20of%20the%20Banshee.mp4
+- X-Men — EP32 - The Phoenix Saga, Part IV The Starjammers — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP32%20-%20The%20Phoenix%20Saga%2C%20Part%20IV%20The%20Starjammers.mp4
+- X-Men — EP33 - The Phoenix Saga, Part V Child of Light — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP33%20-%20The%20Phoenix%20Saga%2C%20Part%20V%20Child%20of%20Light.mp4
+- X-Men — EP34 - No Mutant Is an Island — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP34%20-%20No%20Mutant%20Is%20an%20Island.mp4
+- X-Men — EP35 - Obsession — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP35%20-%20Obsession.mp4
+- X-Men — EP36 - Longshot — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP36%20-%20Longshot.mp4
+- X-Men — EP37 - Cold Comfort — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP37%20-%20Cold%20Comfort.mp4
+- X-Men — EP38 - Savage Land, Strange Heart - Part One — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP38%20-%20Savage%20Land%2C%20Strange%20Heart%20-%20Part%20One.mp4
+- X-Men — EP39 - Savage Land, Strange Heart - Part Two — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP39%20-%20Savage%20Land%2C%20Strange%20Heart%20-%20Part%20Two.mp4
+- X-Men — EP40 - The Dark Phoenix, Part I Dazzled — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP40%20-%20The%20Dark%20Phoenix%2C%20Part%20I%20Dazzled.mp4
+- X-Men — EP41 - The Dark Phoenix, Part II The Inner Circle — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP41%20-%20The%20Dark%20Phoenix%2C%20Part%20II%20The%20Inner%20Circle.mp4
+- X-Men — EP42 - The Dark Phoenix, Part III The Dark Phoenix — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP42%20-%20The%20Dark%20Phoenix%2C%20Part%20III%20The%20Dark%20Phoenix.mp4
+- X-Men — EP43 - The Dark Phoenix, Part IV The Fate of the Phoenix — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP43%20-%20The%20Dark%20Phoenix%2C%20Part%20IV%20The%20Fate%20of%20the%20Phoenix.mp4
+- X-Men — EP44 - Orphan's End — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP44%20-%20Orphan%27s%20End.mp4
+- X-Men — EP45 - Love in Vain — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP45%20-%20Love%20in%20Vain.mp4
+- X-Men — EP46 - The Juggernaut Returns — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP46%20-%20The%20Juggernaut%20Returns.mp4
+- X-Men — EP47 - A Deal with the Devil — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP47%20-%20A%20Deal%20with%20the%20Devil.mp4
+- X-Men — EP48 - Sanctuary (Part 1) — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP48%20-%20Sanctuary%20%28Part%201%29.mp4
+- X-Men — EP49 - Sanctuary (Part 2) — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP49%20-%20Sanctuary%20%28Part%202%29.mp4
+- X-Men — EP50 - Xavier Remembers — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP50%20-%20Xavier%20Remembers.mp4
+- X-Men — EP51 - Courage — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP51%20-%20Courage.mp4
+- X-Men — EP52 - Secrets, Not Long Buried — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP52%20-%20Secrets%2C%20Not%20Long%20Buried.mp4
+- X-Men — EP53 - Nightcrawler — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP53%20-%20Nightcrawler.mp4
+- X-Men — EP54 - One Man's Worth (Part 1) — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP54%20-%20One%20Man%27s%20Worth%20%28Part%201%29.mp4
+- X-Men — EP55 - One Man's Worth (Part 2) — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP55%20-%20One%20Man%27s%20Worth%20%28Part%202%29.mp4
+- X-Men — EP56 - Proteus (Part 1) — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP56%20-%20Proteus%20%28Part%201%29.mp4
+- X-Men — EP57 - Proteus (Part 2) — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP57%20-%20Proteus%20%28Part%202%29.mp4
+- X-Men — EP58 - Family Ties — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP58%20-%20Family%20Ties.mp4
+- X-Men — EP59 - Bloodlines — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP59%20-%20Bloodlines.mp4
+- X-Men — EP60 - Lotus and the Steel — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP60%20-%20Lotus%20and%20the%20Steel.mp4
+- X-Men — EP61 - Weapon X, Lies, and Video Tape — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP61%20-%20Weapon%20X%2C%20Lies%2C%20and%20Video%20Tape.mp4
+- X-Men — EP62 - Have Yourself a Morlock Little X-Mas — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP62%20-%20Have%20Yourself%20a%20Morlock%20Little%20X-Mas.mp4
+- X-Men — EP63 - Beyond Good and Evil (Part 1) The End of Time — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP63%20-%20Beyond%20Good%20and%20Evil%20%28Part%201%29%20The%20End%20of%20Time.mp4
+- X-Men — EP64 - Beyond Good and Evil (Part 2) Promise of Apocalypse — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP64%20-%20Beyond%20Good%20and%20Evil%20%28Part%202%29%20Promise%20of%20Apocalypse.mp4
+- X-Men — EP65 - Beyond Good and Evil (Part 3) The Lazarus Chamber — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP65%20-%20Beyond%20Good%20and%20Evil%20%28Part%203%29%20The%20Lazarus%20Chamber.mp4
+- X-Men — EP66 - Beyond Good and Evil (Part 4) End and Beginning — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP66%20-%20Beyond%20Good%20and%20Evil%20%28Part%204%29%20End%20and%20Beginning.mp4
+- X-Men — EP67 - The Phalanx Covenant (Part 1) — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP67%20-%20The%20Phalanx%20Covenant%20%28Part%201%29.mp4
+- X-Men — EP68 - The Phalanx Covenant (Part 2) — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP68%20-%20The%20Phalanx%20Covenant%20%28Part%202%29.mp4
+- X-Men — EP69 - Storm Front (Part 1) — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP69%20-%20Storm%20Front%20%28Part%201%29.mp4
+- X-Men — EP70 - Storm Front (Part 2) — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP70%20-%20Storm%20Front%20%28Part%202%29.mp4
+- X-Men — EP71 - The Fifth Horseman — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP71%20-%20The%20Fifth%20Horseman.mp4
+- X-Men — EP72 - Jubilees Fairytale Theatre — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP72%20-%20Jubilees%20Fairytale%20Theatre.mp4
+- X-Men — EP73 - Old Soldiers — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP73%20-%20Old%20Soldiers.mp4
+- X-Men — EP74 - Hidden Agendas — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP74%20-%20Hidden%20Agendas.mp4
+- X-Men — EP75 - Descent — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP75%20-%20Descent.mp4
+- X-Men — EP76 - Graduation Day — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP76%20-%20Graduation%20Day.mp4
+- Your Hit Parade - Christmas Eve Show 1955 — https://archive.org/download/YourHitParade-ChristmasEveShow1955/YourHitParade-ChristmasEveShow1955.mp4
 
-## CH 13 — DOCUMENTARIES
+## CH 12 — DOCUMENTARIES
 
-- NOVA - S01E01 - The Making of a Natural History Film 1974 VHSRip — https://archive.org/download/pbsnovas01/NOVA%20-%20S01E01%20-%20The.Making.of.a.Natural.History.Film.1974.VHSRip.AAC2.0.x264-SciHD.mp4
-- NOVA - S01E02 - Where Did the Colorado Go 1974 VHSRip — https://archive.org/download/pbsnovas01/NOVA%20-%20S01E02%20-%20Where.Did.the.Colorado.Go.1974.VHSRip.AAC2.0.x264-SciHD.mp4
-- NOVA - S01E03 - Whales Dolphins and Men 1974 VHSRip MP3 XviD-SciHD — https://archive.org/download/pbsnovas01/NOVA%20-%20S01E03%20-%20Whales.Dolphins.and.Men.1974.VHSRip.MP3.XviD-SciHD.ia.mp4
-- NOVA - S01E04 - The Search For Life 1974 VHSRip — https://archive.org/download/pbsnovas01/NOVA%20-%20S01E04%20-%20The.Search.For.Life.1974.VHSRip.AAC2.0.x264-rattera.ia.mp4
-- NOVA - S01E05 - The Last of the Cuiva 1974 DVDRip DD2 0 — https://archive.org/download/pbsnovas01/NOVA%20-%20S01E05%20-%20The.Last.of.the.Cuiva.1974.DVDRip.DD2.0.x264-astro_1.ia.mp4
-- NOVA - S01E06 - Strange Sleep 1974 VHSRip — https://archive.org/download/pbsnovas01/NOVA%20-%20S01E06%20-%20Strange.Sleep.1974.VHSRip.AAC2.0.x264-rattera.ia.mp4
-- NOVA - S01E07 - The Crab Nebula 1974 VHSRip — https://archive.org/download/pbsnovas01/NOVA%20-%20S01E07%20-%20The.Crab.Nebula.1974.VHSRip.AAC2.0.x264-rattera.ia.mp4
-- NOVA - S01E08 - Bird Brain The Mystery of Bird Navigation 1974 VHSRip — https://archive.org/download/pbsnovas01/NOVA%20-%20S01E08%20-%20Bird.Brain.The.Mystery.of.Bird.Navigation.1974.VHSRip.AAC2.0.x264-astro.ia.mp4
-- NOVA - S01E10 - First Signs of Washoe 1974 VHSRip — https://archive.org/download/pbsnovas01/NOVA%20-%20S01E10%20-%20First.Signs.of.Washoe.1974.VHSRip.AAC2.0.x264-SciHD.mp4
-- NOVA - S01E12 - Fusion The Energy of Promise 1974 FilmReel — https://archive.org/download/pbsnovas01/NOVA%20-%20S01E12%20-%20Fusion.The.Energy.of.Promise.1974.FilmReel.AAC2.0.x264-archive.mp4
-- NOVA — A Mathematical Mystery Tour (1985) — https://archive.org/download/pbsnovadocs/A%20Mathematical%20Mystery%20Tour%20%281985%29.mp4
-- NOVA — Absolute Zero - Part 1 of 2 - The Conquest of Cold — https://archive.org/download/pbsnovadocs/Absolute%20Zero%20-%20Part%201%20of%202%20-%20The%20Conquest%20of%20Cold.mp4
-- NOVA — Absolute Zero - Part 2 of 2 - The Race for Absolute Zero — https://archive.org/download/pbsnovadocs/Absolute%20Zero%20-%20Part%202%20of%202%20-%20The%20Race%20for%20Absolute%20Zero.mp4
-- NOVA — Ancient Computer - The Antikythera Mechanism (2012) — https://archive.org/download/pbsnovadocs/Ancient%20Computer%20-%20The%20Antikythera%20Mechanism%20%282012%29.mp4
-- NOVA — Ancient Invisible Cities - Athens — https://archive.org/download/pbsnovadocs/Ancient%20Invisible%20Cities%20-%20Athens.mp4
-- NOVA — Ancient Invisible Cities - Cairo — https://archive.org/download/pbsnovadocs/Ancient%20Invisible%20Cities%20-%20Cairo.mp4
-- NOVA — Ancient Invisible Cities - Istanbul — https://archive.org/download/pbsnovadocs/Ancient%20Invisible%20Cities%20-%20Istanbul.mp4
-- NOVA — Arctic Passage, Ice Survivors — https://archive.org/download/pbsnovadocs/Arctic%20Passage%2C%20Ice%20Survivors.mp4
-- NOVA — Arctic Passage, Prisoners of the Ice — https://archive.org/download/pbsnovadocs/Arctic%20Passage%2C%20Prisoners%20of%20the%20Ice.mp4
-- NOVA — Big Pacific S1E1 - Mysterious — https://archive.org/download/pbsnovadocs/Big%20Pacific%20S1E1%20-%20Mysterious.ia.mp4
-- NOVA — Big Pacific S1E2 - Violent — https://archive.org/download/pbsnovadocs/Big%20Pacific%20S1E2%20-%20Violent.ia.mp4
-- NOVA — Big Pacific S1E3 - Voracious — https://archive.org/download/pbsnovadocs/Big%20Pacific%20S1E3%20-%20Voracious.ia.mp4
-- NOVA — Big Pacific S1E4 - Passionate — https://archive.org/download/pbsnovadocs/Big%20Pacific%20S1E4%20-%20Passionate.ia.mp4
-- NOVA — Big Pacific S1E5 - Behind The Scenes — https://archive.org/download/pbsnovadocs/Big%20Pacific%20S1E5%20-%20Behind%20The%20Scenes.ia.mp4
-- NOVA — David Macaulay - Cathedral — https://archive.org/download/pbsnovadocs/David%20Macaulay%20-%20Cathedral.mp4
-- NOVA — David Macaulay - Mill Times — https://archive.org/download/pbsnovadocs/David%20Macaulay%20-%20Mill%20Times.mp4
-- NOVA — David Macaulay - Roman city — https://archive.org/download/pbsnovadocs/David%20Macaulay%20-%20Roman%20city.mp4
-- NOVA — DOCU To The Moon On NOVA ( 1999, PBS) — https://archive.org/download/docutothemoononnova1999pbs/DOCU%20-%20To%20The%20Moon%20on%20NOVA%20%281999%2C%20PBS%29/DOCU%20-%20To%20The%20Moon%20on%20NOVA%20%281999%2C%20PBS%29.mp4
-- NOVA — Empires - Egypt's Golden Empire - Part 1 of 3 - The Warrior Pharaohs — https://archive.org/download/pbsnovadocs/Empires%20-%20Egypt%27s%20Golden%20Empire%20-%20Part%201%20of%203%20-%20The%20Warrior%20Pharaohs.mp4
-- NOVA — Empires - Egypt's Golden Empire - Part 2 of 3 - The Pharaohs of the Sun — https://archive.org/download/pbsnovadocs/Empires%20-%20Egypt%27s%20Golden%20Empire%20-%20Part%202%20of%203%20-%20The%20Pharaohs%20of%20the%20Sun.mp4
-- NOVA — Empires - Egypt's Golden Empire - Part 3 of 3 - The Last Great Pharaoh — https://archive.org/download/pbsnovadocs/Empires%20-%20Egypt%27s%20Golden%20Empire%20-%20Part%203%20of%203%20-%20The%20Last%20Great%20Pharaoh.mp4
-- NOVA — Empires - Japan - Memoirs of a Secret Empire - Part 1 - Way of the Samurai — https://archive.org/download/pbsnovadocs/Empires%20-%20Japan%20-%20Memoirs%20of%20a%20Secret%20Empire%20-%20Part%201%20-%20Way%20of%20the%20Samurai.mp4
-- NOVA — Empires - Japan - Memoirs of a Secret Empire - Part 2 - Will of the Shogun — https://archive.org/download/pbsnovadocs/Empires%20-%20Japan%20-%20Memoirs%20of%20a%20Secret%20Empire%20-%20Part%202%20-%20Will%20of%20the%20Shogun.mp4
-- NOVA — Empires - Japan - Memoirs of a Secret Empire - Part 3 - Return of the Barbarians — https://archive.org/download/pbsnovadocs/Empires%20-%20Japan%20-%20Memoirs%20of%20a%20Secret%20Empire%20-%20Part%203%20-%20Return%20of%20the%20Barbarians.mp4
-- NOVA — Empires - Napoleon - Part 1 of 4 - To Destiny — https://archive.org/download/pbsnovadocs/Empires%20-%20Napoleon%20-%20Part%201%20of%204%20-%20To%20Destiny.mp4
-- NOVA — Empires - Napoleon - Part 2 of 4 - Mastering Luck — https://archive.org/download/pbsnovadocs/Empires%20-%20Napoleon%20-%20Part%202%20of%204%20-%20Mastering%20Luck.mp4
-- NOVA — Empires - Napoleon - Part 3 of 4 - The Summit of Greatness — https://archive.org/download/pbsnovadocs/Empires%20-%20Napoleon%20-%20Part%203%20of%204%20-%20The%20Summit%20of%20Greatness.mp4
-- NOVA — Empires - Napoleon - Part 4 of 4 - The End — https://archive.org/download/pbsnovadocs/Empires%20-%20Napoleon%20-%20Part%204%20of%204%20-%20The%20End.mp4
-- NOVA — Empires - Rome in the 1st Century - Episode 1 - Order from Chaos — https://archive.org/download/pbsnovadocs/Empires%20-%20Rome%20in%20the%201st%20Century%20-%20Episode%201%20-%20Order%20from%20Chaos.mp4
-- NOVA — Empires - Rome in the 1st Century - Episode 2 - Years of Trial — https://archive.org/download/pbsnovadocs/Empires%20-%20Rome%20in%20the%201st%20Century%20-%20Episode%202%20-%20Years%20of%20Trial.mp4
-- NOVA — Empires - Rome in the 1st Century - Episode 3 - Winds of Change — https://archive.org/download/pbsnovadocs/Empires%20-%20Rome%20in%20the%201st%20Century%20-%20Episode%203%20-%20Winds%20of%20Change.mp4
-- NOVA — Empires - Rome in the 1st Century - Episode 4 - Years of Eruption — https://archive.org/download/pbsnovadocs/Empires%20-%20Rome%20in%20the%201st%20Century%20-%20Episode%204%20-%20Years%20of%20Eruption.mp4
-- NOVA — Empires - The Medici, Godfathers of the Renaissance - Part 1 - Birth of a Dynasty — https://archive.org/download/pbsnovadocs/Empires%20-%20The%20Medici%2C%20Godfathers%20of%20the%20Renaissance%20-%20Part%201%20-%20Birth%20of%20a%20Dynasty.mp4
-- NOVA — Empires - The Medici, Godfathers of the Renaissance - Part 2 - Magnificent Medici — https://archive.org/download/pbsnovadocs/Empires%20-%20The%20Medici%2C%20Godfathers%20of%20the%20Renaissance%20-%20Part%202%20-%20Magnificent%20Medici.mp4
-- NOVA — Empires - The Medici, Godfathers of the Renaissance - Part 3 - Medici Popes — https://archive.org/download/pbsnovadocs/Empires%20-%20The%20Medici%2C%20Godfathers%20of%20the%20Renaissance%20-%20Part%203%20-%20Medici%20Popes.mp4
-- NOVA — Empires - The Medici, Godfathers of the Renaissance - Part 4 - Power vs Truth — https://archive.org/download/pbsnovadocs/Empires%20-%20The%20Medici%2C%20Godfathers%20of%20the%20Renaissance%20-%20Part%204%20-%20Power%20vs%20Truth.mp4
-- NOVA — Encountering Sea Monsters — https://archive.org/download/pbsnovadocs/Encountering%20Sea%20Monsters.mp4
-- NOVA — Infinite Secrets - The Genius of Archimedes (2003) — https://archive.org/download/pbsnovadocs/Infinite%20Secrets%20-%20The%20Genius%20of%20Archimedes%20%282003%29.mp4
-- NOVA — Life from Above - Changing Planet — https://archive.org/download/pbsnovadocs/Life%20from%20Above%20-%20Changing%20Planet.mp4
-- NOVA — Life from Above - Moving Planet — https://archive.org/download/pbsnovadocs/Life%20from%20Above%20-%20Moving%20Planet.mp4
-- NOVA — Mark Twain by Ken Burns 1 of 2 — https://archive.org/download/pbsnovadocs/Mark%20Twain%20by%20Ken%20Burns%201%20of%202.mp4
-- NOVA — Mark Twain by Ken Burns 2 of 2 — https://archive.org/download/pbsnovadocs/Mark%20Twain%20by%20Ken%20Burns%202%20of%202.mp4
-- NOVA — Mount St Helens — https://archive.org/download/pbsnovadocs/Mount%20St.%20Helens.mp4
-- NOVA — Mountains of Ice — https://archive.org/download/pbsnovadocs/Mountains%20of%20Ice.mp4
-- NOVA — Nature - Extraordinary Dogs (1997) — https://archive.org/download/pbsnovadocs/Nature%20-%20Extraordinary%20Dogs%20%281997%29.mp4
-- NOVA — Nature - Super Cats, Series 1, 1 of 3 - Extreme Lives — https://archive.org/download/pbsnovadocs/Nature%20-%20Super%20Cats%2C%20Series%201%2C%201%20of%203%20-%20Extreme%20Lives.mp4
-- NOVA — Nature - Super Cats, Series 1, 2 of 3 - Cats in Every Corner — https://archive.org/download/pbsnovadocs/Nature%20-%20Super%20Cats%2C%20Series%201%2C%202%20of%203%20-%20Cats%20in%20Every%20Corner.mp4
-- NOVA — Out of the Ashes - Recovering the Lost Library of Herculaneum — https://archive.org/download/pbsnovadocs/Out%20of%20the%20Ashes%20-%20Recovering%20the%20Lost%20Library%20of%20Herculaneum.mp4
-- NOVA — PBS - Cathedral — https://archive.org/download/pbsnovadocs/PBS%20-%20Cathedral.mp4
-- NOVA — PBS - Life from Above - Patterned Planet — https://archive.org/download/pbsnovadocs/PBS%20-%20Life%20from%20Above%20-%20Patterned%20Planet.mp4
-- NOVA — PBS - Mill Times — https://archive.org/download/pbsnovadocs/PBS%20-%20Mill%20Times.mp4
-- NOVA — PBS - Odyssey - The Ancient Mariners — https://archive.org/download/pbsnovadocs/PBS%20-%20Odyssey%20-%20The%20Ancient%20Mariners.mp4
-- NOVA — PBS - Roman city — https://archive.org/download/pbsnovadocs/PBS%20-%20Roman%20city.mp4
-- NOVA — PBS - Sky Island (2011) — https://archive.org/download/pbsnovadocs/PBS%20-%20Sky%20Island%20%282011%29.mp4
-- NOVA — PBS - Tesla - Master of Lightning — https://archive.org/download/pbsnovadocs/PBS%20-%20Tesla%20-%20Master%20of%20Lightning.mp4
-- NOVA — PBS - The Buddha — https://archive.org/download/pbsnovadocs/PBS%20-%20The%20Buddha.mp4
-- NOVA — PBS Nova - Secrets of Lost Empires - Colosseum — https://archive.org/download/pbsnovadocs/PBS%20Nova%20-%20Secrets%20of%20Lost%20Empires%20-%20Colosseum.mp4
-- NOVA — PBS Nova - Secrets of Lost Empires - Stonehenge — https://archive.org/download/pbsnovadocs/PBS%20Nova%20-%20Secrets%20of%20Lost%20Empires%20-%20Stonehenge.mp4
-- NOVA — PBS Nova - Secrets of the Dead - China's Terracotta Warriors — https://archive.org/download/pbsnovadocs/PBS%20Nova%20-%20Secrets%20of%20the%20Dead%20-%20China%27s%20Terracotta%20Warriors.mp4
-- NOVA — PBS Nova - Secrets of the Dead - Hannibal in the Alps — https://archive.org/download/pbsnovadocs/PBS%20Nova%20-%20Secrets%20of%20the%20Dead%20-%20Hannibal%20in%20the%20Alps.mp4
-- NOVA — PBS Nova - Secrets of the Dead - Nero's Sunken City — https://archive.org/download/pbsnovadocs/PBS%20Nova%20-%20Secrets%20of%20the%20Dead%20-%20Nero%27s%20Sunken%20City.mp4
-- NOVA — PBS Special - The National Parks - America's Best Idea - 1 - The Scripture of Nature — https://archive.org/download/pbsnovadocs/PBS%20Special%20-%20The%20National%20Parks%20-%20America%27s%20Best%20Idea%20-%201%20-%20The%20Scripture%20of%20Nature.mp4
-- NOVA — PBS Special - The National Parks - America's Best Idea - 2 - The Last Refuge — https://archive.org/download/pbsnovadocs/PBS%20Special%20-%20The%20National%20Parks%20-%20America%27s%20Best%20Idea%20-%202%20-%20The%20Last%20Refuge.mp4
-- NOVA — PBS Special - The National Parks - America's Best Idea - 3 - The Empire of Grandeur — https://archive.org/download/pbsnovadocs/PBS%20Special%20-%20The%20National%20Parks%20-%20America%27s%20Best%20Idea%20-%203%20-%20The%20Empire%20of%20Grandeur.mp4
-- NOVA — PBS Special - The National Parks - America's Best Idea - 4 - Going Home — https://archive.org/download/pbsnovadocs/PBS%20Special%20-%20The%20National%20Parks%20-%20America%27s%20Best%20Idea%20-%204%20-%20Going%20Home.mp4
-- NOVA — PBS Special - The National Parks - America's Best Idea - 5 - Great Nature — https://archive.org/download/pbsnovadocs/PBS%20Special%20-%20The%20National%20Parks%20-%20America%27s%20Best%20Idea%20-%205%20-%20Great%20Nature.mp4
-- NOVA — PBS Special - The National Parks - America's Best Idea - 6 - The Morning of Creation — https://archive.org/download/pbsnovadocs/PBS%20Special%20-%20The%20National%20Parks%20-%20America%27s%20Best%20Idea%20-%206%20-%20The%20Morning%20of%20Creation.mp4
-- NOVA — The Ancient Mariners — https://archive.org/download/pbsnovadocs/The%20Ancient%20Mariners.mp4
-- NOVA — The National Parks - America's Best Idea - 1 - The Scripture of Nature — https://archive.org/download/pbsnovadocs/The%20National%20Parks%20-%20America%27s%20Best%20Idea%20-%201%20-%20The%20Scripture%20of%20Nature.mp4
-- NOVA — The National Parks - America's Best Idea - 2 - The Last Refuge — https://archive.org/download/pbsnovadocs/The%20National%20Parks%20-%20America%27s%20Best%20Idea%20-%202%20-%20The%20Last%20Refuge.mp4
-- NOVA — The National Parks - America's Best Idea - 3 - The Empire of Grandeur — https://archive.org/download/pbsnovadocs/The%20National%20Parks%20-%20America%27s%20Best%20Idea%20-%203%20-%20The%20Empire%20of%20Grandeur.mp4
-- NOVA — The National Parks - America's Best Idea - 4 - Going Home — https://archive.org/download/pbsnovadocs/The%20National%20Parks%20-%20America%27s%20Best%20Idea%20-%204%20-%20Going%20Home.mp4
-- NOVA — The National Parks - America's Best Idea - 5 - Great Nature — https://archive.org/download/pbsnovadocs/The%20National%20Parks%20-%20America%27s%20Best%20Idea%20-%205%20-%20Great%20Nature.mp4
-- NOVA — The National Parks - America's Best Idea - 6 - The Morning of Creation — https://archive.org/download/pbsnovadocs/The%20National%20Parks%20-%20America%27s%20Best%20Idea%20-%206%20-%20The%20Morning%20of%20Creation.mp4
-- NOVA — The Nero Files - Secrets of the Dead (2019) — https://archive.org/download/pbsnovadocs/The%20Nero%20Files%20-%20Secrets%20of%20the%20Dead%20%282019%29.mp4
-- NOVA — The Proof - Andrew Wiles & Fermat's Last Theorem (1997) — https://archive.org/download/pbsnovadocs/The%20Proof%20-%20Andrew%20Wiles%20%26%20Fermat%27s%20Last%20Theorem%20%281997%29.mp4
-- NOVA S42 EP15 Dawn Of Humanity — https://archive.org/download/nova-pbs-documentaries/NOVA/NOVA%20S42%20EP15%20Dawn%20Of%20Humanity.mp4
-- NOVA S43 EP15 School Of The Future — https://archive.org/download/nova-pbs-documentaries/NOVA/NOVA%20S43%20EP15%20School%20Of%20The%20Future.mp4
-- NOVA S43 EP15 School Of The Future - Spanish Version — https://archive.org/download/nova-pbs-documentaries/NOVA/NOVA%20S43%20EP15%20School%20Of%20The%20Future%20-%20Spanish%20Version.mp4
-- NOVA S45 EP The Impossible Flight — https://archive.org/download/nova-pbs-documentaries/NOVA/NOVA%20S45%20EP__%20The%20Impossible%20Flight.mp4
+- 01 Déjà Vu (1858-1961) — https://archive.org/download/nova-pbs-documentaries/The%20Vietnam%20War/01%20D%C3%A9j%C3%A0%20Vu%20%281858-1961%29.mp4
+- 02 Riding the Tiger (1961-1963) — https://archive.org/download/nova-pbs-documentaries/The%20Vietnam%20War/02%20Riding%20the%20Tiger%20%281961-1963%29.mp4
+- 03 The River Styx (January 1964-December 1965) — https://archive.org/download/nova-pbs-documentaries/The%20Vietnam%20War/03%20The%20River%20Styx%20%28January%201964-December%201965%29.mp4
+- 04 Resolve (January 1966-June 1967) — https://archive.org/download/nova-pbs-documentaries/The%20Vietnam%20War/04%20Resolve%20%28January%201966-June%201967%29.mp4
+- 05 This Is What We Do (July 1967-December 1967) — https://archive.org/download/nova-pbs-documentaries/The%20Vietnam%20War/05%20This%20Is%20What%20We%20Do%20%28July%201967-December%201967%29.mp4
+- 06 Things Fall Apart (January 1968-July 1968) — https://archive.org/download/nova-pbs-documentaries/The%20Vietnam%20War/06%20Things%20Fall%20Apart%20%28January%201968-July%201968%29.mp4
+- 09 A Disrespectful Loyalty (May 1970-March 1973) — https://archive.org/download/nova-pbs-documentaries/The%20Vietnam%20War/09%20A%20Disrespectful%20Loyalty%20%28May%201970-March%201973%29.mp4
+- 20 Years Of Strategic Air Command — https://archive.org/download/2927420YearsOfStrategicAirCommandMos/29274%2020%20years%20Of%20Strategic%20Air%20Command_mos.mp4
+- 3 79-hfc-287-r1 — https://archive.org/download/gov.ntis.ava15996vnb1/3.79-hfc-287-r1.mp4
+- 4 79-hfc-287-r2 — https://archive.org/download/gov.ntis.ava15996vnb1/4.79-hfc-287-r2.mp4
+- 5 79-hfc-287-r3 — https://archive.org/download/gov.ntis.ava15996vnb1/5.79-hfc-287-r3.mp4
+- 79-hfc-287-r1 — https://archive.org/download/gov.ntis.ava15996vnb1/79-hfc-287-r1.mp4
+- 79-hfc-287-r1 tp 8bit — https://archive.org/download/gov.ntis.ava15996vnb1/79-hfc-287-r1_tp_8bit.mp4
+- 79-hfc-287-r2 — https://archive.org/download/gov.ntis.ava15996vnb1/79-hfc-287-r2.mp4
+- 79-hfc-287-r2 tp 8bit — https://archive.org/download/gov.ntis.ava15996vnb1/79-hfc-287-r2_tp_8bit.mp4
+- 79-hfc-287-r3 — https://archive.org/download/gov.ntis.ava15996vnb1/79-hfc-287-r3.mp4
+- 79-hfc-287-r3 tp 8bit — https://archive.org/download/gov.ntis.ava15996vnb1/79-hfc-287-r3_tp_8bit.mp4
+- A is for Atom (1953) — https://archive.org/download/0159_A_is_for_Atom_01_00_48_00/0159_A_is_for_Atom_01_00_48_00.mp4
+- AAF Combat Camera Units Weekly Digest pt 63 — https://archive.org/download/42124aafcombatcameraunitsweeklydigestpt63vwr/42124%20AAF%20Combat%20Camera%20Units%20Weekly%20Digest%20pt%2063_vwr.mp4
+- AboutBan1935 — https://archive.org/download/AboutBan1935/AboutBan1935.mp4
+- AboutBan1935 edit — https://archive.org/download/AboutBan1935/AboutBan1935_edit.mp4
+- Alaskas Silver Millions (Part I) — https://archive.org/download/AlaskasS1936/AlaskasS1936_edit.mp4
+- Alaskas Silver Millions (Part II) — https://archive.org/download/AlaskasS1936_2/AlaskasS1936_2_edit.mp4
+- aloneathome — https://archive.org/download/aloneathome/aloneathome/aloneathome.mp4
+- Angel and the Badman — https://archive.org/download/angel_and_the_badman/angel_and_the_badman.mp4
+- Appalachia: Rich Land, Poor People — https://archive.org/download/appalachiarichlandpoorpeople/appalachiarichlandpoorpeople/appalachiarichlandpoorpeoplereel2.mp4
+- ArrangingThe — https://archive.org/download/ArrangingThe/ArrangingThe.mp4
+- ArrangingThe edit — https://archive.org/download/ArrangingThe/ArrangingThe_edit.mp4
+- AsBoysGr1957 — https://archive.org/download/AsBoysGr1957/AsBoysGr1957.mp4
+- AsBoysGr1957 edit — https://archive.org/download/AsBoysGr1957/AsBoysGr1957_edit.mp4
+- Atomic Alert (1951) — https://archive.org/download/AtomicAl1951/AtomicAl1951_edit.mp4
+- AtomicAl1951 — https://archive.org/download/AtomicAl1951/AtomicAl1951.mp4
+- ava15996vnb1 — https://archive.org/download/gov.ntis.ava15996vnb1/ava15996vnb1.mp4
+- BuildYou1948 — https://archive.org/download/BuildYou1948/BuildYou1948.mp4
+- BuildYou1948 edit — https://archive.org/download/BuildYou1948/BuildYou1948_edit.mp4
+- Bureau of Indian Affairs, “Chicago Story” (16mm film reel), approximately 1968 — https://archive.org/download/ayer_mms_bia_relocation_box_004/Ayer_Modern_MS_BIA_Relocation.mp4
+- Business Films — https://archive.org/download/Business1968/Business1968_edit.mp4
+- Careofth1951 — https://archive.org/download/Careofth1951/Careofth1951.mp4
+- CaseofSp1940 — https://archive.org/download/CaseofSp1940/CaseofSp1940.mp4
+- CaseofSp1940 edit — https://archive.org/download/CaseofSp1940/CaseofSp1940_edit.mp4
+- ccoPublicDomainSword of Lancelot — https://archive.org/download/cco_swordoflancelot/ccoPublicDomainSword_of_Lancelot.mp4
+- Centinelas del Silencio — https://archive.org/download/centinelas_del_silencio/centinelas_del_silencio_512kb.mp4
+- CindyGoe1955 — https://archive.org/download/CindyGoe1955/CindyGoe1955.mp4
+- CindyGoe1955 edit — https://archive.org/download/CindyGoe1955/CindyGoe1955_edit.mp4
+- ClassicT1948 — https://archive.org/download/ClassicT1948/ClassicT1948.mp4
+- ClassicT1948 edit — https://archive.org/download/ClassicT1948/ClassicT1948_edit.mp4
+- Coal Miner, The — https://archive.org/download/coal_miner/coal_miner_512kb.mp4
+- communications primer — https://archive.org/download/communications_primer/communications_primer.mp4
+- communications primer edit — https://archive.org/download/communications_primer/communications_primer_edit.mp4
+- Communis1952 — https://archive.org/download/Communis1952/Communis1952.mp4
+- Communis1952 edit — https://archive.org/download/Communis1952/Communis1952_edit.mp4
+- Connections 1x01 Trigger — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%201/Connections%20S01E01%20-%20The%20Trigger%20Effect.mp4
+- Connections 1x02 Death Morn — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%201/Connections%20S01E02%20-%20Death%20in%20the%20Morning.mp4
+- Connections 1x03 Distant — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%201/Connections%20S01E03%20-%20Distant%20Voices.mp4
+- Connections 1x04 Faith — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%201/Connections%20S01E04%20-%20Faith%20in%20Numbers.mp4
+- Connections 1x05 Wheel — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%201/Connections%20S01E05%20-%20The%20Wheel%20of%20Fortune.mp4
+- Connections 1x06 Thunder — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%201/Connections%20S01E06%20-%20Thunder%20in%20the%20Skies.mp4
+- Connections 1x07 Long Chain — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%201/Connections%20S01E07%20-%20The%20Long%20Chain.mp4
+- Connections 1x08 Eat Drink — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%201/Connections%20S01E08%20-%20Eat%2C%20Drink%20and%20Be%20Merry.mp4
+- Connections 1x09 Countdown — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%201/Connections%20S01E09%20-%20Countdown.mp4
+- Connections 1x10 Yesterday — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%201/Connections%20S01E10%20-%20Yesterday%2C%20Tomorrow%20and%20You.mp4
+- Connections 2x01 Revolutions — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E01%20-%20Revolutions.mp4
+- Connections 2x02 Journeys — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E02%20-%20Sentimental%20Journeys.mp4
+- Connections 2x03 Together — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E03%20-%20Getting%20It%20Together.mp4
+- Connections 2x04 Whodunit — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E04%20-%20Whodunit.mp4
+- Connections 2x05 Nothing — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E05%20-%20Something%20for%20Nothing.mp4
+- Connections 2x06 Echoes — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E06%20-%20Echoes%20of%20the%20Past.mp4
+- Connections 2x07 Photo Fin — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E07%20-%20Photo%20Finish.mp4
+- Connections 2x08 Separate — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E08%20-%20Separate%20Ways.mp4
+- Connections 2x09 High Times — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E09%20-%20High%20Times.mp4
+- Connections 2x10 Deja Vu — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E10%20-%20Deja%20Vu.mp4
+- Connections 2x11 Harmony — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E11%20-%20New%20Harmony.mp4
+- Connections 2x12 Hot Pickle — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E12%20-%20Hot%20Pickle.mp4
+- Connections 2x13 Big Spin — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E13%20-%20The%20Big%20Spin.mp4
+- Connections 2x14 Ideas — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E14%20-%20Bright%20Ideas.mp4
+- Connections 2x15 Waves — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E15%20-%20Making%20Waves.mp4
+- Connections 2x16 Routes — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E16%20-%20Routes.mp4
+- Connections 2x17 One Word — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E17%20-%20One%20Word.mp4
+- Connections 2x18 Sign Here — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E18%20-%20Sign%20Here.mp4
+- Connections 2x19 Real Thing — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E19%20-%20Better%20Than%20the%20Real%20Thing.mp4
+- Connections 2x20 Flex Resp — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E20%20-%20Flexible%20Response.mp4
+- Connections 3x01 Feedback — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%203/Connections%20S03E01%20-%20Feedback.mp4
+- Connections 3x02 Name — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%203/Connections%20S03E02%20-%20What%27s%20in%20a%20Name.mp4
+- Connections 3x03 Apple — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%203/Connections%20S03E03%20-%20Drop%20the%20Apple.mp4
+- Connections 3x04 Invisible — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%203/Connections%20S03E04%20-%20An%20Invisible%20Object.mp4
+- Connections 3x05 No Picnic — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%203/Connections%20S03E05%20-%20Life%20Is%20No%20Picnic.mp4
+- Connections 3x06 Stuff — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%203/Connections%20S03E06%20-%20Elementary%20Stuff.mp4
+- Connections 3x07 Place — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%203/Connections%20S03E07%20-%20A%20Special%20Place.mp4
+- Connections 3x08 Sky Fire — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%203/Connections%20S03E08%20-%20Fire%20From%20the%20Sky.mp4
+- Connections 3x09 Water — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%203/Connections%20S03E09%20-%20Hit%20the%20Water.mp4
+- Connections 3x10 In Touch — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%203/Connections%20S03E10%20-%20In%20Touch.mp4
+- Cyrano De Bergerac — https://archive.org/download/Cyrano_DeBergerac/Cyrano_De_Bergerac.mp4
+- DatingDo1949 — https://archive.org/download/DatingDo1949/DatingDo1949.mp4
+- DatingDo1949 edit — https://archive.org/download/DatingDo1949/DatingDo1949_edit.mp4
+- Detour — https://archive.org/download/Detour/Detour.mp4
+- EatforHe1954 — https://archive.org/download/EatforHe1954/EatforHe1954.mp4
+- EatforHe1954 edit — https://archive.org/download/EatforHe1954/EatforHe1954_edit.mp4
+- Edge of Creation (1979) — https://archive.org/download/NGSDivetotheEdgeofCreation/National.Geographic.Specials.S14E01.Dive.to.the.Edge.of.Creation.1980.VHSRip.DD2.0.x264-rattera.mp4
+- First Spaceship on Venus — https://archive.org/download/FirstSpaceshipOnVenusMPEG/First_Spaceship_On_Venus.mp4
+- FromtheG1954 — https://archive.org/download/FromtheG1954/FromtheG1954.mp4
+- FromtheG1954 edit — https://archive.org/download/FromtheG1954/FromtheG1954_edit.mp4
+- Front Line, The — https://archive.org/download/FrontLin1965/FrontLin1965_edit.mp4
+- GoodEati1951 — https://archive.org/download/GoodEati1951/GoodEati1951.mp4
+- GoodEati1951 edit — https://archive.org/download/GoodEati1951/GoodEati1951_edit.mp4
+- He Walked By Night — https://archive.org/download/He_Walked_By_Night.avi/He_Walked_By_Night.mp4
+- HealthYo1953 — https://archive.org/download/HealthYo1953/HealthYo1953.mp4
+- HealthYo1953 edit — https://archive.org/download/HealthYo1953/HealthYo1953_edit.mp4
+- het is weer zomer — https://archive.org/download/filmcollectief-00-0013/het_is_weer_zomer.mp4
+- humanbirthvertexbreechandcaesarean — https://archive.org/download/humanbirthvertexbreechandcaesarean/humanbirthvertexbreechandcaesarean.mp4
+- HumanRep1947 — https://archive.org/download/HumanRep1947/HumanRep1947.mp4
+- HumanRep1947 edit — https://archive.org/download/HumanRep1947/HumanRep1947_edit.mp4
+- impact — https://archive.org/download/impact/impact.mp4
+- Impact 66 — https://archive.org/download/0689_Impact_66_01_01_01_00/0689_Impact_66_01_01_01_00.mp4
+- Iron Country: Iron Ore and Minnesotas Future — https://archive.org/download/IronCoun1952/IronCoun1952_edit.mp4
+- isforAto1953 — https://archive.org/download/isforAto1953/isforAto1953.mp4
+- isforAto1953 edit — https://archive.org/download/isforAto1953/isforAto1953_edit.mp4
+- Island of Hope — https://archive.org/download/gov.ntis.ava15996vnb1/Island_of_Hope.mp4
+- Jail Bait — https://archive.org/download/JailBait/JailBait.mp4
+- lunchroom manners 512kb — https://archive.org/download/lunchroom_manners/lunchroom_manners_512kb.mp4
+- MPEG 4 Hi-Res — https://archive.org/download/UnderseaWords-TheLetterA/UnderseaWords1.mp4
+- naturally a girl — https://archive.org/download/naturally_a_girl/naturally_a_girl.mp4
+- naturally a girl edit — https://archive.org/download/naturally_a_girl/naturally_a_girl_edit.mp4
+- Normandy Invasion — https://archive.org/download/87084NormandyInvasion/87084%20Normandy%20Invasion.mp4
+- OneGotFa1963 — https://archive.org/download/OneGotFa1963/OneGotFa1963.mp4
+- OneGotFa1963 edit — https://archive.org/download/OneGotFa1963/OneGotFa1963_edit.mp4
+- Physical1953 — https://archive.org/download/Physical1953/Physical1953.mp4
+- Physical1953 edit — https://archive.org/download/Physical1953/Physical1953_edit.mp4
+- Plane Talk — https://archive.org/download/PlaneTal1965/PlaneTal1965_edit.mp4
+- Public Service Announcement (PSA) on Pollution - Retro — https://archive.org/download/psa_retro_pollution_640/saucer_bite_one.mp4
+- Railway with a Heart of Gold — https://archive.org/download/railway_with_a_heart_of_gold_1965/railway_with_a_heart_of_gold_1965_512kb.mp4
+- Scarlet Street — https://archive.org/download/ScarletStreet/Scarlet_Street.mp4
+- She Gods of Shark Reef — https://archive.org/download/she_gods_of_shark_reef/she_gods_of_shark_reef.mp4
+- Signal301959 — https://archive.org/download/Signal301959/Signal301959.mp4
+- Signal301959 edit — https://archive.org/download/Signal301959/Signal301959_edit.mp4
+- Sinclair at the Worlds Fair — https://archive.org/download/0701_Sinclair_at_the_Worlds_Fair/0701_Sinclair_at_the_Worlds_Fair_M05793_17_12_06_00_3mb.mp4
+- Sniffles1955 — https://archive.org/download/Sniffles1955/Sniffles1955.mp4
+- Sniffles1955 edit — https://archive.org/download/Sniffles1955/Sniffles1955_edit.mp4
+- South Dakota Saga (Part I) — https://archive.org/download/SouthDak1940/SouthDak1940_edit.mp4
+- South Dakota Saga (Part II) — https://archive.org/download/SouthDak1940_2/SouthDak1940_2_edit.mp4
+- Sudden Birth — https://archive.org/download/sudden_birth/sudden_birth.mp4
+- superman eleventh hour 512kb — https://archive.org/download/superman_eleventh_hour/superman_eleventh_hour_512kb.mp4
+- superman the mechanical monsters 512kb — https://archive.org/download/superman_the_mechanical_monsters/superman_the_mechanical_monsters_512kb.mp4
+- Symptoms1940 — https://archive.org/download/Symptoms1940/Symptoms1940.mp4
+- Symptoms1940 edit — https://archive.org/download/Symptoms1940/Symptoms1940_edit.mp4
+- Terrible1951 — https://archive.org/download/Terrible1951/Terrible1951.mp4
+- Terrible1951 edit — https://archive.org/download/Terrible1951/Terrible1951_edit.mp4
+- The Child Molester (1964) — https://archive.org/download/CHILD/CHILD.mp4
+- The Holy Ghost People, part 1 — https://archive.org/download/HolyGhostPeople/HolyGhost1.mp4
+- The Holy Ghost People, part 2 — https://archive.org/download/HolyGhostPeople/HolyGhost2.mp4
+- theater hd splice — https://archive.org/download/gov.ntis.ava15996vnb1/theater.hd.splice.mp4
+- theesxuallymatureadult — https://archive.org/download/theesxuallymatureadult/theesxuallymatureadult.mp4
+- TheMagicSword — https://archive.org/download/TheMagicSword/TheMagicSword.mp4
+- This Is Redstone Arsenal — https://archive.org/download/16764thisisredstonearsenalvwr/16764%20This%20Is%20Redstone%20Arsenal_vwr.mp4
+- ThisChar1950 — https://archive.org/download/ThisChar1950/ThisChar1950.mp4
+- ThisChar1950 edit — https://archive.org/download/ThisChar1950/ThisChar1950_edit.mp4
+- Trailoft1951 — https://archive.org/download/Trailoft1951/Trailoft1951.mp4
+- Trailoft1951 edit — https://archive.org/download/Trailoft1951/Trailoft1951_edit.mp4
+- tsunami patong beach 512kb — https://archive.org/download/tsunami_patong_beach/tsunami_patong_beach_512kb.mp4
+- Utopia 512kb — https://archive.org/download/utopia/Utopia_512kb.mp4
+- viewfromspacereel1 — https://archive.org/download/viewfromspace/viewfromspacereel1.mp4
+- viewfromspacereel2 — https://archive.org/download/viewfromspace/viewfromspacereel2.mp4
+- White Wonder — https://archive.org/download/WhiteWon1958/WhiteWon1958_edit.mp4
+- Zeitgeist Addendum — https://archive.org/download/Zeitgeist.Addendum/Zeitgeist.Addendum.mp4
 
-## CH 14 — SCIENCE & COSMOS
+## CH 13 — SCIENCE & COSMOS
 
 - Cosmos - Shores of the Cosmic Ocean — https://archive.org/download/cosmos_1980/COSMOS_01.mp4
 - Cosmos — 01 — The Shores of the Cosmic Ocean (Carl Sagan, 1980) — https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2001%20The%20Shores%20of%20the%20Cosmic%20Ocean.ia.mp4
@@ -1003,12 +1847,100 @@ This is the organized catalog for the new TV-style lineup. Original titles and A
 - Earth Was Made The Alps — https://dn710903.ca.archive.org/0/items/How.The.Earth.Was.Made/Season%201/History.Ch.How.the.Earth.Was.Made.Complete.Season.1.13of13.The.Alps.XviD.AC3.MVGroup.org.mp4
 - Earth Was Made Tsunami — https://dn710903.ca.archive.org/0/items/How.The.Earth.Was.Made/Season%201/History.Ch.How.the.Earth.Was.Made.Complete.Season.1.09of13.Tsunami.XviD.AC3.MVGroup.org.mp4
 - Earth Was Made Yellowstone — https://dn710903.ca.archive.org/0/items/How.The.Earth.Was.Made/Season%201/History.Ch.How.the.Earth.Was.Made.Complete.Season.1.08of13.Yellowstone.XviD.AC3.MVGroup.org.mp4
+- NOVA - S01E01 - The Making of a Natural History Film 1974 VHSRip — https://archive.org/download/pbsnovas01/NOVA%20-%20S01E01%20-%20The.Making.of.a.Natural.History.Film.1974.VHSRip.AAC2.0.x264-SciHD.mp4
+- NOVA - S01E02 - Where Did the Colorado Go 1974 VHSRip — https://archive.org/download/pbsnovas01/NOVA%20-%20S01E02%20-%20Where.Did.the.Colorado.Go.1974.VHSRip.AAC2.0.x264-SciHD.mp4
+- NOVA - S01E03 - Whales Dolphins and Men 1974 VHSRip MP3 XviD-SciHD — https://archive.org/download/pbsnovas01/NOVA%20-%20S01E03%20-%20Whales.Dolphins.and.Men.1974.VHSRip.MP3.XviD-SciHD.ia.mp4
+- NOVA - S01E04 - The Search For Life 1974 VHSRip — https://archive.org/download/pbsnovas01/NOVA%20-%20S01E04%20-%20The.Search.For.Life.1974.VHSRip.AAC2.0.x264-rattera.ia.mp4
+- NOVA - S01E05 - The Last of the Cuiva 1974 DVDRip DD2 0 — https://archive.org/download/pbsnovas01/NOVA%20-%20S01E05%20-%20The.Last.of.the.Cuiva.1974.DVDRip.DD2.0.x264-astro_1.ia.mp4
+- NOVA - S01E06 - Strange Sleep 1974 VHSRip — https://archive.org/download/pbsnovas01/NOVA%20-%20S01E06%20-%20Strange.Sleep.1974.VHSRip.AAC2.0.x264-rattera.ia.mp4
+- NOVA - S01E07 - The Crab Nebula 1974 VHSRip — https://archive.org/download/pbsnovas01/NOVA%20-%20S01E07%20-%20The.Crab.Nebula.1974.VHSRip.AAC2.0.x264-rattera.ia.mp4
+- NOVA - S01E08 - Bird Brain The Mystery of Bird Navigation 1974 VHSRip — https://archive.org/download/pbsnovas01/NOVA%20-%20S01E08%20-%20Bird.Brain.The.Mystery.of.Bird.Navigation.1974.VHSRip.AAC2.0.x264-astro.ia.mp4
+- NOVA - S01E10 - First Signs of Washoe 1974 VHSRip — https://archive.org/download/pbsnovas01/NOVA%20-%20S01E10%20-%20First.Signs.of.Washoe.1974.VHSRip.AAC2.0.x264-SciHD.mp4
+- NOVA - S01E12 - Fusion The Energy of Promise 1974 FilmReel — https://archive.org/download/pbsnovas01/NOVA%20-%20S01E12%20-%20Fusion.The.Energy.of.Promise.1974.FilmReel.AAC2.0.x264-archive.mp4
+- NOVA — A Mathematical Mystery Tour (1985) — https://archive.org/download/pbsnovadocs/A%20Mathematical%20Mystery%20Tour%20%281985%29.mp4
+- NOVA — Absolute Zero - Part 1 of 2 - The Conquest of Cold — https://archive.org/download/pbsnovadocs/Absolute%20Zero%20-%20Part%201%20of%202%20-%20The%20Conquest%20of%20Cold.mp4
+- NOVA — Absolute Zero - Part 2 of 2 - The Race for Absolute Zero — https://archive.org/download/pbsnovadocs/Absolute%20Zero%20-%20Part%202%20of%202%20-%20The%20Race%20for%20Absolute%20Zero.mp4
+- NOVA — Ancient Computer - The Antikythera Mechanism (2012) — https://archive.org/download/pbsnovadocs/Ancient%20Computer%20-%20The%20Antikythera%20Mechanism%20%282012%29.mp4
+- NOVA — Ancient Invisible Cities - Athens — https://archive.org/download/pbsnovadocs/Ancient%20Invisible%20Cities%20-%20Athens.mp4
+- NOVA — Ancient Invisible Cities - Cairo — https://archive.org/download/pbsnovadocs/Ancient%20Invisible%20Cities%20-%20Cairo.mp4
+- NOVA — Ancient Invisible Cities - Istanbul — https://archive.org/download/pbsnovadocs/Ancient%20Invisible%20Cities%20-%20Istanbul.mp4
+- NOVA — Arctic Passage, Ice Survivors — https://archive.org/download/pbsnovadocs/Arctic%20Passage%2C%20Ice%20Survivors.mp4
+- NOVA — Arctic Passage, Prisoners of the Ice — https://archive.org/download/pbsnovadocs/Arctic%20Passage%2C%20Prisoners%20of%20the%20Ice.mp4
+- NOVA — Big Pacific S1E1 - Mysterious — https://archive.org/download/pbsnovadocs/Big%20Pacific%20S1E1%20-%20Mysterious.ia.mp4
+- NOVA — Big Pacific S1E2 - Violent — https://archive.org/download/pbsnovadocs/Big%20Pacific%20S1E2%20-%20Violent.ia.mp4
+- NOVA — Big Pacific S1E3 - Voracious — https://archive.org/download/pbsnovadocs/Big%20Pacific%20S1E3%20-%20Voracious.ia.mp4
+- NOVA — Big Pacific S1E4 - Passionate — https://archive.org/download/pbsnovadocs/Big%20Pacific%20S1E4%20-%20Passionate.ia.mp4
+- NOVA — Big Pacific S1E5 - Behind The Scenes — https://archive.org/download/pbsnovadocs/Big%20Pacific%20S1E5%20-%20Behind%20The%20Scenes.ia.mp4
+- NOVA — David Macaulay - Cathedral — https://archive.org/download/pbsnovadocs/David%20Macaulay%20-%20Cathedral.mp4
+- NOVA — David Macaulay - Mill Times — https://archive.org/download/pbsnovadocs/David%20Macaulay%20-%20Mill%20Times.mp4
+- NOVA — David Macaulay - Roman city — https://archive.org/download/pbsnovadocs/David%20Macaulay%20-%20Roman%20city.mp4
 - NOVA — Earth from Above - Patterned Planet — https://archive.org/download/pbsnovadocs/Earth%20from%20Above%20-%20Patterned%20Planet.mp4
+- NOVA — Empires - Egypt's Golden Empire - Part 1 of 3 - The Warrior Pharaohs — https://archive.org/download/pbsnovadocs/Empires%20-%20Egypt%27s%20Golden%20Empire%20-%20Part%201%20of%203%20-%20The%20Warrior%20Pharaohs.mp4
+- NOVA — Empires - Egypt's Golden Empire - Part 2 of 3 - The Pharaohs of the Sun — https://archive.org/download/pbsnovadocs/Empires%20-%20Egypt%27s%20Golden%20Empire%20-%20Part%202%20of%203%20-%20The%20Pharaohs%20of%20the%20Sun.mp4
+- NOVA — Empires - Egypt's Golden Empire - Part 3 of 3 - The Last Great Pharaoh — https://archive.org/download/pbsnovadocs/Empires%20-%20Egypt%27s%20Golden%20Empire%20-%20Part%203%20of%203%20-%20The%20Last%20Great%20Pharaoh.mp4
+- NOVA — Empires - Japan - Memoirs of a Secret Empire - Part 1 - Way of the Samurai — https://archive.org/download/pbsnovadocs/Empires%20-%20Japan%20-%20Memoirs%20of%20a%20Secret%20Empire%20-%20Part%201%20-%20Way%20of%20the%20Samurai.mp4
+- NOVA — Empires - Japan - Memoirs of a Secret Empire - Part 2 - Will of the Shogun — https://archive.org/download/pbsnovadocs/Empires%20-%20Japan%20-%20Memoirs%20of%20a%20Secret%20Empire%20-%20Part%202%20-%20Will%20of%20the%20Shogun.mp4
+- NOVA — Empires - Japan - Memoirs of a Secret Empire - Part 3 - Return of the Barbarians — https://archive.org/download/pbsnovadocs/Empires%20-%20Japan%20-%20Memoirs%20of%20a%20Secret%20Empire%20-%20Part%203%20-%20Return%20of%20the%20Barbarians.mp4
+- NOVA — Empires - Napoleon - Part 1 of 4 - To Destiny — https://archive.org/download/pbsnovadocs/Empires%20-%20Napoleon%20-%20Part%201%20of%204%20-%20To%20Destiny.mp4
+- NOVA — Empires - Napoleon - Part 2 of 4 - Mastering Luck — https://archive.org/download/pbsnovadocs/Empires%20-%20Napoleon%20-%20Part%202%20of%204%20-%20Mastering%20Luck.mp4
+- NOVA — Empires - Napoleon - Part 3 of 4 - The Summit of Greatness — https://archive.org/download/pbsnovadocs/Empires%20-%20Napoleon%20-%20Part%203%20of%204%20-%20The%20Summit%20of%20Greatness.mp4
+- NOVA — Empires - Napoleon - Part 4 of 4 - The End — https://archive.org/download/pbsnovadocs/Empires%20-%20Napoleon%20-%20Part%204%20of%204%20-%20The%20End.mp4
+- NOVA — Empires - Rome in the 1st Century - Episode 1 - Order from Chaos — https://archive.org/download/pbsnovadocs/Empires%20-%20Rome%20in%20the%201st%20Century%20-%20Episode%201%20-%20Order%20from%20Chaos.mp4
+- NOVA — Empires - Rome in the 1st Century - Episode 2 - Years of Trial — https://archive.org/download/pbsnovadocs/Empires%20-%20Rome%20in%20the%201st%20Century%20-%20Episode%202%20-%20Years%20of%20Trial.mp4
+- NOVA — Empires - Rome in the 1st Century - Episode 3 - Winds of Change — https://archive.org/download/pbsnovadocs/Empires%20-%20Rome%20in%20the%201st%20Century%20-%20Episode%203%20-%20Winds%20of%20Change.mp4
+- NOVA — Empires - Rome in the 1st Century - Episode 4 - Years of Eruption — https://archive.org/download/pbsnovadocs/Empires%20-%20Rome%20in%20the%201st%20Century%20-%20Episode%204%20-%20Years%20of%20Eruption.mp4
+- NOVA — Empires - The Greeks, Crucible of Civilization 1 of 3 - The Revolution — https://archive.org/download/pbsnovadocs/Empires%20-%20The%20Greeks%2C%20Crucible%20of%20Civilization%201%20of%203%20-%20The%20Revolution.mp4
+- NOVA — Empires - The Greeks, Crucible of Civilization 2 of 3 - Golden Age — https://archive.org/download/pbsnovadocs/Empires%20-%20The%20Greeks%2C%20Crucible%20of%20Civilization%202%20of%203%20-%20Golden%20Age.mp4
+- NOVA — Empires - The Greeks, Crucible of Civilization 3 of 3 - Empire of Mind — https://archive.org/download/pbsnovadocs/Empires%20-%20The%20Greeks%2C%20Crucible%20of%20Civilization%203%20of%203%20-%20Empire%20of%20Mind.mp4
+- NOVA — Empires - The Medici, Godfathers of the Renaissance - Part 1 - Birth of a Dynasty — https://archive.org/download/pbsnovadocs/Empires%20-%20The%20Medici%2C%20Godfathers%20of%20the%20Renaissance%20-%20Part%201%20-%20Birth%20of%20a%20Dynasty.mp4
+- NOVA — Empires - The Medici, Godfathers of the Renaissance - Part 2 - Magnificent Medici — https://archive.org/download/pbsnovadocs/Empires%20-%20The%20Medici%2C%20Godfathers%20of%20the%20Renaissance%20-%20Part%202%20-%20Magnificent%20Medici.mp4
+- NOVA — Empires - The Medici, Godfathers of the Renaissance - Part 3 - Medici Popes — https://archive.org/download/pbsnovadocs/Empires%20-%20The%20Medici%2C%20Godfathers%20of%20the%20Renaissance%20-%20Part%203%20-%20Medici%20Popes.mp4
+- NOVA — Empires - The Medici, Godfathers of the Renaissance - Part 4 - Power vs Truth — https://archive.org/download/pbsnovadocs/Empires%20-%20The%20Medici%2C%20Godfathers%20of%20the%20Renaissance%20-%20Part%204%20-%20Power%20vs%20Truth.mp4
+- NOVA — Encountering Sea Monsters — https://archive.org/download/pbsnovadocs/Encountering%20Sea%20Monsters.mp4
+- NOVA — Infinite Secrets - The Genius of Archimedes (2003) — https://archive.org/download/pbsnovadocs/Infinite%20Secrets%20-%20The%20Genius%20of%20Archimedes%20%282003%29.mp4
+- NOVA — Life from Above - Changing Planet — https://archive.org/download/pbsnovadocs/Life%20from%20Above%20-%20Changing%20Planet.mp4
+- NOVA — Life from Above - Moving Planet — https://archive.org/download/pbsnovadocs/Life%20from%20Above%20-%20Moving%20Planet.mp4
+- NOVA — Mark Twain by Ken Burns 1 of 2 — https://archive.org/download/pbsnovadocs/Mark%20Twain%20by%20Ken%20Burns%201%20of%202.mp4
+- NOVA — Mark Twain by Ken Burns 2 of 2 — https://archive.org/download/pbsnovadocs/Mark%20Twain%20by%20Ken%20Burns%202%20of%202.mp4
+- NOVA — Mount St Helens — https://archive.org/download/pbsnovadocs/Mount%20St.%20Helens.mp4
+- NOVA — Mountains of Ice — https://archive.org/download/pbsnovadocs/Mountains%20of%20Ice.mp4
+- NOVA — Nature - Extraordinary Dogs (1997) — https://archive.org/download/pbsnovadocs/Nature%20-%20Extraordinary%20Dogs%20%281997%29.mp4
+- NOVA — Nature - Super Cats, Series 1, 1 of 3 - Extreme Lives — https://archive.org/download/pbsnovadocs/Nature%20-%20Super%20Cats%2C%20Series%201%2C%201%20of%203%20-%20Extreme%20Lives.mp4
+- NOVA — Nature - Super Cats, Series 1, 2 of 3 - Cats in Every Corner — https://archive.org/download/pbsnovadocs/Nature%20-%20Super%20Cats%2C%20Series%201%2C%202%20of%203%20-%20Cats%20in%20Every%20Corner.mp4
 - NOVA — Nature - Super Cats, Series 1, 3 of 3 - Science and Secrets — https://archive.org/download/pbsnovadocs/Nature%20-%20Super%20Cats%2C%20Series%201%2C%203%20of%203%20-%20Science%20and%20Secrets.mp4
+- NOVA — Out of the Ashes - Recovering the Lost Library of Herculaneum — https://archive.org/download/pbsnovadocs/Out%20of%20the%20Ashes%20-%20Recovering%20the%20Lost%20Library%20of%20Herculaneum.mp4
+- NOVA — PBS - Cathedral — https://archive.org/download/pbsnovadocs/PBS%20-%20Cathedral.mp4
+- NOVA — PBS - Life from Above - Patterned Planet — https://archive.org/download/pbsnovadocs/PBS%20-%20Life%20from%20Above%20-%20Patterned%20Planet.mp4
+- NOVA — PBS - Mill Times — https://archive.org/download/pbsnovadocs/PBS%20-%20Mill%20Times.mp4
+- NOVA — PBS - Odyssey - The Ancient Mariners — https://archive.org/download/pbsnovadocs/PBS%20-%20Odyssey%20-%20The%20Ancient%20Mariners.mp4
+- NOVA — PBS - Roman city — https://archive.org/download/pbsnovadocs/PBS%20-%20Roman%20city.mp4
+- NOVA — PBS - Sky Island (2011) — https://archive.org/download/pbsnovadocs/PBS%20-%20Sky%20Island%20%282011%29.mp4
+- NOVA — PBS - Tesla - Master of Lightning — https://archive.org/download/pbsnovadocs/PBS%20-%20Tesla%20-%20Master%20of%20Lightning.mp4
+- NOVA — PBS - The Buddha — https://archive.org/download/pbsnovadocs/PBS%20-%20The%20Buddha.mp4
 - NOVA — PBS & BBC Earth - Life from Above - Moving Planet — https://archive.org/download/pbsnovadocs/PBS%20%26%20BBC%20Earth%20-%20Life%20from%20Above%20-%20Moving%20Planet.mp4
+- NOVA — PBS Nova - Secrets of Lost Empires - Colosseum — https://archive.org/download/pbsnovadocs/PBS%20Nova%20-%20Secrets%20of%20Lost%20Empires%20-%20Colosseum.mp4
+- NOVA — PBS Nova - Secrets of Lost Empires - Stonehenge — https://archive.org/download/pbsnovadocs/PBS%20Nova%20-%20Secrets%20of%20Lost%20Empires%20-%20Stonehenge.mp4
+- NOVA — PBS Nova - Secrets of the Dead - China's Terracotta Warriors — https://archive.org/download/pbsnovadocs/PBS%20Nova%20-%20Secrets%20of%20the%20Dead%20-%20China%27s%20Terracotta%20Warriors.mp4
+- NOVA — PBS Nova - Secrets of the Dead - Hannibal in the Alps — https://archive.org/download/pbsnovadocs/PBS%20Nova%20-%20Secrets%20of%20the%20Dead%20-%20Hannibal%20in%20the%20Alps.mp4
+- NOVA — PBS Nova - Secrets of the Dead - Nero's Sunken City — https://archive.org/download/pbsnovadocs/PBS%20Nova%20-%20Secrets%20of%20the%20Dead%20-%20Nero%27s%20Sunken%20City.mp4
 - NOVA — PBS Nova - Treasures of the Earth - Metals — https://archive.org/download/pbsnovadocs/PBS%20Nova%20-%20Treasures%20of%20the%20Earth%20-%20Metals.mp4
+- NOVA — PBS Special - The National Parks - America's Best Idea - 1 - The Scripture of Nature — https://archive.org/download/pbsnovadocs/PBS%20Special%20-%20The%20National%20Parks%20-%20America%27s%20Best%20Idea%20-%201%20-%20The%20Scripture%20of%20Nature.mp4
+- NOVA — PBS Special - The National Parks - America's Best Idea - 2 - The Last Refuge — https://archive.org/download/pbsnovadocs/PBS%20Special%20-%20The%20National%20Parks%20-%20America%27s%20Best%20Idea%20-%202%20-%20The%20Last%20Refuge.mp4
+- NOVA — PBS Special - The National Parks - America's Best Idea - 3 - The Empire of Grandeur — https://archive.org/download/pbsnovadocs/PBS%20Special%20-%20The%20National%20Parks%20-%20America%27s%20Best%20Idea%20-%203%20-%20The%20Empire%20of%20Grandeur.mp4
+- NOVA — PBS Special - The National Parks - America's Best Idea - 4 - Going Home — https://archive.org/download/pbsnovadocs/PBS%20Special%20-%20The%20National%20Parks%20-%20America%27s%20Best%20Idea%20-%204%20-%20Going%20Home.mp4
+- NOVA — PBS Special - The National Parks - America's Best Idea - 5 - Great Nature — https://archive.org/download/pbsnovadocs/PBS%20Special%20-%20The%20National%20Parks%20-%20America%27s%20Best%20Idea%20-%205%20-%20Great%20Nature.mp4
+- NOVA — PBS Special - The National Parks - America's Best Idea - 6 - The Morning of Creation — https://archive.org/download/pbsnovadocs/PBS%20Special%20-%20The%20National%20Parks%20-%20America%27s%20Best%20Idea%20-%206%20-%20The%20Morning%20of%20Creation.mp4
 - NOVA — Secrets of the Psychics (1993 NOVA report) — https://archive.org/download/SecretsOfThePsychics1993NovaReport/Nova...secretsOfThePsychics1993-Vhsrip.mp4
 - NOVA — Skyscraper!: A NOVA Special — https://archive.org/download/NOVASkyscraper/NOVA.S18E18.Skyscraper.A.NOVA.Special.1991.VHSRip.AAC2.0.x264-rattera.mp4
+- NOVA — The Ancient Mariners — https://archive.org/download/pbsnovadocs/The%20Ancient%20Mariners.mp4
+- NOVA — The National Parks - America's Best Idea - 1 - The Scripture of Nature — https://archive.org/download/pbsnovadocs/The%20National%20Parks%20-%20America%27s%20Best%20Idea%20-%201%20-%20The%20Scripture%20of%20Nature.mp4
+- NOVA — The National Parks - America's Best Idea - 2 - The Last Refuge — https://archive.org/download/pbsnovadocs/The%20National%20Parks%20-%20America%27s%20Best%20Idea%20-%202%20-%20The%20Last%20Refuge.mp4
+- NOVA — The National Parks - America's Best Idea - 3 - The Empire of Grandeur — https://archive.org/download/pbsnovadocs/The%20National%20Parks%20-%20America%27s%20Best%20Idea%20-%203%20-%20The%20Empire%20of%20Grandeur.mp4
+- NOVA — The National Parks - America's Best Idea - 4 - Going Home — https://archive.org/download/pbsnovadocs/The%20National%20Parks%20-%20America%27s%20Best%20Idea%20-%204%20-%20Going%20Home.mp4
+- NOVA — The National Parks - America's Best Idea - 5 - Great Nature — https://archive.org/download/pbsnovadocs/The%20National%20Parks%20-%20America%27s%20Best%20Idea%20-%205%20-%20Great%20Nature.mp4
+- NOVA — The National Parks - America's Best Idea - 6 - The Morning of Creation — https://archive.org/download/pbsnovadocs/The%20National%20Parks%20-%20America%27s%20Best%20Idea%20-%206%20-%20The%20Morning%20of%20Creation.mp4
+- NOVA — The Nero Files - Secrets of the Dead (2019) — https://archive.org/download/pbsnovadocs/The%20Nero%20Files%20-%20Secrets%20of%20the%20Dead%20%282019%29.mp4
+- NOVA — The Proof - Andrew Wiles & Fermat's Last Theorem (1997) — https://archive.org/download/pbsnovadocs/The%20Proof%20-%20Andrew%20Wiles%20%26%20Fermat%27s%20Last%20Theorem%20%281997%29.mp4
 - Nova 1974-03-03 The Making of a Natural History Film — https://archive.org/download/nova_collection/Nova%201974-03-03%20The%20Making%20of%20a%20Natural%20History%20Film.ia.mp4
 - Nova 1974-03-10 Where Did the Colorado Go — https://archive.org/download/nova_collection/Nova%201974-03-10%20Where%20Did%20the%20Colorado%20Go.ia.mp4
 - Nova 1974-03-17 Whales, Dolphins, and Men — https://archive.org/download/nova_collection/Nova%201974-03-17%20Whales%2C%20Dolphins%2C%20and%20Men.mp4
@@ -1017,7 +1949,6 @@ This is the organized catalog for the new TV-style lineup. Original titles and A
 - Nova 1974-04-21 Bird Brain The Mystery of Bird Navigation — https://archive.org/download/nova_collection/Nova%201974-04-21%20Bird%20Brain%20The%20Mystery%20of%20Bird%20Navigation.mp4
 - Nova 1974-05-05 The First Signs of Washoe — https://archive.org/download/nova_collection/Nova%201974-05-05%20The%20First%20Signs%20of%20Washoe.mp4
 - Nova 1974-05-19 Fusion The Energy of Promise — https://archive.org/download/nova_collection/Nova%201974-05-19%20Fusion%20The%20Energy%20of%20Promise.mp4
-- Nova 1974-05-26 The Mystery of the Anasazi — https://archive.org/download/nova_collection/Nova%201974-05-26%20The%20Mystery%20of%20the%20Anasazi.mp4
 - Nova 1974-11-03 Why Do Birds Sing — https://archive.org/download/nova_collection/Nova%201974-11-03%20Why%20Do%20Birds%20Sing.ia.mp4
 - Nova 1974-11-24 The Secrets of Sleep — https://archive.org/download/nova_collection/Nova%201974-11-24%20The%20Secrets%20of%20Sleep.mp4
 - Nova 1974-12-01 Inside the Golden Gate — https://archive.org/download/nova_collection/Nova%201974-12-01%20Inside%20the%20Golden%20Gate.ia.mp4
@@ -1256,6 +2187,8 @@ This is the organized catalog for the new TV-style lineup. Original titles and A
 - Nova 1988-01-26 How to Create a Junk Food — https://archive.org/download/nova_collection/Nova%201988-01-26%20How%20to%20Create%20a%20Junk%20Food.ia.mp4
 - Nova 1988-02-02 Buried in Ice — https://archive.org/download/nova_collection/Nova%201988-02-02%20Buried%20in%20Ice.ia.mp4
 - Nova 1988-02-09 Why Planes Burn — https://archive.org/download/nova_collection/Nova%201988-02-09%20Why%20Planes%20Burn.ia.mp4
+- Nova 1988-02-23 Battles in the War on Cancer A Wonder Drug on Trial — https://archive.org/download/nova_collection/Nova%201988-02-23%20Battles%20in%20the%20War%20on%20Cancer%20A%20Wonder%20Drug%20on%20Trial.ia.mp4
+- Nova 1988-03-01 Battles in the War on Cancer Breast Cancer Turning the Tide — https://archive.org/download/nova_collection/Nova%201988-03-01%20Battles%20in%20the%20War%20on%20Cancer%20Breast%20Cancer%20Turning%20the%20Tide.ia.mp4
 - Nova 1988-03-08 Mystery of the Master Builders — https://archive.org/download/nova_collection/Nova%201988-03-08%20Mystery%20of%20the%20Master%20Builders.ia.mp4
 - Nova 1988-03-15 Whale Rescue — https://archive.org/download/nova_collection/Nova%201988-03-15%20Whale%20Rescue.ia.mp4
 - Nova 1988-03-22 The Man Who Loved Numbers — https://archive.org/download/nova_collection/Nova%201988-03-22%20The%20Man%20Who%20Loved%20Numbers.ia.mp4
@@ -1317,7 +2250,6 @@ This is the organized catalog for the new TV-style lineup. Original titles and A
 - Nova 1991-02-12 Case of the Flying Dinosaur — https://archive.org/download/nova_collection/Nova%201991-02-12%20Case%20of%20the%20Flying%20Dinosaur.ia.mp4
 - Nova 1991-02-19 T Rex Exposed — https://archive.org/download/nova_collection/Nova%201991-02-19%20T%20Rex%20Exposed.ia.mp4
 - Nova 1991-02-26 The Russian Right Stuff The Invisible Spaceman — https://archive.org/download/nova_collection/Nova%201991-02-26%20The%20Russian%20Right%20Stuff%20The%20Invisible%20Spaceman.ia.mp4
-- Nova 1991-02-27 The Russian Right Stuff The Dark Side of the Moon — https://archive.org/download/nova_collection/Nova%201991-02-27%20The%20Russian%20Right%20Stuff%20The%20Dark%20Side%20of%20the%20Moon.ia.mp4
 - Nova 1991-02-28 The Russian Right Stuff The Mission — https://archive.org/download/nova_collection/Nova%201991-02-28%20The%20Russian%20Right%20Stuff%20The%20Mission.ia.mp4
 - Nova 1991-03-05 Swimming with Whales — https://archive.org/download/nova_collection/Nova%201991-03-05%20Swimming%20with%20Whales.ia.mp4
 - Nova 1991-03-26 The Chip vs the Chessmaster — https://archive.org/download/nova_collection/Nova%201991-03-26%20The%20Chip%20vs%20the%20Chessmaster.ia.mp4
@@ -1338,7 +2270,6 @@ This is the organized catalog for the new TV-style lineup. Original titles and A
 - Nova 1992-02-18 Can You Believe TV Ratings — https://archive.org/download/nova_collection/Nova%201992-02-18%20Can%20You%20Believe%20TV%20Ratings.ia.mp4
 - Nova 1992-03-03 Making a Dishonest Buck — https://archive.org/download/nova_collection/Nova%201992-03-03%20Making%20a%20Dishonest%20Buck.ia.mp4
 - Nova 1992-03-10 Rescuing Baby Whales — https://archive.org/download/nova_collection/Nova%201992-03-10%20Rescuing%20Baby%20Whales.ia.mp4
-- Nova 1992-03-17 An Astronaut's View of the Earth — https://archive.org/download/nova_collection/Nova%201992-03-17%20An%20Astronaut%27s%20View%20of%20the%20Earth.ia.mp4
 - Nova 1992-03-24 Eclipse of the Century — https://archive.org/download/nova_collection/Nova%201992-03-24%20Eclipse%20of%20the%20Century.ia.mp4
 - Nova 1992-08-25 Animal Olympians II — https://archive.org/download/nova_collection/Nova%201992-08-25%20Animal%20Olympians%20II.ia.mp4
 - Nova 1992-09-29 The Genius Behind the Bomb — https://archive.org/download/nova_collection/Nova%201992-09-29%20The%20Genius%20Behind%20the%20Bomb.ia.mp4
@@ -1480,7 +2411,6 @@ This is the organized catalog for the new TV-style lineup. Original titles and A
 - Nova 1999-02-17 Escape! Because Accidents Happen (04) Abandon Ship — https://archive.org/download/nova_collection/Nova%201999-02-17%20Escape%21%20Because%20Accidents%20Happen%20%2804%29%20Abandon%20Ship.ia.mp4
 - Nova 1999-02-23 Battle Alert in the Gulf — https://archive.org/download/nova_collection/Nova%201999-02-23%20Battle%20Alert%20in%20the%20Gulf.ia.mp4
 - Nova 1999-03-30 Volcanoes of the Deep — https://archive.org/download/nova_collection/Nova%201999-03-30%20Volcanoes%20of%20the%20Deep.ia.mp4
-- Nova 1999-07-13 To the Moon — https://archive.org/download/nova_collection/Nova%201999-07-13%20To%20the%20Moon.ia.mp4
 - Nova 1999-10-05 Fall of the Leaning Tower — https://archive.org/download/nova_collection/Nova%201999-10-05%20Fall%20of%20the%20Leaning%20Tower.ia.mp4
 - Nova 1999-10-06 Everest The Mystery of Mallory and Irvin — https://archive.org/download/nova_collection/Nova%201999-10-06%20Everest%20The%20Mystery%20of%20Mallory%20and%20Irvin.ia.mp4
 - Nova 1999-10-12 Time Travel — https://archive.org/download/nova_collection/Nova%201999-10-12%20Time%20Travel.ia.mp4
@@ -1601,7 +2531,6 @@ This is the organized catalog for the new TV-style lineup. Original titles and A
 - Nova 2006-02-28 Arctic Passage (1) Prisoners of the Ice — https://archive.org/download/nova_collection/Nova%202006-02-28%20Arctic%20Passage%20%281%29%20Prisoners%20of%20the%20Ice.ia.mp4
 - Nova 2006-02-28 Arctic Passage (2) Ice Survivors — https://archive.org/download/nova_collection/Nova%202006-02-28%20Arctic%20Passage%20%282%29%20Ice%20Survivors.ia.mp4
 - Nova 2006-03-28 The Great Robot Race — https://archive.org/download/nova_collection/Nova%202006-03-28%20The%20Great%20Robot%20Race.ia.mp4
-- Nova 2006-04-04 Voyage to the Mystery Moon — https://archive.org/download/nova_collection/Nova%202006-04-04%20Voyage%20to%20the%20Mystery%20Moon.ia.mp4
 - Nova 2006-04-18 Dimming the Sun — https://archive.org/download/nova_collection/Nova%202006-04-18%20Dimming%20the%20Sun.ia.mp4
 - Nova 2006-09-05 Building on Ground Zero — https://archive.org/download/nova_collection/Nova%202006-09-05%20Building%20on%20Ground%20Zero.ia.mp4
 - Nova 2006-09-26 Mystery of the Megavolcano — https://archive.org/download/nova_collection/Nova%202006-09-26%20Mystery%20of%20the%20Megavolcano.ia.mp4
@@ -1689,7 +2618,6 @@ This is the organized catalog for the new TV-style lineup. Original titles and A
 - Nova 2011-09-07 Engineering Ground Zero — https://archive.org/download/nova_collection/Nova%202011-09-07%20Engineering%20Ground%20Zero.ia.mp4
 - Nova 2011-09-28 Surviving the Tsunami — https://archive.org/download/nova_collection/Nova%202011-09-28%20Surviving%20the%20Tsunami.mp4
 - Nova 2011-10-19 Finding Life Beyond Earth Are We Alone — https://archive.org/download/nova_collection/Nova%202011-10-19%20Finding%20Life%20Beyond%20Earth%20Are%20We%20Alone.ia.mp4
-- Nova 2011-10-19 Finding Life Beyond Earth Moons and Beyond — https://archive.org/download/nova_collection/Nova%202011-10-19%20Finding%20Life%20Beyond%20Earth%20Moons%20and%20Beyond.ia.mp4
 - Nova 2011-10-26 Iceman Murder Mystery — https://archive.org/download/nova_collection/Nova%202011-10-26%20Iceman%20Murder%20Mystery.ia.mp4
 - Nova 2011-11-02 The Fabric of the Cosmos What is Space — https://archive.org/download/nova_collection/Nova%202011-11-02%20The%20Fabric%20of%20the%20Cosmos%20What%20is%20Space.ia.mp4
 - Nova 2011-11-09 The Fabric of the Cosmos The Illusion of Time — https://archive.org/download/nova_collection/Nova%202011-11-09%20The%20Fabric%20of%20the%20Cosmos%20The%20Illusion%20of%20Time.ia.mp4
@@ -1757,7 +2685,6 @@ This is the organized catalog for the new TV-style lineup. Original titles and A
 - Nova 2014-11-05 Bigger Than T Rex — https://archive.org/download/nova_collection/Nova%202014-11-05%20Bigger%20Than%20T%20%20Rex.ia.mp4
 - Nova 2014-11-12 Emperor's Ghost Army — https://archive.org/download/nova_collection/Nova%202014-11-12%20Emperor%27s%20Ghost%20Army.ia.mp4
 - Nova 2014-11-19 Killer Landslides — https://archive.org/download/nova_collection/Nova%202014-11-19%20Killer%20Landslides.ia.mp4
-- Nova 2014-12-03 First Man on the Moon — https://archive.org/download/nova_collection/Nova%202014-12-03%20First%20Man%20on%20the%20Moon.ia.mp4
 - Nova 2015-01-14 Big Bang Machine — https://archive.org/download/nova_collection/Nova%202015-01-14%20Big%20Bang%20Machine.ia.mp4
 - Nova 2015-01-21 Sunken Ship Rescue — https://archive.org/download/nova_collection/Nova%202015-01-21%20Sunken%20Ship%20Rescue.ia.mp4
 - Nova 2015-01-28 Sinkholes - Buried Alive — https://archive.org/download/nova_collection/Nova%202015-01-28%20Sinkholes%20-%20Buried%20Alive.ia.mp4
@@ -1836,17 +2763,14 @@ This is the organized catalog for the new TV-style lineup. Original titles and A
 - Nova 2018-11-07 Last B-24 — https://archive.org/download/nova_collection/Nova%202018-11-07%20Last%20B-24.ia.mp4
 - Nova 2018-11-14 Thai Cave Rescue — https://archive.org/download/nova_collection/Nova%202018-11-14%20Thai%20Cave%20Rescue.ia.mp4
 - Nova 2018-11-21 World's Fastest Animal — https://archive.org/download/nova_collection/Nova%202018-11-21%20World%27s%20Fastest%20Animal.mp4
-- Nova 2018-12-26 Apollo's Daring Mission — https://archive.org/download/nova_collection/Nova%202018-12-26%20Apollo%27s%20Daring%20Mission.ia.mp4
 - Nova 2019-01-02 Pluto and Beyond — https://archive.org/download/nova_collection/Nova%202019-01-02%20Pluto%20and%20Beyond.mp4
 - Nova 2019-01-23 Kīlauea Hawaiʻi on Fire — https://archive.org/download/nova_collection/Nova%202019-01-23%20K%C4%ABlauea%20Hawai%CA%BBi%20on%20Fire.mp4
 - Nova 2019-02-06 Decoding the Great Pyramid — https://archive.org/download/nova_collection/Nova%202019-02-06%20Decoding%20the%20Great%20Pyramid.mp4
-- Nova 2019-02-13 Rise of the Rockets — https://archive.org/download/nova_collection/Nova%202019-02-13%20Rise%20of%20the%20Rockets.mp4
 - Nova 2019-02-20 The Next Pompeii — https://archive.org/download/nova_collection/Nova%202019-02-20%20The%20Next%20Pompeii.mp4
 - Nova 2019-04-24 Saving the Dead Sea — https://archive.org/download/nova_collection/Nova%202019-04-24%20Saving%20the%20Dead%20Sea.ia.mp4
 - Nova 2019-05-08 Inside the Megafire — https://archive.org/download/nova_collection/Nova%202019-05-08%20Inside%20the%20Megafire.mp4
 - Nova 2019-05-15 First Horse Warriors — https://archive.org/download/nova_collection/Nova%202019-05-15%20First%20Horse%20Warriors.ia.mp4
 - Nova 2019-05-22 Lost Viking Army — https://archive.org/download/nova_collection/Nova%202019-05-22%20Lost%20Viking%20Army.mp4
-- Nova 2019-07-10 Back to the Moon — https://archive.org/download/nova_collection/Nova%202019-07-10%20Back%20to%20the%20Moon.ia.mp4
 - Nova 2019-07-24 The Planets (1) Inner Worlds — https://archive.org/download/nova_collection/Nova%202019-07-24%20The%20Planets%20%281%29%20Inner%20Worlds.ia.mp4
 - Nova 2019-07-24 The Planets (2) Mars — https://archive.org/download/nova_collection/Nova%202019-07-24%20The%20Planets%20%282%29%20Mars.mp4
 - Nova 2019-07-31 The Planets (3) Jupiter — https://archive.org/download/nova_collection/Nova%202019-07-31%20The%20Planets%20%283%29%20Jupiter.ia.mp4
@@ -1942,7 +2866,11 @@ This is the organized catalog for the new TV-style lineup. Original titles and A
 - Nova 2023-11-22 Lee and Liza's Family Tree — https://archive.org/download/nova_collection/Nova%202023-11-22%20Lee%20and%20Liza%27s%20Family%20Tree.mp4
 - Nova 4-22-03 - Secret Of Photo 51 — https://archive.org/download/nova-4-22-03-secret-of-photo-51/Nova%20-%204-22-03%20-%20Secret%20Of%20Photo%2051.mp4
 - NOVA S38 EP13 Finding Life Beyond Earth — https://archive.org/download/nova-pbs-documentaries/NOVA/NOVA%20S38%20EP13%20Finding%20Life%20Beyond%20Earth.mp4
+- NOVA S42 EP15 Dawn Of Humanity — https://archive.org/download/nova-pbs-documentaries/NOVA/NOVA%20S42%20EP15%20Dawn%20Of%20Humanity.mp4
 - NOVA S43 EP10 Vikings Unearthed — https://archive.org/download/nova-pbs-documentaries/NOVA/NOVA%20S43%20EP10%20Vikings%20Unearthed.mp4
+- NOVA S43 EP15 School Of The Future — https://archive.org/download/nova-pbs-documentaries/NOVA/NOVA%20S43%20EP15%20School%20Of%20The%20Future.mp4
+- NOVA S43 EP15 School Of The Future - Spanish Version — https://archive.org/download/nova-pbs-documentaries/NOVA/NOVA%20S43%20EP15%20School%20Of%20The%20Future%20-%20Spanish%20Version.mp4
+- NOVA S45 EP The Impossible Flight — https://archive.org/download/nova-pbs-documentaries/NOVA/NOVA%20S45%20EP__%20The%20Impossible%20Flight.mp4
 - NOVA Stephen Hawkings Universe Volume 1 The Big Bang 1997 PBS Home Video — https://archive.org/download/NOVA_Stephen_Hawkings_Universe_Volume_1_The_Big_Bang_1997_PBS_Home_Video/NOVA%20Stephen%20Hawkings%20Universe%20Volume%201%20The%20Big%20Bang%201997%20PBS%20Home%20Video.mp4
 - NOVA Wonders 1 Animal Communication — https://archive.org/download/nova-wonders/NOVA%20Wonders%201%20Animal%20Communication.mp4
 - NOVA Wonders 2 Living in You — https://archive.org/download/nova-wonders/NOVA%20Wonders%202%20Living%20in%20You.mp4
@@ -1954,28 +2882,16 @@ This is the organized catalog for the new TV-style lineup. Original titles and A
 - Planet Earth - The Living Machine — https://archive.org/download/planet.earth/Planet%20Earth%201%20The%20Living%20Machine.mp4
 - Threads of Technology — https://archive.org/download/0559_Threads_of_Technology/0559_Threads_of_Technology_09_12_29_01_3mb.mp4
 
-## CH 15 — HISTORY & WAR
+## CH 14 — HISTORY & WAR
 
-- 01 Déjà Vu (1858-1961) — https://archive.org/download/nova-pbs-documentaries/The%20Vietnam%20War/01%20D%C3%A9j%C3%A0%20Vu%20%281858-1961%29.mp4
-- 02 Riding the Tiger (1961-1963) — https://archive.org/download/nova-pbs-documentaries/The%20Vietnam%20War/02%20Riding%20the%20Tiger%20%281961-1963%29.mp4
-- 03 The River Styx (January 1964-December 1965) — https://archive.org/download/nova-pbs-documentaries/The%20Vietnam%20War/03%20The%20River%20Styx%20%28January%201964-December%201965%29.mp4
-- 04 Resolve (January 1966-June 1967) — https://archive.org/download/nova-pbs-documentaries/The%20Vietnam%20War/04%20Resolve%20%28January%201966-June%201967%29.mp4
-- 05 This Is What We Do (July 1967-December 1967) — https://archive.org/download/nova-pbs-documentaries/The%20Vietnam%20War/05%20This%20Is%20What%20We%20Do%20%28July%201967-December%201967%29.mp4
-- 06 Things Fall Apart (January 1968-July 1968) — https://archive.org/download/nova-pbs-documentaries/The%20Vietnam%20War/06%20Things%20Fall%20Apart%20%28January%201968-July%201968%29.mp4
 - 07 The Veneer of Civilization (June 1968-May 1969) — https://archive.org/download/nova-pbs-documentaries/The%20Vietnam%20War/07%20The%20Veneer%20of%20Civilization%20%28June%201968-May%201969%29.mp4
 - 08 The History of the World (April 1969-May 1970) — https://archive.org/download/nova-pbs-documentaries/The%20Vietnam%20War/08%20The%20History%20of%20the%20World%20%28April%201969-May%201970%29.mp4
-- 09 A Disrespectful Loyalty (May 1970-March 1973) — https://archive.org/download/nova-pbs-documentaries/The%20Vietnam%20War/09%20A%20Disrespectful%20Loyalty%20%28May%201970-March%201973%29.mp4
 - 10 The Weight of Memory (March 1973-Onward) — https://archive.org/download/nova-pbs-documentaries/The%20Vietnam%20War/10%20The%20Weight%20of%20Memory%20%28March%201973-Onward%29.mp4
 - boys beware — https://archive.org/download/boys_beware/boys_beware.mp4
-- NOVA — Empires - The Greeks, Crucible of Civilization 1 of 3 - The Revolution — https://archive.org/download/pbsnovadocs/Empires%20-%20The%20Greeks%2C%20Crucible%20of%20Civilization%201%20of%203%20-%20The%20Revolution.mp4
-- NOVA — Empires - The Greeks, Crucible of Civilization 2 of 3 - Golden Age — https://archive.org/download/pbsnovadocs/Empires%20-%20The%20Greeks%2C%20Crucible%20of%20Civilization%202%20of%203%20-%20Golden%20Age.mp4
-- NOVA — Empires - The Greeks, Crucible of Civilization 3 of 3 - Empire of Mind — https://archive.org/download/pbsnovadocs/Empires%20-%20The%20Greeks%2C%20Crucible%20of%20Civilization%203%20of%203%20-%20Empire%20of%20Mind.mp4
-- Nova 1988-02-23 Battles in the War on Cancer A Wonder Drug on Trial — https://archive.org/download/nova_collection/Nova%201988-02-23%20Battles%20in%20the%20War%20on%20Cancer%20A%20Wonder%20Drug%20on%20Trial.ia.mp4
-- Nova 1988-03-01 Battles in the War on Cancer Breast Cancer Turning the Tide — https://archive.org/download/nova_collection/Nova%201988-03-01%20Battles%20in%20the%20War%20on%20Cancer%20Breast%20Cancer%20Turning%20the%20Tide.ia.mp4
 - Vietnam Special — https://archive.org/download/gov.archives.arc.653071/gov.archives.arc.653071.mp4
 - War Babies — https://archive.org/download/war_babies/war_babies.mp4
 
-## CH 16 — SPACE & NASA
+## CH 15 — SPACE & NASA
 
 - APOLLO 11 16MM ONBOARD FILM — https://archive.org/download/Apollo1116mmOnboardFilm/apollo11_6_1_512kb.mp4
 - Apollo 11 Onboard Film — https://archive.org/download/Apollo1116mmOnboardFilm/apollo11_6_1.mp4
@@ -2018,36 +2934,225 @@ This is the organized catalog for the new TV-style lineup. Original titles and A
 - NASA Highlights 1967 — https://archive.org/download/76474NASAHighlights1967/76474%20NASA%20Highlights%201967.mp4
 - NASA Manned Space Flight January 1964 — https://archive.org/download/xd-10044-nasa-manned-space-flight-january-1964-vwr/XD10044%2BNASA%2BManned%2BSpace%2BFlight%2BJanuary%2B1964_vwr.mp4
 - NASA Manned Space Flight Quarterly Report 11 — https://archive.org/download/68384-nasa-manned-space-flight-quaterly-report-11-vwr/68384%20NASA%20Manned%20Space%20Flight%20Quaterly%20Report%2011_vwr.mp4
+- NOVA — DOCU To The Moon On NOVA ( 1999, PBS) — https://archive.org/download/docutothemoononnova1999pbs/DOCU%20-%20To%20The%20Moon%20on%20NOVA%20%281999%2C%20PBS%29/DOCU%20-%20To%20The%20Moon%20on%20NOVA%20%281999%2C%20PBS%29.mp4
+- Nova 1974-05-26 The Mystery of the Anasazi — https://archive.org/download/nova_collection/Nova%201974-05-26%20The%20Mystery%20of%20the%20Anasazi.mp4
 - Nova 1978-03-08 The Case of the Ancient Astronauts — https://archive.org/download/nova_collection/Nova%201978-03-08%20The%20Case%20of%20the%20Ancient%20Astronauts.ia.mp4
+- Nova 1991-02-27 The Russian Right Stuff The Dark Side of the Moon — https://archive.org/download/nova_collection/Nova%201991-02-27%20The%20Russian%20Right%20Stuff%20The%20Dark%20Side%20of%20the%20Moon.ia.mp4
+- Nova 1992-03-17 An Astronaut's View of the Earth — https://archive.org/download/nova_collection/Nova%201992-03-17%20An%20Astronaut%27s%20View%20of%20the%20Earth.ia.mp4
+- Nova 1999-07-13 To the Moon — https://archive.org/download/nova_collection/Nova%201999-07-13%20To%20the%20Moon.ia.mp4
+- Nova 2006-04-04 Voyage to the Mystery Moon — https://archive.org/download/nova_collection/Nova%202006-04-04%20Voyage%20to%20the%20Mystery%20Moon.ia.mp4
 - Nova 2008-10-14 Space Shuttle Disaster — https://archive.org/download/nova_collection/Nova%202008-10-14%20Space%20Shuttle%20Disaster.ia.mp4
+- Nova 2011-10-19 Finding Life Beyond Earth Moons and Beyond — https://archive.org/download/nova_collection/Nova%202011-10-19%20Finding%20Life%20Beyond%20Earth%20Moons%20and%20Beyond.ia.mp4
+- Nova 2014-12-03 First Man on the Moon — https://archive.org/download/nova_collection/Nova%202014-12-03%20First%20Man%20on%20the%20Moon.ia.mp4
+- Nova 2018-12-26 Apollo's Daring Mission — https://archive.org/download/nova_collection/Nova%202018-12-26%20Apollo%27s%20Daring%20Mission.ia.mp4
+- Nova 2019-02-13 Rise of the Rockets — https://archive.org/download/nova_collection/Nova%202019-02-13%20Rise%20of%20the%20Rockets.mp4
+- Nova 2019-07-10 Back to the Moon — https://archive.org/download/nova_collection/Nova%202019-07-10%20Back%20to%20the%20Moon.ia.mp4
 - Partially Restored Video: Events from the Apollo 11 Mission — https://archive.org/download/PartiallyRestoredVideoEventsFromTheApollo11Mission/Apollo_11_Intro_H264_720p.mp4
 - Project Mercury Freedom 7 — https://archive.org/download/project_mercury_freedom_7/project_mercury_freedom_7.mp4
 - Project Mercury: Mercury-Redstone 1 Launch — https://archive.org/download/project_mercury_mr-1_launch/project_mercury_mr-1_launch.mp4
 - Time of Apollo — https://archive.org/download/gov.ntis.ava03129vnb1/ava03129vnb1_512kb.mp4
 - Video- Demonstration of Laminar Flow in a Liquid Onboard the International Space Station (ISS) - 0601215 — https://archive.org/download/MSFC-0601215/0601215.mp4
 
-## CH 17 — SPORTS
+## CH 16 — SPORTS
 
+- ''1970 - 2011'' (70-78) Ty Secret St Nicky!) ''MEMORIES'' (DavidV@nP~Tribute) — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/%27%271970%20-%202011%27%27%20%2870-78%29%20Ty%20Secret%20St.%20Nicky%21%29%20%27%27MEMORIES%27%27%20%28DavidV%40nP~Tribute%29.mp4
+- [Home Movies: Texas Travels and Televised Moon Walk] — https://archive.org/download/6270HMTexasTravelsAndTelevisedMoonWalk01181613/6270_HM_Texas_Travels_and_Televised_Moon_Walk_01_18_16_13.mp4
+- [Television Commercials: Telephone] — https://archive.org/download/Televisi1970/Televisi1970_edit.mp4
+- 1/4 Mile Crashes - 1993 — https://archive.org/download/1-4-mile-crashes-1993/1
+- 1954CommercialForMercury — https://archive.org/download/1954CommercialForMercury/1954CommercialForMercury.mp4
+- 1955Dodge — https://archive.org/download/CommercialFor1955Dodge/1955Dodge.mp4
+- 1956chevroletstationwagons — https://archive.org/download/1956CommercialForChevroletStationWagons/1956chevroletstationwagons.mp4
+- 1956for1957chrysler — https://archive.org/download/1956CommercialFor1957ChryslerRangead1/1956for1957chrysler.mp4
+- 1956for1957chryslerAd2 — https://archive.org/download/1956CommercialFor1957ChryslerRangead2/1956for1957chryslerAd2.mp4
+- 1958ChevroletTrucks — https://archive.org/download/1958ChevroletTrucks/1958ChevroletTrucks.mp4
+- 1958for1958OldsmobileAd4 — https://archive.org/download/1958for1958OldsmobileAd4/1958for1958OldsmobileAd4.mp4
+- 1958for1959oldsmobile — https://archive.org/download/1958for1959oldsmobile/1958for1959oldsmobile.mp4
+- 1960chevroletBelair — https://archive.org/download/1959CommercialFor1960ChevroletBelAir/1960chevroletBelair.mp4
+- 1960ChevroletTrucks — https://archive.org/download/1960CommercialForChevroletTrucks/1960ChevroletTrucks.mp4
+- 1984complete — https://archive.org/download/1984complete/1984complete.mp4
+- 201668 Television Commercials The Body master intros — https://archive.org/download/201668_Television_Commercials_The_Body/201668_Television_Commercials_The_Body_master.intros.mp4
+- 202253 Santa Barbara Everybodys Mistake master intros — https://archive.org/download/202253_Santa_Barbara_Everybodys_Mistake/202253_Santa_Barbara_Everybodys_Mistake_master.intros.mp4
+- 202275 Television Commercials Classic Comedy master intros H 264 — https://archive.org/download/202275_Television_Commercials_Classic_Comedy/202275_Television_Commercials_Classic_Comedy_master.intros_H.264.mp4
+- 202407 Corman New World Spots master intros — https://archive.org/download/202407_Corman_New_World_Spots/202407_Corman_New_World_Spots_master.intros.mp4
+- 25 Years Ago, 1960/05/19 — https://archive.org/download/1960-05-19_25_years_ago/1960-05-19_25_years_ago.mp4
+- 43: The Richard Petty Story — https://archive.org/download/43TheRichardPettyStory_201301/43TheRichardPettyStory.mp4
+- 58Oldsmobile-aired1957 — https://archive.org/download/58OldsmobileCommercials/58Oldsmobile-aired1957.mp4
+- 58OldsmobileAired1957Ad2 — https://archive.org/download/58OldsmobileCommercials/58OldsmobileAired1957Ad2.mp4
+- 60 Minutes Mike Wallace Exposes the 1976 Swine Flu Pandemic Vaccine Injuries — https://archive.org/download/60-minutes-mike-wallace-exposes-the-1976-swine-flu-pandemic-vaccine-injuries/60%20Minutes%20Mike%20Wallace%20Exposes%20the%201976%20Swine%20Flu%20Pandemic%20Vaccine%20Injuries.mp4
 - 84) — https://archive.org/download/wide-world-of-sports-indy-500-stw-9-02-06-84/wide-world-of-sports-indy-500-stw-9-02-06-84.mp4
+- 87) — https://archive.org/download/tyson-v-bonecrusher-incomplete-gtv-9-08-03-87/tyson%20v%20bonecrusher%20incomplete%20gtv-9%2008-03-87.mp4
 - 88) — https://archive.org/download/wide-world-of-sports-tyson-v-holmes-gtv-9-23-01-88/Wide%20World%20Of%20Sports%20-%20Tyson%20V%20Holmes%20GTV-9%2C%2023-01-88.mp4
 - 89) — https://archive.org/download/Wide_World_of_Sports_Ashes_intro_TCN-9_23_6_89/Wide%20World%20of%20Sports%20Ashes%20intro%20%28TCN-9%2C%2023_6_89%29-9JAtxdDXFuo.mp4
 - 91) — https://archive.org/download/wide-world-of-sports-skiing-and-cricket-nws-9-28-12-91/Wide%20World%20of%20Sports%20Skiing%20and%20Cricket%20%5BNWS-9%2C%2028-12-91%5D.mp4
 - 92) — https://archive.org/download/wide-world-of-sports-partial-qtq-9-07-11-92/Wide%20World%20Of%20Sports%20%5BPartial%2C%20QTQ-9%2C%2007-11-92%5D.mp4
+- 94) — https://archive.org/download/cricket_25-01-94/cricket_25-01-94.mp4
 - 95) — https://archive.org/download/wide-world-of-sports-portuguese-f-1-incomplete-nws-9-24-09-95/Wide%20World%20Of%20Sports%20-%20Portuguese%20F1%20%5BIncomplete%2C%20NWS-9%2C%2024-09-95%5D.mp4
+- 97) — https://archive.org/download/Wide_World_of_Sports_-_Ashes_Second_Test_4th_Day_coverage_QTQ-9_22_6_97/Wide%20World%20of%20Sports%20-%20Ashes%20Second%20Test%204th%20Day%20coverage%20%28QTQ-9%2C%2022_6_97%29-j1Gk-2_6Bus.mp4
+- A MC '69 ''Pre-A MC'' (r@batsea2009) (a b c-tv 1969 PROMO) ''a b c Daytime'' Lineup — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%20%2769%20%27%27Pre-A%20MC%27%27%20%28r%40batsea2009%29%20%28a%20b%20c-tv%201969%20PROMO%29%20%27%27a%20b%20c%20Daytime%27%27%20Lineup.mp4
+- A MC 70 (Opening Seq ) (F@natic-centre@fa) No flower on opening page — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2070%20%28Opening%20Seq.%29%20%28F%40natic-centre%40fa%29%20No%20flower%20on%20opening%20page.mp4
+- A MC 70 (Orig End Cr ) Music Theme (R@bertSh@rp) — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2070%20%28Orig.%20End%20Cr.%29%20Music%20Theme%20%28R%40bertSh%40rp%29.mp4
+- A MC 70-01-16 (d@nna515) (Fri 1-3 07 46) AD2R ''Where is Phil '' No flower on opening page — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2070-01-16%20%28d%40nna515%29%20%28Fri%201-3%2007.46%29%20AD2R%20%27%27Where%20is%20Phil....%27%27%20No%20flower%20on%20opening%20page.mp4
+- A MC 70-01-16 (d@nna515) (Fri 2-3 09 44) AD2R Cigar Nick`Mona`Erica Chuck¬Erica Ruth`Ted — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2070-01-16%20%28d%40nna515%29%20%28Fri%202-3%2009.44%29%20AD2R%20Cigar%20Nick%60Mona%60Erica_Chuck%C2%ACErica_Ruth%60Ted.mp4
+- A MC 70-01-16 (d@nna515) (Fri 3-3 01 08) AD2R CLOSING CR (also w JSellis@n) — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2070-01-16%20%28d%40nna515%29%20%28Fri%203-3%2001.08%29%20AD2R%20CLOSING%20CR.%20%28also%20w%20JSellis%40n%29.mp4
+- A MC 70-02-04 Ep 0023a (FULL) (B@bS@aps) (Wed 22 25) Plain cover No adornment — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2070-02-04%20Ep%200023a%20%28FULL%29%20%28B%40bS%40aps%29%20%28Wed%2022.25%29%20Plain%20cover%20No%20adornment.mp4
+- A MC 70-02-04 Ep 0023b (CLOS CR ) (d@nna515 w marc@wuzmyp@mp) (Orig for Feb 4, 1970 ep) — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2070-02-04%20Ep%200023b%20%28CLOS.%20CR.%29%20%28d%40nna515%20w%20marc%40wuzmyp%40mp%29%20%28Orig.%20for%20Feb%204%2C%201970%20ep%29.mp4
+- A MC 70-02-27 Ep 0041 (FULL) (B@bS@aps) (Mon 22 22) — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2070-02-27%20Ep%200041%20%28FULL%29%20%28B%40bS%40aps%29%20%28Mon%2022.22%29.mp4
+- A MC 70-02-27 Ep 0041 (OP SEQ ) (m@rc@wuzmyp@mp (Mon 00 26) (Plain Cvr w no adornment) Used 1st 3 mths only — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2070-02-27%20Ep%200041%20%28OP.%20SEQ.%29%20%28m%40rc%40wuzmyp%40mp%20%28Mon%2000.26%29%20%28Plain%20Cvr%20w%20no%20adornment%29%20Used%201st%203%20mths%20only.mp4
+- A MC 70-02-28 (CLIP) Ep 0042 (f@thergh@stface2 w TheS@apKing) (Tue 00 45) Dr J@e & daughter Tar@ — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2070-02-28%20%28CLIP%29%20Ep%200042%20%28f%40thergh%40stface2%20w%20TheS%40apKing%29%20%28Tue%2000.45%29%20Dr.%20J%40e%20%26%20daughter%20Tar%40.mp4
+- A MC 70-03 (2 PROMOs) (SayN@t@urS@ap w mrgi@sb123) 1) Nick & Amy 2) Phil w mom prep for his prom — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2070-03%20%282%20PROMOs%29%20%28SayN%40t%40urS%40ap%20w%20mrgi%40sb123%29%201%29%20Nick%20%26%20Amy%202%29%20Phil%20w%20mom%20prep%20for%20his%20prom.mp4
+- A MC 70-03 (OP SEQ ) (K@sey85) (No froo-froo on cvr R & top but flower added to opening page) — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2070-03%20%28OP.%20SEQ.%29%20%28K%40sey85%29%20%28No%20froo-froo%20on%20cvr%20R%20%26%20top%20but%20flower%20added%20to%20opening%20page%29.mp4
+- A MC 70-04-29 (FULL) (A~M~C~Fl@shb@ck-B@b S@aps) (Thu 22 03) No froo-froo on cvr R and top — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2070-04-29%20%28FULL%29%20%20%28A~M~C~Fl%40shb%40ck-B%40b%20S%40aps%29%20%28Thu%2022.03%29%20No%20froo-froo%20on%20cvr%20R%20and%20top.mp4
+- A MC 70-05 (CLIP) (f@thergh@stface2 TheS@apKing) ( 01 14) Nick & R@th discuss Phil Nick swears not to tell secret — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2070-05%20%28CLIP%29%20%28f%40thergh%40stface2_TheS%40apKing%29%20%28%2001.14%29%20Nick%20%26%20R%40th%20discuss%20Phil.%20Nick%20swears%20not%20to%20tell%20secret..mp4
+- A MC 70-05 (FULL) (d@nna515) (Tue 17 08 I Love L@cci) No photo of R@semaryPrinz — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2070-05%20%28FULL%29%20%28d%40nna515%29%20%28Tue%2017.08%20I%20Love%20L%40cci%29%20No%20photo%20of%20R%40semaryPrinz.mp4
+- A MC 71-06 (PROMO) (KenGe@rgeJ@nes) New AnneTyler (J@dithBarcr@ft) will wed Nick He wants to sell d@nce studio) — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2071-06%20%28PROMO%29%20%28KenGe%40rgeJ%40nes%29%20New%20AnneTyler%20%28J%40dithBarcr%40ft%29%20will%20wed%20Nick.%20He%20wants%20to%20sell%20d%40nce%20studio%29.mp4
+- A MC 71-06-25 (CLIPs) (S@yN@t@urS@ap) (Fri 06 08) Nick & Ann@Tyl@r are now wed but she wants more than PV — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2071-06-25%20%28CLIPs%29%20%28S%40yN%40t%40urS%40ap%29%20%28Fri%2006.08%29%20Nick%20%26%20Ann%40Tyl%40r%20are%20now%20wed%20but%20she%20wants%20more%20than%20PV.mp4
+- A MC 73 (INTERVVIEW) (@k@renlyng@rney@) A MC Creator Agn@sNix@n w orig Tar@ (K@ren Lyn G@rney) & Phil — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2073%20%28INTERVVIEW%29%20%28%40k%40renlyng%40rney%40%29%20A%20MC%20Creator%20Agn%40sNix%40n%20w%20orig.Tar%40%20%28K%40ren%20Lyn%20G%40rney%29%20%26%20Phil.mp4
+- A MC 73-11-02 and 05 (AUDIO ONLY) (D@nnyHill) ERIC@ testifies at J@ff's murder trial — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2073-11-02%20and%2005%20%28AUDIO%20ONLY%29%20%28D%40nnyHill%29%20ERIC%40%20testifies%20at%20J%40ff%27s%20murder%20trial.mp4
+- A MC 73-11-05-12-15 (AUDIO ONLY) (D@nnyHill) M@NA under hypnosis recalls something — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2073-11-05-12-15%20%28AUDIO%20ONLY%29%20%28D%40nnyHill%29%20M%40NA%20under%20hypnosis%20recalls%20something.mp4
+- A MC 75 (INTERVIEW 1-5) (SayN@t@urS@ap) ''Tom@rrow'' w T@mSnyder — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2075%20%28INTERVIEW%201-5%29%20%28SayN%40t%40urS%40ap%29%20%27%27Tom%40rrow%27%27%20w%20T%40mSnyder.mp4
+- A MC 75 (INTERVIEW 2-5) (SayN@t@urS@ap) ''Tom@rrow'' w T@mSnyder — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2075%20%28INTERVIEW%202-5%29%20%28SayN%40t%40urS%40ap%29%20%27%27Tom%40rrow%27%27%20w%20T%40mSnyder.mp4
+- A MC 75 (INTERVIEW 3-5) (SayN@t@urS@ap) ''Tom@rrow'' w T@mSnyder — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2075%20%28INTERVIEW%203-5%29%20%28SayN%40t%40urS%40ap%29%20%27%27Tom%40rrow%27%27%20w%20T%40mSnyder.mp4
+- A MC 75 (INTERVIEW 4-5) (SayN@t@urS@ap) ''Tom@rrow'' w T@mSnyder — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2075%20%28INTERVIEW%204-5%29%20%28SayN%40t%40urS%40ap%29%20%27%27Tom%40rrow%27%27%20w%20T%40mSnyder.mp4
+- A MC 75 (INTERVIEW 5-5) (SayN@t@urS@ap) ''Tom@rrow'' w T@mSnyder — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2075%20%28INTERVIEW%205-5%29%20%28SayN%40t%40urS%40ap%29%20%27%27Tom%40rrow%27%27%20w%20T%40mSnyder.mp4
+- A MC 75-07-01 (AUDIO ONLY) (R@bert Sh@rp) Tue 1-3 08 01 — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2075-07-01%20%28AUDIO%20ONLY%29%20%28R%40bert%20Sh%40rp%29%20Tue%201-3%2008.01.mp4
+- A MC 75-07-02a (AUDIO ONLY) (R@bert Sh@rp) Wed 2-3 17 17 — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2075-07-02a%20%28AUDIO%20ONLY%29%20%28R%40bert%20Sh%40rp%29%20Wed%202-3%2017.17.mp4
+- A MC 75-07-02b (AUDIO ONLY) (R@bert Sh@rp) Wed 3-3 19 02 — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2075-07-02b%20%28AUDIO%20ONLY%29%20%28R%40bert%20Sh%40rp%29%20Wed%203-3%2019.02.mp4
+- A MC 76a (A MC Theme Song) (J@stin W@rd-New Chr@styM@nstrels) ''THE GREAT SOAP OPERA THEMES'' — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2076a%20%28A%20MC%20Theme%20Song%29%20%28J%40stin%20W%40rd-New%20Chr%40styM%40nstrels%29%20%27%27THE%20GREAT%20SOAP%20OPERA%20THEMES%27%27.mp4
+- A MC 76b (CLIPS) (@ckgh73994) ''Ph@ebe (RuthW@rrick) Fl@shbacks'' — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2076b%20%28CLIPS%29%20%28%40ckgh73994%29%20%27%27Ph%40ebe%20%28RuthW%40rrick%29%20Fl%40shbacks%27%27.mp4
+- A MC 76c (AUDIO ONLY) (D@nnyHil) ''M@na blackmails Ph@ebe into giving Ch@rles a divorce NOW'' — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2076c%20%28AUDIO%20ONLY%29%20%28D%40nnyHil%29%20%27%27M%40na%20blackmails%20Ph%40ebe%20into%20giving%20Ch%40rles%20a%20divorce%20NOW%27%27.mp4
+- A MC 76d (PROMOs) (SayN@t@urS@ap) (5 LITA-All 5 abc soaps) Ph@ebe's Divorce — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2076d%20%28PROMOs%29%20%28SayN%40t%40urS%40ap%29%20%285%20LITA-All%205%20abc%20soaps%29%20Ph%40ebe%27s%20Divorce.mp4
+- A MC 77 (ADVERT) (Shaun Carr) S@san L@cci (Eric@ K@ne) for ''Riunit@ Win@'' — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2077%20%28ADVERT%29%20%28Shaun%20Carr%29%20S%40san%20L%40cci%20%28Eric%40%20K%40ne%29%20for%20%27%27Riunit%40%20Win%40%27%27.mp4
+- A MC 78 (ADVERT) (ClubBlue) Sus@n L@cci (Eric@ K@ne) for ''Close Up Toothpaste'' — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2078%20%28ADVERT%29%20%28ClubBlue%29%20Sus%40n%20L%40cci%20%28Eric%40%20K%40ne%29%20for%20%27%27Close%20Up%20Toothpaste%27%27.mp4
+- A MC 78 (INTERVIEW) (DecadesTVNetwork 29 19) The DickC@vett Show with Agn@sNix@n — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2078%20%28INTERVIEW%29%20%28DecadesTVNetwork%2029.19%29%20The%20DickC%40vett%20Show%20with%20Agn%40sNix%40n.mp4
 - ABC Wide World of Sports - "The Harlem Globetrotters in Sierra Vista" - WLS Channel 7 (1978) — https://archive.org/download/youtube-nsDfsdbbkJc/nsDfsdbbkJc.mp4
 - ABC Wide World Of Sports - 1995-03-18: Nadia — https://archive.org/download/ABCWideWorldOfSports19950318Nadia/ABC%20Wide%20World%20Of%20Sports%20-%201995-03-18%20-%20Nadia.mp4
+- Africa Blood and Guts 1966 -Africa Addio — https://archive.org/download/africa-blood-and-guts-1966-africa-addio/Africa%20Blood%20and%20Guts%201966%20-Africa%20Addio-.mp4
+- All Time Greatest Stock Car Finishes [VHS, 1990] — https://archive.org/download/all-time-greatest-stock-car-finishes/all-time
+- america10thepromisefulfilledandthepromisebrokenreel1 — https://archive.org/download/america10thepromisefulfilledandthepromisebrokenreel2/america10thepromisefulfilledandthepromisebrokenreel1.mp4
+- america10thepromisefulfilledandthepromisebrokenreel2 — https://archive.org/download/america10thepromisefulfilledandthepromisebrokenreel2/america10thepromisefulfilledandthepromisebrokenreel2.mp4
+- Australian Movie Magazine #7321 — https://archive.org/download/7321_20210301/7321.mp4
+- Beta #34: Alabama For the Record on DirecTV — https://archive.org/download/beta34alabamafortherecord/alabama.ia.mp4
+- Business1968 — https://archive.org/download/Business1968/Business1968.mp4
+- Camel Cigarette Commercials, Reel # 4 — https://archive.org/download/tobacco_hli83d00/VTS_01_1_512kb.mp4
 - CAN AM Racing 1971 LIVE From Watkins Glen — https://archive.org/download/can-am-racing-1971-live-from-watkins-glen/CAN-AM
+- Century21964 — https://archive.org/download/Century21964/Century21964.mp4
+- Century21964 edit — https://archive.org/download/Century21964/Century21964_edit.mp4
 - Channel 9 Wide World of Sports - 1985 International Grand Prix Telecast intro (QTQ-9) — https://archive.org/download/Channel_9_Wide_World_of_Sports_-_1985_International_Grand_Prix_Telecast_intro_QTQ-9/Channel%209%20Wide%20World%20of%20Sports%20-%201985%20International%20Grand%20Prix%20Telecast%20intro%20%28QTQ-9%29-nZ6ACJKJCkE.mp4
+- chevrolet1956for1957Chevy — https://archive.org/download/chevrolet1956for1957Chevy/chevrolet1956for1957Chevy.mp4
+- chevrolet1960 — https://archive.org/download/1959CommercialFor1960Chevrolet/chevrolet1960.mp4
+- Christmas in Appalachia — https://archive.org/download/christmasinappalachia/christmasinappalachia/christmasinappalachia.mp4
+- Christmas In Appalachia, 1965 — https://archive.org/download/ChristmasInAppalachia1965/Christmas
+- Classic 1967 commercial for Instant Quaker Oatmeal with Elizabeth Montgomery — https://archive.org/download/Classic1967CommercialForinstantQuakerOatmealWithElizabethMontgomery/Oatmeal1967Witch_512kb.mp4
+- Classic Aunt Jemima commercial (1967) — https://archive.org/download/ClassicAuntJemimaCommercial1967/Pancake1967_512kb.mp4
+- Cliché Family in Televisionland — https://archive.org/download/cliche_family/cliche_family_512kb.mp4
+- consumerpoweradvertising — https://archive.org/download/consumerpoweradvertising/consumerpoweradvertising.mp4
+- Consuming Women (Women as Consumers) — https://archive.org/download/Consumin1967/Consumin1967_edit.mp4
+- crying indian psa hd — https://archive.org/download/crying_indian_psa_hd/crying_indian_psa_hd.mp4
+- David Hall Story, The — https://archive.org/download/0423_David_Hall_Story_The_E00834_00_22_40_00/0423_David_Hall_Story_The_E00834_00_22_40_00.mp4
 - Daytona 500 for Marketing Success — https://archive.org/download/tobacco_ywi52b00/VTS_01_512kb.mp4
+- detroitspatternofgrowth — https://archive.org/download/detroitspatternofgrowth/detroitspatternofgrowth.mp4
+- dodgetexan — https://archive.org/download/CommercialFor1956DodgeTexan/dodgetexan.mp4
+- Dominican Truce. Cease-Fire Brings Calm To Island, 1965/05/06 — https://archive.org/download/1965-05-06_Dominican_Truce/1965-05-06_Dominican_Truce.mp4
+- Dustys Trail 2 — https://archive.org/download/Dustys_Trail_2/Dustys_Trail_2.mp4
+- East German Propaganda and Advertising Film — https://archive.org/download/East_German_Advertising_1958/East_German_Advertising_1958_512kb.mp4
+- East German Trabant 601 Car Advertising Film — https://archive.org/download/trabant601/trabant601_512kb.mp4
+- Edsel1957Ad1 — https://archive.org/download/1957CommercialsForTheEdsel/Edsel1957Ad1.mp4
+- Edsel1957Ad2 — https://archive.org/download/1957CommercialsForTheEdsel/Edsel1957Ad2.mp4
+- Edsel1957Ad3 — https://archive.org/download/1957CommercialsForTheEdsel/Edsel1957Ad3.mp4
+- Edwood1 — https://archive.org/download/edwoodtvads/Edwood1.mp4
+- eight on the lam — https://archive.org/download/eight_on_the_lam/eight_on_the_lam.mp4
+- Errichetti#9170 — https://archive.org/download/ALCF_ArthurHVirtue_HomeMovies_Clip9170/Errichetti%239170.mp4
+- Errichetti#9173-77 — https://archive.org/download/ALCF_ArthurHVirtue_HomeMovies_Clip917377/Errichetti%239173-77.mp4
+- Errichetti#9209-10 — https://archive.org/download/ALCF_ArthurHVirtue_HomeMovies_Clip920910/Errichetti%239209-10.mp4
+- ESPN November 1987 Commercial Collection — https://archive.org/download/80s-commercials-espn-november-19871080p/80s
+- Fireball 500 [1966] - Trailer — https://archive.org/download/sinema-trailer_fireball-500/Fireball
+- ForwardLookCommercial1955 — https://archive.org/download/1955CommercialForChryslerforwardLook/ForwardLookCommercial1955.mp4
+- Fritz the Cat — https://archive.org/download/fritz-the-cat_202512/Fritz%20the%20Cat.mp4
+- FrontLin1965 — https://archive.org/download/FrontLin1965/FrontLin1965.mp4
+- Ghost of Dragstrip Hollow [1959] - Trailer — https://archive.org/download/sinema-trailer_ghost-of-dragstrip-hollow/Ghost
+- Greased Lightning (1977) - Upscaled 1080p — https://archive.org/download/greased-lightning-1977/Greased
+- Harlem Globetrotters at WDW - 1991 — https://archive.org/download/harlem-globetrotters-at-wdw-1991/Harlem%20Globetrotters%20at%20WDW%20-%201991.mp4
+- Harlem Globetrotters in Australia - 1989 — https://archive.org/download/harlem-globetrotters-at-wdw-1991/Harlem%20Globetrotters%20in%20Australia%20-%201989.mp4
+- Heavy Traffic — https://archive.org/download/heavy-traffic_202512/Heavy%20Traffic.mp4
+- homefront1917to1919wartransformsamericanlife — https://archive.org/download/homefront1917to1919wartransformsamericanlife/homefront1917to1919wartransformsamericanlife.mp4
+- HomeMovie01-01 — https://archive.org/download/Home_Movie_01_01/HomeMovie0101_512kb.mp4
+- IHRA Presents: Quarter Mile Crashes Vol. 1 — https://archive.org/download/ihra-presents-quarter-mile-crashes-vol.-1/IHRA
+- Ingenuity in Action (Part I) — https://archive.org/download/Ingenuit1958/Ingenuit1958_edit.mp4
+- Ingenuity in Action (Part II) — https://archive.org/download/Ingenuit1958_2/Ingenuit1958_2_edit.mp4
+- KCRA-TV Daily News Reel: October 26, 1976 #4 — https://archive.org/download/kcra-news-10-26-1976-4_20240801/KCRA
+- kukluxklantheinvisibleempire — https://archive.org/download/kukluxklantheinvisibleempire_201505/kukluxklantheinvisibleempire.mp4
+- laborcomesofage — https://archive.org/download/laborcomesofage/laborcomesofage.mp4
+- Lost In Space promo — https://archive.org/download/LostInSpacePromo/Lost
+- Marlboro Commercials Compilation — https://archive.org/download/tobacco_qja84e00/Marlboro_512kb.mp4
+- Match Your Mood — https://archive.org/download/match_your_mood/match_your_mood_edit.mp4
+- My Moviea1 — https://archive.org/download/ytv-dragon-ball-z-keeping-up-appearances-commercial-breaks/My%20Moviea1.mp4
+- My Moviea2 — https://archive.org/download/ytv-dragon-ball-z-keeping-up-appearances-commercial-breaks/My%20Moviea2.mp4
+- My Moviea3 — https://archive.org/download/ytv-dragon-ball-z-keeping-up-appearances-commercial-breaks/My%20Moviea3.mp4
+- My Moviea4 — https://archive.org/download/ytv-dragon-ball-z-keeping-up-appearances-commercial-breaks/My%20Moviea4.mp4
+- My Movier1 — https://archive.org/download/ytv-dragon-ball-z-keeping-up-appearances-commercial-breaks/My%20Movier1.mp4
+- My Movier2 — https://archive.org/download/ytv-dragon-ball-z-keeping-up-appearances-commercial-breaks/My%20Movier2.mp4
+- My Movier3 — https://archive.org/download/ytv-dragon-ball-z-keeping-up-appearances-commercial-breaks/My%20Movier3.mp4
+- My Movier4 — https://archive.org/download/ytv-dragon-ball-z-keeping-up-appearances-commercial-breaks/My%20Movier4.mp4
+- Nitro Funny Cars — https://archive.org/download/nitro-funny-cars/Nitro
 - Nitro Warriors Drag Racing VHS Copy — https://archive.org/download/nitro-warriors-drag-racing-vhs-copy/Nitro
+- nobodysvictim — https://archive.org/download/nobodysvictim/nobodysvictim.mp4
 - NWC 1984 Daytona 500 — https://archive.org/download/1984-daytona-500-with-commercials/1984
+- OKusedCars1960 — https://archive.org/download/1960CommercialForOkUsedCars/OKusedCars1960.mp4
+- On Any Sunday (1971) — https://archive.org/download/on-any-sunday-1971-1080p/On.Any.Sunday.1971.1080p.WEBRip.x265-RARBG.mp4
+- Pink Pistons — https://archive.org/download/pink-pistons-s-01-ep-16/Pink
+- Pit Stop [1969] - Trailer — https://archive.org/download/sinema-trailer_pit-stop/Pit
+- PlaneTal1965 — https://archive.org/download/PlaneTal1965/PlaneTal1965.mp4
+- PlymouthTurbine1955 — https://archive.org/download/1955CommercialForPlymouthBelvedereTurbine/PlymouthTurbine1955.mp4
+- PostRaisinBran1959 — https://archive.org/download/1959CommercialForPostRaisinBranad1/PostRaisinBran1959.mp4
+- Pro Jet — https://archive.org/download/projetvhstape/Pro
+- Programa di dragrace vol. 1 - Koral Tabak — https://archive.org/download/ana-dig-da-silva-19/ANA-DIG-DaSilva-19.mp4
+- Programa di dragrace vol. 2 — https://archive.org/download/ana-dig-da-silva-20/ANA-DIG-DaSilva-20.mp4
+- psa retro pollution 640 — https://archive.org/download/psa_retro_pollution_640/psa_retro_pollution_640.mp4
+- Rolling Stones at Altamont (Home Movie) — https://archive.org/download/rolling-stones-at-altamont-home-movie/service-mbrs-ntscrm-02628023-02628023.mp4
+- ROLLING STONES, Altamont Festival, documentary — https://archive.org/download/rolling-stones-altamont-part-1/ROLLING
+- saucer bite none — https://archive.org/download/psa_retro_pollution_640/saucer_bite_none.mp4
+- saucer bite two — https://archive.org/download/psa_retro_pollution_640/saucer_bite_two.mp4
+- Scenes from the Altamont Speedway Free Festival 1969 — https://archive.org/download/KCRASP025ALTAMONT/KCRA
+- SeatbeltPSAs — https://archive.org/download/SeatbeltPSAs/SeatbeltPSAs.mp4
+- Sharp ELSI-8 Calculator Commercial — https://archive.org/download/sharp_calculator_2/sharp_calculator_2_edit.mp4
+- Speedway — Trailer — https://archive.org/download/trailer-for-speedway/Trailer
+- Spiegel van Nederland (62712) — https://archive.org/download/62712_1411108732_s01_Spiegel_van_Nederland_62712/62712_1411108732_s01_Spiegel_van_Nederland_62712.mp4
+- stalking the wild cranberry 1972 512kb — https://archive.org/download/stalking_the_wild_cranberry_1972/stalking_the_wild_cranberry_1972_512kb.mp4
+- sure mac sure psa 512kb — https://archive.org/download/sure_mac_sure_psa/sure_mac_sure_psa_512kb.mp4
+- Ten for Gold — https://archive.org/download/gov.archives.arc.614503/gov.archives.arc.614503.mp4
+- The Brady Bunch - Cast Commercial Compilation — https://archive.org/download/The_Brady_Bunch_Commercial_Compilation/The%20Brady%20Bunch%20-%20Cast%20Commercial%20Compilation.mp4
+- The Glasco Family - The Wichita Years (8mm) — https://archive.org/download/The_Glasco_Family_8mm_Movies/The_Glasco_Family_8mm_Movies_512kb.mp4
+- The Mystery in Dracula's Castle (1972 Children, Family Adv ) Part 1 and 2 — https://archive.org/download/the-mystery-in-draculas-castle-1972-children-family-adv.-part-1-and-2/The%20Mystery%20in%20Dracula%27s%20Castle%20%281972%20Children%2C%20Family%20Adv.%29%20Part%201%20and%202.mp4
 - The Racing Cyclist — https://archive.org/download/TheRacingCyclist/The
+- THE SADIST — https://archive.org/download/The_Sadist/THE_SADIST.mp4
+- The Secret of Boyne Castle (1969 WD Children) (Ty, Chris Johnson ) — https://archive.org/download/the-secret-of-boyne-castle-1969-wd-children-ty-chris-johnson./The%20Secret%20of%20Boyne%20Castle%20%281969%20WD%20Children%29%20%28Ty%2C%20Chris%20Johnson.%29.mp4
+- The Velvet Underground and Nico 1966 — https://archive.org/download/TheVelvetUndergroundandNico1966/The.Velvet.Underground.and.Nico1966TVrip_512kb.mp4
+- The Yesterday Machine (1965 Time Travel SciFi) (Cult Cinema Classics) — https://archive.org/download/the-yesterday-machine-1965-time-travel-sci-fi-cult-cinema-classics/The%20Yesterday%20Machine%20%281965%20Time%20Travel%20SciFi%29%20%28Cult%20Cinema%20Classics%29.mp4
+- thethirdpollution — https://archive.org/download/thethirdpollution/thethirdpollution.mp4
 - Tioga County, PA Farm City Day Dinner 1993; Morris Old Home Days; Mansfield, PA 1890s Festival 1993; Snowmobile Drag Racing : Keith Lindie Archive Tape 388 — https://archive.org/download/KeithLindieArchiveTape388/VHS388-FF209.mp4
+- Torsion-AireRideDeSoto-1956Adfor1957 — https://archive.org/download/1956CommercialForChryslerTorsion-aireRide/Torsion-AireRideDeSoto-1956Adfor1957.mp4
+- ToughAC1973Campaign — https://archive.org/download/ToughAC1973Campaign/ToughAC1973Campaign.mp4
+- Track Freaks — https://archive.org/download/trackfreaksiivhs/Track
+- Traveltime: Freedomland — https://archive.org/download/TravelTimeFreedomland/TravelTimeFreedomland.mp4
+- Universal Newsreel Volume 38, Release 23 — https://archive.org/download/200-un-v38-r23_SD_2Mbps/200-un-v38-r23_SD_2Mbps.mp4
+- Universal Newsreel Volume 40, Release 52 — https://archive.org/download/un-un-v40-r52_2Mbps/un-un-v40-r52_2Mbps.mp4
+- Viceroy Commercials Compilation — https://archive.org/download/tobacco_rou03f00/170500066_512kb.mp4
+- ViciousC1964 — https://archive.org/download/ViciousC1964/ViciousC1964.mp4
+- ViciousC1964 edit — https://archive.org/download/ViciousC1964/ViciousC1964_edit.mp4
+- VTS 01 1 — https://archive.org/download/vts-01-1_20200423_1708/VTS_01_1.mp4
+- VTS 01 2 — https://archive.org/download/vts-01-1_20200423_1708/VTS_01_2.mp4
+- VTS 02 1 — https://archive.org/download/vts-01-1_20200423_1708/VTS_02_1.mp4
+- VTS 02 2 — https://archive.org/download/vts-01-1_20200423_1708/VTS_02_2.mp4
+- Watashi-wa beretto — https://archive.org/download/watashi-wa-beretto/Watashi-wa%20beretto.mp4
+- Westinghouse Air Conditioners Commercial 1 — https://archive.org/download/Westinghouse_2/Westinghouse_2_edit.mp4
+- Wichita-Commercials-01 — https://archive.org/download/WichitaCommercials01/Wichita-Commercials-01.mp4
 - Wide World Of Sports - Australian F1 (NWS-9, 1996) — https://archive.org/download/australian-f-1-nws-9-1996/Australian%20F1%20%5BNWS-9%2C%201996%5D.mp4
 - Wide World Of Sports (Incomplete, NWS-9, 1993) — https://archive.org/download/wide-world-of-sports-nws-9-1993/Wide%20World%20Of%20Sports%20%5BNWS-9%2C%201993%5D.mp4
 - Wide World of Sports 500cc Telecast intro (STW-9, 1994) — https://archive.org/download/Wide_World_of_Sports_500cc_Telecast_intro_STW-9_1994/Wide%20World%20of%20Sports%20500cc%20Telecast%20intro%20%28STW-9%2C%201994%29-t3cDOhswLcE.mp4
+- Wonderful World of Wheels (1960s) — https://archive.org/download/68014-wonderful-world-of-wheels-vwr_202412/68014+Wonderful+World+Of+Wheels_vwr.mp4
+- Zamfir The Romance of the Pan Flute — https://archive.org/download/uncommon-ephemera-cassette-832-150-4-zamfir-the-romance-of-the-pan-flute-mercury-records-1982/Zamfir%20The%20Romance%20of%20the%20Pan%20Flute.mp4
 
-## CH 18 — OLD-TIME RADIO
+## CH 17 — OLD-TIME RADIO
 
 - 21st Precinct — Case of the Basket (53-11-17) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2053-11-17%20%28020%29%20Case%20of%20the%20Basket.mp3
 - 21st Precinct — Case of the Ditch (53-11-24) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2053-11-24%20%28021%29%20Case%20of%20the%20Ditch.mp3
@@ -2156,6 +3261,8 @@ This is the organized catalog for the new TV-style lineup. Original titles and A
 - 21st Precinct — The Wife (54-12-29) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2054-12-29%20%28077%29%20The%20Wife.mp3
 - 21st Precinct — The Will (54-06-23) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2054-06-23%20%28050%29%20The%20Will.mp3
 - 21st Precinct — The Wreck (54-08-25) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2054-08-25%20%28059%29%20The%20Wreck.mp3
+- AM Radio Program (July 29,1967) — https://archive.org/download/radio-program-july-29-1967/Radio
+- Bill Sprague Collection : DOO WOP GOLD — https://archive.org/download/BillSporagueCollectionDOOWOPGOLD/Doo
 - Dragnet Radio — 22 Rifle for Christmas (49-12-22) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_49-12-22_030_22_Rifle_for_Christmas.mp3
 - Dragnet Radio — 22 Rifle for Christmas (50-12-21) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_50-12-21_080_22_Rifle_for_Christmas.mp3
 - Dragnet Radio — 22 Rifle for Christmas (51-12-20) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-12-20_132_22_Rifle_for_Christmas.mp3
@@ -2353,7 +3460,6 @@ This is the organized catalog for the new TV-style lineup. Original titles and A
 - Dragnet Radio — The Big Cliff (51-06-28) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-06-28_107_The_Big_Cliff.mp3
 - Dragnet Radio — The Big Couple (51-02-22) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-02-22_089_The_Big_Couple.mp3
 - Dragnet Radio — The Big Crazy (51-08-30) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-08-30_116_The_Big_Crazy.mp3
-- Dragnet Radio — The Big Crime (51-02-15) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-02-15_088_The_Big_Crime.mp3
 - Dragnet Radio — The Big Dance (51-01-18) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-01-18_084_The_Big_Dance.mp3
 - Dragnet Radio — The Big Dare (50-08-03) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_50-08-03_060_The_Big_Dare.mp3
 - Dragnet Radio — The Big Death (50-09-28) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_50-09-28_068_The_Big_Death.mp3
@@ -2442,7 +3548,6 @@ This is the organized catalog for the new TV-style lineup. Original titles and A
 - Dragnet Radio — The Big Sophomore (51-07-19) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-07-19_110_The_Big_Sophomore.mp3
 - Dragnet Radio — The Big Sorrow (51-12-27) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-12-27_133_The_Big_Sorrow.mp3
 - Dragnet Radio — The Big Sour (51-09-20) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-09-20_119_The_Big_Sour.mp3
-- Dragnet Radio — The Big Speech (51-04-19) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-04-19_097_The_Big_Speech.mp3
 - Dragnet Radio — The Big Story Man (51-10-18) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-10-18_123_The_Big_Story_Man.mp3
 - Dragnet Radio — The Big Streetcar (52-04-03) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_52-04-03_147_The_Big_Streetcar.mp3
 - Dragnet Radio — The Big Tear (52-09-11) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_52-09-11_168_The_Big_Tear.mp3
@@ -2644,6 +3749,8 @@ This is the organized catalog for the new TV-style lineup. Original titles and A
 - Gunsmoke — Yorky (53-10-17) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-10-17%20%28078%29%20Yorky.mp3
 - Gunsmoke — Young Love (55-01-29) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-01-29%20%28146%29%20Young%20Love.mp3
 - Gunsmoke — Young Man with a Gun (54-08-23) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-08-23%20%28123%29%20Young%20Man%20with%20a%20Gun.mp3
+- HaveITol1958 — https://archive.org/download/HaveITol1958/HaveITol1958.mp4
+- HaveITol1958 edit — https://archive.org/download/HaveITol1958/HaveITol1958_edit.mp4
 - Johnny Dollar — 481207 000 Milford Brooks III (Dick Powell Audition) (1948-12-07) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201948-12-07%20000%20Milford%20Brooks%20III%20%28Dick%20Powell%20Audition%29.mp3
 - Johnny Dollar — 490218 001 The Parakoff Policy (1949-02-18) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201949-02-18%20001%20The%20Parakoff%20Policy.mp3
 - Johnny Dollar — 490225 002 The Slow Boat from China (1949-02-25) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201949-02-25%20002%20The%20Slow%20Boat%20from%20China.mp3
@@ -2663,12 +3770,10 @@ This is the organized catalog for the new TV-style lineup. Original titles and A
 - Johnny Dollar — 491015 021 Dr Otto Schmedlich (1949-10-15) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201949-10-15%20021%20Dr%20Otto%20Schmedlich.mp3
 - Johnny Dollar — 491022 022 Witness, Witness, Who's Got the Witness (1949-10-22) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201949-10-22%20022%20Witness%2C%20Witness%2C%20Who%27s%20Got%20the%20Witness.mp3
 - Johnny Dollar — 491029 023 The Little Man Who Wasn't All There (1949-10-29) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201949-10-29%20023%20The%20Little%20Man%20Who%20Wasn%27t%20All%20There.mp3
-- Johnny Dollar — 491105 024The Island of Tin-Yutan (The South Sea Adventure) (1949-11-05) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201949-11-05%20024%20The%20Island%20of%20Tin-Yutan%20%28The%20South%20Sea%20Adventure%29.mp3
 - Johnny Dollar — 491112 025 The Melanie Carter Matter (Who'd Like To Rock The Old Doll To Sleep) (1949-11-12) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201949-11-12%20025%20The%20Melanie%20Carter%20Matter%20%28Who%27d%20Like%20To%20Rock%20The%20Old%20Doll%20To%20Sleep%29.mp3
 - Johnny Dollar — 491126 026 The Skull Canyon Mine (1949-11-26) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201949-11-26%20026%20The%20Skull%20Canyon%20Mine.mp3
 - Johnny Dollar — 491203 027 Bodyguard to Anne Connelly (1949-12-03) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201949-12-03%20027%20Bodyguard%20to%20Anne%20Connelly.mp3
 - Johnny Dollar — 491210 028 The Circus Animal Show Matter (1949-12-10) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201949-12-10%20028%20The%20Circus%20Animal%20Show%20Matter.mp3
-- Johnny Dollar — 491217 029 Haiti Adventure Matter (1949-12-17) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201949-12-17%20029%20Haiti%20Adventure%20Matter.mp3
 - Johnny Dollar — 491224 030 The Department Store Swindle Matter (How I Played Santa Claus And Almost Got Left Holding The Bag) (1949-12-24) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201949-12-24%20030%20The%20Department%20Store%20Swindle%20Matter%20%28How%20I%20Played%20Santa%20Claus%20And%20Almost%20Got%20Left%20Holding%20The%20Bag%29.mp3
 - Johnny Dollar — 500203 034 Death Takes a Working Day (The Loyal B Martin Matter; How to Take a Vacation in Fairfield County) (1950-02-03) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201950-02-03%20034%20Death%20Takes%20a%20Working%20Day%20%28The%20Loyal%20B%20Martin%20Matter%29.mp3
 - Johnny Dollar — 500210 035 The S S Malay Trader Ship (1950-02-10) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201950-02-10%20035%20The%20S.S.%20Malay%20Trader%20Ship.mp3
@@ -2677,15 +3782,11 @@ This is the organized catalog for the new TV-style lineup. Original titles and A
 - Johnny Dollar — 500303 038 Bodyguard to the Late Robert W Perry (1950-03-03) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201950-03-03%20038%20Bodyguard%20to%20the%20Late%20Robert%20W%20Perry.mp3
 - Johnny Dollar — 500307 039 Alec Jefferson, The Youthful Millionaire (Rebel Wildcatters) (1950-03-07) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201950-03-07%20039%20Alec%20Jefferson%2C%20The%20Youthful%20Millionaire%20%28Rebel%20Wildcatters%29.mp3
 - Johnny Dollar — 500314 040 The Eighty-Five Little Minks (1950-03-14) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201950-03-14%20040%20The%20Eighty-Five%20Little%20Minks.mp3
-- Johnny Dollar — 500321 041 The Man Who Wrote Himself to Death (Stuart Palmer, Writer) (Unedited Drama Portions) (1950-03-21) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201950-03-21%20041%20The%20Man%20Who%20Wrote%20Himself%20to%20Death%20%28Stuart%20Palmer%2C%20Writer%29%20%28Unedited%20Drama%20Portions%29.mp3
 - Johnny Dollar — 500328 042 The Village Scene Matter (The Missing Masterpiece) (1950-03-28) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201950-03-28%20042%20The%20Village%20Scene%20Matter%20%28The%20Missing%20Masterpiece%29.mp3
 - Johnny Dollar — 500404 043 The Story of the Big Red Schoolhouse (1950-04-04) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201950-04-04%20043%20The%20Story%20of%20the%20Big%20Red%20Schoolhouse.mp3
 - Johnny Dollar — 500411 044 The Dead First-Helpers (1950-04-11) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201950-04-11%20044%20The%20Dead%20First-Helpers.mp3
-- Johnny Dollar — 500418 045 The Story of the Ten-O-Eight (Unedited Drama Portions) (1950-04-18) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201950-04-18%20045%20The%20Story%20of%20the%20Ten-O-Eight%20%28Unedited%20Drama%20Portions%29.mp3
 - Johnny Dollar — 500425 046 Pearl Carrasa (1950-04-25) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201950-04-25%20046%20Pearl%20Carrasa.mp3
-- Johnny Dollar — 500502 047 The Able Tackitt Matter (Unedited Drama Portions) (1950-05-02) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201950-05-02%20047%20The%20Able%20Tackitt%20Matter%20%28Unedited%20Drama%20Portions%29.mp3
 - Johnny Dollar — 500509 048 The Harold Trandem Matter (1950-05-09) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201950-05-09%20048%20The%20Harold%20Trandem%20Matter.mp3
-- Johnny Dollar — 500516 049 The Sidney Rykoff Matter (Unedited Drama Portions) (1950-05-16) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201950-05-16%20049%20The%20Sidney%20Rykoff%20Matter%20%28Unedited%20Drama%20Portions%29.mp3
 - Johnny Dollar — 500523 050 The Earl Chadwick Matter (1950-05-23) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201950-05-23%20050%20The%20Earl%20Chadwick%20Matter.mp3
 - Johnny Dollar — 500530 051 The Port-au-Prince Matter (1950-05-30) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201950-05-30%20051%20The%20Port-au-Prince%20Matter.mp3
 - Johnny Dollar — 500608 052 The Caligio Diamond Matter (1950-06-08) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201950-06-08%20052%20The%20Caligio%20Diamond%20Matter.mp3
@@ -2722,8 +3823,6 @@ This is the organized catalog for the new TV-style lineup. Original titles and A
 - Johnny Dollar — 510421 092 The Willard South Matter (1951-04-21) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201951-04-21%20092%20The%20Willard%20South%20Matter.mp3
 - Johnny Dollar — 510428 093 The Month-End Raid Matter (1951-04-28) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201951-04-28%20093%20The%20Month-End%20Raid%20Matter.mp3
 - Johnny Dollar — 510505 094 The Virginia Towne Matter (1951-05-05) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201951-05-05%20094%20The%20Virginia%20Towne%20Matter.mp3
-- Johnny Dollar — 510526 097 The Lillis Bond Matter (Unedited Drama Portions) (recorded 510517) (1951-05-26) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201951-05-26%20097%20The%20Lillis%20Bond%20Matter%20%28Unedited%20Drama%20Portions%29%20%28recorded%2051-05-17%29.mp3
-- Johnny Dollar — 510602 098 The Soderbury, Maine Matter (Unedited Drama Portions) (recorded 510524) (1951-06-02) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201951-06-02%20098%20The%20Soderbury%2C%20Maine%20Matter%20%28Unedited%20Drama%20Portions%29%20%28recorded%2051-05-24%29.mp3
 - Johnny Dollar — 510609 099 The George Farmer Matter (1951-06-09) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201951-06-09%20099%20The%20George%20Farmer%20Matter.mp3
 - Johnny Dollar — 510616 100 The Arthur Boldrick Matter (1951-06-16) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201951-06-16%20100%20The%20Arthur%20Boldrick%20Matter.mp3
 - Johnny Dollar — 510620 101 The Malcolm Wish, MD Matter (1951-06-20) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201951-06-20%20101%20The%20Malcolm%20Wish%2C%20M.D.%20Matter.mp3
@@ -2733,7 +3832,6 @@ This is the organized catalog for the new TV-style lineup. Original titles and A
 - Johnny Dollar — 510718 105 The Neal Breer Matter (1951-07-18) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201951-07-18%20105%20The%20Neal%20Breer%20Matter.mp3
 - Johnny Dollar — 510801 107 The Horace Lockhart Matter (1951-08-01) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201951-08-01%20107%20The%20Horace%20Lockhart%20Matter.mp3
 - Johnny Dollar — 510815 109 The Lucky Costa Matter (1951-08-15) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201951-08-15%20109%20The%20Lucky%20Costa%20Matter.mp3
-- Johnny Dollar — 510829 111 The Leland Case Matter (Unedited Drama Portions) (recorded 510822) (1951-08-29) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201951-08-29%20111%20The%20Leland%20Case%20Matter%20%28Unedited%20Drama%20Portions%29%20%28recorded%2051-08-22%29.mp3
 - Johnny Dollar — 510919 113 The Cuban Jewel Matter (1951-09-19) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201951-09-19%20113%20The%20Cuban%20Jewel%20Matter.mp3
 - Johnny Dollar — 510926 114 The Protection Matter (1951-09-26) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201951-09-26%20114%20The%20Protection%20Matter.mp3
 - Johnny Dollar — 511006 115 The Douglas Taylor Matter (1951-10-06) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201951-10-06%20115%20The%20Douglas%20Taylor%20Matter.mp3
@@ -2813,7 +3911,6 @@ This is the organized catalog for the new TV-style lineup. Original titles and A
 - Johnny Dollar — 540323 207 The Piney Corners Matter [AFRTS] (1954-03-23) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201954-03-23%20207%20The%20Piney%20Corners%20Matter%20%5BAFRTS%5D.mp3
 - Johnny Dollar — 540406 209 The Sulphur and Brimstone Matter (1954-04-06) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201954-04-06%20209%20The%20Sulphur%20and%20Brimstone%20Matter.mp3
 - Johnny Dollar — 540413 210 The Magnolia and Honeysuckle Matter [AFRTS] (1954-04-13) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201954-04-13%20210%20The%20Magnolia%20and%20Honeysuckle%20Matter%20%5BAFRTS%5D.mp3
-- Johnny Dollar — 540420 211 The Nathan Swing Matter [AFRTS] (1954-04-20) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201954-04-20%20211%20The%20Nathan%20Swing%20Matter%20%5BAFRTS%5D.mp3
 - Johnny Dollar — 540427 212 The Frustrated Phoenix Matter [AFRTS] (1954-04-27) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201954-04-27%20212%20The%20Frustrated%20Phoenix%20Matter%20%5BAFRTS%5D.mp3
 - Johnny Dollar — 540504 213 The Dan Frank Matter [AFRTS] (1954-05-04) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201954-05-04%20213%20The%20Dan%20Frank%20Matter%20%5BAFRTS%5D.mp3
 - Johnny Dollar — 540518 215 The Bilked Baroness Matter (1954-05-18) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201954-05-18%20215%20The%20Bilked%20Baroness%20Matter.mp3
@@ -3079,6 +4176,25 @@ This is the organized catalog for the new TV-style lineup. Original titles and A
 - Johnny Dollar — 580309 577 The Wayward Moth Matter [AFRTS] (1) (1958-03-09) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles_Bob_Bailey_2/YTJD%201958-03-09%20577%20The%20Wayward%20Moth%20Matter%20%5BAFRTS%5D%20%281%29.mp3
 - Johnny Dollar — 580316 578 The Salkoff Sequel Matter [AFRTS] (1958-03-16) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles_Bob_Bailey_2/YTJD%201958-03-16%20578%20The%20Salkoff%20Sequel%20Matter%20%5BAFRTS%5D.mp3
 - Johnny Dollar — 580323 579 The Denver Disbursal Matter [AFRTS] (1958-03-23) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles_Bob_Bailey_2/YTJD%201958-03-23%20579%20The%20Denver%20Disbursal%20Matter%20%5BAFRTS%5D.mp3
+- Martyrs of Science — 01 - Life of Galileo, Chapter I — https://archive.org/download/martyrs_of_science_1308_librivox/martyrsofscience_01_brewster_128kb.mp3
+- Martyrs of Science — 02 - Life of Galileo, Chapter II — https://archive.org/download/martyrs_of_science_1308_librivox/martyrsofscience_02_brewster_128kb.mp3
+- Martyrs of Science — 03 - Life of Galileo, Chapter III — https://archive.org/download/martyrs_of_science_1308_librivox/martyrsofscience_03_brewster_128kb.mp3
+- Martyrs of Science — 04 - Life of Galileo, Chapter IV — https://archive.org/download/martyrs_of_science_1308_librivox/martyrsofscience_04_brewster_128kb.mp3
+- Martyrs of Science — 05 - Life of Galileo, Chapter V — https://archive.org/download/martyrs_of_science_1308_librivox/martyrsofscience_05_brewster_128kb.mp3
+- Martyrs of Science — 06 - Life of Galileo, Chapter VI — https://archive.org/download/martyrs_of_science_1308_librivox/martyrsofscience_06_brewster_128kb.mp3
+- Martyrs of Science — 07 - Life of Tycho Brahe, Chapter VII — https://archive.org/download/martyrs_of_science_1308_librivox/martyrsofscience_07_brewster_128kb.mp3
+- Martyrs of Science — 08 - Life of Tycho Brahe, Chapter VIII — https://archive.org/download/martyrs_of_science_1308_librivox/martyrsofscience_08_brewster_128kb.mp3
+- Martyrs of Science — 09 - Life of Tycho Brahe, Chapter IX — https://archive.org/download/martyrs_of_science_1308_librivox/martyrsofscience_09_brewster_128kb.mp3
+- Martyrs of Science — 10 - Life of Tycho Brahe, Chapter X — https://archive.org/download/martyrs_of_science_1308_librivox/martyrsofscience_10_brewster_128kb.mp3
+- Martyrs of Science — 11 - Life of John Kepler, Chapter XI — https://archive.org/download/martyrs_of_science_1308_librivox/martyrsofscience_11_brewster_128kb.mp3
+- Martyrs of Science — 12 - Life of John Kepler, Chapter XII — https://archive.org/download/martyrs_of_science_1308_librivox/martyrsofscience_12_brewster_128kb.mp3
+- Martyrs of Science — 13 - Life of John Kepler, Chapter XIII — https://archive.org/download/martyrs_of_science_1308_librivox/martyrsofscience_13_brewster_128kb.mp3
+- Martyrs of Science — 14 - Life of John Kepler, Chapter XIV — https://archive.org/download/martyrs_of_science_1308_librivox/martyrsofscience_14_brewster_128kb.mp3
+- Mercury Theatre — Dracula (1938) — https://archive.org/download/OrsonWelles-MercuryTheater-1938Recordings/MercuryTheater38-07-11Dracula.mp3
+- Mercury Theatre — The War of the Worlds (1938) — https://archive.org/download/OrsonWelles-MercuryTheater-1938Recordings/MercuryTheater38-10-30WarOfTheWorlds.mp3
+- Mercury Theatre — Treasure Island (1938) — https://archive.org/download/OrsonWelles-MercuryTheater-1938Recordings/MercuryTheater38-07-18TreasureIsland.mp3
+- Original AM Radio (February 1965) — https://archive.org/download/original-am-radio-february-1965/Original
+- Paul Mc Cartney Wings Greatest Hits ( Full Album) — https://archive.org/download/29051989PW/Paul
 - Philip Marlowe — Cloak of Kamehameha (49-04-23) — https://archive.org/download/OTRR_Philip_Marlowe_Singles/Philip_Marlowe_49-04-23_ep030_The_Cloak_of_Kamehameha.mp3
 - Philip Marlowe — Cloak of Kamehameha (50-05-16) — https://archive.org/download/OTRR_Philip_Marlowe_Singles/Philip_Marlowe_50-05-16_ep084_The_Cloak_of_Kamehameha.mp3
 - Philip Marlowe — Dude from Manhattan (49-07-02) — https://archive.org/download/OTRR_Philip_Marlowe_Singles/Philip_Marlowe_49-07-02_ep040_The_Dude_from_Manhattan.mp3
@@ -3249,7 +4365,6 @@ This is the organized catalog for the new TV-style lineup. Original titles and A
 - Richard Diamond — The Harry Baker Case (49-09-03) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2049-09-03%20%28020%29%20The%20Harry%20Baker%20Case.mp3
 - Richard Diamond — The Hollywood Story (53-08-23) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2053-08-23%20%28153%29%20The%20Hollywood%20Story%20%28AFRTS%29.mp3
 - Richard Diamond — The Homing Pigeon Case (50-10-11) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2050-10-11%20%28068%29%20The%20Homing%20Pigeon%20Case.mp3
-- Richard Diamond — The House of Mystery Case (49-12-10) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2049-12-10%20%28033%29%20The%20House%20Of%20Mystery%20Case.mp3
 - Richard Diamond — The Ice Pick Murder Case (repeat 50-07-12) (53-08-09) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2053-08-09%20%28151%29%20The%20Ice%20Pick%20Murder%20Case.mp3
 - Richard Diamond — The Jacoby Case (49-11-19) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2049-11-19%20%28030%29%20The%20Jacoby%20Case.mp3
 - Richard Diamond — The Jean Cooper Murder Case (49-08-20) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2049-08-20%20%28018%29%20The%20Jean%20Cooper%20Murder%20Case.mp3
@@ -3286,6 +4401,259 @@ This is the organized catalog for the new TV-style lineup. Original titles and A
 - Richard Diamond — To Guard A Seal (50-02-05) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2050-02-05%20%28040%29%20To%20Guard%20A%20Seal.mp3
 - Richard Diamond — William Carter Loses Memory (49-11-26) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2049-11-26%20%28031%29%20William%20Carter%20Loses%20Memory.mp3
 - Richard Diamond — William Logan And The Ivory Statue (50-04-05) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2050-04-05%20%28048%29%20William%20Logan%20And%20The%20Ivory%20Statue.mp3
+- Shortwave Numbers Stations — tcp d1 1 the swedish rhapsody irdial — https://archive.org/download/ird059/tcp_d1_01_the_swedish_rhapsody_irdial.mp3
+- Shortwave Numbers Stations — tcp d1 10 bugle irdial — https://archive.org/download/ird059/tcp_d1_10_bugle_irdial.mp3
+- Shortwave Numbers Stations — tcp d1 11 5 note version czech lady irdial — https://archive.org/download/ird059/tcp_d1_11_5_note_version_czech_lady_irdial.mp3
+- Shortwave Numbers Stations — tcp d1 12 three note odditiy irdial — https://archive.org/download/ird059/tcp_d1_12_three_note_odditiy_irdial.mp3
+- Shortwave Numbers Stations — tcp d1 14 counting station spanish irdial — https://archive.org/download/ird059/tcp_d1_14_counting_station_spanish_irdial.mp3
+- Shortwave Numbers Stations — tcp d1 15 english lady 00000 ending irdial — https://archive.org/download/ird059/tcp_d1_15_english_lady_00000_ending_irdial.mp3
+- Shortwave Numbers Stations — tcp d1 16 attencion 3 finals irdial — https://archive.org/download/ird059/tcp_d1_16_attencion_3_finals_irdial.mp3
+- Shortwave Numbers Stations — tcp d1 17 4 note rising scale irdial — https://archive.org/download/ird059/tcp_d1_17_4_note_rising_scale_irdial.mp3
+- Shortwave Numbers Stations — tcp d1 18 ciocirlia irdial — https://archive.org/download/ird059/tcp_d1_18_ciocirlia_irdial.mp3
+- Shortwave Numbers Stations — tcp d1 19 czech lady irdial — https://archive.org/download/ird059/tcp_d1_19_czech_lady_irdial.mp3
+- Shortwave Numbers Stations — tcp d1 2 counting cia irdial — https://archive.org/download/ird059/tcp_d1_02_counting_cia_irdial.mp3
+- Shortwave Numbers Stations — tcp d1 20 2 letter ys irdial — https://archive.org/download/ird059/tcp_d1_20_2_letter_ys_irdial.mp3
+- Shortwave Numbers Stations — tcp d1 21 2 letter el irdial — https://archive.org/download/ird059/tcp_d1_21_2_letter_el_irdial.mp3
+- Shortwave Numbers Stations — tcp d1 22 5 dashes irdial — https://archive.org/download/ird059/tcp_d1_22_5_dashes_irdial.mp3
+- Shortwave Numbers Stations — tcp d1 23 2 letter rk irdial — https://archive.org/download/ird059/tcp_d1_23_2_letter_rk_irdial.mp3
+- Shortwave Numbers Stations — tcp d1 3 counting control irdial — https://archive.org/download/ird059/tcp_d1_03_counting_control_irdial.mp3
+- Shortwave Numbers Stations — tcp d1 4 phonetic alphabet nato irdial — https://archive.org/download/ird059/tcp_d1_04_phonetic_alphabet_nato_irdial.mp3
+- Shortwave Numbers Stations — tcp d1 5 5 dashes irdial — https://archive.org/download/ird059/tcp_d1_05_5_dashes_irdial.mp3
+- Shortwave Numbers Stations — tcp d1 6 the lincolnshire poacher mi5 irdial — https://archive.org/download/ird059/tcp_d1_06_the_lincolnshire_poacher_mi5_irdial.mp3
+- Shortwave Numbers Stations — tcp d1 7 gong station chimes irdial — https://archive.org/download/ird059/tcp_d1_07_gong_station_chimes_irdial.mp3
+- Shortwave Numbers Stations — tcp d1 8 dfd 21 irdial — https://archive.org/download/ird059/tcp_d1_08_dfd_21_irdial.mp3
+- Shortwave Numbers Stations — tcp d1 9 ready ready 15728 irdial — https://archive.org/download/ird059/tcp_d1_09_ready_ready_15728_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 1 nnn french irdial — https://archive.org/download/ird059/tcp_d2_01_nnn_french_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 10 spanish lady irdial — https://archive.org/download/ird059/tcp_d2_10_spanish_lady_irdial_.mp3
+- Shortwave Numbers Stations — tcp d2 11 strich english irdial — https://archive.org/download/ird059/tcp_d2_11_strich_english_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 12 2 letter nu irdial — https://archive.org/download/ird059/tcp_d2_12_2_letter_nu_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 13 g3 strich irdial — https://archive.org/download/ird059/tcp_d2_13_g3_strich_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 14 yt irdial — https://archive.org/download/ird059/tcp_d2_14_yt_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 15 5 dashes irdial — https://archive.org/download/ird059/tcp_d2_15_5_dashes_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 16 german man irdial — https://archive.org/download/ird059/tcp_d2_16_german_man_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 17 english man irdial — https://archive.org/download/ird059/tcp_d2_17_english_man_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 18 english man german and german lady irdial — https://archive.org/download/ird059/tcp_d2_18_english_man_german_and_german_lady_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 19 german lady irdial — https://archive.org/download/ird059/tcp_d2_19_german_lady_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 2 strich irdial — https://archive.org/download/ird059/tcp_d2_02_strich_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 20 chinese numbers irdial — https://archive.org/download/ird059/tcp_d2_20_chinese_numbers_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 21 spanish lady complete sequence irdial — https://archive.org/download/ird059/tcp_d2_21_spanish_lady_complete_sequence_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 22 2 letter md irdial — https://archive.org/download/ird059/tcp_d2_22_2_letter_md_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 23 english man irdial — https://archive.org/download/ird059/tcp_d2_23_english_man_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 24 german lady irdial — https://archive.org/download/ird059/tcp_d2_24_german_lady_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 25 phonetic alphabet nato irdial — https://archive.org/download/ird059/tcp_d2_25_phonetic_alphabet_nato_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 26 phonetic alphabet nato irdial — https://archive.org/download/ird059/tcp_d2_26_phonetic_alphabet_nato_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 27 nancy adam susan irdial — https://archive.org/download/ird059/tcp_d2_27_nancy_adam_susan_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 28 counting control irdial — https://archive.org/download/ird059/tcp_d2_28_counting_control_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 29 nancy adam susan male irdial — https://archive.org/download/ird059/tcp_d2_29_nancy_adam_susan_male_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 3 dfd21 dfc37 irdial — https://archive.org/download/ird059/tcp_d2_03_dfd21_dfc37_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 30 cherry ripe irdial — https://archive.org/download/ird059/tcp_d2_30_cherry_ripe_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 31 russian lady irdial — https://archive.org/download/ird059/tcp_d2_31_russian_lady_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 32 russian man irdial — https://archive.org/download/ird059/tcp_d2_32_russian_man_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 33 nnn english irdial — https://archive.org/download/ird059/tcp_d2_33_nnn_english_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 34 frank young peter irdial — https://archive.org/download/ird059/tcp_d2_34_frank_young_peter_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 35 cherta irdial — https://archive.org/download/ird059/tcp_d2_35_cherta_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 36 russian counting man irdial — https://archive.org/download/ird059/tcp_d2_36_russian_counting_man_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 37 olx irdial — https://archive.org/download/ird059/tcp_d2_37_olx_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 38 6 tones irdial — https://archive.org/download/ird059/tcp_d2_38_6_tones_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 39 high pitch polytone irdial — https://archive.org/download/ird059/tcp_d2_39_high_pitch_polytone_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 4 drums and trumpets irdial — https://archive.org/download/ird059/tcp_d2_04_drums_and_trumpets_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 40 high pitch polytone irdial — https://archive.org/download/ird059/tcp_d2_40_high_pitch_polytone_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 41 high pitch polytone irdial — https://archive.org/download/ird059/tcp_d2_41_high_pitch_polytone_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 42 high pitch polytone irdial — https://archive.org/download/ird059/tcp_d2_42_high_pitch_polytone_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 43 oriental language irdial — https://archive.org/download/ird059/tcp_d2_43_oriental_language_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 5 nnn english irdial — https://archive.org/download/ird059/tcp_d2_05_nnn_english_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 6 english lady 00000 ending irdial — https://archive.org/download/ird059/tcp_d2_06_english_lady_00000_ending_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 7 nnn german irdial — https://archive.org/download/ird059/tcp_d2_07_nnn_german_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 8 the russian man d-va northern russian voice irdial — https://archive.org/download/ird059/tcp_d2_08_the_russian_man_d-va_northern_russian_voice_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 9 phonetic alphabet nato irdial — https://archive.org/download/ird059/tcp_d2_09_phonetic_alphabet_nato_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 1 ready ready irdial — https://archive.org/download/ird059/tcp_d3_01_ready_ready_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 10 oblique irdial — https://archive.org/download/ird059/tcp_d3_10_oblique_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 11 nnn old incarnation irdial — https://archive.org/download/ird059/tcp_d3_11_nnn_old_incarnation_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 12 5 dashes i say again irdial — https://archive.org/download/ird059/tcp_d3_12_5_dashes_i_say_again_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 13 2 letter kg irdial — https://archive.org/download/ird059/tcp_d3_13_2_letter_kg_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 14 4 figure counting 10 rough tones irdial — https://archive.org/download/ird059/tcp_d3_14_4_figure_counting_10_rough_tones_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 15 2 voices in one transmission irdial — https://archive.org/download/ird059/tcp_d3_15_2_voices_in_one_transmission_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 17 3 note interval signal irdial — https://archive.org/download/ird059/tcp_d3_17_3_note_interval_signal_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 18 10 rough tones irdial — https://archive.org/download/ird059/tcp_d3_18_10_rough_tones_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 19 achtung irdial — https://archive.org/download/ird059/tcp_d3_19_achtung_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 2 iran iraq jamming efficacy testting irdial — https://archive.org/download/ird059/tcp_d3_02_iran_iraq_jamming_efficacy_testting_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 20 a irdial — https://archive.org/download/ird059/tcp_d3_20_a_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 22 voice rapid dots irdial — https://archive.org/download/ird059/tcp_d3_22_rapid_dots_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 23 strich with rare message irdial — https://archive.org/download/ird059/tcp_d3_23_strich_with_rare_message_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 24 hier ist dfc seben und dreizig irdial — https://archive.org/download/ird059/tcp_d3_24_hier_ist_dfc_seben_und_dreizig_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 25 2 letter pn irdial — https://archive.org/download/ird059/tcp_d3_25_2_letter_pn_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 27 2 letter vo irdial — https://archive.org/download/ird059/tcp_d3_27_2_letter_vo_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 28 2 letter hk irdial — https://archive.org/download/ird059/tcp_d3_28_2_letter_hk_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 29 2 letter dm irdial — https://archive.org/download/ird059/tcp_d3_29_2_letter_dm_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 3 english lady irdial — https://archive.org/download/ird059/tcp_d3_03_english_lady_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 30 8 note rising scale irdial — https://archive.org/download/ird059/tcp_d3_30_8_note_rising_scale_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 31 spruchnummer 1 irdial — https://archive.org/download/ird059/tcp_d3_31_spruchnummer_1_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 32 spruchnummer 4 irdial — https://archive.org/download/ird059/tcp_d3_32_spruchnummer_4_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 33 random pop irdial — https://archive.org/download/ird059/tcp_d3_33_random_pop_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 34 nomer 101 irdial — https://archive.org/download/ird059/tcp_d3_34_nomer_101_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 35 okno okno onko irdial — https://archive.org/download/ird059/tcp_d3_35_okno_okno_onko_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 36 nomer 198 irdial — https://archive.org/download/ird059/tcp_d3_36_nomer_198_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 37 723 papaqui irdial — https://archive.org/download/ird059/tcp_d3_37_723_papaqui_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 38 298 irdial — https://archive.org/download/ird059/tcp_d3_38_298_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 39 815 irdial — https://archive.org/download/ird059/tcp_d3_39_815_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 4 english lady jammed irdial — https://archive.org/download/ird059/tcp_d3_04_english_lady_jammed_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 40 167 irdial — https://archive.org/download/ird059/tcp_d3_40_167_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 41 moscow coup attempt irdial — https://archive.org/download/ird059/tcp_d3_41_moscow_coup_attempt_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 5 english man version 1 irdial — https://archive.org/download/ird059/tcp_d3_05_english_man_version_1_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 6 english man version 3 irdial — https://archive.org/download/ird059/tcp_d3_06_english_man_version_3_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 7 english man irdial — https://archive.org/download/ird059/tcp_d3_07_english_man_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 8 magnetic fields irdial — https://archive.org/download/ird059/tcp_d3_08_magnetic_fields_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 9 magnetic fields different voice irdial — https://archive.org/download/ird059/tcp_d3_09_magnetic_fields_different_voice_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 1 russian man complete irdial — https://archive.org/download/ird059/tcp_d4_01_russian_man_complete_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 10 counting in polish irdial — https://archive.org/download/ird059/tcp_d4_10_counting_in_polish_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 11 konec konec irdial — https://archive.org/download/ird059/tcp_d4_11_konec_konec_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 12 pozor irdial — https://archive.org/download/ird059/tcp_d4_12_pozor_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 13 russian lady test count and message irdial — https://archive.org/download/ird059/tcp_d4_13_russian_lady_test_count_and_message_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 14 russian man irdial — https://archive.org/download/ird059/tcp_d4_14_russian_man_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 15 spanish lady 2 finals irdial — https://archive.org/download/ird059/tcp_d4_15_spanish_lady_2_finals_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 16 spanish counting irdial — https://archive.org/download/ird059/tcp_d4_16_spanish_counting_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 17 spanish counting 4 figure groups irdial — https://archive.org/download/ird059/tcp_d4_17_spanish_counting_4_figure_groups_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 18 spanish man irdial — https://archive.org/download/ird059/tcp_d4_18_spanish_man_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 19 spanish lady 00000 ending irdial — https://archive.org/download/ird059/tcp_d4_19_spanish_lady_00000_ending_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 2 yt irdial — https://archive.org/download/ird059/tcp_d4_02_yt_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 20 spanish lady 00000 ending different voice irdial — https://archive.org/download/ird059/tcp_d4_20_spanish_lady_00000_ending_different_voice_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 23 unidentified chinese station irdial — https://archive.org/download/ird059/tcp_d4_23_unidentified_chinese_station_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 24 nnn french early version irdial — https://archive.org/download/ird059/tcp_d4_24_nnn_french_early_version_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 25 nnn hungarian irdial — https://archive.org/download/ird059/tcp_d4_25_nnn_hungarian_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 26 wiskey tango viente y uno irdial — https://archive.org/download/ird059/tcp_d4_26_wiskey_tango_viente_y_uno_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 27 the crackle irdial — https://archive.org/download/ird059/tcp_d4_27_the_crackle_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 29 faders irdial — https://archive.org/download/ird059/tcp_d4_29_faders_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 3 555 konec irdial — https://archive.org/download/ird059/tcp_d4_03_555_konec_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 30 workshop irdial — https://archive.org/download/ird059/tcp_d4_30_workshop_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 31 the pip irdial — https://archive.org/download/ird059/tcp_d4_31_the_pip_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 32 the buzzer irdial — https://archive.org/download/ird059/tcp_d4_32_the_buzzer_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 33 m1 irdial — https://archive.org/download/ird059/tcp_d4_33_m1_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 34 m1b irdial — https://archive.org/download/ird059/tcp_d4_34_m1b_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 35 m2 irdial — https://archive.org/download/ird059/tcp_d4_35_m2_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 36 m3 irdial — https://archive.org/download/ird059/tcp_d4_36_m3_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 37 m3 irdial — https://archive.org/download/ird059/tcp_d4_37_m3_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 38 m3 irdial — https://archive.org/download/ird059/tcp_d4_38_m3_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 4 preska irdial — https://archive.org/download/ird059/tcp_d4_04_preska_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 42 m3a irdial — https://archive.org/download/ird059/tcp_d4_42_m3a_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 43 m3b irdial — https://archive.org/download/ird059/tcp_d4_43_m3b_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 5 cherta irdial — https://archive.org/download/ird059/tcp_d4_05_cherta_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 6 count in russian irdial — https://archive.org/download/ird059/tcp_d4_06_count_in_russian_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 7 count in russian different voice irdial — https://archive.org/download/ird059/tcp_d4_07_count_in_russian_different_voice_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 8 1-10 announcement irdial — https://archive.org/download/ird059/tcp_d4_08_1-10_announcement_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 9 1-10 announcement female irdial — https://archive.org/download/ird059/tcp_d4_09_1-10_announcement_female_irdial.mp3
+- Tales of the Texas Rangers — Address Uknown (1952-04-27) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_04_27_75_Address_Unknown.mp3
+- Tales of the Texas Rangers — Alibi (1952-09-07) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_09_07_94_Alibi.mp3
+- Tales of the Texas Rangers — Apache Peak (1950-07-22) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_07_22_03_Apache_Peak.mp3
+- Tales of the Texas Rangers — Bad Blood (1951-04-08) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_04_08_38_Bad_Blood.mp3
+- Tales of the Texas Rangers — Beakdown (1951-03-25) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_03_25_36_Breakdown.mp3
+- Tales of the Texas Rangers — Birds Of A Feather (1952-01-06) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_01_06_60_Birds_Of_A_Feather.mp3
+- Tales of the Texas Rangers — Blind Justice (1951-03-11) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_03_11_34_Blind_Justice.mp3
+- Tales of the Texas Rangers — Blood Harvest (1951-01-21) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_01_21_28_Blood_Harvest.mp3
+- Tales of the Texas Rangers — Blood Relative (1950-11-12) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_11_12_19_Blood_Relative.mp3
+- Tales of the Texas Rangers — Blood Trail (1952-01-20) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_01_20_62_Blood_Trail.mp3
+- Tales of the Texas Rangers — Blow Off (1951-11-25) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_11_25_54_The_Blow_Off.mp3
+- Tales of the Texas Rangers — Bright Boy (1952-02-24) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_02_24_67_Bright_Boy.mp3
+- Tales of the Texas Rangers — Candy Man (1950-09-16) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_09_16_11_Candy_Man.mp3
+- Tales of the Texas Rangers — Canned Death (1951-04-22) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_04_22_40_Canned_Death.mp3
+- Tales of the Texas Rangers — Christmas Payoff (1951-12-23) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_12_23_58_Christmas_Payoff.mp3
+- Tales of the Texas Rangers — Christmas Present (1950-12-24) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_12_24_24_Christmas_Present.mp3
+- Tales of the Texas Rangers — Clean Up (1950-09-30) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_09_30_13_Clean_Up.mp3
+- Tales of the Texas Rangers — Clip Job (1952-01-13) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_01_13_61_Clip_Job.mp3
+- Tales of the Texas Rangers — Cold Blood (1952-02-17) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_02_17_66_Cold_Blood.mp3
+- Tales of the Texas Rangers — Conspiracy (1951-04-15) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_04_15_39_Conspiracy.mp3
+- Tales of the Texas Rangers — Cover-Up (1952-08-17) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_08_17_91_Cover_Up.mp3
+- Tales of the Texas Rangers — Dead Give Away (1951-12-02) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_12_02_55_The_Dead_Give_Away.mp3
+- Tales of the Texas Rangers — Dead Give-Away (1950-10-15) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_10_15_15_Dead_Give_Away.mp3
+- Tales of the Texas Rangers — Dead in the Cards (1951-01-14) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_01_14_27_Death_In_The_Cards.mp3
+- Tales of the Texas Rangers — Dead or Alive (1950-09-09) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_09_09_10_Dead_Or_Alive.mp3
+- Tales of the Texas Rangers — Deadhead Freight (1951-01-07) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_01_07_26_Deadhead_Freight.mp3
+- Tales of the Texas Rangers — Death By Adoption (1951-03-18) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_03_18_35_Death_By_Adoption.mp3
+- Tales of the Texas Rangers — Death Plant (1951-12-09) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_12_09_56_Death_Plant.mp3
+- Tales of the Texas Rangers — Death Shaft (1951-09-30) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_09_30_46_Death_Shaft.mp3
+- Tales of the Texas Rangers — Double Edge (1952-08-03) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_08_03_89_Double_Edge.MP3
+- Tales of the Texas Rangers — Dream Farm (1952-03-09) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_03_09_69_Dream_Farm.mp3
+- Tales of the Texas Rangers — Drive-In (last Show) (1952-09-14) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_09_14_95_Drive_In.mp3
+- Tales of the Texas Rangers — Ex-Con (1952-06-29) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_06_29_84_Ex_Con.MP3
+- Tales of the Texas Rangers — Finger Man (1952-07-13) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_07_13_86_Finger_Man.mp3
+- Tales of the Texas Rangers — Fool's Gold (1950-08-19) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_08_19_07_Fools_Gold.mp3
+- Tales of the Texas Rangers — Fugitive Trail (1951-10-21) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_10_21_49_Fugitive_Trail.mp3
+- Tales of the Texas Rangers — Hanging by a Thread (1950-11-26) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_11_26_20_Hanging_By_A_Thread.mp3
+- Tales of the Texas Rangers — Helping Hand (1951-11-04) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_11_04_51_Helping_Hand.mp3
+- Tales of the Texas Rangers — Ice Man (1952-03-02) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_03_02_68_The_Ice_Man.mp3
+- Tales of the Texas Rangers — Illegal Entry (1952-06-08) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_06_08_81_Illegal_Entry.mp3
+- Tales of the Texas Rangers — Illusion (1952-04-20) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_04_20_74_Illusion.mp3
+- Tales of the Texas Rangers — Jailbird (1952-05-25) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_05_25_79_Jailbird.mp3
+- Tales of the Texas Rangers — Joy Ride (1951-05-27) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_05_27_45_Joy_Ride.mp3
+- Tales of the Texas Rangers — Just a Number (audition) (1950-04-19) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_04_19_00_Just_A_Number_AUDITION.MP3
+- Tales of the Texas Rangers — Killer's Crop (1951-12-30) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_12_30_59_Killers_Crop.mp3
+- Tales of the Texas Rangers — Knock-Out (1952-06-22) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_06_22_83_Knockout.MP3
+- Tales of the Texas Rangers — Last Stop (1952-08-10) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_08_10_90_Last_Stop.mp3
+- Tales of the Texas Rangers — Little Sister (1952-05-04) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_05_04_76_Little_Sister.mp3
+- Tales of the Texas Rangers — Living Death (1950-10-08) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_10_08_14_Living_Death.mp3
+- Tales of the Texas Rangers — Loggers Larceny (1951-02-04) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_02_04_30_Loggers_Larceny.mp3
+- Tales of the Texas Rangers — Misplaced Person (1952-08-31) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_08_31_93_Misplaced_Person.mp3
+- Tales of the Texas Rangers — Night Chase (1952-01-27) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_01_27_63_Night_Chase.mp3
+- Tales of the Texas Rangers — Night Hawk (1952-03-30) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_03_30_71_Nighthawk.mp3
+- Tales of the Texas Rangers — No Living Witnesses (1951-05-06) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_05_06_42_No_Living_Witnesses.mp3
+- Tales of the Texas Rangers — Open and Shut (1950-09-23) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_09_23_12_Open_And_Shut.mp3
+- Tales of the Texas Rangers — Open And Shut (1951-11-11) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_11_11_52_Open_And_Shut.mp3
+- Tales of the Texas Rangers — Paid In Full (1951-05-13) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_05_13_43_Paid_In_Full.mp3
+- Tales of the Texas Rangers — Pick-Up (1951-12-16) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_12_16_57_Pick_Up.mp3
+- Tales of the Texas Rangers — Play for Keeps (1950-09-02) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_09_02_09_Play_For_Keeps.mp3
+- Tales of the Texas Rangers — Play For Keeps (1951-10-14) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_10_14_48_Play_For_Keeps.mp3
+- Tales of the Texas Rangers — Prelude To Felony (1952-03-16) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_03_16_70_Prelude_To_Felony.mp3
+- Tales of the Texas Rangers — Pressure (1951-04-01) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_04_01_37_Pressure.mp3
+- Tales of the Texas Rangers — Quick Silver (1950-08-05) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_08_05_05_Quick_Silver.mp3
+- Tales of the Texas Rangers — Room 114 (1950-12-03) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_12_03_21_Room_114.mp3
+- Tales of the Texas Rangers — Round Trip (1952-07-20) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_07_20_87_Round_Trip.mp3
+- Tales of the Texas Rangers — Sellout (1952-06-01) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_06_01_80_Sell_Out.mp3
+- Tales of the Texas Rangers — Smart Kill (1952-05-18) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_05_18_78_Smart_Kill.mp3
+- Tales of the Texas Rangers — Soft Touch (1950-10-29) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_10_29_17_Soft_Touch.mp3
+- Tales of the Texas Rangers — Square Dance (1951-05-20) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_05_20_44_Squaredance.mp3
+- Tales of the Texas Rangers — Stick-Up (1952-07-27) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_07_27_88_Stick_Up.mp3
+- Tales of the Texas Rangers — The Boomerang (1952-07-06) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_07_06_85_The_Boomerang.mp3
+- Tales of the Texas Rangers — The Broken Spur (1950-08-12) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_08_12_06_The_Broken_Spur.mp3
+- Tales of the Texas Rangers — The Cactus Pear (1950-12-17) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_12_17_23_The_Cactus_Pear.mp3
+- Tales of the Texas Rangers — The Devil's Share (1950-12-31) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_12_31_25_The_Devils_Share.mp3
+- Tales of the Texas Rangers — The Hatchet (1951-02-11) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_02_11_31_The_Hatchet.mp3
+- Tales of the Texas Rangers — The Hitch-Hiker (1952-02-10) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_02_10_65_Hitchhiker.mp3
+- Tales of the Texas Rangers — The Lucky Dollar (1950-12-10) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_12_10_22_The_Lucky_Dollar.mp3
+- Tales of the Texas Rangers — The Open Range (1950-08-26) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_08_26_08_The_Open_Range.mp3
+- Tales of the Texas Rangers — The Rub Out (1952-02-03) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_02_03_64_The_Rub_Out.mp3
+- Tales of the Texas Rangers — The Trigger Men (1950-07-29) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_07_29_04_The_Trigger_Man.mp3
+- Tales of the Texas Rangers — The White Elephant (1950-07-15) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_07_15_02_The_White_Elephant.mp3
+- Tales of the Texas Rangers — The White Elephant (1951-10-28) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_10_28_50_The_White_Elephant.mp3
+- Tales of the Texas Rangers — The White Suit (1950-11-05) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_11_05_18_The_White_Suit.mp3
+- Tales of the Texas Rangers — TheTrap (1951-02-25) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_02_25_33_The_Trap.mp3
+- Tales of the Texas Rangers — Three Victims (1952-08-24) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_08_24_92_Three_Victims.mp3
+- Tales of the Texas Rangers — Travesty (1952-06-15) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_06_15_82_Travesty.mp3
+- Tales of the Texas Rangers — Troop Train (1952-04-06) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_04_06_72_Troop_Train.mp3
+- Tales of the Texas Rangers — Uncertain Death (1952-04-13) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_04_13_73_Uncertain_Death.mp3
+- Tales of the Texas Rangers — Unleashed Fury (1952-05-11) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_05_11_77_Unleashed_Fury.mp3
+- Tales of the Texas Rangers — Wheel Chair Killings (1951-10-07) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_10_07_47_The_Wheelchair_Killer.mp3
+- Tales of the Texas Rangers — Wild Crop (1951-11-18) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_11_18_53_Wild_Crop.mp3
+- The Absolute Truth About Muhammad inthe Bible With Arabic Subtitles 512kb — https://archive.org/download/The_Absolute_Truth_About_Muhammad_in_the_Bible_With_Arabic_Subtitles/The_Absolute_Truth_About_Muhammad_inthe_Bible_With_Arabic_Subtitles_512kb.mp4
+- The City at World's End — Chapter 01 - cataclysm — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_01_hamilton.mp3
+- The City at World's End — Chapter 02 - the incredible — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_02_hamilton.mp3
+- The City at World's End — Chapter 03 - dying planet — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_03_hamilton.mp3
+- The City at World's End — Chapter 04 - dead city — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_04_hamilton.mp3
+- The City at World's End — Chapter 05 - in the red dawn — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_05_hamilton.mp3
+- The City at World's End — Chapter 06 - caravan into tomorrow — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_06_hamilton.mp3
+- The City at World's End — Chapter 07 - under the dome — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_07_hamilton.mp3
+- The City at World's End — Chapter 08 - Middletown calling! — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_08_hamilton.mp3
+- The City at World's End — Chapter 09 - out of the silence — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_09_hamilton.mp3
+- The City at World's End — Chapter 10 - from the stars — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_10_hamilton.mp3
+- The City at World's End — Chapter 11 - revelation — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_11_hamilton.mp3
+- The City at World's End — Chapter 12 - crisis — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_12_hamilton.mp3
+- The City at World's End — Chapter 13 - embattled city — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_13_hamilton.mp3
+- The City at World's End — Chapter 14 - last appeal — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_14_hamilton.mp3
+- The City at World's End — Chapter 15 - mission for Earth — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_15_hamilton.mp3
+- The City at World's End — Chapter 16 - on Vega — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_16_hamilton.mp3
+- The City at World's End — Chapter 17 - judgment of the stars — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_17_hamilton.mp3
+- The City at World's End — Chapter 18 - fatefull return — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_18_hamilton.mp3
+- The City at World's End — Chapter 19 - Middletown decides — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_19_hamilton.mp3
+- The City at World's End — Chapter 20 - appointment with destiny — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_20_hamilton.mp3
+- The City at World's End — Chapter 21 - waking world — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_21_hamilton.mp3
 - The Whistler — 18 Bowden Lane (47-05-12) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-05-12_ep259_18_Bowden_Lane.mp3
 - The Whistler — 44-10-23 Death Carries A Lunch Kit — https://archive.org/download/OTRR_Whistler_Singles/Whistler_44-10-23_ep127_Death_Carries_a_Lunch_Kit_epharp_in_opening.mp3
 - The Whistler — A Case for Mister Carrington (47-10-22) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-10-22_ep282_A_Case_for_Mister_Carrington.mp3
@@ -3321,7 +4689,6 @@ This is the organized catalog for the new TV-style lineup. Original titles and A
 - The Whistler — Christmas Bonus (44-12-25) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_44-12-25_ep135_Christmas_Bonus.mp3
 - The Whistler — Coincidence (45-11-19) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-11-19_ep182_Coincidence.mp3
 - The Whistler — Comeback (48-01-07) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-01-07_ep293_Comeback.mp3
-- The Whistler — Concerto of Death (48-06-16) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-06-16_ep316_Concerto_of_Death.mp3
 - The Whistler — Confession (46-07-08) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_46-07-08_ep215_Confession.mp3
 - The Whistler — Conspiracy (48-09-29) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-09-29_ep329_Conspiracy.mp3
 - The Whistler — Cover Up (48-11-07) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-11-07_ep335_Cover_Up.mp3
@@ -3338,7 +4705,6 @@ This is the organized catalog for the new TV-style lineup. Original titles and A
 - The Whistler — Death Has a Thirst (43-05-08) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_43-05-08_ep051_Death_Has_a_Thirst_.mp3
 - The Whistler — Death in the Air (43-08-13) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_43-08-13_ep065_Death_in_the_Air.mp3
 - The Whistler — Death Laughs Last (45-10-08) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-10-08_ep176_Death_Laughs_Last.mp3
-- The Whistler — Death Marks the Double Cross (Mystery Theater Version) (45-03-12) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-03-12_ep146_Death_Marks_the_Double_Cross_-_Mystery_Theater_Version.mp3
 - The Whistler — Death Pays a Visit (45-06-11) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-06-11_ep159_Death_Pays_a_Visit.mp3
 - The Whistler — Death Sees Double (44-11-20) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_44-11-20_ep130_Death_Sees_Double.mp3
 - The Whistler — Death Walks a Tightwire (44-11-27) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_44-11-27_ep131_Death_Walks_a_Tightwire.mp3
@@ -3349,7 +4715,6 @@ This is the organized catalog for the new TV-style lineup. Original titles and A
 - The Whistler — Delayed Christmas Present (48-12-26) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-12-26_ep342_Delayed_Christmas_Present.mp3
 - The Whistler — Delivery Guaranteed (46-08-19) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_46-08-19_ep221_Delivery_Guaranteed.mp3
 - The Whistler — Destiny (43-09-03) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_43-09-03_ep068_Destiny.mp3
-- The Whistler — Doctor Operates in Crime (44-12-04) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_44-12-04_ep132_Doctor_Operates_in_Crime.mp3
 - The Whistler — Double-Cross (42-12-27) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_42-12-27_ep033_Double-Cross.mp3
 - The Whistler — Eight to Twelve (47-02-24) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-02-24_ep248_Eight_to_Twelve.mp3
 - The Whistler — Enough Rope (48-08-11) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-08-11_ep322_Enough_Rope.mp3
@@ -3530,131 +4895,20 @@ This is the organized catalog for the new TV-style lineup. Original titles and A
 - The Whistler — With My Own Eyes (46-12-09) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_46-12-09_ep237_With_My_Own_Eyes.mp3
 - The Whistler — Witness at the Fountain (46-09-09) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_46-09-09_ep224_Witness_at_the_Fountain.mp3
 - The Whistler — X Marks the Murderer (45-08-20) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-08-20_ep169_X_Marks_the_Murderer.mp3
-- X Minus One 55-04-24 (001) No Contact — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-04-24001NoContact.mp3
-- X Minus One 55-05-01 (002) The Parade — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-05-01002TheParade.mp3
-- X Minus One 55-05-08 (003) Mars Is Heaven — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-05-08003MarsIsHeaven.mp3
-- X Minus One 55-05-15 (004) Universe — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-05-15004Universe.mp3
-- X Minus One 55-05-22 (005) Knock — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-05-22005Knock.mp3
-- X Minus One 55-05-29 (006) The Man in the Moon — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-05-29006TheManInTheMoon.mp3
-- X Minus One 55-06-05 (007) Perigi's Wonderful Dolls — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-06-05007PerigisWonderfulDolls.mp3
-- X Minus One 55-07-07 (008) The Green Hills of Earth — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-07-07008TheGreenHillsOfEarth.mp3
-- X Minus One 55-07-14 (009) Dr Grimshaw's Sanitarium — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-07-14009DrGrimshawsSanitarium.mp3
-- X Minus One 55-07-21 (010) Nightmare — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-07-21010Nightmare.mp3
-- X Minus One 55-07-28 (011) The Embassy — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-07-28011TheEmbassy.mp3
-- X Minus One 55-08-04 (012) The Veldt — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-08-04012TheVeldt.mp3
-- X Minus One 55-08-11 (013) Almost Human — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-08-11013AlmostHuman.mp3
-- X Minus One 55-08-18 (014) Courtesy — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-08-18014Courtesy.mp3
-- X Minus One 55-08-25 (015) Cold Equations — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-08-25015ColdEquations.mp3
-- X Minus One 55-09-01 (016) Shanghaied — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-09-01016Shanghaied.mp3
-- X Minus One 55-09-08 (017) The Martian Death March — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-09-08017TheMartianDeathMarch.mp3
-- X Minus One 55-09-15 (018) The Castaways — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-09-15018TheCastaways.mp3
-- X Minus One 55-09-22 (019) And the Moon Be Still as Bright — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-09-22019AndTheMoonBeStillAsBright.mp3
-- X Minus One 55-10-06 (020) First Contact — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-10-06020FirstContact.mp3
-- X Minus One 55-10-20 (021) Child's Play — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-10-20021ChildsPlay.mp3
-- X Minus One 55-10-27 (022) Requiem — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-10-27022Requiem.mp3
-- X Minus One 55-11-03 (023) Hello, Tomorrow — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-11-03023HelloTomorrow.mp3
-- X Minus One 55-11-10 (024) Dwellers in Silence — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-11-10024DwellersInSilence.mp3
-- X Minus One 55-11-16 (025) The Outer Limit — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-11-16025TheOuterLimit.mp3
-- X Minus One 55-11-23 (026) Zero Hour — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-11-23026ZeroHour.mp3
-- X Minus One 55-11-30 (027) The Vital Factor — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-11-30027TheVitalFactor.mp3
-- X Minus One 55-12-07 (028) Nightfall — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-12-07028Nightfall.mp3
-- X Minus One 55-12-14 (029) To the Future — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-12-14029ToTheFuture.mp3
-- X Minus One 55-12-21 (030) Marionettes, Inc — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-12-21030MarionettesInc.mp3
-- X Minus One 55-12-28 (031) A Logic Named Joe — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-12-28031ALogicNamedJoe.mp3
-- X Minus One 56-01-04 (032) The Roads Must Roll — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-01-04032TheRoadsMustRoll.mp3
-- X Minus One 56-01-11 (033) Time and Time Again — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-01-11033TimeAndTimeAgain.mp3
-- X Minus One 56-01-18 (034) Perigi's Wonderful Dolls — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-01-18034PerigisWonderfulDolls.mp3
-- X Minus One 56-01-25 (035) The Parade — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-01-25035TheParade.mp3
-- X Minus One 56-02-01 (036) The Cave of Night — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-02-01036TheCaveOfNight.mp3
-- X Minus One 56-02-08 (037) C-Chute — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-02-08037C-chute.mp3
-- X Minus One 56-02-15 (038) Skulking Permit — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-02-15038SkulkingPermit.mp3
-- X Minus One 56-02-22 (039) Junkyard — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-02-22039Junkyard.mp3
-- X Minus One 56-02-29 (040) Hello, Tomorrow — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-02-29040HelloTomorrow.mp3
-- X Minus One 56-03-07 (041) A Gun for Dinosaur — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-03-07041AGunForDinosaur.mp3
-- X Minus One 56-03-14 (042) Tunnel Under the World — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-03-14042TunnelUnderTheWorld.mp3
-- X Minus One 56-03-21 (043) A Thousand Dollars a Plate — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-03-21043AThousandDollarsAPlate.mp3
-- X Minus One 56-03-28 (044) A Pail of Air — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-03-28044APailOfAir.mp3
-- X Minus One 56-04-03 (045) How-2 — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-04-03045How-2.mp3
-- X Minus One 56-04-10 (046) Star, Bright — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-04-10046StarBright.mp3
-- X Minus One 56-04-17 (047) Jaywalker — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-04-17047Jaywalker.mp3
-- X Minus One 56-04-24 (048) The Sense of Wonder — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-04-24048TheSenseOfWonder.mp3
-- X Minus One 56-05-01 (049) Sea Legs — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-05-01049SeaLegs.mp3
-- X Minus One 56-05-08 (050) The Seventh Order — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-05-08050TheSeventhOrder.mp3
-- X Minus One 56-05-15 (051) Hallucination Orbit — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-05-15051HallucinationOrbit.mp3
-- X Minus One 56-05-22 (052) The Defenders — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-05-22052TheDefenders.mp3
-- X Minus One 56-05-29 (053) Lulungomeena — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-05-29053Lulungomeena.mp3
-- X Minus One 56-06-05 (054) Project Mastadon — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-06-05054ProjectMastadon.mp3
-- X Minus One 56-06-12 (055) If You Was a Moklin — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-06-12055IfYouWasAMoklin.mp3
-- X Minus One 56-06-19 (056) Project Trojan — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-06-19056ProjectTrojan.mp3
-- X Minus One 56-06-26 (057) Wherever You May Be — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-06-26057WhereverYouMayBe.mp3
-- X Minus One 56-07-03 (058) Mr Costello, Hero — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-07-03058MrCostelloHero.mp3
-- X Minus One 56-07-10 (059) Bad Medicine — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-07-10059BadMedicine.mp3
-- X Minus One 56-07-17 (060) The Old Die Rich — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-07-17060TheOldDieRich.mp3
-- X Minus One 56-07-24 (061) Stars Are the Styx — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-07-24061StarsAreTheStyx.mp3
-- X Minus One 56-07-31 (062) Student Body — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-07-31062StudentBody.mp3
-- X Minus One 56-08-07 (063) The Last Martian — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-08-07063TheLastMartian.mp3
-- X Minus One 56-08-14 (064) The Snowball Effect — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-08-14064TheSnowballEffect.mp3
-- X Minus One 56-08-28 (065) Surface Tension — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-08-28065SurfaceTension.mp3
-- X Minus One 56-09-04 (066) Tunnel Under the World — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-09-04066TunnelUnderTheWorld.mp3
-- X Minus One 56-09-11 (067) The Lifeboat Mutiny — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-09-11067TheLifeboatMutiny.mp3
-- X Minus One 56-09-26 (068) The Map Makers — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-09-26068TheMapMakers.mp3
-- X Minus One 56-10-03 (069) Protective Mimicry — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-10-03069ProtectiveMimicry.mp3
-- X Minus One 56-10-10 (070) Colony — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-10-10070Colony.mp3
-- X Minus One 56-10-17 (071) Soldier Boy — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-10-17071SoldierBoy.mp3
-- X Minus One 56-10-24 (072) Pictures Don't Lie — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-10-24072PicturesDontLie.mp3
-- X Minus One 56-10-31 (073) Sam, This Is You — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-10-31073SamThisIsYou.mp3
-- X Minus One 56-11-07 (074) Appointment in Tomorrow — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-11-07074AppointmentInTomorrow.mp3
-- X Minus One 56-11-21 (076) Chain of Command — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-11-21076ChainOfCommand.mp3
-- X Minus One 56-12-05 (078) There Will Come Soft Rains - Zero Hour — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-12-05078ThereWillComeSoftRains-ZeroHour.mp3
-- X Minus One 56-12-12 (079) Hostess — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-12-12079Hostess.mp3
-- X Minus One 56-12-19 (080) The Reluctant Heroes — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-12-19080TheReluctantHeroes.mp3
-- X Minus One 56-12-26 (081) Honeymoon in Hell — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-12-26081HoneymoonInHell.mp3
-- X Minus One 57-01-02 (082) The Moon Is Green — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-01-02082TheMoonIsGreen.mp3
-- X Minus One 57-01-09 (083) Saucer of Loneliness — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-01-09083SaucerOfLoneliness.mp3
-- X Minus One 57-01-16 (084) The Girls from Earth — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-01-16084TheGirlsFromEarth.mp3
-- X Minus One 57-01-23 (085) Open Warfare — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-01-23085OpenWarfare.mp3
-- X Minus One 57-01-30 (086) Caretaker — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-01-30086Caretaker.mp3
-- X Minus One 57-02-06 (087) Venus Is a Man's World — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-02-06087VenusIsAMansWorld.mp3
-- X Minus One 57-02-13 (088) The Trap — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-02-13088TheTrap.mp3
-- X Minus One 57-02-20 (089) Field Study — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-02-20089FieldStudy.mp3
-- X Minus One 57-02-27 (090) Real Gone — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-02-27090RealGone.mp3
-- X Minus One 57-03-06 (091) The Seventh Victim — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-03-06091TheSeventhVictim.mp3
-- X Minus One 57-03-13 (092) The Lights on Precipice Peak — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-03-13092TheLightsOnPrecipicePeak.mp3
-- X Minus One 57-03-20 (093) Protection — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-03-20093Protection.mp3
-- X Minus One 57-03-27 (094) At the Post — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-03-27094AtThePost.mp3
-- X Minus One 57-04-03 (095) Martian Sam — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-04-03095MartianSam.mp3
-- X Minus One 57-04-10 (096) Something for Nothing — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-04-10096SomethingForNothing.mp3
-- X Minus One 57-04-17 (097) The Discovery of Morniel Mathaway — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-04-17097TheDiscoveryOfMornielMathaway.mp3
-- X Minus One 57-04-24 (098) Man's Best Friend — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-04-24098MansBestFriend.mp3
-- X Minus One 57-06-20 (099) Inside Story — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-06-20099InsideStory.mp3
-- X Minus One 57-06-27 (100) The Category Inventor — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-06-27100TheCategoryInventor.mp3
-- X Minus One 57-07-04 (101) Skulking Permit — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-07-04101SkulkingPermit.mp3
-- X Minus One 57-07-11 (102) Early Model — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-07-11102EarlyModel.mp3
-- X Minus One 57-07-18 (103) The Merchants of Venus — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-07-18103TheMerchantsOfVenus.mp3
-- X Minus One 57-07-25 (104) The Haunted Corpse — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-07-25104TheHauntedCorpse.mp3
-- X Minus One 57-08-01 (105) End as a World — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-08-01105EndAsAWorld.mp3
-- X Minus One 57-08-08 (106) The Scapegoat — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-08-08106TheScapegoat.mp3
-- X Minus One 57-08-15 (107) At the Post — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-08-15107AtThePost.mp3
-- X Minus One 57-08-22 (108) Drop Dead — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-08-22108DropDead.mp3
-- X Minus One 57-08-29 (109) Volpla — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-08-29109Volpla.mp3
-- X Minus One 57-09-19 (112) Tsylana — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-09-19112Tsylana.mp3
-- X Minus One 57-09-26 (113) The Native Problem — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-09-26113TheNativeProblem.mp3
-- X Minus One 57-10-03 (114) A Wind Is Rising — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-10-03114AWindIsRising.mp3
-- X Minus One 57-10-10 (115) Death Wish — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-10-10115DeathWish.mp3
-- X Minus One 57-10-17 (116) Point of Departure — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-10-17116PointOfDeparture.mp3
-- X Minus One 57-10-24 (117) The Light — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-10-24117TheLight.mp3
-- X Minus One 57-10-31 (118) Lulu — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-10-31118Lulu.mp3
-- X Minus One 57-11-21 (119) The Coffin Cure — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-11-21119TheCoffinCure.mp3
-- X Minus One 57-11-28 (120) Shock Troop — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-11-28120ShockTroop.mp3
-- X Minus One 57-12-12 (121) The Haunted Corpse — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-12-12121TheHauntedCorpse.mp3
-- X Minus One 57-12-19 (122) Double Dare — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-12-19122DoubleDare.mp3
-- X Minus One 57-12-26 (123) Target One — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-12-26123TargetOne.mp3
-- X Minus One 58-01-02 (124) Prime Difference — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne58-01-02124PrimeDifference.mp3
-- X Minus One 58-01-09 (125) Gray Flannel Armor — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne58-01-09125GrayFlannelArmor.mp3
-- X Minus One 73-01-27 (xxx) The Iron Chancellor — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne73-01-27xxxTheIronChancellor.mp3
 
-## CH 19 — RADIO DRAMA & MYSTERY
+## CH 18 — RADIO DRAMA & MYSTERY
 
+- Dragnet Radio — The Big Crime (51-02-15) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-02-15_088_The_Big_Crime.mp3
+- Johnny Dollar — 491105 024The Island of Tin-Yutan (The South Sea Adventure) (1949-11-05) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201949-11-05%20024%20The%20Island%20of%20Tin-Yutan%20%28The%20South%20Sea%20Adventure%29.mp3
+- Johnny Dollar — 491217 029 Haiti Adventure Matter (1949-12-17) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201949-12-17%20029%20Haiti%20Adventure%20Matter.mp3
+- Johnny Dollar — 500321 041 The Man Who Wrote Himself to Death (Stuart Palmer, Writer) (Unedited Drama Portions) (1950-03-21) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201950-03-21%20041%20The%20Man%20Who%20Wrote%20Himself%20to%20Death%20%28Stuart%20Palmer%2C%20Writer%29%20%28Unedited%20Drama%20Portions%29.mp3
+- Johnny Dollar — 500418 045 The Story of the Ten-O-Eight (Unedited Drama Portions) (1950-04-18) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201950-04-18%20045%20The%20Story%20of%20the%20Ten-O-Eight%20%28Unedited%20Drama%20Portions%29.mp3
+- Johnny Dollar — 500502 047 The Able Tackitt Matter (Unedited Drama Portions) (1950-05-02) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201950-05-02%20047%20The%20Able%20Tackitt%20Matter%20%28Unedited%20Drama%20Portions%29.mp3
+- Johnny Dollar — 500516 049 The Sidney Rykoff Matter (Unedited Drama Portions) (1950-05-16) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201950-05-16%20049%20The%20Sidney%20Rykoff%20Matter%20%28Unedited%20Drama%20Portions%29.mp3
+- Johnny Dollar — 510526 097 The Lillis Bond Matter (Unedited Drama Portions) (recorded 510517) (1951-05-26) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201951-05-26%20097%20The%20Lillis%20Bond%20Matter%20%28Unedited%20Drama%20Portions%29%20%28recorded%2051-05-17%29.mp3
+- Johnny Dollar — 510602 098 The Soderbury, Maine Matter (Unedited Drama Portions) (recorded 510524) (1951-06-02) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201951-06-02%20098%20The%20Soderbury%2C%20Maine%20Matter%20%28Unedited%20Drama%20Portions%29%20%28recorded%2051-05-24%29.mp3
+- Johnny Dollar — 510829 111 The Leland Case Matter (Unedited Drama Portions) (recorded 510822) (1951-08-29) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201951-08-29%20111%20The%20Leland%20Case%20Matter%20%28Unedited%20Drama%20Portions%29%20%28recorded%2051-08-22%29.mp3
+- Richard Diamond — The House of Mystery Case (49-12-10) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2049-12-10%20%28033%29%20The%20House%20Of%20Mystery%20Case.mp3
 - Suspense — 40-07-21 CBS Forecast-The Lodger-Suspense audition — https://archive.org/download/SUSPENSE/40-07-21_CBS_Forecast-The_Lodger-Suspense_audition.mp3
 - Suspense — 44-06-16 A Friend To Alexander — https://archive.org/download/SUSPENSE/44-06-16_A_Friend_To_Alexander.mp3
 - Suspense — Forecast 400722 The Lodger (audition) (128-44) 28390 29m37s (40-07-22) — https://archive.org/download/OTRR_Suspense_Singles/Forecast%20400722%20The%20Lodger%20%28audition%29%20%28128-44%29%2028390%2029m37s.mp3
@@ -3832,11 +5086,135 @@ This is the organized catalog for the new TV-style lineup. Original titles and A
 - Suspense 460328 186 Out of Control (128-44) 24557 25m30s AFRS (46-03-28) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20460328%20186%20Out%20of%20Control%20%28128-44%29%2024557%20%2025m30s%20AFRS.mp3
 - Suspense 460404 187 Post Mortem (64-44) 14506 29m34s (46-04-04) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20460404%20187%20Post%20Mortem%20%2864-44%29%2014506%2029m34s.mp3
 - Suspense 460411 188 The Name of the Beast (128-44) 28344 29m53s (46-04-11) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20460411%20188%20The%20Name%20of%20the%20Beast%20%28128-44%29%2028344%2029m53s.mp3
+- The Whistler — Death Marks the Double Cross (Mystery Theater Version) (45-03-12) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-03-12_ep146_Death_Marks_the_Double_Cross_-_Mystery_Theater_Version.mp3
+- The Whistler — Doctor Operates in Crime (44-12-04) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_44-12-04_ep132_Doctor_Operates_in_Crime.mp3
+- X Minus One 55-04-24 (001) No Contact — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-04-24001NoContact.mp3
+- X Minus One 55-05-01 (002) The Parade — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-05-01002TheParade.mp3
+- X Minus One 55-05-08 (003) Mars Is Heaven — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-05-08003MarsIsHeaven.mp3
+- X Minus One 55-05-15 (004) Universe — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-05-15004Universe.mp3
+- X Minus One 55-05-22 (005) Knock — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-05-22005Knock.mp3
+- X Minus One 55-05-29 (006) The Man in the Moon — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-05-29006TheManInTheMoon.mp3
+- X Minus One 55-06-05 (007) Perigi's Wonderful Dolls — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-06-05007PerigisWonderfulDolls.mp3
+- X Minus One 55-07-07 (008) The Green Hills of Earth — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-07-07008TheGreenHillsOfEarth.mp3
+- X Minus One 55-07-14 (009) Dr Grimshaw's Sanitarium — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-07-14009DrGrimshawsSanitarium.mp3
+- X Minus One 55-07-21 (010) Nightmare — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-07-21010Nightmare.mp3
+- X Minus One 55-07-28 (011) The Embassy — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-07-28011TheEmbassy.mp3
+- X Minus One 55-08-04 (012) The Veldt — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-08-04012TheVeldt.mp3
+- X Minus One 55-08-11 (013) Almost Human — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-08-11013AlmostHuman.mp3
+- X Minus One 55-08-18 (014) Courtesy — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-08-18014Courtesy.mp3
+- X Minus One 55-08-25 (015) Cold Equations — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-08-25015ColdEquations.mp3
+- X Minus One 55-09-01 (016) Shanghaied — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-09-01016Shanghaied.mp3
+- X Minus One 55-09-08 (017) The Martian Death March — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-09-08017TheMartianDeathMarch.mp3
+- X Minus One 55-09-15 (018) The Castaways — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-09-15018TheCastaways.mp3
+- X Minus One 55-09-22 (019) And the Moon Be Still as Bright — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-09-22019AndTheMoonBeStillAsBright.mp3
+- X Minus One 55-10-06 (020) First Contact — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-10-06020FirstContact.mp3
+- X Minus One 55-10-20 (021) Child's Play — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-10-20021ChildsPlay.mp3
+- X Minus One 55-10-27 (022) Requiem — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-10-27022Requiem.mp3
+- X Minus One 55-11-03 (023) Hello, Tomorrow — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-11-03023HelloTomorrow.mp3
+- X Minus One 55-11-10 (024) Dwellers in Silence — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-11-10024DwellersInSilence.mp3
+- X Minus One 55-11-16 (025) The Outer Limit — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-11-16025TheOuterLimit.mp3
+- X Minus One 55-11-23 (026) Zero Hour — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-11-23026ZeroHour.mp3
+- X Minus One 55-11-30 (027) The Vital Factor — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-11-30027TheVitalFactor.mp3
+- X Minus One 55-12-07 (028) Nightfall — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-12-07028Nightfall.mp3
+- X Minus One 55-12-14 (029) To the Future — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-12-14029ToTheFuture.mp3
+- X Minus One 55-12-21 (030) Marionettes, Inc — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-12-21030MarionettesInc.mp3
+- X Minus One 55-12-28 (031) A Logic Named Joe — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-12-28031ALogicNamedJoe.mp3
+- X Minus One 56-01-04 (032) The Roads Must Roll — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-01-04032TheRoadsMustRoll.mp3
+- X Minus One 56-01-11 (033) Time and Time Again — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-01-11033TimeAndTimeAgain.mp3
+- X Minus One 56-01-18 (034) Perigi's Wonderful Dolls — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-01-18034PerigisWonderfulDolls.mp3
+- X Minus One 56-01-25 (035) The Parade — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-01-25035TheParade.mp3
+- X Minus One 56-02-01 (036) The Cave of Night — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-02-01036TheCaveOfNight.mp3
+- X Minus One 56-02-08 (037) C-Chute — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-02-08037C-chute.mp3
+- X Minus One 56-02-15 (038) Skulking Permit — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-02-15038SkulkingPermit.mp3
+- X Minus One 56-02-22 (039) Junkyard — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-02-22039Junkyard.mp3
+- X Minus One 56-02-29 (040) Hello, Tomorrow — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-02-29040HelloTomorrow.mp3
+- X Minus One 56-03-07 (041) A Gun for Dinosaur — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-03-07041AGunForDinosaur.mp3
+- X Minus One 56-03-14 (042) Tunnel Under the World — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-03-14042TunnelUnderTheWorld.mp3
+- X Minus One 56-03-21 (043) A Thousand Dollars a Plate — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-03-21043AThousandDollarsAPlate.mp3
+- X Minus One 56-03-28 (044) A Pail of Air — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-03-28044APailOfAir.mp3
+- X Minus One 56-04-03 (045) How-2 — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-04-03045How-2.mp3
+- X Minus One 56-04-10 (046) Star, Bright — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-04-10046StarBright.mp3
+- X Minus One 56-04-17 (047) Jaywalker — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-04-17047Jaywalker.mp3
+- X Minus One 56-04-24 (048) The Sense of Wonder — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-04-24048TheSenseOfWonder.mp3
+- X Minus One 56-05-01 (049) Sea Legs — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-05-01049SeaLegs.mp3
+- X Minus One 56-05-08 (050) The Seventh Order — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-05-08050TheSeventhOrder.mp3
+- X Minus One 56-05-15 (051) Hallucination Orbit — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-05-15051HallucinationOrbit.mp3
+- X Minus One 56-05-22 (052) The Defenders — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-05-22052TheDefenders.mp3
+- X Minus One 56-05-29 (053) Lulungomeena — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-05-29053Lulungomeena.mp3
+- X Minus One 56-06-05 (054) Project Mastadon — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-06-05054ProjectMastadon.mp3
+- X Minus One 56-06-12 (055) If You Was a Moklin — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-06-12055IfYouWasAMoklin.mp3
+- X Minus One 56-06-19 (056) Project Trojan — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-06-19056ProjectTrojan.mp3
+- X Minus One 56-06-26 (057) Wherever You May Be — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-06-26057WhereverYouMayBe.mp3
+- X Minus One 56-07-03 (058) Mr Costello, Hero — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-07-03058MrCostelloHero.mp3
+- X Minus One 56-07-10 (059) Bad Medicine — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-07-10059BadMedicine.mp3
+- X Minus One 56-07-17 (060) The Old Die Rich — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-07-17060TheOldDieRich.mp3
+- X Minus One 56-07-24 (061) Stars Are the Styx — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-07-24061StarsAreTheStyx.mp3
+- X Minus One 56-07-31 (062) Student Body — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-07-31062StudentBody.mp3
+- X Minus One 56-08-07 (063) The Last Martian — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-08-07063TheLastMartian.mp3
+- X Minus One 56-08-14 (064) The Snowball Effect — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-08-14064TheSnowballEffect.mp3
+- X Minus One 56-08-28 (065) Surface Tension — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-08-28065SurfaceTension.mp3
+- X Minus One 56-09-04 (066) Tunnel Under the World — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-09-04066TunnelUnderTheWorld.mp3
+- X Minus One 56-09-11 (067) The Lifeboat Mutiny — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-09-11067TheLifeboatMutiny.mp3
+- X Minus One 56-09-26 (068) The Map Makers — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-09-26068TheMapMakers.mp3
+- X Minus One 56-10-03 (069) Protective Mimicry — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-10-03069ProtectiveMimicry.mp3
+- X Minus One 56-10-10 (070) Colony — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-10-10070Colony.mp3
+- X Minus One 56-10-17 (071) Soldier Boy — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-10-17071SoldierBoy.mp3
+- X Minus One 56-10-24 (072) Pictures Don't Lie — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-10-24072PicturesDontLie.mp3
+- X Minus One 56-10-31 (073) Sam, This Is You — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-10-31073SamThisIsYou.mp3
+- X Minus One 56-11-07 (074) Appointment in Tomorrow — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-11-07074AppointmentInTomorrow.mp3
+- X Minus One 56-11-21 (076) Chain of Command — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-11-21076ChainOfCommand.mp3
+- X Minus One 56-12-05 (078) There Will Come Soft Rains - Zero Hour — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-12-05078ThereWillComeSoftRains-ZeroHour.mp3
+- X Minus One 56-12-12 (079) Hostess — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-12-12079Hostess.mp3
+- X Minus One 56-12-19 (080) The Reluctant Heroes — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-12-19080TheReluctantHeroes.mp3
+- X Minus One 56-12-26 (081) Honeymoon in Hell — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-12-26081HoneymoonInHell.mp3
+- X Minus One 57-01-02 (082) The Moon Is Green — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-01-02082TheMoonIsGreen.mp3
+- X Minus One 57-01-09 (083) Saucer of Loneliness — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-01-09083SaucerOfLoneliness.mp3
+- X Minus One 57-01-16 (084) The Girls from Earth — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-01-16084TheGirlsFromEarth.mp3
+- X Minus One 57-01-23 (085) Open Warfare — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-01-23085OpenWarfare.mp3
+- X Minus One 57-01-30 (086) Caretaker — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-01-30086Caretaker.mp3
+- X Minus One 57-02-06 (087) Venus Is a Man's World — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-02-06087VenusIsAMansWorld.mp3
+- X Minus One 57-02-13 (088) The Trap — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-02-13088TheTrap.mp3
+- X Minus One 57-02-20 (089) Field Study — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-02-20089FieldStudy.mp3
+- X Minus One 57-02-27 (090) Real Gone — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-02-27090RealGone.mp3
+- X Minus One 57-03-06 (091) The Seventh Victim — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-03-06091TheSeventhVictim.mp3
+- X Minus One 57-03-13 (092) The Lights on Precipice Peak — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-03-13092TheLightsOnPrecipicePeak.mp3
+- X Minus One 57-03-20 (093) Protection — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-03-20093Protection.mp3
+- X Minus One 57-03-27 (094) At the Post — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-03-27094AtThePost.mp3
+- X Minus One 57-04-03 (095) Martian Sam — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-04-03095MartianSam.mp3
+- X Minus One 57-04-10 (096) Something for Nothing — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-04-10096SomethingForNothing.mp3
+- X Minus One 57-04-17 (097) The Discovery of Morniel Mathaway — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-04-17097TheDiscoveryOfMornielMathaway.mp3
+- X Minus One 57-04-24 (098) Man's Best Friend — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-04-24098MansBestFriend.mp3
+- X Minus One 57-06-20 (099) Inside Story — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-06-20099InsideStory.mp3
+- X Minus One 57-06-27 (100) The Category Inventor — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-06-27100TheCategoryInventor.mp3
+- X Minus One 57-07-04 (101) Skulking Permit — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-07-04101SkulkingPermit.mp3
+- X Minus One 57-07-11 (102) Early Model — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-07-11102EarlyModel.mp3
+- X Minus One 57-07-18 (103) The Merchants of Venus — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-07-18103TheMerchantsOfVenus.mp3
+- X Minus One 57-07-25 (104) The Haunted Corpse — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-07-25104TheHauntedCorpse.mp3
+- X Minus One 57-08-01 (105) End as a World — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-08-01105EndAsAWorld.mp3
+- X Minus One 57-08-08 (106) The Scapegoat — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-08-08106TheScapegoat.mp3
+- X Minus One 57-08-15 (107) At the Post — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-08-15107AtThePost.mp3
+- X Minus One 57-08-22 (108) Drop Dead — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-08-22108DropDead.mp3
+- X Minus One 57-08-29 (109) Volpla — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-08-29109Volpla.mp3
+- X Minus One 57-09-19 (112) Tsylana — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-09-19112Tsylana.mp3
+- X Minus One 57-09-26 (113) The Native Problem — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-09-26113TheNativeProblem.mp3
+- X Minus One 57-10-03 (114) A Wind Is Rising — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-10-03114AWindIsRising.mp3
+- X Minus One 57-10-10 (115) Death Wish — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-10-10115DeathWish.mp3
+- X Minus One 57-10-17 (116) Point of Departure — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-10-17116PointOfDeparture.mp3
+- X Minus One 57-10-24 (117) The Light — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-10-24117TheLight.mp3
+- X Minus One 57-10-31 (118) Lulu — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-10-31118Lulu.mp3
+- X Minus One 57-11-21 (119) The Coffin Cure — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-11-21119TheCoffinCure.mp3
+- X Minus One 57-11-28 (120) Shock Troop — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-11-28120ShockTroop.mp3
+- X Minus One 57-12-12 (121) The Haunted Corpse — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-12-12121TheHauntedCorpse.mp3
+- X Minus One 57-12-19 (122) Double Dare — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-12-19122DoubleDare.mp3
+- X Minus One 57-12-26 (123) Target One — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-12-26123TargetOne.mp3
+- X Minus One 58-01-02 (124) Prime Difference — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne58-01-02124PrimeDifference.mp3
+- X Minus One 58-01-09 (125) Gray Flannel Armor — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne58-01-09125GrayFlannelArmor.mp3
+- X Minus One 73-01-27 (xxx) The Iron Chancellor — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne73-01-27xxxTheIronChancellor.mp3
 
-## CH 20 — RADIO COMEDY
+## CH 19 — RADIO COMEDY & SATIRE
 
 
-## CH 21 — MUSIC & JAZZ
+## CH 20 — MUSIC & JAZZ
 
 - 1920s Jazz — 2to2 — https://archive.org/download/Free_20s_Jazz_Collection/2to2.mp3
 - 1920s Jazz — 4or5x — https://archive.org/download/Free_20s_Jazz_Collection/4or5x.mp3
@@ -3926,16 +5304,16 @@ This is the organized catalog for the new TV-style lineup. Original titles and A
 - 1920s Jazz — Vo Do Do — https://archive.org/download/Free_20s_Jazz_Collection/Vo_Do_Do.mp3
 - 1920s Jazz — Washingtonians-Tishomingo Blues 11KHz 64kb — https://archive.org/download/Free_20s_Jazz_Collection/Washingtonians-Tishomingo_Blues_11KHz_64kb.mp3
 - 1920s Jazz — Whiteman-Whispering 11KHz 64kb — https://archive.org/download/Free_20s_Jazz_Collection/Whiteman-Whispering_11KHz_64kb.mp3
+- Johnny Dollar — 540420 211 The Nathan Swing Matter [AFRTS] (1954-04-20) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201954-04-20%20211%20The%20Nathan%20Swing%20Matter%20%5BAFRTS%5D.mp3
 - Kmart In Store Music Christmas 1974 — https://archive.org/download/KmartInStoreMusicChristmas1974/Kmart
 - Shortwave Numbers Stations — tcp d3 16 tyrolean music station irdial — https://archive.org/download/ird059/tcp_d3_16_tyrolean_music_station_irdial.mp3
 - Shortwave Numbers Stations — tcp d4 21 eastern music station irdial — https://archive.org/download/ird059/tcp_d4_21_eastern_music_station_irdial.mp3
 - Shortwave Numbers Stations — tcp d4 22 eastern music station different voice irdial — https://archive.org/download/ird059/tcp_d4_22_eastern_music_station_different_voice_irdial.mp3
 - Shortwave Numbers Stations — tcp d4 28 the backwards music station irdial — https://archive.org/download/ird059/tcp_d4_28_the_backwards_music_station_irdial.mp3
+- The Whistler — Concerto of Death (48-06-16) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-06-16_ep316_Concerto_of_Death.mp3
 
-## CH 22 — NEWS & PUBLIC AFFAIRS
+## CH 21 — NEWS & PUBLIC AFFAIRS
 
-- Captain Nice — William Daniels on starring in the TV series Captain Nice - TelevisionAcademy com Interviews — https://archive.org/download/capn-nice-tv-show/William%20Daniels%20on%20starring%20in%20the%20TV%20series%20%20Captain%20Nice%20%20-%20TelevisionAcademy.com%20Interviews.mp4
-- Cpt Scarlet 99 S.I.G — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2099%20S.I.G%20%28interviews.best%20bits%29.mp4
 - AM Radio Broadcast (Feb, 1, 1963) — https://archive.org/download/am-radio-broadcast-feb-1-1963_202108/AM
 - AM Radio News (1-17-1972) — https://archive.org/download/radio-news-1-17-1972/Radio
 - Beatles Hoax WKBW AM Radio Broadcast 1960s — https://archive.org/download/beatles-hoax-wkbwbroadcast/BeatlesHoaxWKBWBroadcast.ia.mp4
@@ -3988,2584 +5366,181 @@ This is the organized catalog for the new TV-style lineup. Original titles and A
 - Churchill Broadcasts — We Must Arm — https://archive.org/download/Winston_Churchill/1938-10-16_BBC_Winston_Churchill_We_Must_Arm.mp3
 - Churchill Broadcasts — We Shall Never Surrender — https://archive.org/download/Winston_Churchill/1940-06-04_BBC_Winston_Churchill_We_Shall_Never_Surrender.mp3
 - Churchill Broadcasts — Westward Look The Land Is Bright — https://archive.org/download/Winston_Churchill/1941-04-27_BBC_Winston_Churchill_Westward_Look_The_Land_Is_Bright.mp3
+- Dragnet Radio — The Big Speech (51-04-19) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-04-19_097_The_Big_Speech.mp3
 - Shortwave Numbers Stations — tcp d1 13 new star broadcasting irdial — https://archive.org/download/ird059/tcp_d1_13_new_star_broadcasting_irdial.mp3
 - The Whistler — A Brief Pause For Murder (East Coast Broadcast) (46-09-11) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_46-09-11_epxxx_A_Brief_Pause_For_Murder_epEast_Coast_Broadcast.mp3
 - The Whistler — Broken Chain (East Coast Broadcast) (46-08-21) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_46-08-21_epxxx_Broken_Chain_epEast_Coast_Broadcast.mp3
 - The Whistler — Seven Steps To Murder (East Coast Broadcast) (47-02-12) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-02-12_epxxx_Seven_Steps_To_Murder_-_East_Coast_Broadcast.mp3
-- 97) — https://archive.org/download/Wide_World_of_Sports_-_Ashes_Second_Test_4th_Day_coverage_QTQ-9_22_6_97/Wide%20World%20of%20Sports%20-%20Ashes%20Second%20Test%204th%20Day%20coverage%20%28QTQ-9%2C%2022_6_97%29-j1Gk-2_6Bus.mp4
-- A MC 75 (INTERVIEW 1-5) (SayN@t@urS@ap) ''Tom@rrow'' w T@mSnyder — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2075%20%28INTERVIEW%201-5%29%20%28SayN%40t%40urS%40ap%29%20%27%27Tom%40rrow%27%27%20w%20T%40mSnyder.mp4
-- A MC 75 (INTERVIEW 2-5) (SayN@t@urS@ap) ''Tom@rrow'' w T@mSnyder — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2075%20%28INTERVIEW%202-5%29%20%28SayN%40t%40urS%40ap%29%20%27%27Tom%40rrow%27%27%20w%20T%40mSnyder.mp4
-- A MC 75 (INTERVIEW 3-5) (SayN@t@urS@ap) ''Tom@rrow'' w T@mSnyder — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2075%20%28INTERVIEW%203-5%29%20%28SayN%40t%40urS%40ap%29%20%27%27Tom%40rrow%27%27%20w%20T%40mSnyder.mp4
-- A MC 75 (INTERVIEW 4-5) (SayN@t@urS@ap) ''Tom@rrow'' w T@mSnyder — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2075%20%28INTERVIEW%204-5%29%20%28SayN%40t%40urS%40ap%29%20%27%27Tom%40rrow%27%27%20w%20T%40mSnyder.mp4
-- A MC 75 (INTERVIEW 5-5) (SayN@t@urS@ap) ''Tom@rrow'' w T@mSnyder — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2075%20%28INTERVIEW%205-5%29%20%28SayN%40t%40urS%40ap%29%20%27%27Tom%40rrow%27%27%20w%20T%40mSnyder.mp4
-- A MC 78 (INTERVIEW) (DecadesTVNetwork 29 19) The DickC@vett Show with Agn@sNix@n — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2078%20%28INTERVIEW%29%20%28DecadesTVNetwork%2029.19%29%20The%20DickC%40vett%20Show%20with%20Agn%40sNix%40n.mp4
-- KCRA-TV Daily News Reel: October 26, 1976 #4 — https://archive.org/download/kcra-news-10-26-1976-4_20240801/KCRA
-- Universal Newsreel Volume 38, Release 23 — https://archive.org/download/200-un-v38-r23_SD_2Mbps/200-un-v38-r23_SD_2Mbps.mp4
-- Universal Newsreel Volume 40, Release 52 — https://archive.org/download/un-un-v40-r52_2Mbps/un-un-v40-r52_2Mbps.mp4
 
-## CH 23 — EDUCATION & TECHNOLOGY
+## CH 22 — EDUCATION & TECHNOLOGY
 
+- Reading Rainbow — The Gift of the Sacred Dog (S01E10) — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S01E10.The.Gift.of.the.Sacred.Dog.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S01E01 Tight Times — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S01E01.Tight.Times.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S01E02 Miss Nelson is Back — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S01E02.Miss.Nelson.is.Back.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S01E03 Bea and Mr Jones — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S01E03.Bea.and.Mr.Jones.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S01E04 Bringing the Rain to Kapiti Plain — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S01E04.Bringing.the.Rain.to.Kapiti.Plain.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S01E05 Louis the Fish — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S01E05.Louis.the.Fish.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S01E06 Digging Up Dinosaurs — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S01E06.Digging.Up.Dinosaurs.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S01E07 Liang and the Magic Paintbrush — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S01E07.Liang.and.the.Magic.Paintbrush.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S01E08 Gila Monsters Meet You at the Airport — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S01E08.Gila.Monsters.Meet.You.at.the.Airport.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S01E09 Three Days on a River in a Red Canoe — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S01E09.Three.Days.on.a.River.in.a.Red.Canoe.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S01E11 Gregory the Terrible Eater — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S01E11.Gregory.the.Terrible.Eater.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S01E12 Three By the Sea — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S01E12.Three.By.the.Sea.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S01E13 Arthurs Eyes — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S01E13.Arthurs.Eyes.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S01E14 The Day Jimmys Boa Ate the Wash — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S01E14.The.Day.Jimmys.Boa.Ate.the.Wash.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S01E15 Tys One-Man Band — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S01E15.Tys.One-Man.Band.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S02E01 Hot-Air Henry — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S02E01.Hot-Air.Henry.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S02E02 Simons Book — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S02E02.Simons.Book.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S02E03 Ox-Cart Man — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S02E03.Ox-Cart.Man.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S02E04 Mystery on the Docks — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S02E04.Mystery.on.the.Docks.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S02E05 A Chair for My Mother — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S02E05.A.Chair.for.My.Mother.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S03E01 Paul Bunyan — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S03E01.Paul.Bunyan.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S03E02 The Patchwork Quilt — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S03E02.The.Patchwork.Quilt.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S03E03 Hill of Fire — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S03E03.Hill.of.Fire.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S03E04 The Tortoise and the Hare — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S03E04.The.Tortoise.and.the.Hare.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S03E05 Perfect the Pig — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S03E05.Perfect.the.Pig.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S04E01 Animal Cafe — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S04E01.Animal.Cafe.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S04E02 Alistair in Outer Space — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S04E02.Alistair.in.Outer.Space.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S04E03 Feelings — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S04E03.Feelings.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S04E04 Watch the Stars Come Out — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S04E04.Watch.the.Stars.Come.Out.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S04E05 Mama Dont Allow — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S04E05.Mama.Dont.Allow.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S04E06 Space Case — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S04E06.Space.Case.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S04E07 The Milk Makers — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S04E07.The.Milk.Makers.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S04E08 Imogenes Antlers — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S04E08.Imogenes.Antlers.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S04E09 Germs Make Me Sick — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S04E09.Germs.Make.Me.Sick.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S04E10 Abiyoyo — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S04E10.Abiyoyo.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S05E01 The Life Cycle of the Honey Bee — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S05E01.The.Life.Cycle.of.the.Honey.Bee.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S05E02 Keep the Lights Burning Abbie — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S05E02.Keep.the.Lights.Burning.Abbie.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S05E03 Chickens Arent the Only Ones — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S05E03.Chickens.Arent.the.Only.Ones.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S05E04 The Paper Crane — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S05E04.The.Paper.Crane.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S05E05 The Runaway Duck — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S05E05.The.Runaway.Duck.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S05E06 A Three Hat Day — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S05E06.A.Three.Hat.Day.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S05E07 Rumpelstiltskin — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S05E07.Rumpelstiltskin.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S05E08 Best Friends — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S05E08.Best.Friends.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S05E09 Meanwhile Back at the Ranch — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S05E09.Meanwhile.Back.at.the.Ranch.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S05E10 My Little Island — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S05E10.My.Little.Island.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S06E01 The Bionic Bunny Show — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S06E01.The.Bionic.Bunny.Show.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S06E02 Bugs — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S06E02.Bugs.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S06E03 The Robbery at the Diamond Dog Diner — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S06E03.The.Robbery.at.the.Diamond.Dog.Diner.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S06E04 Brush — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S06E04.Brush.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S06E05 The Purple Coat — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S06E05.The.Purple.Coat.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S06E06 Barn Dance — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S06E06.Barn.Dance.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S06E07 Duncan and Dolores — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S06E07.Duncan.and.Dolores.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S06E08 Knots on a Counting Rope — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S06E08.Knots.on.a.Counting.Rope.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S06E09 Mummies Made in Egypt — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S06E09.Mummies.Made.in.Egypt.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S06E10 Mufaros Beautiful Daughters — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S06E10.Mufaros.Beautiful.Daughters.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S07E01 Humphrey the Lost Whale A True Story — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S07E01.Humphrey.the.Lost.Whale.A.True.Story.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S07E02 Stay Away from the Junkyard — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S07E02.Stay.Away.from.the.Junkyard.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S07E03 Little Ninos Pizzeria — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S07E03.Little.Ninos.Pizzeria.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S07E04 Ludlow Laughs — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S07E04.Ludlow.Laughs.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S07E05 Dinosaur Bob and His Adventures with the Family Lazardo — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S07E05.Dinosaur.Bob.and.His.Adventures.with.the.Family.Lazardo.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S07E06 Dive to the Coral Reefs — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S07E06.Dive.to.the.Coral.Reefs.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S07E07 Desert Giant — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S07E07.Desert.Giant.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S07E08 Tooth-Gnasher Superflash — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S07E08.Tooth-Gnasher.Superflash.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S07E09 Bored- Nothing to Do — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S07E09.Bored-.Nothing.to.Do.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S07E10 Sports Pages — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S07E10.Sports.Pages.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S08E01 The Magic School Bus Inside the Earth — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S08E01.The.Magic.School.Bus.Inside.the.Earth.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S08E02 Jack the Seal and the Sea — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S08E02.Jack.the.Seal.and.the.Sea.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S08E03 The Bicycle Man — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S08E03.The.Bicycle.Man.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S08E04 Florence and Eric Take the Cake — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S08E04.Florence.and.Eric.Take.the.Cake.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S08E05 Sunken Treasure — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S08E05.Sunken.Treasure.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S09E01 Alistairs Time Machine — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S09E01.Alistairs.Time.Machine.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S09E02 The Adventures of Taxi Dog — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S09E02.The.Adventures.of.Taxi.Dog.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S09E03 The Legend of the Indian Paintbrush — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S09E03.The.Legend.of.the.Indian.Paintbrush.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S09E04 Galimoto — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S09E04.Galimoto.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S09E05 Fox on the Job — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S09E05.Fox.on.the.Job.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S09E06 Opt An Illusionary Tale — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S09E06.Opt.An.Illusionary.Tale.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S09E07 Raccoons and Ripe Corn — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S09E07.Raccoons.and.Ripe.Corn.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S09E08 The Lady with the Ship on Her Head — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S09E08.The.Lady.with.the.Ship.on.Her.Head.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S09E09 Kate Shelley and the Midnight Express — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S09E09.Kate.Shelley.and.the.Midnight.Express.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S09E10 Snowy Day Stories and Poems — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S09E10.Snowy.Day.Stories.and.Poems.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S10E01 Tar Beach — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S10E01.Tar.Beach.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S10E02 The Wall — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S10E02.The.Wall.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S10E03 Sam the Sea Cow — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S10E03.Sam.the.Sea.Cow.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S10E04 Rechenkas Eggs — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S10E04.Rechenkas.Eggs.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S10E05 Sophie and Lou — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S10E05.Sophie.and.Lou.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S10E06 Come a Tide — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S10E06.Come.a.Tide.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S10E07 The Piggy in the Puddle — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S10E07.The.Piggy.in.the.Puddle.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S10E08 Seashore Surprises — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S10E08.Seashore.Surprises.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S10E09 Through Moon and Stars and Night Skies — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S10E09.Through.Moon.and.Stars.and.Night.Skies.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S10E10 Berlioz the Bear — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S10E10.Berlioz.the.Bear.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S11E01 Amazing Grace — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S11E01.Amazing.Grace.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S11E02 The Furry News — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S11E02.The.Furry.News.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S11E03 Mrs Katz and Tush — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S11E03.Mrs.Katz.and.Tush.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S11E04 The Salamander Room — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S11E04.The.Salamander.Room.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S11E05 Silent Lotus — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S11E05.Silent.Lotus.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S11E06 Follow the Drinking Gourd — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S11E06.Follow.the.Drinking.Gourd.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S11E07 If You Give a Mouse a Cookie — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S11E07.If.You.Give.a.Mouse.a.Cookie.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S11E08 Is This a House for a Hermit Crab — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S11E08.Is.This.a.House.for.a.Hermit.Crab.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S11E09 And Still the Turtle Watched — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S11E09.And.Still.the.Turtle.Watched.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S11E10 29-Jun-99 — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S11E10.29-Jun-99.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S12E01 Nosey Mrs Rat — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S12E01.Nosey.Mrs.Rat.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S12E02 Borreguita and the Coyote — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S12E02.Borreguita.and.the.Coyote.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S12E03 Summer — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S12E03.Summer.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S12E04 Once There Was a Tree — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S12E04.Once.There.Was.a.Tree.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S12E05 Appelemondos Dreams — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S12E05.Appelemondos.Dreams.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S12E06 The Lotus Seed — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S12E06.The.Lotus.Seed.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S12E07 Hail to Mail — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S12E07.Hail.to.Mail.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S12E08 Stellaluna — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S12E08.Stellaluna.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S12E09 My Shadow — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S12E09.My.Shadow.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S12E10 Ruth Law Thrills a Nation — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S12E10.Ruth.Law.Thrills.a.Nation.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S13E01 The Wonderful Tower of Watts — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S13E01.The.Wonderful.Tower.of.Watts.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S13E02 Martha Speaks — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S13E02.Martha.Speaks.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S13E03 Alejandros Gift — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S13E03.Alejandros.Gift.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S13E04 The Sign Painters Dream — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S13E04.The.Sign.Painters.Dream.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S13E05 Archibald Frisby — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S13E05.Archibald.Frisby.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S14E01 Fly Away Home — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S14E01.Fly.Away.Home.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S14E02 Uncle Jeds Barbershop — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S14E02.Uncle.Jeds.Barbershop.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S14E03 How to Make An Apple Pie and See the World — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S14E03.How.to.Make.An.Apple.Pie.and.See.the.World.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S14E04 Owen — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S14E04.Owen.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S14E05 How Much is a Million — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S14E05.How.Much.is.a.Million.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S15E01 Always My Dad — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S15E01.Always.My.Dad.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S15E02 Bread is for Eating — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S15E02.Bread.is.for.Eating.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S15E03 Hotel Animal — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S15E03.Hotel.Animal.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S15E04 Someplace Else — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S15E04.Someplace.Else.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S15E05 Zin Zin Zin A Violin — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S15E05.Zin.Zin.Zin.A.Violin.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S16E01 On the Day You Were Born — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S16E01.On.the.Day.You.Were.Born.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S16E02 Hip Cat — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S16E02.Hip.Cat.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S16E03 Reginas Big Mistake — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S16E03.Reginas.Big.Mistake.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S16E04 Giving Thanks A Native American Good Morning Message — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S16E04.Giving.Thanks.A.Native.American.Good.Morning.Message.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S16E05 The Carousel — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S16E05.The.Carousel.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S17E01 Math Cure — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S17E01.Math.Cure.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S17E02 My Life with the Wave — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S17E02.My.Life.with.the.Wave.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S17E03 Saturday Sancocho — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S17E03.Saturday.Sancocho.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S17E04 When Aunt Lena Did the Rhumba — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S17E04.When.Aunt.Lena.Did.the.Rhumba.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S17E05 Work Song — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S17E05.Work.Song.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S18E01 The Shamans Apprentice — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S18E01.The.Shamans.Apprentice.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S18E02 Pet Stories You Dont Have to Walk — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S18E02.Pet.Stories.You.Dont.Have.to.Walk.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S18E03 Lemonade for Sale — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S18E03.Lemonade.for.Sale.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S18E04 The Secret Shortcut — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S18E04.The.Secret.Shortcut.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S18E05 My America A Poetry Atlas of the United States — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S18E05.My.America.A.Poetry.Atlas.of.the.United.States.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S18E06 Badgers Parting Gift — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S18E06.Badgers.Parting.Gift.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S19E01 The Tin Forest — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S19E01.The.Tin.Forest.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S19E02 Max — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S19E02.Max.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S19E03 Enemy Pie — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S19E03.Enemy.Pie.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S19E04 Our Big Home — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S19E04.Our.Big.Home.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S20E01 Visiting Day — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S20E01.Visiting.Day.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S20E02 Unique Monique — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S20E02.Unique.Monique.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S20E03 Mr George Baker — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S20E03.Mr.George.Baker.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S20E04 Beegu — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S20E04.Beegu.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S20E05 Two Old Potatoes and Me — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S20E05.Two.Old.Potatoes.and.Me.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S21E01 The Biggest Test in the Universe — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S21E01.The.Biggest.Test.in.the.Universe.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S21E02 I Lost My Tooth in Africa — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S21E02.I.Lost.My.Tooth.in.Africa.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S21E03 Boxes for Katje — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S21E03.Boxes.for.Katje.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S21E04 Game Day — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S21E04.Game.Day.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S21E05 Show Way — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S21E05.Show.Way.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Schoolhouse Rock — 73 Nike Commercial Three is a Magic Number — https://archive.org/download/schoolhouse-rock-30th/73%20Nike%20Commercial%20Three%20is%20a%20Magic%20Number.mp4
 
-## CH 24 — SPECIALS & EVENTS
+## CH 23 — SPECIALS & EVENTS
 
-- Cpt Scarlet 10 Assignment — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2010%20Special%20Assignment.mp4
-- Lassie — A Christmas Story (1958) — https://archive.org/download/lassie-a-christmas-story-1959-film-noir-christmas-special/Lassie
-- Spider-Man (1967) — 11 - Specialists And Slaves — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/11%20-%20Specialists%20And%20Slaves.mp4
-- Supaidaman — 34 - Surprising Camera - Murderous Event — https://archive.org/download/Supaidman/Supaidaman/34%20-%20Surprising%20Camera%20-%20Murderous%20Event.mp4
-- Your Hit Parade - Christmas Eve Show 1955 — https://archive.org/download/YourHitParade-ChristmasEveShow1955/YourHitParade-ChristmasEveShow1955.mp4
-- [Home Movies: Texas Travels and Televised Moon Walk] — https://archive.org/download/6270HMTexasTravelsAndTelevisedMoonWalk01181613/6270_HM_Texas_Travels_and_Televised_Moon_Walk_01_18_16_13.mp4
 
 ---
 ## REVIEW HOLD — NOT A PLAYER CHANNEL
 
-- 1x01 The Cage — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x01%20-%20The%20Cage.mp4  
-  Source: library/01-tv-classics.md
-- 1x02 Where No Man Has Gone — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x02%20-%20Where%20No%20Man%20Has%20Gone%20Before.mp4  
-  Source: library/01-tv-classics.md
-- 1x03 Corbomite Maneuver — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x03%20-%20The%20Corbomite%20Maneuver.mp4  
-  Source: library/01-tv-classics.md
-- 1x04 Mudd's Women — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x04%20-%20Mudd%27s%20Women.mp4  
-  Source: library/01-tv-classics.md
-- 1x05 The Enemy Within — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x05%20-%20The%20Enemy%20Within.mp4  
-  Source: library/01-tv-classics.md
-- 1x06 The Man Trap — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x06%20-%20The%20Man%20Trap.mp4  
-  Source: library/01-tv-classics.md
-- 1x07 The Naked Time — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x07%20-%20The%20Naked%20Time.mp4  
-  Source: library/01-tv-classics.md
-- 1x08 Charlie X — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x08%20-%20Charlie%20X.mp4  
-  Source: library/01-tv-classics.md
-- 1x09 Balance of Terror — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x09%20-%20Balance%20of%20Terror.mp4  
-  Source: library/01-tv-classics.md
-- 1x10 Little Girls Made of — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x10%20-%20What%20are%20Little%20Girls%20Made%20of.mp4  
-  Source: library/01-tv-classics.md
-- 1x11 Dagger of the Mind — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x11%20-%20Dagger%20of%20the%20Mind.mp4  
-  Source: library/01-tv-classics.md
-- 1x12 Miri — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x12%20-%20Miri.mp4  
-  Source: library/01-tv-classics.md
-- 1x13 Conscience of King — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x13%20-%20The%20Conscience%20of%20the%20King.mp4  
-  Source: library/01-tv-classics.md
-- 1x14 The Galileo Seven — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x14%20-%20The%20Galileo%20Seven.mp4  
-  Source: library/01-tv-classics.md
-- 1x15 Court Martial — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x15%20-%20Court%20Martial.mp4  
-  Source: library/01-tv-classics.md
-- 1x16 The Menagerie Pt I — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x16%20-%20The%20Menagerie%20-%20Part%20I.mp4  
-  Source: library/01-tv-classics.md
-- 1x17 The Menagerie Pt II — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x17%20-%20The%20Menagerie%20-%20Part%20II.mp4  
-  Source: library/01-tv-classics.md
-- 1x18 Shore Leave — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x18%20-%20Shore%20Leave.mp4  
-  Source: library/01-tv-classics.md
-- 1x19 Squire of Gothos — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x19%20-%20The%20Squire%20of%20Gothos.mp4  
-  Source: library/01-tv-classics.md
-- 1x20 Arena — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x20%20-%20Arena.mp4  
-  Source: library/01-tv-classics.md
-- 1x21 Alternative Factor — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x21%20-%20The%20Alternative%20Factor.mp4  
-  Source: library/01-tv-classics.md
-- 1x22 Tomorrow is Yesterday — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x22%20-%20Tomorrow%20is%20Yesterday.mp4  
-  Source: library/01-tv-classics.md
-- 1x23 Return of Archons — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x23%20-%20The%20Return%20of%20the%20Archons.mp4  
-  Source: library/01-tv-classics.md
-- 1x24 Taste of Armageddon — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x24%20-%20A%20Taste%20of%20Armageddon.mp4  
-  Source: library/01-tv-classics.md
-- 1x25 Space Seed — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x25%20-%20Space%20Seed.mp4  
-  Source: library/01-tv-classics.md
-- 1x26 This Side of Paradise — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x26%20-%20This%20Side%20of%20Paradise.mp4  
-  Source: library/01-tv-classics.md
-- 1x27 Devil in the Dark — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x27%20-%20The%20Devil%20in%20the%20Dark.mp4  
-  Source: library/01-tv-classics.md
-- 1x28 Errand of Mercy — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x28%20-%20Errand%20of%20Mercy.mp4  
-  Source: library/01-tv-classics.md
-- 1x29 City on the Edge — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x29%20-%20The%20City%20on%20the%20Edge%20of%20Forever.mp4  
-  Source: library/01-tv-classics.md
-- 1x30 Operation Annihilate! — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x30%20-%20Operation%20Annihilate%21.mp4  
-  Source: library/01-tv-classics.md
-- 2x01 Catspaw — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x01%20-%20Catspaw.mp4  
-  Source: library/01-tv-classics.md
-- 2x02 Metamorphosis — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x02%20-%20Metamorphosis.mp4  
-  Source: library/01-tv-classics.md
-- 2x03 Friday's Child — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x03%20-%20Friday%27s%20Child.mp4  
-  Source: library/01-tv-classics.md
-- 2x04 Who Mourns for Adonais — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x04%20-%20Who%20Mourns%20for%20Adonais.mp4  
-  Source: library/01-tv-classics.md
-- 2x05 Amok Time — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x05%20-%20Amok%20Time.mp4  
-  Source: library/01-tv-classics.md
-- 2x06 Doomsday Machine — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x06%20-%20The%20Doomsday%20Machine.mp4  
-  Source: library/01-tv-classics.md
-- 2x07 Wolf in the Fold — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x07%20-%20Wolf%20in%20the%20Fold.mp4  
-  Source: library/01-tv-classics.md
-- 2x08 The Changeling — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x08%20-%20The%20Changeling.mp4  
-  Source: library/01-tv-classics.md
-- 2x09 The Apple — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x09%20-%20The%20Apple.mp4  
-  Source: library/01-tv-classics.md
-- 2x10 Mirror, Mirror — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x10%20-%20Mirror%2C%20Mirror.mp4  
-  Source: library/01-tv-classics.md
-- 2x11 The Deadly Years — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x11%20-%20The%20Deadly%20Years.mp4  
-  Source: library/01-tv-classics.md
-- 2x12 I, Mudd — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x12%20-%20I%2C%20Mudd.mp4  
-  Source: library/01-tv-classics.md
-- 2x13 Trouble With Tribbles — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x13%20-%20The%20Trouble%20With%20Tribbles.mp4  
-  Source: library/01-tv-classics.md
-- 2x14 Bread and Circuses — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x14%20-%20Bread%20and%20Circuses.mp4  
-  Source: library/01-tv-classics.md
-- 2x15 Journey to Babel — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x15%20-%20Journey%20to%20Babel.mp4  
-  Source: library/01-tv-classics.md
-- 2x16 Private Little War — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x16%20-%20A%20Private%20Little%20War.mp4  
-  Source: library/01-tv-classics.md
-- 2x17 Gamesters of Triskelion — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x17%20-%20The%20Gamesters%20of%20Triskelion.mp4  
-  Source: library/01-tv-classics.md
-- 2x18 Obsession — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x18%20-%20Obsession.mp4  
-  Source: library/01-tv-classics.md
-- 2x19 Immunity Syndrome — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x19%20-%20The%20Immunity%20Syndrome.mp4  
-  Source: library/01-tv-classics.md
-- 2x20 Piece of the Action — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x20%20-%20A%20Piece%20of%20the%20Action.mp4  
-  Source: library/01-tv-classics.md
-- 2x21 By Any Other Name — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x21%20-%20By%20Any%20Other%20Name.mp4  
-  Source: library/01-tv-classics.md
-- 2x22 Return to Tomorrow — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x22%20-%20Return%20to%20Tomorrow.mp4  
-  Source: library/01-tv-classics.md
-- 2x23 Patterns of Force — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x23%20-%20Patterns%20of%20Force%20%281%29.mp4  
-  Source: library/01-tv-classics.md
-- 2x24 The Ultimate Computer — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x24%20-%20The%20Ultimate%20Computer.mp4  
-  Source: library/01-tv-classics.md
-- 2x25 The Omega Glory — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x25%20-%20The%20Omega%20Glory.mp4  
-  Source: library/01-tv-classics.md
-- 2x26 Assignment Earth — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x26%20-%20Assignment%20Earth.mp4  
-  Source: library/01-tv-classics.md
-- 3x01 Spectre of the Gun — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x01%20-%20Spectre%20of%20the%20Gun.mp4  
-  Source: library/01-tv-classics.md
-- 3x02 Elaan of Troyius — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x02%20-%20Elaan%20of%20Troyius.mp4  
-  Source: library/01-tv-classics.md
-- 3x03 The Paradise Syndrome — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x03%20-%20The%20Paradise%20Syndrome.mp4  
-  Source: library/01-tv-classics.md
-- 3x04 Enterprise Incident — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x04%20-%20The%20Enterprise%20Incident.mp4  
-  Source: library/01-tv-classics.md
-- 3x06 Spock's Brain — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x06%20-%20Spock%27s%20Brain.mp4  
-  Source: library/01-tv-classics.md
-- 3x07 Truth no Beauty — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x07%20-%20Is%20There%20in%20Truth%20no%20Beauty.mp4  
-  Source: library/01-tv-classics.md
-- 3x08 The Empath — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x08%20-%20The%20Empath.mp4  
-  Source: library/01-tv-classics.md
-- 3x09 The Tholian Web — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x09%20-%20The%20Tholian%20Web.mp4  
-  Source: library/01-tv-classics.md
-- 3x10 For the World Is Hollow — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x10%20-%20For%20the%20World%20Is%20Hollow%20and%20I%20Have%20Touched%20the%20Sky.mp4  
-  Source: library/01-tv-classics.md
-- 3x11 Day of the Dove — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x11%20-%20day%20of%20the%20Dove.mp4  
-  Source: library/01-tv-classics.md
-- 3x13 Wink of an Eye — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x13%20-%20Wink%20of%20an%20Eye.mp4  
-  Source: library/01-tv-classics.md
-- 3x14 That Which Survives — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x14%20-%20That%20Which%20Survives.mp4  
-  Source: library/01-tv-classics.md
-- 3x15 Your Last Battlefield — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x15%20-%20Let%20That%20Be%20Your%20Last%20Battlefield.mp4  
-  Source: library/01-tv-classics.md
-- 3x16 Whom Gods Destroy — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x16%20-%20Whom%20Gods%20Destroy.mp4  
-  Source: library/01-tv-classics.md
-- 3x17 The Mark of Gideon — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x17%20-%20The%20Mark%20of%20Gideon.mp4  
-  Source: library/01-tv-classics.md
-- 3x18 The Lights of Zetar — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x18%20-%20The%20Lights%20of%20Zetar.mp4  
-  Source: library/01-tv-classics.md
-- 3x19 The Cloud Minders — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x19%20-%20The%20Cloud%20Minders.mp4  
-  Source: library/01-tv-classics.md
-- 3x20 The Way to Eden — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x20%20-%20The%20Way%20to%20Eden.mp4  
-  Source: library/01-tv-classics.md
-- 3x21 Requiem for Methuselah — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x21%20-%20Requiem%20for%20Methuselah.mp4  
-  Source: library/01-tv-classics.md
-- 3x22 The Savage Curtain — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x22%20-%20The%20Savage%20Curtain.mp4  
-  Source: library/01-tv-classics.md
-- 3x23 All Our Yesterdays — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x23%20-%20All%20Our%20Yesterdays.mp4  
-  Source: library/01-tv-classics.md
-- 3x24 Turnabout Intruder — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x24%20-%20Turnabout%20Intruder.mp4  
-  Source: library/01-tv-classics.md
-- All Monsters Attack — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/10.AllMonstersAttack1969.mp4  
-  Source: library/01-tv-classics.md
-- Are You Being Served? — His & Hers (S01E05) — https://archive.org/download/are-you-being-served-season1/AYBS  
-  Source: library/01-tv-classics.md
-- Atom Age Vampire — https://archive.org/download/AtomAgeVampire/AtomAgeVampire.mp4  
-  Source: library/01-tv-classics.md
-- Big Ass Spider — https://archive.org/download/My-Favorite-Movies_202503/Big%20Ass%20Spider.mp4  
-  Source: library/01-tv-classics.md
-- Bloodlust — https://archive.org/download/Bloodlust.mpeg/Bloodlust.mp4  
-  Source: library/01-tv-classics.md
-- Bloody Pit Of Horror — https://archive.org/download/BloodyPitOfHorror/BloodyPitOfHorror.mp4  
-  Source: library/01-tv-classics.md
-- Captain Nice - Promos by Bill Feigenbaum — https://archive.org/download/capn-nice-tv-show/Captain%20Nice%20-%20Promos%20by%20Bill%20Feigenbaum.mp4  
-  Source: library/01-tv-classics.md
-- Captain Nice — 101 - The Man Who Flies Like A Pigeon — https://archive.org/download/capn-nice-tv-show/101_-_The_Man_Who_Flies_Like_A_Pigeon.mp4  
-  Source: library/01-tv-classics.md
-- Captain Nice — 102 - How Sheik Can You Get — https://archive.org/download/capn-nice-tv-show/102_-_How_Sheik_Can_You_Get.mp4  
-  Source: library/01-tv-classics.md
-- Captain Nice — 112 - Tastes OK But Something s Missing — https://archive.org/download/capn-nice-tv-show/112_-_Tastes_OK_But_Something_s_Missing.mp4  
-  Source: library/01-tv-classics.md
-- Captain Nice — CapnNice103 - That Thing — https://archive.org/download/capn-nice-tv-show/CapnNice103_-_That_Thing.mp4  
-  Source: library/01-tv-classics.md
-- Captain Nice — CapnNice106 - Is Big Town Burning — https://archive.org/download/capn-nice-tv-show/CapnNice106_-_Is_Big_Town_Burning.mp4  
-  Source: library/01-tv-classics.md
-- Captain Nice — CapnNice107 - Don t Take Any Wooden Indians — https://archive.org/download/capn-nice-tv-show/CapnNice107_-_Don_t_Take_Any_Wooden_Indians.mp4  
-  Source: library/01-tv-classics.md
-- Captain Nice — Pop Goes the Culture -Alice Ghostley talks Captain Nice — https://archive.org/download/capn-nice-tv-show/Pop%20Goes%20the%20Culture%20-Alice%20Ghostley%20talks%20Captain%20Nice.mp4  
-  Source: library/01-tv-classics.md
-- Captain Nice — The Forgotten Superheroes - Captain Nice & Mr Terrific — https://archive.org/download/capn-nice-tv-show/The%20Forgotten%20Superheroes%20-%20Captain%20Nice%20%26%20Mr.%20Terrific.mp4  
-  Source: library/01-tv-classics.md
-- Captain Nice on 13 Week Theatre — https://archive.org/download/capn-nice-tv-show/Captain%20Nice%20%20on%2013%20Week%20Theatre.mp4  
-  Source: library/01-tv-classics.md
-- Captain Nice Vs Mr Terrific — https://archive.org/download/capn-nice-tv-show/Captain%20Nice%20Vs%20Mr.%20Terrific.mp4  
-  Source: library/01-tv-classics.md
-- Captain Nice104 - That Was The Bridge That Was — https://archive.org/download/capn-nice-tv-show/Captain_Nice104_-_That_Was_The_Bridge_That_Was.mp4  
-  Source: library/01-tv-classics.md
-- Captain Nice105 - The Man With Three Blue Eyes — https://archive.org/download/capn-nice-tv-show/Captain_Nice105_-_The_Man_With_Three_Blue_Eyes.mp4  
-  Source: library/01-tv-classics.md
-- Captain Nice108 - That s What Mothers Are For — https://archive.org/download/capn-nice-tv-show/Captain_Nice108_-_That_s_What_Mothers_Are_For.mp4  
-  Source: library/01-tv-classics.md
-- Captain Nice109 - Whatever Lola Wants — https://archive.org/download/capn-nice-tv-show/Captain_Nice109_-_Whatever_Lola_Wants.mp4  
-  Source: library/01-tv-classics.md
-- Captain Nice110 - Who s Afraid of Amanda Woolfe — https://archive.org/download/capn-nice-tv-show/Captain_Nice110_-_Who_s_Afraid_of_Amanda_Woolfe.mp4  
-  Source: library/01-tv-classics.md
-- Captain Nice111 - The Week They Stole Payday — https://archive.org/download/capn-nice-tv-show/Captain_Nice111_-_The_Week_They_Stole_Payday.mp4  
-  Source: library/01-tv-classics.md
-- Captain Nice113 - May I Have The Last Dance — https://archive.org/download/capn-nice-tv-show/Captain_Nice113_-_May_I_Have_The_Last_Dance.mp4  
-  Source: library/01-tv-classics.md
-- Captain Nice114 - One Rotten Apple — https://archive.org/download/capn-nice-tv-show/Captain_Nice114_-_One_Rotten_Apple.mp4  
-  Source: library/01-tv-classics.md
-- Captain Nice115 - Beware Of Hidden Prophets — https://archive.org/download/capn-nice-tv-show/Captain_Nice115_-_Beware_Of_Hidden_Prophets.mp4  
-  Source: library/01-tv-classics.md
-- Chevy Nova Ad — https://archive.org/download/Classic1967CommercialForChevyIiNova/Chevy2Nova_512kb.mp4  
-  Source: library/01-tv-classics.md
-- Close Encounters (1977) — https://dn710203.ca.archive.org/0/items/close-encounters-of-the-third-kind-1977-dc-remastered-blueray/Close%20Encounters%20of%20the%20Third%20Kind%201977%20DC_REMASTERED_BLUERAY.mp4  
-  Source: library/01-tv-classics.md
-- Colonel March - Silver Curtain — https://archive.org/download/Colonel_March_Silver_Curtain/Colonel_March_Silver_Curtain.mp4  
-  Source: library/01-tv-classics.md
-- Colossus - Forbin Project — https://archive.org/download/colossus-the-forbin-project-1970/Colossus%20-%20The%20Forbin%20Project%20%281970%29.mp4  
-  Source: library/01-tv-classics.md
-- Cpt Scarlet 01 Mysterons — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2001%20The%20Mysterons.mp4  
-  Source: library/01-tv-classics.md
-- Cpt Scarlet 02 Assasin — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2002%20Winged%20Assasin.mp4  
-  Source: library/01-tv-classics.md
-- Cpt Scarlet 03 Big Ben — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2003%20Big%20Ben%20Strikes%20Again.mp4  
-  Source: library/01-tv-classics.md
-- Cpt Scarlet 04 Manhunt — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2004%20Manhunt.mp4  
-  Source: library/01-tv-classics.md
-- Cpt Scarlet 05 Avalanche — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2005%20Avalanche.mp4  
-  Source: library/01-tv-classics.md
-- Cpt Scarlet 06 White Snow — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2006%20White%20as%20Snow.mp4  
-  Source: library/01-tv-classics.md
-- Cpt Scarlet 07 The Trap — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2007%20The%20Trap.mp4  
-  Source: library/01-tv-classics.md
-- Cpt Scarlet 08 Operation Time — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2008%20Operation%20Time.mp4  
-  Source: library/01-tv-classics.md
-- Cpt Scarlet 09 Spectrum Fights — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2009%20Spectrum%20Fights%20Back.mp4  
-  Source: library/01-tv-classics.md
-- Cpt Scarlet 11 Heart of NY — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2011%20The%20Heart%20of%20New%20York.mp4  
-  Source: library/01-tv-classics.md
-- Cpt Scarlet 12 Lunarville 7 — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2012%20Lunarville%207.mp4  
-  Source: library/01-tv-classics.md
-- Cpt Scarlet 13 Point 783 — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2013%20Point%20783.mp4  
-  Source: library/01-tv-classics.md
-- Cpt Scarlet 14 Model Spy — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2014%20Model%20Spy.mp4  
-  Source: library/01-tv-classics.md
-- Cpt Scarlet 15 Seek/Destroy — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2015%20Seek%20and%20Destroy.mp4  
-  Source: library/01-tv-classics.md
-- Cpt Scarlet 16 Traitor — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2016%20Traitor.mp4  
-  Source: library/01-tv-classics.md
-- Cpt Scarlet 17 Rocket — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2017%20Renegade%20Rocket.mp4  
-  Source: library/01-tv-classics.md
-- Cpt Scarlet 18 Crater 101 — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2018%20Crater%20101.mp4  
-  Source: library/01-tv-classics.md
-- Cpt Scarlet 19 Shadow Fear — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2019%20Shadow%20of%20Fear.mp4  
-  Source: library/01-tv-classics.md
-- Cpt Scarlet 20 Dangerous — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2020%20Dangerous%20Rendevous.mp4  
-  Source: library/01-tv-classics.md
-- Cpt Scarlet 21 Fire at Rig 15 — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2021%20Fire%20at%20Rig%2015.mp4  
-  Source: library/01-tv-classics.md
-- Cpt Scarlet 22 Treble Cross — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2022%20Treble%20Cross.mp4  
-  Source: library/01-tv-classics.md
-- Cpt Scarlet 23 Flight 104 — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2023%20Flight%20104.mp4  
-  Source: library/01-tv-classics.md
-- Cpt Scarlet 24 Place Angels — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2024%20Place%20of%20Angels.mp4  
-  Source: library/01-tv-classics.md
-- Cpt Scarlet 25 Noose of Ice — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2025%20Noose%20of%20Ice.mp4  
-  Source: library/01-tv-classics.md
-- Cpt Scarlet 26 Expo 2068 — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2026%20Expo%202068.mp4  
-  Source: library/01-tv-classics.md
-- Cpt Scarlet 27 Launching — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2027%20The%20Launching.mp4  
-  Source: library/01-tv-classics.md
-- Cpt Scarlet 28 Europa — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2028%20Codename%20Europa.mp4  
-  Source: library/01-tv-classics.md
-- Cpt Scarlet 29 Inferno — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2029%20Inferno.mp4  
-  Source: library/01-tv-classics.md
-- Cpt Scarlet 30 Atlantica — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2030%20Flight%20to%20Atlantica.mp4  
-  Source: library/01-tv-classics.md
-- Cpt Scarlet 31 Cloudbase — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2031%20Attack%20on%20Cloudbase.mp4  
-  Source: library/01-tv-classics.md
-- Cpt Scarlet 32 Inquisition — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2032%20The%20Inquisition.mp4  
-  Source: library/01-tv-classics.md
-- Cpt Scarlet Audio Adv — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%20Introducing%20TV21%20Audio%20Adventure.mp4  
-  Source: library/01-tv-classics.md
-- Creature Haunted Sea — https://archive.org/download/CreatureFromTheHauntedSea/CreatureFromTheHauntedSea.mp4  
-  Source: library/01-tv-classics.md
-- Daughter of Horror — https://archive.org/download/daughter_of_horror/daughter_of_horror.mp4  
-  Source: library/01-tv-classics.md
-- Destroy All Monsters — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/9.DestroyAllMonsters1968.mp4  
-  Source: library/01-tv-classics.md
-- Dodge Dart Ad — https://archive.org/download/1967DogdeDartTvCommercialPamAustinClips/Dodgedart.mp4  
-  Source: library/01-tv-classics.md
-- Ebirah Horror of Deep — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/7.EbirahHorrorOfTheDeep1966.mp4  
-  Source: library/01-tv-classics.md
-- Eight Legged Freaks — https://archive.org/download/My-Favorite-Movies_202503/Eight%20Legged%20Freaks.mp4  
-  Source: library/01-tv-classics.md
-- Ford Falcon Ad — https://archive.org/download/ClassicCommercialForFordFalconusaCirca1966/Falcon_512kb.mp4  
-  Source: library/01-tv-classics.md
-- Ghidorah 3-Headed Monster — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/5.GhidorahTheThree-headedMonster1964.mp4  
-  Source: library/01-tv-classics.md
-- Giant Gila Monster — https://archive.org/download/giant_gila_monster/giant_gila_monster.mp4  
-  Source: library/01-tv-classics.md
-- Godzilla (1956) — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/1.Godzilla-KingOfTheMonsters1956.mp4  
-  Source: library/01-tv-classics.md
-- Godzilla Raids Again (1955) — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/2.GodzillaRaidsAgain1955.mp4  
-  Source: library/01-tv-classics.md
-- Godzilla vs Gigan — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/12.GodzillaVs.Gigan1972.mp4  
-  Source: library/01-tv-classics.md
-- Godzilla vs Hedorah — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/11.GodzillaVs.Hedorah1971.mp4  
-  Source: library/01-tv-classics.md
-- Godzilla vs Mechagodzilla — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/14.GodzillaVs.Mechagodzilla1974.mp4  
-  Source: library/01-tv-classics.md
-- Godzilla vs Megalon — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/13.GodzillaVs.Megalon1973.mp4  
-  Source: library/01-tv-classics.md
-- Grave Of The Vampire — https://archive.org/download/GraveOfTheVampire/GraveOfTheVampirePresentedByMoviePowder.mp4  
-  Source: library/01-tv-classics.md
-- Honeymooners 1951 — https://archive.org/download/Cavalcade_Of_Stars/Honeymooners_1951.mp4  
-  Source: library/01-tv-classics.md
-- Horror Express — https://archive.org/download/horror_express_ipod/horror_express.mp4  
-  Source: library/01-tv-classics.md
-- Horror Hotel — https://archive.org/download/Horror_Hotel/Horror_Hotel.mp4  
-  Source: library/01-tv-classics.md
-- Horrors of Spider Island — https://archive.org/download/Horrors_of_Spider_Island/Horrors_of_Spider_Island.mp4  
-  Source: library/01-tv-classics.md
-- House on Haunted Hill — https://archive.org/download/house_on_haunted_hill_ipod/house_on_haunted_hill.mp4  
-  Source: library/01-tv-classics.md
-- In Search of: Amelia Earhart — https://archive.org/download/InSearchOf16mm/In%20Search%20of...Amelia%20Earhart%20%28480p_30fps_H264-128kbit_AAC%29.mp4  
-  Source: library/01-tv-classics.md
-- In Search of: Ancient Aviators — https://archive.org/download/InSearchOf16mm/In%20Search%20of...Ancient%20Aviators%20%28480p_30fps_H264-128kbit_AAC%29.mp4  
-  Source: library/01-tv-classics.md
-- In Search of: Atlantis — https://archive.org/download/InSearchOf16mm/In%20Search%20of...Atlantis%20%28480p_30fps_H264-128kbit_AAC%29.mp4  
-  Source: library/01-tv-classics.md
-- In Search of: Bigfoot — https://archive.org/download/InSearchOf16mm/In%20Search%20of...Bigfoot%20%28480p_30fps_H264-128kbit_AAC%29.mp4  
-  Source: library/01-tv-classics.md
-- In Search of: Call From Space — https://archive.org/download/InSearchOf16mm/In%20Search%20of...A%20Call%20From%20Space%20%28480p_30fps_H264-128kbit_AAC%29.mp4  
-  Source: library/01-tv-classics.md
-- In Search of: Earthquakes — https://archive.org/download/InSearchOf16mm/In%20Search%20of...Earthquakes%20%28480p_30fps_H264-128kbit_AAC%29.mp4  
-  Source: library/01-tv-classics.md
-- In Search of: Inca Treasure — https://archive.org/download/InSearchOf16mm/In%20Search%20of...Inca%20Treasure%20%28480p_30fps_H264-128kbit_AAC%29.mp4  
-  Source: library/01-tv-classics.md
-- In Search of: Martians — https://dn711005.ca.archive.org/0/items/InSearchOf16mm/In%20Search%20of...%20Martians%20%28480p_30fps_H264-128kbit_AAC%29.mp4  
-  Source: library/01-tv-classics.md
-- In Search of: Strange Visitors — https://archive.org/download/InSearchOf16mm/In%20Search%20of...Strange%20Visitors%20%28480p_30fps_H264-128kbit_AAC%29.mp4  
-  Source: library/01-tv-classics.md
-- In The Year 2889 — https://archive.org/download/In_The_Year_2889/In_The_Year_2889_1967.avi.mp4  
-  Source: library/01-tv-classics.md
-- Indestructible Man — https://archive.org/download/indestructible_man/indestructible_man.mp4  
-  Source: library/01-tv-classics.md
-- Inner Sanctum — https://archive.org/download/Inner_Sanctum_movie/Inner_Sanctum.mp4  
-  Source: library/01-tv-classics.md
-- Invasion Astro-Monster — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/6.InvasionOfAstro-monster1965.mp4  
-  Source: library/01-tv-classics.md
-- King Kong vs Godzilla — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/3.KingKongVs.Godzilla1962.mp4  
-  Source: library/01-tv-classics.md
-- Kolchak S00E01 Night Stalker — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S00E01%20-%20The%20Night%20Stalker.mp4  
-  Source: library/01-tv-classics.md
-- Kolchak S00E02 Night Strangler — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S00E02%20-%20The%20Night%20Strangler.mp4  
-  Source: library/01-tv-classics.md
-- Kolchak S01E01 The Ripper — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E01%20-%20The%20Ripper.mp4  
-  Source: library/01-tv-classics.md
-- Kolchak S01E02 The Zombie — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E02%20-%20The%20Zombie.mp4  
-  Source: library/01-tv-classics.md
-- Kolchak S01E03 They Will Be — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E03%20-%20They%20Have%20Been%20They%20Are%20They%20Will%20Be.mp4  
-  Source: library/01-tv-classics.md
-- Kolchak S01E04 The Vampire — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E04%20-%20The%20Vampire.mp4  
-  Source: library/01-tv-classics.md
-- Kolchak S01E05 The Werewolf — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E05%20-%20The%20Werewolf.mp4  
-  Source: library/01-tv-classics.md
-- Kolchak S01E06 Firefall — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E06%20-%20Firefall.mp4  
-  Source: library/01-tv-classics.md
-- Kolchak S01E07 Devils Platform — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E07%20-%20The%20Devils%20Platform.mp4  
-  Source: library/01-tv-classics.md
-- Kolchak S01E08 Bad Medicine — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E08%20-%20Bad%20Medicine.mp4  
-  Source: library/01-tv-classics.md
-- Kolchak S01E09 Spanish Moss — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E09%20-%20The%20Spanish%20Moss%20Murders.mp4  
-  Source: library/01-tv-classics.md
-- Kolchak S01E10 Energy Eater — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E10%20-%20The%20Energy%20Eater.mp4  
-  Source: library/01-tv-classics.md
-- Kolchak S01E11 Horror Heights — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E11%20-%20Horror%20In%20The%20Heights.mp4  
-  Source: library/01-tv-classics.md
-- Kolchak S01E12 Mr RING — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E12%20-%20Mr%20RING.mp4  
-  Source: library/01-tv-classics.md
-- Kolchak S01E13 Primal Scream — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E13%20-%20Primal%20Scream.mp4  
-  Source: library/01-tv-classics.md
-- Kolchak S01E14 Trevi — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E14%20-%20The%20Trevi%20Collection.mp4  
-  Source: library/01-tv-classics.md
-- Kolchak S01E15 Chopper — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E15%20-%20Chopper.mp4  
-  Source: library/01-tv-classics.md
-- Kolchak S01E16 Demon In Lace — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E16%20-%20Demon%20In%20Lace.mp4  
-  Source: library/01-tv-classics.md
-- Kolchak S01E17 Legacy Terror — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E17%20-%20Legacy%20of%20Terror.mp4  
-  Source: library/01-tv-classics.md
-- Kolchak S01E18 Knightly Murders — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E18%20-%20The%20Knightly%20Murders.mp4  
-  Source: library/01-tv-classics.md
-- Kolchak S01E19 Youth Killer — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E19%20-%20The%20Youth%20Killer.mp4  
-  Source: library/01-tv-classics.md
-- Kolchak S01E20 The Sentry — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E20%20-%20The%20Sentry.mp4  
-  Source: library/01-tv-classics.md
-- Last of the Summer Wine S1E01 - Of Funerals and Fish (Pilot) — https://archive.org/download/last-of-the-summer-wine-s-1-e-02-short-back-and-palais-glide/Last%20of%20the%20Summer%20Wine%20S1E01%20-%20Of%20Funerals%20and%20Fish%20%28Pilot%29.mp4  
-  Source: library/01-tv-classics.md
-- Last of the Summer Wine S1E02 - Short Back and Palais Glide — https://archive.org/download/last-of-the-summer-wine-s-1-e-02-short-back-and-palais-glide/Last%20of%20the%20Summer%20Wine%20S1E02%20-%20Short%20Back%20and%20Palais%20Glide.mp4  
-  Source: library/01-tv-classics.md
-- Last of the Summer Wine S1E03 - Inventor of the 40 Foot Ferret — https://archive.org/download/last-of-the-summer-wine-s-1-e-02-short-back-and-palais-glide/Last%20of%20the%20Summer%20Wine%20S1E03%20-%20Inventor%20of%20the%2040%20Foot%20Ferret.mp4  
-  Source: library/01-tv-classics.md
-- Last of the Summer Wine S1E04 - Paté and Chips — https://archive.org/download/last-of-the-summer-wine-s-1-e-02-short-back-and-palais-glide/Last%20of%20the%20Summer%20Wine%20S1E04%20-%20Pate%CC%81%20and%20Chips.mp4  
-  Source: library/01-tv-classics.md
-- Last of the Summer Wine S1E05 - Spring Fever — https://archive.org/download/last-of-the-summer-wine-s-1-e-02-short-back-and-palais-glide/Last%20of%20the%20Summer%20Wine%20S1E05%20-%20Spring%20Fever.mp4  
-  Source: library/01-tv-classics.md
-- Last of the Summer Wine S1E06 - The New Mobile Trio — https://archive.org/download/last-of-the-summer-wine-s-1-e-02-short-back-and-palais-glide/Last%20of%20the%20Summer%20Wine%20S1E06%20-%20The%20New%20Mobile%20Trio.mp4  
-  Source: library/01-tv-classics.md
-- Last of the Summer Wine S1E07 - Hail Smiling Morn or Thereabouts — https://archive.org/download/last-of-the-summer-wine-s-1-e-02-short-back-and-palais-glide/Last%20of%20the%20Summer%20Wine%20S1E07%20-%20Hail%20Smiling%20Morn%20or%20Thereabouts.mp4  
-  Source: library/01-tv-classics.md
-- LegionOfOldTimers1949 — https://archive.org/download/LegionOfOldTimers1949/LegionOfOldTimers1949.mp4  
-  Source: library/01-tv-classics.md
-- Little Shop Of Horrors — https://archive.org/download/My-Favorite-Movies_202503/Little%20Shop%20Of%20Horrors%20%281986%29.mp4  
-  Source: library/01-tv-classics.md
-- MesaOfLostWomen — https://archive.org/download/MesaOfLostWomen/MesaOfLostWomen.mp4  
-  Source: library/01-tv-classics.md
-- Miss Marple — S01Ep01 The Body in the Library (Part One) — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/01%20The%20Body%20in%20the%20Library%20%281984%29/S01Ep01%20The%20Body%20in%20the%20Library%20%28Part%20One%29.mp4  
-  Source: library/01-tv-classics.md
-- Miss Marple — S01Ep02 The Body in the Library (Part Two) — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/01%20The%20Body%20in%20the%20Library%20%281984%29/S01Ep02%20The%20Body%20in%20the%20Library%20%28Part%20Two%29.mp4  
-  Source: library/01-tv-classics.md
-- Miss Marple — S01Ep03 The Body in the Library (Part Three) — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/01%20The%20Body%20in%20the%20Library%20%281984%29/S01Ep03%20The%20Body%20in%20the%20Library%20%28Part%20Three%29.mp4  
-  Source: library/01-tv-classics.md
-- Miss Marple — S01Ep04 The Moving Finger (Part One) — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/02%20The%20Moving%20Finger%20%281985%29/S01Ep04%20The%20Moving%20Finger%20%28Part%20One%29.mp4  
-  Source: library/01-tv-classics.md
-- Miss Marple — S01Ep05 The Moving Finger (Part Two) — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/02%20The%20Moving%20Finger%20%281985%29/S01Ep05%20The%20Moving%20Finger%20%28Part%20Two%29.mp4  
-  Source: library/01-tv-classics.md
-- Miss Marple — S01Ep06 A Murder Is Announced (Part One) — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/03%20A%20Murder%20Is%20Announced%20%281985%29/S01Ep06%20A%20Murder%20Is%20Announced%20%28Part%20One%29.mp4  
-  Source: library/01-tv-classics.md
-- Miss Marple — S01Ep07 A Murder Is Announced (Part Two) — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/03%20A%20Murder%20Is%20Announced%20%281985%29/S01Ep07%20A%20Murder%20Is%20Announced%20%28Part%20Two%29.mp4  
-  Source: library/01-tv-classics.md
-- Miss Marple — S01Ep08 A Murder Is Announced (Part Three) — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/03%20A%20Murder%20Is%20Announced%20%281985%29/S01Ep08%20A%20Murder%20Is%20Announced%20%28Part%20Three%29.mp4  
-  Source: library/01-tv-classics.md
-- Miss Marple — S01Ep09 A Pocketful of Rye (Part One) — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/04%20A%20Pocketful%20of%20Rye%20%281985%29/S01Ep09%20A%20Pocketful%20of%20Rye%20%28Part%20One%29.mp4  
-  Source: library/01-tv-classics.md
-- Miss Marple — S01Ep10 A Pocketful of Rye (Part Two) — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/04%20A%20Pocketful%20of%20Rye%20%281985%29/S01Ep10%20A%20Pocketful%20of%20Rye%20%28Part%20Two%29.mp4  
-  Source: library/01-tv-classics.md
-- Miss Marple — S02Ep01 Ep02 The Murder at the Vicarage — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/05%20The%20Murder%20at%20the%20Vicarage%20%281986%29/S02Ep01%20Ep02%20The%20Murder%20at%20the%20Vicarage.mp4  
-  Source: library/01-tv-classics.md
-- Miss Marple — S02Ep03 Sleeping Murder (Part One) — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/06%20Sleeping%20Murder%20%281987%29/S02Ep03%20Sleeping%20Murder%20%28Part%20One%29.mp4  
-  Source: library/01-tv-classics.md
-- Miss Marple — S02Ep04 Sleeping Murder (Part Two) — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/06%20Sleeping%20Murder%20%281987%29/S02Ep04%20Sleeping%20Murder%20%28Part%20Two%29.mp4  
-  Source: library/01-tv-classics.md
-- Miss Marple — S02Ep05 At Bertram's Hotel (Part One) — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/07%20At%20Bertram%27s%20Hotel%20%281987%29/S02Ep05%20At%20Bertram%27s%20Hotel%20%28Part%20One%29.mp4  
-  Source: library/01-tv-classics.md
-- Miss Marple — S02Ep06 At Bertram's Hotel (Part Two) — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/07%20At%20Bertram%27s%20Hotel%20%281987%29/S02Ep06%20At%20Bertram%27s%20Hotel%20%28Part%20Two%29.mp4  
-  Source: library/01-tv-classics.md
-- Miss Marple — S02Ep07 Nemesis (Part One) — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/08%20Nemesis%20%281987%29/S02Ep07%20Nemesis%20%28Part%20One%29.mp4  
-  Source: library/01-tv-classics.md
-- Miss Marple — S02Ep08 Nemesis (Part Two) — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/08%20Nemesis%20%281987%29/S02Ep08%20Nemesis%20%28Part%20Two%29.mp4  
-  Source: library/01-tv-classics.md
-- Miss Marple — S03Ep01 4 50 from Paddington — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/09%204.50%20from%20Paddington%20%281987%29/S03Ep01%204.50%20from%20Paddington.mp4  
-  Source: library/01-tv-classics.md
-- Miss Marple — S03Ep03 They Do It with Mirrors — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/11%20They%20Do%20It%20with%20Mirrors%20%281991%29/S03Ep03%20They%20Do%20It%20with%20Mirrors.mp4  
-  Source: library/01-tv-classics.md
-- Miss Marple — S03Ep04 The Mirror Crack'd from Side to Side — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/12%20The%20Mirror%20Crack%27d%20from%20Side%20to%20Side%20%281992%29/S03Ep04%20The%20Mirror%20Crack%27d%20from%20Side%20to%20Side.mp4  
-  Source: library/01-tv-classics.md
-- Monty Python - Whither Canada? — https://archive.org/download/mpfc-remastered_20210305_1553/01.%20Whither%20Canada%3F.mp4  
-  Source: library/01-tv-classics.md
-- Mothra vs Godzilla — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/4.MothraVs.Godzilla1964.mp4  
-  Source: library/01-tv-classics.md
-- One Million Years BC — https://archive.org/download/one-million-years-bc-1966_202010/One%20Million%20Years%20BC%20%281966%29.mp4  
-  Source: library/01-tv-classics.md
-- Pontiac GTO Ad — https://archive.org/download/PontiacGto1966CarCommercialTvAd/GTOad.mp4  
-  Source: library/01-tv-classics.md
-- s01e01 EntertheLoneRanger — https://archive.org/download/theloneranger_201705/s01e01_EntertheLoneRanger.mp4  
-  Source: library/01-tv-classics.md
-- s01e02 TheLoneRangerFightsOn — https://archive.org/download/theloneranger_201705/s01e02_TheLoneRangerFightsOn.mp4  
-  Source: library/01-tv-classics.md
-- s01e03TheLoneRangersTriumph — https://archive.org/download/theloneranger_201705/s01e03TheLoneRangersTriumph.mp4  
-  Source: library/01-tv-classics.md
-- s01e04 TheLegionofOldTimers — https://archive.org/download/theloneranger_201705/s01e04_TheLegionofOldTimers.mp4  
-  Source: library/01-tv-classics.md
-- s01e05 RustlersHideout — https://archive.org/download/theloneranger_201705/s01e05_RustlersHideout.mp4  
-  Source: library/01-tv-classics.md
-- s01e06 Warhorse — https://archive.org/download/theloneranger_201705/s01e06_Warhorse.mp4  
-  Source: library/01-tv-classics.md
-- s01e07 PeteandPedro — https://archive.org/download/theloneranger_201705/s01e07_PeteandPedro.mp4  
-  Source: library/01-tv-classics.md
-- s01e08 TheRenegades — https://archive.org/download/theloneranger_201705/s01e08_TheRenegades.mp4  
-  Source: library/01-tv-classics.md
-- s01e09 TheTenderfeet — https://archive.org/download/theloneranger_201705/s01e09_TheTenderfeet.mp4  
-  Source: library/01-tv-classics.md
-- s01e10 Highheels — https://archive.org/download/theloneranger_201705/s01e10_Highheels.mp4  
-  Source: library/01-tv-classics.md
-- s01e11 SixgunsLegacy — https://archive.org/download/theloneranger_201705/s01e11_SixgunsLegacy.mp4  
-  Source: library/01-tv-classics.md
-- s01e12 Returnoftheconvict — https://archive.org/download/theloneranger_201705/s01e12_Returnoftheconvict.mp4  
-  Source: library/01-tv-classics.md
-- s01e13 finderskeepers — https://archive.org/download/theloneranger_201705/s01e13_finderskeepers.mp4  
-  Source: library/01-tv-classics.md
-- s01e14 themaskedrider — https://archive.org/download/theloneranger_201705/s01e14_themaskedrider.mp4  
-  Source: library/01-tv-classics.md
-- s01e15 OldJoesSister — https://archive.org/download/theloneranger_201705/s01e15_OldJoesSister.mp4  
-  Source: library/01-tv-classics.md
-- s01e16 CanonBallMckay — https://archive.org/download/theloneranger_201705/s01e16_CanonBallMckay.mp4  
-  Source: library/01-tv-classics.md
-- Scream Bloody Murder — https://archive.org/download/ScreamBloodyMurder/ScreamBloodyMurder.mp4  
-  Source: library/01-tv-classics.md
-- Shocker Week3 Frankenstein — https://archive.org/download/ShockerInternetDriveInWeek3-FrankensteinDoubleFeature/shockerWeek3.mp4  
-  Source: library/01-tv-classics.md
-- Son of Godzilla — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/8.SonOfGodzilla1967.mp4  
-  Source: library/01-tv-classics.md
-- TarzanandtheTrappers — https://archive.org/download/TarzanandtheTrappers/TarzanandtheTrappers.mp4  
-  Source: library/01-tv-classics.md
-- TeenageDevilDolls — https://archive.org/download/TeenageDevilDolls/TeenageDevilDolls.mp4  
-  Source: library/01-tv-classics.md
-- Terror of Mechagodzilla — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/15.TerrorOfMechagodzilla1975.mp4  
-  Source: library/01-tv-classics.md
-- The Adventures of Long John Silver - Episode 1: The Necklace — https://archive.org/download/TheAdventuresOfLongJohnSilver-Episode1theNecklace/TheAdventuresOfLongJohnSilver-TheNecklace-limou3okxka.mp4  
-  Source: library/01-tv-classics.md
-- The Dick Cavett Show — Dick Cavett Show 1970-04-09 Paul Simon, Mickey Mantle, Whitey Ford, Marcel Marceau — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201970-04-09%20Paul%20Simon%2C%20Mickey%20Mantle%2C%20Whitey%20Ford%2C%20Marcel%20Marceau.mp4  
-  Source: library/01-tv-classics.md
-- The Dick Cavett Show — Dick Cavett Show 1970-11-10 Fred Astaire — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201970-11-10%20Fred%20Astaire.mp4  
-  Source: library/01-tv-classics.md
-- The Dick Cavett Show — Dick Cavett Show 1971-02-10 Maximilian Schell, Duke Ellington, Sally Field — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201971-02-10%20Maximilian%20Schell%2C%20Duke%20Ellington%2C%20Sally%20Field.mp4  
-  Source: library/01-tv-classics.md
-- The Dick Cavett Show — Dick Cavett Show 1971-03-08 Lucille Ball, Lucie Arnaz, Carol Burnett — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201971-03-08%20Lucille%20Ball%2C%20Lucie%20Arnaz%2C%20Carol%20Burnett.mp4  
-  Source: library/01-tv-classics.md
-- The Dick Cavett Show — Dick Cavett Show 1971-08-12 Dizzy Gillespie, Evel Knievel, Averell Harriman — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201971-08-12%20Dizzy%20Gillespie%2C%20Evel%20Knievel%2C%20Averell%20Harriman.mp4  
-  Source: library/01-tv-classics.md
-- The Dick Cavett Show — Dick Cavett Show 1972-02-11 Liza Minnelli, Robert Klein, Pete Seeger — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201972-02-11%20Liza%20Minnelli%2C%20Robert%20Klein%2C%20Pete%20Seeger.mp4  
-  Source: library/01-tv-classics.md
-- The Dick Cavett Show — Dick Cavett Show 1972-04-17 Alexis Smith, Gloria Swanson, Elsa Lanchester, Jeanette Rankin — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201972-04-17%20Alexis%20Smith%2C%20Gloria%20Swanson%2C%20Elsa%20Lanchester%2C%20Jeanette%20Rankin.mp4  
-  Source: library/01-tv-classics.md
-- The Dick Cavett Show — Dick Cavett Show 1972-06-22 Art Carney, Alexis Smith, Clement Freud — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201972-06-22%20Art%20Carney%2C%20Alexis%20Smith%2C%20Clement%20Freud.mp4  
-  Source: library/01-tv-classics.md
-- The Dick Cavett Show — Dick Cavett Show 1973-08-06 Norman Mailer (Marilyn Monroe) — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201973-08-06%20Norman%20Mailer%20%28Marilyn%20Monroe%29.mp4  
-  Source: library/01-tv-classics.md
-- The Dick Cavett Show — Dick Cavett Show 1974-03-07 Lucille Ball — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201974-03-07%20Lucille%20Ball.mp4  
-  Source: library/01-tv-classics.md
-- The Dick Cavett Show — Dick Cavett Show 1978-05-31 Burt Reynolds — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201978-05-31%20Burt%20Reynolds.mp4  
-  Source: library/01-tv-classics.md
-- The Dick Cavett Show — Dick Cavett Show 1978-06-15 Brian De Palma, Martin Scorsese (2-parts) — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201978-06-15%20Brian%20De%20Palma%2C%20Martin%20Scorsese%20%282-parts%29.mp4  
-  Source: library/01-tv-classics.md
-- The Dick Cavett Show — Dick Cavett Show 1979-06-05 Arthur Miller (3-parts) — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201979-06-05%20Arthur%20Miller%20%283-parts%29.mp4  
-  Source: library/01-tv-classics.md
-- The Dick Cavett Show — Dick Cavett Show 1979-06-07 Masters And Johnson (2-parts) — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201979-06-07%20Masters%20And%20Johnson%20%282-parts%29.mp4  
-  Source: library/01-tv-classics.md
-- The Dick Cavett Show — Dick Cavett Show 1980-07-09 Bob Fosse (2-parts) — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201980-07-09%20Bob%20Fosse%20%282-parts%29.mp4  
-  Source: library/01-tv-classics.md
-- The Dick Cavett Show — Dick Cavett Show 1982-03-22 Cher (2-parts) — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201982-03-22%20Cher%20%282-parts%29.mp4  
-  Source: library/01-tv-classics.md
-- The Dick Cavett Show — Dick Cavett Show 1985-09-30 Joan Rivers — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201985-09-30%20Joan%20Rivers.mp4  
-  Source: library/01-tv-classics.md
-- The Dick Cavett Show — Dick Cavett Show 1985-12-02 Dick Clark & Walter Matthau — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201985-12-02%20Dick%20Clark%20%26%20Walter%20Matthau.mp4  
-  Source: library/01-tv-classics.md
-- The Dick Cavett Show — Dick Cavett Show 1985-12-16 Richard Pryor — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201985-12-16%20Richard%20Pryor.mp4  
-  Source: library/01-tv-classics.md
-- The Dick Cavett Show — Dick Cavett Show 1992-04-08 Christopher Reeve — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201992-04-08%20Christopher%20Reeve.mp4  
-  Source: library/01-tv-classics.md
-- The Dick Cavett Show — Dick Cavett Show 1992-04-20 Jackie Mason — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201992-04-20%20Jackie%20Mason.mp4  
-  Source: library/01-tv-classics.md
-- The Dick Cavett Show — Dick Cavett Show 1992-11-16 Harvey Keitel — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201992-11-16%20Harvey%20Keitel.mp4  
-  Source: library/01-tv-classics.md
-- The Eye Creatures — https://archive.org/download/The_Eye_Creatures/The_Eye_Creatures_1962.avi.mp4  
-  Source: library/01-tv-classics.md
-- The Killer Shrews — https://archive.org/download/The_Killer_Shrews/The_Killer_Shrews.mp4  
-  Source: library/01-tv-classics.md
-- The Phantom Planet — https://archive.org/download/PhantomPlanet/classicscifiphantomplanet1.mp4  
-  Source: library/01-tv-classics.md
-- The Phantom Planet — https://archive.org/download/PhantomPlanet/phantomplanet2.mp4  
-  Source: library/01-tv-classics.md
-- The Prisoner 01 Arrival — https://archive.org/download/The_Prisoner/ThePrisoner01Arrival.mp4  
-  Source: library/01-tv-classics.md
-- The Prisoner 02 The Chimes Of Big Ben — https://archive.org/download/The_Prisoner/ThePrisoner02TheChimesOfBigBen.mp4  
-  Source: library/01-tv-classics.md
-- The Prisoner 03 A B And C — https://archive.org/download/The_Prisoner/ThePrisoner03A.b.and.c.mp4  
-  Source: library/01-tv-classics.md
-- The Prisoner 04 Free For All — https://archive.org/download/The_Prisoner/ThePrisoner04FreeForAll.mp4  
-  Source: library/01-tv-classics.md
-- The Prisoner 05 The Schizoid Man — https://archive.org/download/The_Prisoner/ThePrisoner05TheSchizoidMan.mp4  
-  Source: library/01-tv-classics.md
-- The Prisoner 06 The General — https://archive.org/download/The_Prisoner/ThePrisoner06TheGeneral.mp4  
-  Source: library/01-tv-classics.md
-- The Prisoner 07 Many Happy Returns — https://archive.org/download/The_Prisoner/ThePrisoner07ManyHappyReturns.mp4  
-  Source: library/01-tv-classics.md
-- The Prisoner 08 Dance Of The Dead — https://archive.org/download/The_Prisoner/ThePrisoner08DanceOfTheDead.mp4  
-  Source: library/01-tv-classics.md
-- The Prisoner 09 Checkmate — https://archive.org/download/The_Prisoner/ThePrisoner09Checkmate.mp4  
-  Source: library/01-tv-classics.md
-- The Prisoner 10 Hammer Into Anvil — https://archive.org/download/The_Prisoner/ThePrisoner10HammerIntoAnvil.mp4  
-  Source: library/01-tv-classics.md
-- The Prisoner 11 It's Your Funeral — https://archive.org/download/The_Prisoner/ThePrisoner11ItsYourFuneral.mp4  
-  Source: library/01-tv-classics.md
-- The Prisoner 12 A Change Of Mind — https://archive.org/download/The_Prisoner/ThePrisoner12AChangeOfMind.mp4  
-  Source: library/01-tv-classics.md
-- The Prisoner 13 Do Not Forsake Me Oh My Darling — https://archive.org/download/The_Prisoner/ThePrisoner13DoNotForsakeMeOhMyDarling.mp4  
-  Source: library/01-tv-classics.md
-- The Prisoner 14 Living In Harmony — https://archive.org/download/The_Prisoner/ThePrisoner14LivingInHarmony.mp4  
-  Source: library/01-tv-classics.md
-- The Prisoner 15 The Girl Who Was Death — https://archive.org/download/The_Prisoner/ThePrisoner15TheGirlWhoWasDeath.mp4  
-  Source: library/01-tv-classics.md
-- The Prisoner 16 Once Upon A Time — https://archive.org/download/The_Prisoner/ThePrisoner16OnceUponATime.mp4  
-  Source: library/01-tv-classics.md
-- The Prisoner 17 Fall Out — https://archive.org/download/The_Prisoner/ThePrisoner17FallOut.mp4  
-  Source: library/01-tv-classics.md
-- The Saint (2017) — https://archive.org/download/2017-the-saint-movie-1080p-spanish-or-english/(2017)  
-  Source: library/01-tv-classics.md
-- TheCaseofLadyBeryl — https://archive.org/download/SherlockHolmes-TheCaseofLadyBeryl/TheCaseofLadyBeryl.mp4  
-  Source: library/01-tv-classics.md
-- TheCaseoftheShyBallerina — https://archive.org/download/SherlockHolmes-TheCaseoftheShyBallerina/TheCaseoftheShyBallerina.mp4  
-  Source: library/01-tv-classics.md
-- Three Stooges 1949 Failed TV Pilot — https://archive.org/download/3StoogesPilot/ThreeStooges1949FailedPilot.mp4  
-  Source: library/01-tv-classics.md
-- Tormented — https://archive.org/download/tormented/tormented.mp4  
-  Source: library/01-tv-classics.md
-- Wartburg 1000 Ad — https://archive.org/download/wartburg_1000_1966/wartburg_1000_1966_512kb.mp4  
-  Source: library/01-tv-classics.md
-- White Zombie — https://archive.org/download/white_zombie/white_zombie.mp4  
-  Source: library/01-tv-classics.md
-- Wonderfu1960 — https://archive.org/download/Wonderfu1960/Wonderfu1960.mp4  
-  Source: library/01-tv-classics.md
-- Wonderfu1960 edit — https://archive.org/download/Wonderfu1960/Wonderfu1960_edit.mp4  
-  Source: library/01-tv-classics.md
-- World War Z — https://archive.org/download/My-Favorite-Movies_202503/World%20War%20Z.mp4  
-  Source: library/01-tv-classics.md
-- キャプテンナイス (CAPTAIN NICE) — https://archive.org/download/capn-nice-tv-show/%E3%82%AD%E3%83%A3%E3%83%97%E3%83%86%E3%83%B3%E3%83%8A%E3%82%A4%E3%82%B9%20%28CAPTAIN%20NICE%29.mp4  
-  Source: library/01-tv-classics.md
-- 1955Chev1955 — https://archive.org/download/1955Chev1955/1955Chev1955.mp4  
-  Source: library/02-movies.md
-- 1955Chev1955 edit — https://archive.org/download/1955Chev1955/1955Chev1955_edit.mp4  
-  Source: library/02-movies.md
-- A Christmas Story (1983) — https://dn720300.ca.archive.org/0/items/a-christmas-story_202105/A%20Christmas%20Story%20.ia.mp4  
-  Source: library/02-movies.md
-- Angel on My Shoulder — https://archive.org/download/angel_on_my_shoulder/angel_on_my_shoulder.mp4  
-  Source: library/02-movies.md
-- babies and breadwinners 2 — https://archive.org/download/babies_and_breadwinners_2/babies_and_breadwinners_2.mp4  
-  Source: library/02-movies.md
-- babies and breadwinners 2 edit — https://archive.org/download/babies_and_breadwinners_2/babies_and_breadwinners_2_edit.mp4  
-  Source: library/02-movies.md
-- Batteries 2009 512kb — https://archive.org/download/batteriesnotincluded_2009/Batteries_2009_512kb.mp4  
-  Source: library/02-movies.md
-- bb minnie the moocher 512kb — https://archive.org/download/bb_minnie_the_moocher/bb_minnie_the_moocher_512kb.mp4  
-  Source: library/02-movies.md
-- Black Gold — https://archive.org/download/Black_Gold/BlackGold.mp4  
-  Source: library/02-movies.md
-- CaptainKidd — https://archive.org/download/CaptainKidd_/CaptainKidd.mp4  
-  Source: library/02-movies.md
-- CarnivalOfSouls — https://archive.org/download/CarnivalofSouls/CarnivalOfSouls.mp4  
-  Source: library/02-movies.md
-- Carol For Another Christmas — https://archive.org/download/carol-for-another-christmas-1964/Carol  
-  Source: library/02-movies.md
-- ccoPublicDomainAttack of the Giant Leeches — https://archive.org/download/cco_attackofthegiantleeches/ccoPublicDomainAttack_of_the_Giant_Leeches.mp4  
-  Source: library/02-movies.md
-- Corvairi1960 — https://archive.org/download/Corvairi1960/Corvairi1960.mp4  
-  Source: library/02-movies.md
-- Corvairi1960 edit — https://archive.org/download/Corvairi1960/Corvairi1960_edit.mp4  
-  Source: library/02-movies.md
-- Countdow1960 — https://archive.org/download/Countdow1960/Countdow1960.mp4  
-  Source: library/02-movies.md
-- Countdow1960 edit — https://archive.org/download/Countdow1960/Countdow1960_edit.mp4  
-  Source: library/02-movies.md
-- dead people — https://archive.org/download/dead_people_ipod/dead_people.mp4  
-  Source: library/02-movies.md
-- Deep Red — https://archive.org/download/DeepRed1975/DeepRed.mp4  
-  Source: library/02-movies.md
-- Desert Gold — https://archive.org/download/DesertGold/DesertGold.mp4  
-  Source: library/02-movies.md
-- Drive-inIntermission7 512kb — https://archive.org/download/DriveInIntermission7/Drive-inIntermission7_512kb.mp4  
-  Source: library/02-movies.md
-- DVD5 — https://archive.org/download/Night.Of.The.Living.Dead_1080p/NightOfTheLivingDead_DVD5.mp4  
-  Source: library/02-movies.md
-- DVD9 — https://archive.org/download/Night.Of.The.Living.Dead_1080p/NightOfTheLivingDead_DVD9.mp4  
-  Source: library/02-movies.md
-- EndoftheWorld — https://archive.org/download/EndoftheWorld/EndoftheWorld.mp4  
-  Source: library/02-movies.md
-- Fiddler On The Roof — https://archive.org/download/fiddler-on-the-roof/Fiddler  
-  Source: library/02-movies.md
-- FLIP FROG-FIDDLESTICKS DVD 512kb — https://archive.org/download/FLIP_FROG-FIDDLESTICKS/FLIP_FROG-FIDDLESTICKS_DVD_512kb.mp4  
-  Source: library/02-movies.md
-- FLIP FROG-FIDDLESTICKS VCD 512kb — https://archive.org/download/FLIP_FROG-FIDDLESTICKS/FLIP_FROG-FIDDLESTICKS_VCD_512kb.mp4  
-  Source: library/02-movies.md
-- FLIP THE FROG - FIDDLESTICKS — https://archive.org/download/FLIP_FROG-FIDDLESTICKS/FLIP_FROG-FIDDLESTICKS_256k.mp4  
-  Source: library/02-movies.md
-- FLIP THE FROG - FIDDLESTICKS — https://archive.org/download/FLIP_FROG-FIDDLESTICKS/FLIP_FROG-FIDDLESTICKS_64k.mp4  
-  Source: library/02-movies.md
-- gags and gals — https://archive.org/download/gags_and_gals/gags_and_gals.mp4  
-  Source: library/02-movies.md
-- gags and gals edit — https://archive.org/download/gags_and_gals/gags_and_gals_edit.mp4  
-  Source: library/02-movies.md
-- Gold — https://archive.org/download/Gold-1932/Gold.mp4  
-  Source: library/02-movies.md
-- GonewiththeWest — https://archive.org/download/GonewiththeWest/GonewiththeWest.mp4  
-  Source: library/02-movies.md
-- Good Bad & Ugly — https://archive.org/download/TheGoodTheBadAndTheUgly1966/The%20Good%2C%20the%20Bad%20and%20the%20Ugly%20%5B1966%5D.mp4  
-  Source: library/02-movies.md
-- How Green Was My Valley (1941) — https://archive.org/download/HowGreenWasMyValley1941_201812/How  
-  Source: library/02-movies.md
-- https://archive.org/download/Night.Of.The.Living.Dead_1080p/NightOfTheLivingDead_1080p.mp4 — https://archive.org/download/Night.Of.The.Living.Dead_1080p/NightOfTheLivingDead_1080p.mp4  
-  Source: library/02-movies.md
-- https://archive.org/download/Night.Of.The.Living.Dead_1080p/NightOfTheLivingDead_720p.mp4 — https://archive.org/download/Night.Of.The.Living.Dead_1080p/NightOfTheLivingDead_720p.mp4  
-  Source: library/02-movies.md
-- hussy1959 — https://archive.org/download/LouisianaHussy_319/hussy1959.mp4  
-  Source: library/02-movies.md
-- INVASION OF THE BEE GIRLS widescreen — https://archive.org/download/InvasionOfTheBeeGirlsWidescreenQualityUpgrade/InvasionOfTheBeeGirlsWidescreen.mp4  
-  Source: library/02-movies.md
-- Invasion of the Saucer Men (1957) — https://archive.org/download/invasion-of-the-saucer-men-1957-colorized-classics/Invasion%20of%20the%20Saucer%20Men%20%281957%29%20Colorized%20Classics.mp4  
-  Source: library/02-movies.md
-- iPhone & iPod Touch — https://archive.org/download/Night.Of.The.Living.Dead_1080p/NightOfTheLivingDead_iPhone.mp4  
-  Source: library/02-movies.md
-- iPod — https://archive.org/download/Night.Of.The.Living.Dead_1080p/NightOfTheLivingDead_iPod.mp4  
-  Source: library/02-movies.md
-- Island of the sunken gold / De brandende vulkaan — https://archive.org/download/Island_of_the-sunken_gold/De_brandende_vulkaan_episode_1_to_5_512kb.mp4  
-  Source: library/02-movies.md
-- It's Alive — https://archive.org/download/ItsAlive/ItsAlive.mp4  
-  Source: library/02-movies.md
-- King Kong (1933) — Colorized 1989 — https://ia601609.us.archive.org/25/items/king-kong-in-color-1989/King-Kong-in-Color-1989.mp4  
-  Source: library/02-movies.md
-- Kronos (1957) — Colorized — https://dn710200.ca.archive.org/0/items/kronos-1957-colorized-mvoie-576p-sd/kronos-1957-colorized%20mvoie-576p-sd.mp4  
-  Source: library/02-movies.md
-- Le Tatoué (1968) — https://archive.org/download/le-tatoue-1968/Le  
-  Source: library/02-movies.md
-- Long John Silver (1954) — https://archive.org/download/LongJohnSilver1954/Long  
-  Source: library/02-movies.md
-- Ma Barkers Killer Brood — https://archive.org/download/Ma_Barkers_Killer_Brood/Ma_Barkers_Killer_Brood.mp4  
-  Source: library/02-movies.md
-- Messiah of Evil — https://archive.org/download/MessiahofEvil_avi/Messiah_of_Evil.mp4  
-  Source: library/02-movies.md
-- My Favorite Brunette — https://archive.org/download/my_favorite_brunette/my_favorite_brunette.mp4  
-  Source: library/02-movies.md
-- Night — https://archive.org/download/night_of_the_living_dead_dvd/Night.mp4  
-  Source: library/02-movies.md
-- NightOfTheLivingDead m2ts — https://archive.org/download/Night.Of.The.Living.Dead_1080p/NightOfTheLivingDead.mp4  
-  Source: library/02-movies.md
-- OutofThi1954 — https://archive.org/download/OutofThi1954/OutofThi1954.mp4  
-  Source: library/02-movies.md
-- Popeye meetsSinbadtheSailor 512kb — https://archive.org/download/Popeye_meetsSinbadtheSailor/Popeye_meetsSinbadtheSailor_512kb.mp4  
-  Source: library/02-movies.md
-- Pot o Gold — https://archive.org/download/pot_o_gold/pot_o_gold.mp4  
-  Source: library/02-movies.md
-- Prisoners Of The Lost Universe (1983) — https://archive.org/download/PrisonersOfTheLostUniverse1983/PrisonersOfTheLostUniverse1983.mp4  
-  Source: library/02-movies.md
-- PS3 — https://archive.org/download/Night.Of.The.Living.Dead_1080p/NightOfTheLivingDead_PS3.mp4  
-  Source: library/02-movies.md
-- PSP — https://archive.org/download/Night.Of.The.Living.Dead_1080p/NightOfTheLivingDead_PSP.mp4  
-  Source: library/02-movies.md
-- Seconds (1966) — https://archive.org/download/seconds.-1966.1080p.-blu-ray.-h-264.-aac-rarbg/Seconds.1966.1080p.BluRay.H264.AAC-RARBG.ia.mp4  
-  Source: library/02-movies.md
-- Silver Spurs — https://archive.org/download/silver_spurs/silver_spurs.mp4  
-  Source: library/02-movies.md
-- Silver Trail, The — https://archive.org/download/the_silver_trail/the_silver_trail.mp4  
-  Source: library/02-movies.md
-- Silver_Fleet_The — https://archive.org/download/Silver_Fleet_The/Silver_Fleet_The_.mp4  
-  Source: library/02-movies.md
-- swingin six — https://archive.org/download/swingin_six/swingin_six.mp4  
-  Source: library/02-movies.md
-- swingin six edit — https://archive.org/download/swingin_six/swingin_six_edit.mp4  
-  Source: library/02-movies.md
-- The Brain That Wouldnt Die — https://archive.org/download/TheBrainThatWouldntDie_165/TheBrainThatWouldNotDie1962.mp4  
-  Source: library/02-movies.md
-- The Day the Earth Stood Still (1951) — https://dn720705.ca.archive.org/0/items/day-the-earth-stood-still-1951/Day%20the%20Earth%20Stood%20Still%201951.mp4  
-  Source: library/02-movies.md
-- The Fast And The Furious — https://archive.org/download/TheFastandtheFuriousJohnIreland1954goofyrip/TheFastandtheFuriousJohnIreland1954goofyrip.mp4  
-  Source: library/02-movies.md
-- The Ghoul — https://archive.org/download/TheGhoul/TheGhoul_1933.mp4  
-  Source: library/02-movies.md
-- The Gorilla — https://archive.org/download/the_gorilla/the_gorilla.mp4  
-  Source: library/02-movies.md
-- The Graduate (1967) — https://archive.org/download/the-graduate-1967_202301/The  
-  Source: library/02-movies.md
-- The Grim Reaper (1976) — https://archive.org/download/the-grim-reaper-1976/The  
-  Source: library/02-movies.md
-- The Invisible Man (1933) — https://dn720208.ca.archive.org/0/items/invisible-man-1933/Invisible%20Man%201933.mp4  
-  Source: library/02-movies.md
-- The Last Starfighter (1984) — https://ia801508.us.archive.org/7/items/the-last-starfighter-1984-mca-universal-home-video-vhs-rip/THE%20LAST%20STARFIGHTER%201984%20MCA%20UNIVERSAL%20HOME%20VIDEO%20VHS%20RIP.mp4  
-  Source: library/02-movies.md
-- The Silver Horde — https://archive.org/download/SilverHorde1930/The_Silver_Horde_1930.mp4  
-  Source: library/02-movies.md
-- The Terror — https://archive.org/download/TheTerror/TheTerror.mp4  
-  Source: library/02-movies.md
-- The Thing (1982) — Cinema 17 WOC — https://dn710202.ca.archive.org/0/items/the-thing-cinema-17-woc-phl-17-7.19.91-8pm/The%20Thing%20-%20Cinema%2017%20WOC%20-%20PHL17%2C%207.19.91%20%40%208pm.mp4  
-  Source: library/02-movies.md
-- The Thing from Another World (1951) — TBS Turner Colorized — https://dn710009.ca.archive.org/0/items/the-thing-from-another-world-tbs-turner-colorized-version/The%20Thing%20From%20Another%20World%20%28TBS%20Turner%20Colorized%20Version%29%20and%20Inside%20Detroit%20%28Partial%29.ia.mp4  
-  Source: library/02-movies.md
-- TheAtomicBrain — https://archive.org/download/atomic_brain_1964/TheAtomicBrain.mp4  
-  Source: library/02-movies.md
-- TheMostDangerousGame — https://archive.org/download/TheMostDangerousGame/TheMostDangerousGame.mp4  
-  Source: library/02-movies.md
-- TheThing — https://archive.org/download/TheThingFromAnotherWorld_201712/TheThing.mp4  
-  Source: library/02-movies.md
-- they made me a criminal 1939 — https://archive.org/download/They_Made_Me_A_Criminal_1939/they_made_me_a_criminal_1939.mp4  
-  Source: library/02-movies.md
-- ThiefofBagdad1924 512kb — https://archive.org/download/ThiefOfBagdad1924/ThiefofBagdad1924_512kb.mp4  
-  Source: library/02-movies.md
-- ThisisNotaTest — https://archive.org/download/ThisisNotaTest/ThisisNotaTest.mp4  
-  Source: library/02-movies.md
-- Total Recall (1990) — https://ia801603.us.archive.org/23/items/1990-total-recall-1990-carolco-vhs-480p-h-264/1990%20Total%20Recall%20%281990%20Carolco%20VHS%29%20480p%20H264.mp4  
-  Source: library/02-movies.md
-- Une vierge chez les morts-vivants — https://archive.org/download/a-virgin-among-the-living-dead/A  
-  Source: library/02-movies.md
-- VTS 01 1 — https://archive.org/download/night_of_the_living_dead_dvd/VTS_01_1.mp4  
-  Source: library/02-movies.md
-- VTS 01 2 — https://archive.org/download/night_of_the_living_dead_dvd/VTS_01_2.mp4  
-  Source: library/02-movies.md
-- VTS 01 3 — https://archive.org/download/night_of_the_living_dead_dvd/VTS_01_3.mp4  
-  Source: library/02-movies.md
-- Woman of the Lake (1966) — https://archive.org/download/woman.of.the.-lake.-1966.-dvdrip.-onna.no.-mizuumi.-yoshishige.-yoshida/Woman.of.the.Lake.1966.DVDRip.Onna.no.Mizuumi.Yoshishige.Yoshida.mp4  
-  Source: library/02-movies.md
-- Young and Innocent — https://archive.org/download/YoungandInnocentTheGirlWasYoung/Young_and_Innocent.mp4  
-  Source: library/02-movies.md
-- Zontar the Thing from Venus (Restored) — https://archive.org/download/ZontarTheThingFromVenusrestored/Zontarrestored.mp4  
-  Source: library/02-movies.md
-- A Charles Dickens Christmas (Mr Pickwicks Christmas) — https://archive.org/download/MrPickwicksChristmas/MrPickwicksChristmas.mp4  
-  Source: library/03-family-cartoons.md
-- A Charlie Brown Christmas 1965 (Original Print) color corrected — https://archive.org/download/you-cut-20231030-080602598/YouCut_20231030_080602598.mp4  
-  Source: library/03-family-cartoons.md
-- A Charlie Brown Christmas Original Version — https://archive.org/download/a-charlie-brown-christmas-original-version/A  
-  Source: library/03-family-cartoons.md
-- A Kockásfülű Nyúl (The Rabbit With Checkered Ears) — https://archive.org/download/a-kockasfulu-nyul/A  
-  Source: library/03-family-cartoons.md
-- A Very Merry Cricket (1973) — https://archive.org/download/a-very-merry-cricket/a  
-  Source: library/03-family-cartoons.md
-- Betty Boop: Musical Mountaineers — https://archive.org/download/bb_musical_mountaineers/bb_musical_mountaineers_512kb.mp4  
-  Source: library/03-family-cartoons.md
-- Captain Gallant of the Foreign Legion: S1E36, The Boy Who Found Christmas (DVD Quality) — https://archive.org/download/Captain-Gallant_S1E36_The-Boy-Who-Found-Christmas/Captain-Gallant_S1E36_The-Boy-Who-Found-Christmas.mp4  
-  Source: library/03-family-cartoons.md
-- Casper — There's Good Boos Tonight — https://archive.org/download/noveltoon_casper_tfg_theres_good_boos_tonight/noveltoon_casper_tfg_theres_good_boos_tonight_512kb.mp4  
-  Source: library/03-family-cartoons.md
-- Cheese Burglar featuring Herman — https://archive.org/download/Herman_CheeseBurglar/Herman_CheeseBurglar_512kb.mp4  
-  Source: library/03-family-cartoons.md
-- CommandP1942 — https://archive.org/download/CommandP1942/CommandP1942.mp4  
-  Source: library/03-family-cartoons.md
-- CommandP1942 edit — https://archive.org/download/CommandP1942/CommandP1942_edit.mp4  
-  Source: library/03-family-cartoons.md
-- Daffy Duck and Porky Pig Meet the Groovie Goolies — https://archive.org/download/Groovie-Goolies-Collection/UK  
-  Source: library/03-family-cartoons.md
-- DuckandC1951 edit — https://archive.org/download/DuckandC1951/DuckandC1951_edit.mp4  
-  Source: library/03-family-cartoons.md
-- DuckandC1951.ia — https://archive.org/download/DuckandC1951/DuckandC1951.ia.mp4  
-  Source: library/03-family-cartoons.md
-- Fat Albert (2004) — https://archive.org/download/het-hey-hey/The  
-  Source: library/03-family-cartoons.md
-- Flower Angel — Harmony Gold English Dub — https://archive.org/download/flowerangel1985_201912/Flower  
-  Source: library/03-family-cartoons.md
-- Gabby: Alls Well — https://archive.org/download/gabby_alls_well/gabby_alls_well_512kb.mp4  
-  Source: library/03-family-cartoons.md
-- Gulliver's Travels — https://archive.org/download/GulliversTravels720p_652/GulliversTravels.mp4  
-  Source: library/03-family-cartoons.md
-- H.R. Pufnstuf — Drugachusettes (satire) — https://archive.org/download/h_r_pufnstuf/pufnstuf_satire_sam_and_criminy_craffft_present_drugachusettes.mp4  
-  Source: library/03-family-cartoons.md
-- H.R. Pufnstuf — Drugachusettes (satire) [alternate MP4] — https://archive.org/download/h_r_pufnstuf/pufnstuf_satire_sam_and_criminy_craffft_present_drugachusettes.ia.mp4  
-  Source: library/03-family-cartoons.md
-- H.R. Pufnstuf — Movie — https://archive.org/download/h_r_pufnstuf/pufnstuf_movie.mp4  
-  Source: library/03-family-cartoons.md
-- H.R. Pufnstuf 01 the magic path — https://archive.org/download/h_r_pufnstuf/pufnstuf_01_the_magic_path.mp4  
-  Source: library/03-family-cartoons.md
-- H.R. Pufnstuf 02 The wheely bird — https://archive.org/download/h_r_pufnstuf/pufnstuf_02_The_wheely_bird.mp4  
-  Source: library/03-family-cartoons.md
-- H.R. Pufnstuf 03 show biz witch — https://archive.org/download/h_r_pufnstuf/pufnstuf_03_show_biz_witch.mp4  
-  Source: library/03-family-cartoons.md
-- H.R. Pufnstuf 04 the mechanical boy — https://archive.org/download/h_r_pufnstuf/pufnstuf_04_the_mechanical_boy.mp4  
-  Source: library/03-family-cartoons.md
-- H.R. Pufnstuf 05 the stand in — https://archive.org/download/h_r_pufnstuf/pufnstuf_05_the_stand_in.mp4  
-  Source: library/03-family-cartoons.md
-- H.R. Pufnstuf 06 the golden key — https://archive.org/download/h_r_pufnstuf/pufnstuf_06_the_golden_key.mp4  
-  Source: library/03-family-cartoons.md
-- H.R. Pufnstuf 07 the birthday party — https://archive.org/download/h_r_pufnstuf/pufnstuf_07_the_birthday_party.mp4  
-  Source: library/03-family-cartoons.md
-- H.R. Pufnstuf 08 the box kite kaper — https://archive.org/download/h_r_pufnstuf/pufnstuf_08_the_box_kite_kaper.mp4  
-  Source: library/03-family-cartoons.md
-- H.R. Pufnstuf 09 you cant have your cake — https://archive.org/download/h_r_pufnstuf/pufnstuf_09_you_cant_have_your_cake.mp4  
-  Source: library/03-family-cartoons.md
-- H.R. Pufnstuf 10 the horse with the golden throat — https://archive.org/download/h_r_pufnstuf/pufnstuf_10_the_horse_with_the_golden_throat.mp4  
-  Source: library/03-family-cartoons.md
-- H.R. Pufnstuf 11 dinner for two — https://archive.org/download/h_r_pufnstuf/pufnstuf_11_dinner_for_two.mp4  
-  Source: library/03-family-cartoons.md
-- H.R. Pufnstuf 12 flute book and candle — https://archive.org/download/h_r_pufnstuf/pufnstuf_12_flute_book_and_candle.mp4  
-  Source: library/03-family-cartoons.md
-- H.R. Pufnstuf 13 tooth for a tooth — https://archive.org/download/h_r_pufnstuf/pufnstuf_13_tooth_for_a_tooth.mp4  
-  Source: library/03-family-cartoons.md
-- H.R. Pufnstuf 14 the visiting witch — https://archive.org/download/h_r_pufnstuf/pufnstuf_14_the_visiting_witch.mp4  
-  Source: library/03-family-cartoons.md
-- H.R. Pufnstuf 15 the almost election of witchiepoo — https://archive.org/download/h_r_pufnstuf/pufnstuf_15_the_almost_election_of_witchiepoo.mp4  
-  Source: library/03-family-cartoons.md
-- H.R. Pufnstuf 16 whaddya mean the horse gets the girl — https://archive.org/download/h_r_pufnstuf/pufnstuf_16_whaddya_mean_the_horse_gets_the_girl.mp4  
-  Source: library/03-family-cartoons.md
-- H.R. Pufnstuf 17 jimmy who — https://archive.org/download/h_r_pufnstuf/pufnstuf_17_jimmy_who.mp4  
-  Source: library/03-family-cartoons.md
-- Hectors Hectic Life — https://archive.org/download/hectors_hectic_life/hectors_hectic_life_512kb.mp4  
-  Source: library/03-family-cartoons.md
-- Hep Cat Symphony — https://archive.org/download/HepCatSymphony/HepCatSymphony_512kb.mp4  
-  Source: library/03-family-cartoons.md
-- How The Grinch Stole Christmas — https://archive.org/download/HowTheGrinchStoleChristmas_201812/How  
-  Source: library/03-family-cartoons.md
-- Jonny Quest E01 - The Mystery of the Lizard Men — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E01%20-%20The%20Mystery%20of%20the%20Lizard%20Men.mp4  
-  Source: library/03-family-cartoons.md
-- Jonny Quest E01 - The Mystery of the Lizard Men [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E01%20-%20The%20Mystery%20of%20the%20Lizard%20Men.ia.mp4  
-  Source: library/03-family-cartoons.md
-- Jonny Quest E02 - Arctic Splashdown — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E02%20-%20Arctic%20Splashdown.mp4  
-  Source: library/03-family-cartoons.md
-- Jonny Quest E02 - Arctic Splashdown [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E02%20-%20Arctic%20Splashdown.ia.mp4  
-  Source: library/03-family-cartoons.md
-- Jonny Quest E03 - The Curse of Anubis — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E03%20-%20The%20Curse%20of%20Anubis.mp4  
-  Source: library/03-family-cartoons.md
-- Jonny Quest E03 - The Curse of Anubis [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E03%20-%20The%20Curse%20of%20Anubis.ia.mp4  
-  Source: library/03-family-cartoons.md
-- Jonny Quest E04 - The Curse of Anubis — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E04%20-%20The%20Curse%20of%20Anubis.mp4  
-  Source: library/03-family-cartoons.md
-- Jonny Quest E04 - The Curse of Anubis [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E04%20-%20The%20Curse%20of%20Anubis.ia.mp4  
-  Source: library/03-family-cartoons.md
-- Jonny Quest E05 - Riddle of the Gold — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E05%20-%20Riddle%20of%20the%20Gold.mp4  
-  Source: library/03-family-cartoons.md
-- Jonny Quest E05 - Riddle of the Gold [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E05%20-%20Riddle%20of%20the%20Gold.ia.mp4  
-  Source: library/03-family-cartoons.md
-- Jonny Quest E06 - Treasure of the Temple — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E06%20-%20Treasure%20of%20the%20Temple.mp4  
-  Source: library/03-family-cartoons.md
-- Jonny Quest E06 - Treasure of the Temple [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E06%20-%20Treasure%20of%20the%20Temple.ia.mp4  
-  Source: library/03-family-cartoons.md
-- Jonny Quest E07 - Calcutta Adventure — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E07%20-%20Calcutta%20Adventure.mp4  
-  Source: library/03-family-cartoons.md
-- Jonny Quest E07 - Calcutta Adventure [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E07%20-%20Calcutta%20Adventure.ia.mp4  
-  Source: library/03-family-cartoons.md
-- Jonny Quest E08 - The Robot Spy — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E08%20-%20The%20Robot%20Spy.mp4  
-  Source: library/03-family-cartoons.md
-- Jonny Quest E08 - The Robot Spy [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E08%20-%20The%20Robot%20Spy.ia.mp4  
-  Source: library/03-family-cartoons.md
-- Jonny Quest E09 - Double Danger — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E09%20-%20Double%20Danger.mp4  
-  Source: library/03-family-cartoons.md
-- Jonny Quest E09 - Double Danger [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E09%20-%20Double%20Danger.ia.mp4  
-  Source: library/03-family-cartoons.md
-- Jonny Quest E10 - Shadow of the Condor — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E10%20-%20Shadow%20of%20the%20Condor.mp4  
-  Source: library/03-family-cartoons.md
-- Jonny Quest E10 - Shadow of the Condor [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E10%20-%20Shadow%20of%20the%20Condor.ia.mp4  
-  Source: library/03-family-cartoons.md
-- Jonny Quest E11 - Skull and Double Crossbones — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E11%20-%20Skull%20and%20Double%20Crossbones.mp4  
-  Source: library/03-family-cartoons.md
-- Jonny Quest E11 - Skull and Double Crossbones [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E11%20-%20Skull%20and%20Double%20Crossbones.ia.mp4  
-  Source: library/03-family-cartoons.md
-- Jonny Quest E12 - The Dreadful Doll — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E12%20-%20The%20Dreadful%20Doll.mp4  
-  Source: library/03-family-cartoons.md
-- Jonny Quest E12 - The Dreadful Doll [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E12%20-%20The%20Dreadful%20Doll.ia.mp4  
-  Source: library/03-family-cartoons.md
-- Jonny Quest E13 - A Small Matter of Pygmies — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E13%20-%20A%20Small%20Matter%20of%20Pygmies.mp4  
-  Source: library/03-family-cartoons.md
-- Jonny Quest E13 - A Small Matter of Pygmies [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E13%20-%20A%20Small%20Matter%20of%20Pygmies.ia.mp4  
-  Source: library/03-family-cartoons.md
-- Jonny Quest E14 - Dragons of Ashida — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E14%20-%20Dragons%20of%20Ashida.mp4  
-  Source: library/03-family-cartoons.md
-- Jonny Quest E14 - Dragons of Ashida [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E14%20-%20Dragons%20of%20Ashida.ia.mp4  
-  Source: library/03-family-cartoons.md
-- Jonny Quest E15 - Turu the Terrible — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E15%20-%20Turu%20the%20Terrible.mp4  
-  Source: library/03-family-cartoons.md
-- Jonny Quest E15 - Turu the Terrible [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E15%20-%20Turu%20the%20Terrible.ia.mp4  
-  Source: library/03-family-cartoons.md
-- Jonny Quest E16 - The Fraudulent Volcano — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E16%20-%20The%20Fraudulent%20Volcano.mp4  
-  Source: library/03-family-cartoons.md
-- Jonny Quest E16 - The Fraudulent Volcano [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E16%20-%20The%20Fraudulent%20Volcano.ia.mp4  
-  Source: library/03-family-cartoons.md
-- Jonny Quest E17 - Werewolf of the Timberland — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E17%20-%20Werewolf%20of%20the%20Timberland.mp4  
-  Source: library/03-family-cartoons.md
-- Jonny Quest E17 - Werewolf of the Timberland [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E17%20-%20Werewolf%20of%20the%20Timberland.ia.mp4  
-  Source: library/03-family-cartoons.md
-- Jonny Quest E18 - Pirates from Below — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E18%20-%20Pirates%20from%20Below.mp4  
-  Source: library/03-family-cartoons.md
-- Jonny Quest E18 - Pirates from Below [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E18%20-%20Pirates%20from%20Below.ia.mp4  
-  Source: library/03-family-cartoons.md
-- Jonny Quest E19 - Attack of the Tree People — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E19%20-%20Attack%20of%20the%20Tree%20People.mp4  
-  Source: library/03-family-cartoons.md
-- Jonny Quest E19 - Attack of the Tree People [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E19%20-%20Attack%20of%20the%20Tree%20People.ia.mp4  
-  Source: library/03-family-cartoons.md
-- Jonny Quest E20 - The Invisible Monster — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E20%20-%20The%20Invisible%20Monster.mp4  
-  Source: library/03-family-cartoons.md
-- Jonny Quest E20 - The Invisible Monster [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E20%20-%20The%20Invisible%20Monster.ia.mp4  
-  Source: library/03-family-cartoons.md
-- Jonny Quest E21 - The Devils Tower — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E21%20-%20The%20Devils%20Tower.mp4  
-  Source: library/03-family-cartoons.md
-- Jonny Quest E21 - The Devils Tower [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E21%20-%20The%20Devils%20Tower.ia.mp4  
-  Source: library/03-family-cartoons.md
-- Jonny Quest E22 - The Quetong Missile Mystery — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E22%20-%20The%20Quetong%20Missile%20Mystery.mp4  
-  Source: library/03-family-cartoons.md
-- Jonny Quest E22 - The Quetong Missile Mystery [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E22%20-%20The%20Quetong%20Missile%20Mystery.ia.mp4  
-  Source: library/03-family-cartoons.md
-- Jonny Quest E23 - The House of Seven Gargoyles — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E23%20-%20The%20House%20of%20Seven%20Gargoyles.mp4  
-  Source: library/03-family-cartoons.md
-- Jonny Quest E23 - The House of Seven Gargoyles [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E23%20-%20The%20House%20of%20Seven%20Gargoyles.ia.mp4  
-  Source: library/03-family-cartoons.md
-- Jonny Quest E24 - Terror Island — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E24%20-%20Terror%20Island.mp4  
-  Source: library/03-family-cartoons.md
-- Jonny Quest E24 - Terror Island [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E24%20-%20Terror%20Island.ia.mp4  
-  Source: library/03-family-cartoons.md
-- Jonny Quest E25 - Monster in the Monastery — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E25%20-%20Monster%20in%20the%20Monastery.mp4  
-  Source: library/03-family-cartoons.md
-- Jonny Quest E25 - Monster in the Monastery [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E25%20-%20Monster%20in%20the%20Monastery.ia.mp4  
-  Source: library/03-family-cartoons.md
-- Jonny Quest E26 - The Sea Haunt — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E26%20-%20The%20Sea%20Haunt.mp4  
-  Source: library/03-family-cartoons.md
-- Jonny Quest E26 - The Sea Haunt [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E26%20-%20The%20Sea%20Haunt.ia.mp4  
-  Source: library/03-family-cartoons.md
-- Little Audrey In Butterscotch and Soda — https://archive.org/download/LittleAudreyInbutterscotchAndSoda1948/ButterscotchAndSoda_512kb.mp4  
-  Source: library/03-family-cartoons.md
-- Little Lulu: Bargain Counter Attack — https://archive.org/download/little_lulu_bargain_counter_attack/little_lulu_bargain_counter_attack_512kb.mp4  
-  Source: library/03-family-cartoons.md
-- Looney Tunes — Horton Hatches the Egg (1942) — https://archive.org/download/the-1000-looney-tunes-merrie-melodies/1942/s1942e11  
-  Source: library/03-family-cartoons.md
-- Marvel Super Heroes — Avengers Assemble — https://archive.org/download/marvel-super-heroes/Marvel  
-  Source: library/03-family-cartoons.md
-- Mister Magoos Christmas Carol (1962) — https://archive.org/download/mister-magoos-christmas-carol-1962/Mister  
-  Source: library/03-family-cartoons.md
-- Modern Guide to Health — https://archive.org/download/modern_guide_to_health_TNA/modern_guide_to_health_TNA_512kb.mp4  
-  Source: library/03-family-cartoons.md
-- Noveltoon: Tarts and Flowers — https://archive.org/download/noveltoon_tarts_and_flowers/noveltoon_tarts_and_flowers_512kb.mp4  
-  Source: library/03-family-cartoons.md
-- Noveltoon: The Stupidstitious Cat — https://archive.org/download/noveltoon_the_stupidstitious_cat/noveltoon_the_stupidstitious_cat_512kb.mp4  
-  Source: library/03-family-cartoons.md
-- Nu, Pogodi! — Episode 15 — https://archive.org/download/nu-pogodi-complete/Season  
-  Source: library/03-family-cartoons.md
-- Ozzie and Harriet - Christmas Tree Lot in 3D — https://archive.org/download/Ozzie-Harriet_Christmas-Tree-Lot_3D/OZZIEANDHARRIET_3D.mp4  
-  Source: library/03-family-cartoons.md
-- Patriotic Popeye — https://archive.org/download/popeye_patriotic_popeye/popeye_patriotic_popeye_512kb.mp4  
-  Source: library/03-family-cartoons.md
-- Peter Pan (1953) — https://archive.org/download/peterpan1953capturedfromthe1990classicsvhs/Peter  
-  Source: library/03-family-cartoons.md
-- Popeye for President — https://archive.org/download/Popeye_forPresident/Popeye_forPresident_512kb.mp4  
-  Source: library/03-family-cartoons.md
-- Popeye the Sailor Meets Aladdin and His Wonderful Lamp — https://archive.org/download/Popeye_the_Sailor_Meets_Aladdin_and_His_Wonderful_Lamp/Popeye_-_Aladdin_and_His_Wonderful_Lamp_512kb.mp4  
-  Source: library/03-family-cartoons.md
-- Popeye The Sailor: Big Bad Sinbad — https://archive.org/download/popeye_big_bad_sinbad/popeye_big_bad_sinbad_512kb.mp4  
-  Source: library/03-family-cartoons.md
-- Popeye the Sailor: Nearlyweds — https://archive.org/download/Popeye_Nearlyweds/Popeye_Nearlyweds_512kb.mp4  
-  Source: library/03-family-cartoons.md
-- Popeye: Bride and Gloom — https://archive.org/download/Popeye_BrideandGloom/Popeye_BrideandGloom_512kb.mp4  
-  Source: library/03-family-cartoons.md
-- Popeye: I Dont Scare — https://archive.org/download/popeye_i_dont_scare/popeye_i_dont_scare_512kb.mp4  
-  Source: library/03-family-cartoons.md
-- Popeye: Taxi-Turvy — https://archive.org/download/popeye_taxi-turvey/popeye_taxi-turvey_512kb.mp4  
-  Source: library/03-family-cartoons.md
-- Private Eye Popeye — https://archive.org/download/popeye_private_eye_popeye/popeye_private_eye_popeye_512kb.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E01 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E01.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E02 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E02.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E03 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E03.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E04 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E04.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E05 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E05.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E06 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E06.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E07 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E07.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E09 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E09.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E10 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E10.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E11 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E11.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E12 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E12.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E13 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E13.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E14 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E14.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E15 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E15.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E16 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E16.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E17 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E17.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E18 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E18.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E19 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E19.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E20 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E20.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E21 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E21.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E22 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E22.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E23 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E23.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E24 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E24.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E25 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E25.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E26 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E26.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E27 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E27.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E28 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E28.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E29 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E29.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E30 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E30.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E31 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E31.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E32 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E32.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E33 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E33.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E34 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E34.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E35 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E35.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E36 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E36.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E37 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E37.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E38 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E38.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E39 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E39.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E40 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E40.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E41 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E41.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E42 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E42.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E43 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E43.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E44 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E44.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E45 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E45.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E46 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E46.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E47 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E47.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E48 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E48.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E49 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/RockyAndBullwinkleAndFriends-S02E49.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E50 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E50.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E51 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E51.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E52 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E52.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S03E01 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S03E01.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S03E02 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/RockyAndBullwinkleAndFriends-S03E02.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S03E03 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/RockyAndBullwinkleAndFriends-S03E03.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle & Friends - Extra - Goof Gas Attack Outtake — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Extras/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20Extra%20-%20Goof%20Gas%20Attack%20Outtake.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle & Friends - Extra 1 - Dear Bullwinkle — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Extras/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20Extra%201%20-%20Dear%20Bullwinkle.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle & Friends - Extra 1 - Scuba Commercial (with Pencil Test) — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Extras/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20Extra%201%20-%20Scuba%20Commercial%20%28with%20Pencil%20Test%29.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle & Friends - Extra 2 - Bowling Commercial (with Pencil Test) — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Extras/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20Extra%202%20-%20Bowling%20Commercial%20%28with%20Pencil%20Test%29.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle & Friends - Extra 2 - Classic TV Promo Spots — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Extras/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20Extra%202%20-%20Classic%20TV%20Promo%20Spots.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle & Friends - Extra 2 - The Best of Bullwinkle Follies — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Extras/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20Extra%202%20-%20The%20Best%20of%20Bullwinkle%20Follies.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle & Friends - Extra 3 - Pogo Commercial (with Pencil Test) — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Extras/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20Extra%203%20-%20Pogo%20Commercial%20%28with%20Pencil%20Test%29.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle & Friends - Extra 3 - Rocky & Bullwinkle Savings Stamp Club — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Extras/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20Extra%203%20-%20Rocky%20%26%20Bullwinkle%20Savings%20Stamp%20Club.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle & Friends - Extra 3 - Season 4 Sneak Peek — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Extras/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20Extra%203%20-%20Season%204%20Sneak%20Peek.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle & Friends - Extra 4 - June Foray Interview — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Extras/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20Extra%204%20-%20June%20Foray%20Interview.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle & Friends - Extra 4 - Sneak Peak Season 2 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Extras/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20Extra%204%20-%20Sneak%20Peak%20Season%202.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle & Friends - Extra 5 - Boris Badenov, Master of Disguise — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Extras/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20Extra%205%20-%20Boris%20Badenov%2C%20Master%20of%20Disguise.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle & Friends - Extra 5 - Season 3 Sneak Peak — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Extras/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20Extra%205%20-%20Season%203%20Sneak%20Peak.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle & Friends - Extra 6 - Moosecalls, The Best of Bullwinkle Sings — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Extras/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20Extra%206%20-%20Moosecalls%2C%20The%20Best%20of%20Bullwinkle%20Sings.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle & Friends - S01E01 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E01.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle & Friends - S01E02 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E02.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle & Friends - S01E03 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E03.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle & Friends - S01E04 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E04.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle & Friends - S01E05 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E05.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle & Friends - S01E06 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E06.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle & Friends - S01E07 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E07.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle & Friends - S01E08 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E08.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle & Friends - S01E09 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E09.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle & Friends - S01E10 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E10.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle & Friends - S01E11 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E11.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle & Friends - S01E12 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E12.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle & Friends - S01E13 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E13.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle & Friends - S01E14 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E14.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle & Friends - S01E15 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E15.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle & Friends - S01E16 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E16.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle & Friends - S01E17 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E17.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle & Friends - S01E18 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E18.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle & Friends - S01E19 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E19.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle & Friends - S01E20 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E20.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle & Friends - S01E21 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E21.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle & Friends - S01E22 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E22.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle & Friends - S01E23 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E23.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle & Friends - S01E24 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E24.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle & Friends - S01E25 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E25.mp4  
-  Source: library/03-family-cartoons.md
-- Rocky & Bullwinkle & Friends - S01E26 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E26.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S03e04 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e04.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S03e05 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e05.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S03e06 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e06.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S03e07 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e07.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S03e08 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e08.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S03e09 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e09.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S03e10 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e10.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S03e11 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e11.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S03e12 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e12.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S03e13 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e13.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S03e14 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e14.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S03e15 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e15.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S03e16 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e16.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S03e17 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e17.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S03e18 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e18.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S03e19 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e19.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S03e20 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e20.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S03e21 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e21.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S03e22 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e22.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S03e23 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e23.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S03e26 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e26.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S03e27 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e27.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S03e28 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e28.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S03e29 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e29.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S03e30 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e30.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S03e31 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e31.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S03e32 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e32.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S03e33 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e33.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S04e01 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S04e01.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S04e02 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S04e02.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S04e03 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S04e03.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S04e04 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S04e04.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S04e05 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S04e05.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S04e06 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S04e06.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S04e07 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S04e07.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S04e08 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S04e08.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S04e10 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S04e10.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S04e11 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S04e11.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S04e12 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S04e12.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S04e13 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S04e13.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S04e14 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S04e14.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S04e15 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S04e15.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S04e16 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S04e16.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S04e17 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S04e17.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S04e18 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S04e18.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S04e19 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S04e19.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S05e01 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e01.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S05e02 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e02.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S05e03 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e03.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S05e04 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e04.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S05e05 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e05.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S05e06 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e06.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S05e07 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e07.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S05e08 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e08.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S05e09 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e09.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S05e10 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e10.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S05e11 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e11.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S05e12 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e12.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S05e13 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e13.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S05e14 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e14.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S05e15 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e15.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S05e16 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e16.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S05e17 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e17.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S05e18 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e18.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S05e19 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e19.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S05e20 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e20.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S05e21 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e21.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S05e22 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e22.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S05e23 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e23.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S05e24 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e24.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S05e25 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e25.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S05e26 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e26.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S05e27 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e27.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S05e28 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e28.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S05e29 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e29.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S05e30 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e30.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S05e31 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e31.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S05e32 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e32.mp4  
-  Source: library/03-family-cartoons.md
-- RockyBullwinkleFriends-S05e33 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e33.mp4  
-  Source: library/03-family-cartoons.md
-- Santa Claus (1959) — https://archive.org/download/santa-claus-1959/SantaClaus1959.mp4  
-  Source: library/03-family-cartoons.md
-- Scrub Me Mama With A Boogie Beat — https://archive.org/download/ScrubMeMamaWithABoogieBeat/ScrubMeMamaWithABoogieBeat.mp4  
-  Source: library/03-family-cartoons.md
-- Shuteye Popeye — https://archive.org/download/popeye_shuteye_popeye/popeye_shuteye_popeye_512kb.mp4  
-  Source: library/03-family-cartoons.md
-- Silly Symphonies - King Neptune — https://archive.org/download/videoplayback-3_202106-walt-disney-king-neptune/videoplayback%20%283%29.mp4  
-  Source: library/03-family-cartoons.md
-- Silly Symphonies - The Skeleton Dance (1929) — https://archive.org/download/walt-disneys-silly-symphonies-the-complete-collection-1929-39/01%20-%20The%20Skeleton%20Dance%20%281929%29.mp4  
-  Source: library/03-family-cartoons.md
-- Snow Foolin — https://archive.org/download/SnowFoolin/ClaCinOnl_an_SnowFoolin_512kb.mp4  
-  Source: library/03-family-cartoons.md
-- Speed Racer — 03 Challenge of the Masked Racer 1 — https://archive.org/download/speed-racer-tv/03  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 1 - The Origin Of Spiderman — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/1%20-%20The%20Origin%20Of%20Spiderman.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 10 - Revolt In The Fifth Dimension — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/10%20-%20Revolt%20In%20The%20Fifth%20Dimension.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 10 - Vine — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/10%20-%20Vine.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 10A - The Revenge Of Dr Magneto — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/10A%20-%20The%20Revenge%20Of%20Dr.%20Magneto.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 10B - The Sinister Prime Minister — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/10B%20-%20The%20Sinister%20Prime%20Minister.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 11 - Pardo Presents — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/11%20-%20Pardo%20Presents.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 11A - The Night Of The Villains — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/11A%20-%20The%20Night%20Of%20The%20Villains.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 11B - Here Comes Trubble — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/11B%20-%20Here%20Comes%20Trubble.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 12 - Cloud City Of Gold — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/12%20-%20Cloud%20City%20Of%20Gold.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 12 - Down To Earth — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/12%20-%20Down%20To%20Earth.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 12A - Spider-Man Meets Doctor Noah Boddy — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/12A%20-%20Spider-Man%20Meets%20Doctor%20Noah%20Boddy.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 12B - The Fantastic Fakir — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/12B%20-%20The%20Fantastic%20Fakir.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 13 - Neptune's Nose Cone — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/13%20-%20Neptune%27s%20Nose%20Cone.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 13 - Trip To Tomorrow — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/13%20-%20Trip%20To%20Tomorrow.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 13A - Return Of The Flying Dutchman — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/13A%20-%20Return%20Of%20The%20Flying%20Dutchman.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 13B - Farewell Performance — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/13B%20-%20Farewell%20Performance.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 14 - Home — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/14%20-%20Home.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 14A - The Golden Rhino — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/14A%20-%20The%20Golden%20Rhino.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 14B - Blueprint For Crime — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/14B%20-%20Blueprint%20For%20Crime.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 15 - Blotto — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/15%20-%20Blotto.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 15A - The Spider And The Fly — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/15A%20-%20The%20Spider%20And%20The%20Fly.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 15B - The Slippery Doctor Von Schlick — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/15B%20-%20The%20Slippery%20Doctor%20Von%20Schlick.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 16 - Thunder Rumble — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/16%20-%20Thunder%20Rumble.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 16A - The Vulture's Prey — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/16A%20-%20The%20Vulture%27s%20Prey.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 16B - The Dark Terrors — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/16B%20-%20The%20Dark%20Terrors.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 17 - Spiderman Meets Skyboy — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/17%20-%20Spiderman%20Meets%20Skyboy.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 17A - The Terrible Triumph Of Dr Octopus — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/17A%20-%20The%20Terrible%20Triumph%20Of%20Dr.%20Octopus.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 17B - Magic Malice — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/17B%20-%20Magic%20Malice.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 18 - Cold Storage — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/18%20-%20Cold%20Storage.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 18A - Fountain Of Terror — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/18A%20-%20Fountain%20Of%20Terror.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 18B - Fiddler On The Loose — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/18B%20-%20Fiddler%20On%20The%20Loose.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 19 - To Cage A Spider — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/19%20-%20To%20Cage%20A%20Spider.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 19A - To Catch A Spider — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/19A%20-%20To%20Catch%20A%20Spider.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 19B - Double Identity — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/19B%20-%20Double%20Identity.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 1A - The Power Of Dr Octopus — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/1A%20-%20The%20Power%20Of%20Dr.%20Octopus.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 1A - The Winged Thing — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/1A%20-%20The%20Winged%20Thing.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 1B - Conner's Reptiles — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/1B%20-%20Conner%27s%20Reptiles.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 1B - Sub-Zero For Spidey — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/1B%20-%20Sub-Zero%20For%20Spidey.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 2 - King Pinned — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/2%20-%20King%20Pinned.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 20A - Sting Of The Scorpion — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/20A%20-%20Sting%20Of%20The%20Scorpion.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 20B - Trick Or Treachery — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/20B%20-%20Trick%20Or%20Treachery.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 2A - Trouble With Snow — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/2A%20-%20Trouble%20With%20Snow.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 2A - Where Crawls The Lizard — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/2A%20-%20Where%20Crawls%20The%20Lizard.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 2B - Electro The Human Lightning Bolt — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/2B%20-%20Electro%20The%20Human%20Lightning%20Bolt.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 2B - Spiderman Vs Desperado — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/2B%20-%20Spiderman%20Vs.%20Desperado.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 3 - Swing City — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/3%20-%20Swing%20City.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 3 - The Menace Of Mysterio — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/3%20-%20The%20Menace%20Of%20Mysterio.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 3A - Sky Harbor — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/3A%20-%20Sky%20Harbor.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 3B - The Big Brainwasher — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/3B%20-%20The%20Big%20Brainwasher.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 4 - Criminals In The Clouds — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/4%20-%20Criminals%20In%20The%20Clouds.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 4A - The Sky Is Falling — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/4A%20-%20The%20Sky%20Is%20Falling.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 4A - The Vanishing Doctor Vespasian — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/4A%20-%20The%20Vanishing%20Doctor%20Vespasian.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 4B - Captured By J Jonah Jameson — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/4B%20-%20Captured%20By%20J.%20Jonah%20Jameson.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 4B - The Scourge Of The Scarf — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/4B%20-%20The%20Scourge%20Of%20The%20Scarf.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 5 - Menace From The Bottom Of The World — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/5%20-%20Menace%20From%20The%20Bottom%20Of%20The%20World.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 5A - Never Step On A Scorpion — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/5A%20-%20Never%20Step%20On%20A%20Scorpion.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 5A - Super Swami — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/5A%20-%20Super%20Swami.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 5B - Sands Of Crime — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/5B%20-%20Sands%20Of%20Crime.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 5B - The Birth Of Micro Man — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/5B%20-%20The%20Birth%20Of%20Micro%20Man.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 6 - Diamond Dust — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/6%20-%20Diamond%20Dust.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 6A - Diet Of Destruction — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/6A%20-%20Diet%20Of%20Destruction.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 6A - Knight Must Fall — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/6A%20-%20Knight%20Must%20Fall.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 6B - The Devious Dr Dumpty — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/6B%20-%20The%20Devious%20Dr.%20Dumpty.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 6B - The Witching Hour — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/6B%20-%20The%20Witching%20Hour.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 7 - Spiderman Battles The Molement — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/7%20-%20Spiderman%20Battles%20The%20Molement.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 7 - Up From Nowhere — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/7%20-%20Up%20From%20Nowhere.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 7A - Kilowatt Kaper — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/7A%20-%20Kilowatt%20Kaper.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 7B - The Peril Of Parafino — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/7B%20-%20The%20Peril%20Of%20Parafino.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 8 - Horn Of The Rhino — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/8%20-%20Horn%20Of%20The%20Rhino.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 8 - Phantom From The Depths Of Time — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/8%20-%20Phantom%20From%20The%20Depths%20Of%20Time.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 8 - Rollarama — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/8%20-%20Rollarama.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 9 - The Evil Sorcerer — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/9%20-%20The%20Evil%20Sorcerer.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 9A - Rhino — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/9A%20-%20Rhino.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 9A - The One-Eyed Idol — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/9A%20-%20The%20One-Eyed%20Idol.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 9B - Fifth Avenue Phantom — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/9B%20-%20Fifth%20Avenue%20Phantom.mp4  
-  Source: library/03-family-cartoons.md
-- Spider-Man (1967) — 9B - The Madness Of Mysterio — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/9B%20-%20The%20Madness%20Of%20Mysterio.mp4  
-  Source: library/03-family-cartoons.md
-- Supaidaman — 01 - The Time of Revenge Has Come! Beat Down Iron Cross Group!! — https://archive.org/download/Supaidman/Supaidaman/01%20-%20The%20Time%20of%20Revenge%20Has%20Come%21%20Beat%20Down%20Iron%20Cross%20Group%21%21.mp4  
-  Source: library/03-family-cartoons.md
-- Supaidaman — 02 - Mysterious World! The Man Who Follows His Fate — https://archive.org/download/Supaidman/Supaidaman/02%20-%20Mysterious%20World%21%20The%20Man%20Who%20Follows%20His%20Fate.mp4  
-  Source: library/03-family-cartoons.md
-- Supaidaman — 03 - Mysterious Thief 001 VS Spider-Man — https://archive.org/download/Supaidman/Supaidaman/03%20-%20Mysterious%20Thief%20001%20VS.%20Spider-Man.mp4  
-  Source: library/03-family-cartoons.md
-- Supaidaman — 04 - The Terrifying Half Merman! The Miracle-Calling Silver Thread — https://archive.org/download/Supaidman/Supaidaman/04%20-%20The%20Terrifying%20Half%20Merman%21%20The%20Miracle-Calling%20Silver%20Thread.mp4  
-  Source: library/03-family-cartoons.md
-- Supaidaman — 05 - Crash Machine GP-7! The Oath Siblings — https://archive.org/download/Supaidman/Supaidaman/05%20-%20Crash%20Machine%20GP-7%21%20The%20Oath%20Siblings.mp4  
-  Source: library/03-family-cartoons.md
-- Supaidaman — 06 - Shuddering Laboratory! Devilish Professor Monster — https://archive.org/download/Supaidman/Supaidaman/06%20-%20Shuddering%20Laboratory%21%20Devilish%20Professor%20Monster.mp4  
-  Source: library/03-family-cartoons.md
-- Supaidaman — 07 - Fearful Hit Tune! Song Dancing Murder Rock — https://archive.org/download/Supaidman/Supaidaman/07%20-%20Fearful%20Hit%20Tune%21%20Song%20Dancing%20Murder%20Rock.mp4  
-  Source: library/03-family-cartoons.md
-- Supaidaman — 08 - A Very Mysterious Folktale - The Cursed Cat Mound — https://archive.org/download/Supaidman/Supaidaman/08%20-%20A%20Very%20Mysterious%20Folktale%20-%20The%20Cursed%20Cat%20Mound.mp4  
-  Source: library/03-family-cartoons.md
-- Supaidaman — 09 - Motion Accessory is a Loveful Beetle Insect Spy — https://archive.org/download/Supaidman/Supaidaman/09%20-%20Motion%20Accessory%20is%20a%20Loveful%20Beetle%20Insect%20Spy.mp4  
-  Source: library/03-family-cartoons.md
-- Supaidaman — 10 - To the Flaming Hell - See the Tears of the Snake Woman — https://archive.org/download/Supaidman/Supaidaman/10%20-%20To%20the%20Flaming%20Hell%20-%20See%20the%20Tears%20of%20the%20Snake%20Woman.mp4  
-  Source: library/03-family-cartoons.md
-- Supaidaman — 11 - Professor Monster's Ultra Poisoning — https://archive.org/download/Supaidman/Supaidaman/11%20-%20Professor%20Monster%27s%20Ultra%20Poisoning.mp4  
-  Source: library/03-family-cartoons.md
-- Supaidaman — 12 - Becoming Splendid - To the Murderous Machine of Transformation — https://archive.org/download/Supaidman/Supaidaman/12%20-%20Becoming%20Splendid%20-%20To%20the%20Murderous%20Machine%20of%20Transformation.mp4  
-  Source: library/03-family-cartoons.md
-- Supaidaman — 13 - The Skull Group VS The Devilish Hearse — https://archive.org/download/Supaidman/Supaidaman/13%20-%20The%20Skull%20Group%20VS.%20The%20Devilish%20Hearse.mp4  
-  Source: library/03-family-cartoons.md
-- Supaidaman — 14 - Giving Father! Fight to the Song of the Hero — https://archive.org/download/Supaidman/Supaidaman/14%20-%20Giving%20Father%21%20Fight%20to%20the%20Song%20of%20the%20Hero.mp4  
-  Source: library/03-family-cartoons.md
-- Supaidaman — 15 - The Life of Our Arrangement — https://archive.org/download/Supaidman/Supaidaman/15%20-%20The%20Life%20of%20Our%20Arrangement.mp4  
-  Source: library/03-family-cartoons.md
-- Supaidaman — 16 - Fine Dog! Run to the Under of Father — https://archive.org/download/Supaidman/Supaidaman/16%20-%20Fine%20Dog%21%20Run%20to%20the%20Under%20of%20Father.mp4  
-  Source: library/03-family-cartoons.md
-- Supaidaman — 17 - Pro Wrestler Samson's Tears — https://archive.org/download/Supaidman/Supaidaman/17%20-%20Pro%20Wrestler%20Samson%27s%20Tears.mp4  
-  Source: library/03-family-cartoons.md
-- Supaidaman — 18 - In the Mother's Chest - Resurrect the Young Boys — https://archive.org/download/Supaidman/Supaidaman/18%20-%20In%20the%20Mother%27s%20Chest%20-%20Resurrect%20the%20Young%20Boys.mp4  
-  Source: library/03-family-cartoons.md
-- Supaidaman — 19 - The Boy Phantom - To the Villageless Map — https://archive.org/download/Supaidman/Supaidaman/19%20-%20The%20Boy%20Phantom%20-%20To%20the%20Villageless%20Map.mp4  
-  Source: library/03-family-cartoons.md
-- Supaidaman — 20 - Riddle - Calling the Riddle of My Secret Birth — https://archive.org/download/Supaidman/Supaidaman/20%20-%20Riddle%20-%20Calling%20the%20Riddle%20of%20My%20Secret%20Birth.mp4  
-  Source: library/03-family-cartoons.md
-- Supaidaman — 21 - Fall to the Great Skies - Father's Love — https://archive.org/download/Supaidman/Supaidaman/21%20-%20Fall%20to%20the%20Great%20Skies%20-%20Father%27s%20Love.mp4  
-  Source: library/03-family-cartoons.md
-- Supaidaman — 22 - Shedding Tears to the Dark Fate - Father and Child — https://archive.org/download/Supaidman/Supaidaman/22%20-%20Shedding%20Tears%20to%20the%20Dark%20Fate%20-%20Father%20and%20Child.mp4  
-  Source: library/03-family-cartoons.md
-- Supaidaman — 24 - Cockroach Boy - Great War — https://archive.org/download/Supaidman/Supaidaman/24%20-%20Cockroach%20Boy%20-%20Great%20War.mp4  
-  Source: library/03-family-cartoons.md
-- Supaidaman — 25 - Treasure, Dog, and Double Grow Human — https://archive.org/download/Supaidman/Supaidaman/25%20-%20Treasure%2C%20Dog%2C%20and%20Double%20Grow%20Human.mp4  
-  Source: library/03-family-cartoons.md
-- Supaidaman — 26 - To the Absolute Crisis - The Imitation Hero — https://archive.org/download/Supaidman/Supaidaman/26%20-%20To%20the%20Absolute%20Crisis%20-%20The%20Imitation%20Hero.mp4  
-  Source: library/03-family-cartoons.md
-- Supaidaman — 27 - Farewell War Buddy - Beloved German Shepherd — https://archive.org/download/Supaidman/Supaidaman/27%20-%20Farewell%20War%20Buddy%20-%20Beloved%20German%20Shepherd.mp4  
-  Source: library/03-family-cartoons.md
-- Supaidaman — 28 - The Front of the Alley - Boys' Detective Group — https://archive.org/download/Supaidman/Supaidaman/28%20-%20The%20Front%20of%20the%20Alley%20-%20Boys%27%20Detective%20Group.mp4  
-  Source: library/03-family-cartoons.md
-- Supaidaman — 29 - Hurry, GP-7 - Time of Stop Sign — https://archive.org/download/Supaidman/Supaidaman/29%20-%20Hurry%2C%20GP-7%20-%20Time%20of%20Stop%20Sign.mp4  
-  Source: library/03-family-cartoons.md
-- Supaidaman — 30 - Good Luck, Beautiful Police Officer — https://archive.org/download/Supaidman/Supaidaman/30%20-%20Good%20Luck%2C%20Beautiful%20Police%20Officer.mp4  
-  Source: library/03-family-cartoons.md
-- Supaidaman — 31 - There Is No Child-Taking Detective Tomorrow — https://archive.org/download/Supaidman/Supaidaman/31%20-%20There%20Is%20No%20Child-Taking%20Detective%20Tomorrow.mp4  
-  Source: library/03-family-cartoons.md
-- Supaidaman — 32 - Sweet Whispering Enchantress — https://archive.org/download/Supaidman/Supaidaman/32%20-%20Sweet%20Whispering%20Enchantress.mp4  
-  Source: library/03-family-cartoons.md
-- Supaidaman — 33 - The Boy Teases the Horrible Wild Girl — https://archive.org/download/Supaidman/Supaidaman/33%20-%20The%20Boy%20Teases%20the%20Horrible%20Wild%20Girl.mp4  
-  Source: library/03-family-cartoons.md
-- Supaidaman — 35 - From the Unexplored Amazon - Here Comes the Mummified Beautiful Woman — https://archive.org/download/Supaidman/Supaidaman/35%20-%20From%20the%20Unexplored%20Amazon%20-%20Here%20Comes%20the%20Mummified%20Beautiful%20Woman.mp4  
-  Source: library/03-family-cartoons.md
-- Supaidaman — 36 - The Onion Silver Mask and the Boys' Detective Group — https://archive.org/download/Supaidman/Supaidaman/36%20-%20The%20Onion%20Silver%20Mask%20and%20the%20Boys%27%20Detective%20Group.mp4  
-  Source: library/03-family-cartoons.md
-- Supaidaman — 37 - From the Secret Messenger of Hell - Great King Enma — https://archive.org/download/Supaidman/Supaidaman/37%20-%20From%20the%20Secret%20Messenger%20of%20Hell%20-%20Great%20King%20Enma.mp4  
-  Source: library/03-family-cartoons.md
-- Supaidaman — 38 - The First Tin Plate Evening Star and the Boys' Detective Group — https://archive.org/download/Supaidman/Supaidaman/38%20-%20The%20First%20Tin%20Plate%20Evening%20Star%20and%20the%20Boys%27%20Detective%20Group.mp4  
-  Source: library/03-family-cartoons.md
-- Supaidaman — 39 - Sports World - One Great Meeting — https://archive.org/download/Supaidman/Supaidaman/39%20-%20Sports%20World%20-%20One%20Great%20Meeting.mp4  
-  Source: library/03-family-cartoons.md
-- Supaidaman — 40 - Farewell Zero Battle Tricks — https://archive.org/download/Supaidman/Supaidaman/40%20-%20Farewell%20Zero%20Battle%20Tricks.mp4  
-  Source: library/03-family-cartoons.md
-- Supaidaman — 41 - The Hero's Shining Hot Blood — https://archive.org/download/Supaidman/Supaidaman/41%20-%20The%20Hero%27s%20Shining%20Hot%20Blood.mp4  
-  Source: library/03-family-cartoons.md
-- Supaidaman — Supaidāman - The Movie — https://archive.org/download/Supaidman/Supaidaman/Supaid%C4%81man%20-%20The%20Movie.mp4  
-  Source: library/03-family-cartoons.md
-- Superman The Magnetic Telescope — https://archive.org/download/Superman_The_Magnetic_Telescope/Superman_The_Magnetic_Telescope_512kb.mp4  
-  Source: library/03-family-cartoons.md
-- The Bob Hope Show, Christmas In Vietnam — https://archive.org/download/ChristmasInVietnam/1968-12-22  
-  Source: library/03-family-cartoons.md
-- The Candle Maker — https://archive.org/download/TheCandleMaker/ClaCinOnl_an_TheCandleMaker.mp4  
-  Source: library/03-family-cartoons.md
-- The Christmas Visitor — https://archive.org/download/TheChristmasVisitor/ClaCinOnl_an_TheChristmasVisitor.mp4  
-  Source: library/03-family-cartoons.md
-- The Friendly Ghost — https://archive.org/download/TheFriendlyGhost/TheFriendlyGhost_512kb.mp4  
-  Source: library/03-family-cartoons.md
-- The Leprechauns Christmas Gold (1981) — https://archive.org/download/1981theleprechaunschristmasgold/1981  
-  Source: library/03-family-cartoons.md
-- The Year Without A Santa Claus (1974) — https://archive.org/download/the-year-without-a-santa-claus-1974_202203/The  
-  Source: library/03-family-cartoons.md
-- Tintin and Destination Moon — https://archive.org/download/complete-tintin/14.%20TinTin%20and%20Destination%20Moon.mp4  
-  Source: library/03-family-cartoons.md
-- Tintin and Flight 714 — https://archive.org/download/complete-tintin/20.%20TinTin%20and%20Flight%20714.mp4  
-  Source: library/03-family-cartoons.md
-- Tintin and the Black Island — https://archive.org/download/complete-tintin/5.%20TinTin%20and%20the%20Black%20Island.mp4  
-  Source: library/03-family-cartoons.md
-- Tintin and the Blue Lotus — https://archive.org/download/complete-tintin/1.%20TinTin%20and%20the%20Blue%20Lotus.mp4  
-  Source: library/03-family-cartoons.md
-- Tintin and the Broken Ear — https://archive.org/download/complete-tintin/4.TinTin%20and%20the%20Broken%20Ear.mp4  
-  Source: library/03-family-cartoons.md
-- Tintin and the Calculus Affair — https://archive.org/download/complete-tintin/16.%20TinTin%20and%20the%20Calculus%20Affair.mp4  
-  Source: library/03-family-cartoons.md
-- Tintin and the Castafiore Emerald — https://archive.org/download/complete-tintin/19.%20TinTin%20and%20the%20Castafiore%20Emearld.mp4  
-  Source: library/03-family-cartoons.md
-- Tintin and the Cigars of the Pharaoh — https://archive.org/download/complete-tintin/3.%20TinTin%20and%20the%20Cigars%20of%20the%20Pharaoh.mp4  
-  Source: library/03-family-cartoons.md
-- Tintin and the Crab with the Golden Claws — https://archive.org/download/complete-tintin/7.%20TinTin%20and%20the%20Crab%20with%20the%20Golden%20Claws.mp4  
-  Source: library/03-family-cartoons.md
-- Tintin and the Explorers on the Moon — https://archive.org/download/complete-tintin/15.%20TinTin%20and%20the%20Explorers%20on%20the%20Moon.mp4  
-  Source: library/03-family-cartoons.md
-- Tintin and the King Ottokar's Sceptre — https://archive.org/download/complete-tintin/6.%20TinTin%20and%20the%20Kinf%20Ottokar%27s%20Sceptre.mp4  
-  Source: library/03-family-cartoons.md
-- Tintin and the Land of Black Gold — https://archive.org/download/complete-tintin/13.%20TinTin%20and%20the%20Land%20of%20Black%20Gold.mp4  
-  Source: library/03-family-cartoons.md
-- Tintin and the Picaros — https://archive.org/download/complete-tintin/21.%20TinTin%20and%20the%20Picaros.mp4  
-  Source: library/03-family-cartoons.md
-- Tintin and the Prisoners of the Sun — https://archive.org/download/complete-tintin/12.%20TinTin%20and%20the%20Prisoners%20of%20the%20Sun.mp4  
-  Source: library/03-family-cartoons.md
-- Tintin and the Red Rackham Treasure — https://archive.org/download/complete-tintin/10.%20TinTin%20and%20the%20Red%20Rackham%20Treasure.mp4  
-  Source: library/03-family-cartoons.md
-- Tintin and the Red Sea Sharks — https://archive.org/download/complete-tintin/17.%20TinTin%20and%20the%20Red%20Sea%20Sharks.mp4  
-  Source: library/03-family-cartoons.md
-- Tintin and the Secret of the Unicorn — https://archive.org/download/complete-tintin/9.%20TinTin%20and%20the%20Secret%20of%20the%20Unicorn.mp4  
-  Source: library/03-family-cartoons.md
-- Tintin and the Seven Crystals Balls — https://archive.org/download/complete-tintin/11.%20TinTin%20and%20the%20Seven%20Crystals%20Balls.mp4  
-  Source: library/03-family-cartoons.md
-- Tintin and the Shooting Star — https://archive.org/download/complete-tintin/8.%20TinTin%20and%20the%20Shooting%20Star.mp4  
-  Source: library/03-family-cartoons.md
-- Tintin in America — https://archive.org/download/complete-tintin/2.%20TinTin%20in%20America.mp4  
-  Source: library/03-family-cartoons.md
-- Tintin in Tibet — https://archive.org/download/complete-tintin/18.%20TinTin%20in%20Tibet.mp4  
-  Source: library/03-family-cartoons.md
-- Twas the Night Before Christmas — https://archive.org/download/twas-the-night-before-christmas-1974-full-movie-freedownloadvideo.net/twas-the-night-before-christmas-1974-full-movie-freedownloadvideo.net.mp4  
-  Source: library/03-family-cartoons.md
 - 1968 Baltimore Riots Reel — https://archive.org/download/68riotsTBDreel/68riotsTBDreel.mp4  
-  Source: library/04-documentaries.md
-- 20 Years Of Strategic Air Command — https://archive.org/download/2927420YearsOfStrategicAirCommandMos/29274%2020%20years%20Of%20Strategic%20Air%20Command_mos.mp4  
-  Source: library/04-documentaries.md
-- 3 79-hfc-287-r1 — https://archive.org/download/gov.ntis.ava15996vnb1/3.79-hfc-287-r1.mp4  
-  Source: library/04-documentaries.md
-- 4 79-hfc-287-r2 — https://archive.org/download/gov.ntis.ava15996vnb1/4.79-hfc-287-r2.mp4  
-  Source: library/04-documentaries.md
-- 5 79-hfc-287-r3 — https://archive.org/download/gov.ntis.ava15996vnb1/5.79-hfc-287-r3.mp4  
-  Source: library/04-documentaries.md
-- 79-hfc-287-r1 — https://archive.org/download/gov.ntis.ava15996vnb1/79-hfc-287-r1.mp4  
-  Source: library/04-documentaries.md
-- 79-hfc-287-r1 tp 8bit — https://archive.org/download/gov.ntis.ava15996vnb1/79-hfc-287-r1_tp_8bit.mp4  
-  Source: library/04-documentaries.md
-- 79-hfc-287-r2 — https://archive.org/download/gov.ntis.ava15996vnb1/79-hfc-287-r2.mp4  
-  Source: library/04-documentaries.md
-- 79-hfc-287-r2 tp 8bit — https://archive.org/download/gov.ntis.ava15996vnb1/79-hfc-287-r2_tp_8bit.mp4  
-  Source: library/04-documentaries.md
-- 79-hfc-287-r3 — https://archive.org/download/gov.ntis.ava15996vnb1/79-hfc-287-r3.mp4  
-  Source: library/04-documentaries.md
-- 79-hfc-287-r3 tp 8bit — https://archive.org/download/gov.ntis.ava15996vnb1/79-hfc-287-r3_tp_8bit.mp4  
-  Source: library/04-documentaries.md
-- A is for Atom (1953) — https://archive.org/download/0159_A_is_for_Atom_01_00_48_00/0159_A_is_for_Atom_01_00_48_00.mp4  
-  Source: library/04-documentaries.md
-- AAF Combat Camera Units Weekly Digest pt 63 — https://archive.org/download/42124aafcombatcameraunitsweeklydigestpt63vwr/42124%20AAF%20Combat%20Camera%20Units%20Weekly%20Digest%20pt%2063_vwr.mp4  
-  Source: library/04-documentaries.md
-- AboutBan1935 — https://archive.org/download/AboutBan1935/AboutBan1935.mp4  
-  Source: library/04-documentaries.md
-- AboutBan1935 edit — https://archive.org/download/AboutBan1935/AboutBan1935_edit.mp4  
-  Source: library/04-documentaries.md
-- Alaskas Silver Millions (Part I) — https://archive.org/download/AlaskasS1936/AlaskasS1936_edit.mp4  
-  Source: library/04-documentaries.md
-- Alaskas Silver Millions (Part II) — https://archive.org/download/AlaskasS1936_2/AlaskasS1936_2_edit.mp4  
-  Source: library/04-documentaries.md
-- aloneathome — https://archive.org/download/aloneathome/aloneathome/aloneathome.mp4  
-  Source: library/04-documentaries.md
-- Angel and the Badman — https://archive.org/download/angel_and_the_badman/angel_and_the_badman.mp4  
-  Source: library/04-documentaries.md
-- Appalachia: Rich Land, Poor People — https://archive.org/download/appalachiarichlandpoorpeople/appalachiarichlandpoorpeople/appalachiarichlandpoorpeoplereel2.mp4  
-  Source: library/04-documentaries.md
-- ArrangingThe — https://archive.org/download/ArrangingThe/ArrangingThe.mp4  
-  Source: library/04-documentaries.md
-- ArrangingThe edit — https://archive.org/download/ArrangingThe/ArrangingThe_edit.mp4  
-  Source: library/04-documentaries.md
-- AsBoysGr1957 — https://archive.org/download/AsBoysGr1957/AsBoysGr1957.mp4  
-  Source: library/04-documentaries.md
-- AsBoysGr1957 edit — https://archive.org/download/AsBoysGr1957/AsBoysGr1957_edit.mp4  
-  Source: library/04-documentaries.md
-- Atomic Alert (1951) — https://archive.org/download/AtomicAl1951/AtomicAl1951_edit.mp4  
-  Source: library/04-documentaries.md
-- AtomicAl1951 — https://archive.org/download/AtomicAl1951/AtomicAl1951.mp4  
-  Source: library/04-documentaries.md
-- ava15996vnb1 — https://archive.org/download/gov.ntis.ava15996vnb1/ava15996vnb1.mp4  
-  Source: library/04-documentaries.md
-- BuildYou1948 — https://archive.org/download/BuildYou1948/BuildYou1948.mp4  
-  Source: library/04-documentaries.md
-- BuildYou1948 edit — https://archive.org/download/BuildYou1948/BuildYou1948_edit.mp4  
-  Source: library/04-documentaries.md
-- Bureau of Indian Affairs, “Chicago Story” (16mm film reel), approximately 1968 — https://archive.org/download/ayer_mms_bia_relocation_box_004/Ayer_Modern_MS_BIA_Relocation.mp4  
-  Source: library/04-documentaries.md
-- Business Films — https://archive.org/download/Business1968/Business1968_edit.mp4  
-  Source: library/04-documentaries.md
-- Careofth1951 — https://archive.org/download/Careofth1951/Careofth1951.mp4  
-  Source: library/04-documentaries.md
-- CaseofSp1940 — https://archive.org/download/CaseofSp1940/CaseofSp1940.mp4  
-  Source: library/04-documentaries.md
-- CaseofSp1940 edit — https://archive.org/download/CaseofSp1940/CaseofSp1940_edit.mp4  
-  Source: library/04-documentaries.md
-- ccoPublicDomainSword of Lancelot — https://archive.org/download/cco_swordoflancelot/ccoPublicDomainSword_of_Lancelot.mp4  
-  Source: library/04-documentaries.md
-- Centinelas del Silencio — https://archive.org/download/centinelas_del_silencio/centinelas_del_silencio_512kb.mp4  
-  Source: library/04-documentaries.md
-- CindyGoe1955 — https://archive.org/download/CindyGoe1955/CindyGoe1955.mp4  
-  Source: library/04-documentaries.md
-- CindyGoe1955 edit — https://archive.org/download/CindyGoe1955/CindyGoe1955_edit.mp4  
-  Source: library/04-documentaries.md
-- ClassicT1948 — https://archive.org/download/ClassicT1948/ClassicT1948.mp4  
-  Source: library/04-documentaries.md
-- ClassicT1948 edit — https://archive.org/download/ClassicT1948/ClassicT1948_edit.mp4  
-  Source: library/04-documentaries.md
-- Coal Miner, The — https://archive.org/download/coal_miner/coal_miner_512kb.mp4  
-  Source: library/04-documentaries.md
-- communications primer — https://archive.org/download/communications_primer/communications_primer.mp4  
-  Source: library/04-documentaries.md
-- communications primer edit — https://archive.org/download/communications_primer/communications_primer_edit.mp4  
-  Source: library/04-documentaries.md
-- Communis1952 — https://archive.org/download/Communis1952/Communis1952.mp4  
-  Source: library/04-documentaries.md
-- Communis1952 edit — https://archive.org/download/Communis1952/Communis1952_edit.mp4  
-  Source: library/04-documentaries.md
-- Connections 1x01 Trigger — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%201/Connections%20S01E01%20-%20The%20Trigger%20Effect.mp4  
-  Source: library/04-documentaries.md
-- Connections 1x02 Death Morn — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%201/Connections%20S01E02%20-%20Death%20in%20the%20Morning.mp4  
-  Source: library/04-documentaries.md
-- Connections 1x03 Distant — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%201/Connections%20S01E03%20-%20Distant%20Voices.mp4  
-  Source: library/04-documentaries.md
-- Connections 1x04 Faith — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%201/Connections%20S01E04%20-%20Faith%20in%20Numbers.mp4  
-  Source: library/04-documentaries.md
-- Connections 1x05 Wheel — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%201/Connections%20S01E05%20-%20The%20Wheel%20of%20Fortune.mp4  
-  Source: library/04-documentaries.md
-- Connections 1x06 Thunder — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%201/Connections%20S01E06%20-%20Thunder%20in%20the%20Skies.mp4  
-  Source: library/04-documentaries.md
-- Connections 1x07 Long Chain — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%201/Connections%20S01E07%20-%20The%20Long%20Chain.mp4  
-  Source: library/04-documentaries.md
-- Connections 1x08 Eat Drink — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%201/Connections%20S01E08%20-%20Eat%2C%20Drink%20and%20Be%20Merry.mp4  
-  Source: library/04-documentaries.md
-- Connections 1x09 Countdown — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%201/Connections%20S01E09%20-%20Countdown.mp4  
-  Source: library/04-documentaries.md
-- Connections 1x10 Yesterday — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%201/Connections%20S01E10%20-%20Yesterday%2C%20Tomorrow%20and%20You.mp4  
-  Source: library/04-documentaries.md
-- Connections 2x01 Revolutions — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E01%20-%20Revolutions.mp4  
-  Source: library/04-documentaries.md
-- Connections 2x02 Journeys — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E02%20-%20Sentimental%20Journeys.mp4  
-  Source: library/04-documentaries.md
-- Connections 2x03 Together — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E03%20-%20Getting%20It%20Together.mp4  
-  Source: library/04-documentaries.md
-- Connections 2x04 Whodunit — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E04%20-%20Whodunit.mp4  
-  Source: library/04-documentaries.md
-- Connections 2x05 Nothing — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E05%20-%20Something%20for%20Nothing.mp4  
-  Source: library/04-documentaries.md
-- Connections 2x06 Echoes — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E06%20-%20Echoes%20of%20the%20Past.mp4  
-  Source: library/04-documentaries.md
-- Connections 2x07 Photo Fin — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E07%20-%20Photo%20Finish.mp4  
-  Source: library/04-documentaries.md
-- Connections 2x08 Separate — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E08%20-%20Separate%20Ways.mp4  
-  Source: library/04-documentaries.md
-- Connections 2x09 High Times — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E09%20-%20High%20Times.mp4  
-  Source: library/04-documentaries.md
-- Connections 2x10 Deja Vu — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E10%20-%20Deja%20Vu.mp4  
-  Source: library/04-documentaries.md
-- Connections 2x11 Harmony — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E11%20-%20New%20Harmony.mp4  
-  Source: library/04-documentaries.md
-- Connections 2x12 Hot Pickle — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E12%20-%20Hot%20Pickle.mp4  
-  Source: library/04-documentaries.md
-- Connections 2x13 Big Spin — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E13%20-%20The%20Big%20Spin.mp4  
-  Source: library/04-documentaries.md
-- Connections 2x14 Ideas — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E14%20-%20Bright%20Ideas.mp4  
-  Source: library/04-documentaries.md
-- Connections 2x15 Waves — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E15%20-%20Making%20Waves.mp4  
-  Source: library/04-documentaries.md
-- Connections 2x16 Routes — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E16%20-%20Routes.mp4  
-  Source: library/04-documentaries.md
-- Connections 2x17 One Word — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E17%20-%20One%20Word.mp4  
-  Source: library/04-documentaries.md
-- Connections 2x18 Sign Here — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E18%20-%20Sign%20Here.mp4  
-  Source: library/04-documentaries.md
-- Connections 2x19 Real Thing — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E19%20-%20Better%20Than%20the%20Real%20Thing.mp4  
-  Source: library/04-documentaries.md
-- Connections 2x20 Flex Resp — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E20%20-%20Flexible%20Response.mp4  
-  Source: library/04-documentaries.md
-- Connections 3x01 Feedback — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%203/Connections%20S03E01%20-%20Feedback.mp4  
-  Source: library/04-documentaries.md
-- Connections 3x02 Name — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%203/Connections%20S03E02%20-%20What%27s%20in%20a%20Name.mp4  
-  Source: library/04-documentaries.md
-- Connections 3x03 Apple — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%203/Connections%20S03E03%20-%20Drop%20the%20Apple.mp4  
-  Source: library/04-documentaries.md
-- Connections 3x04 Invisible — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%203/Connections%20S03E04%20-%20An%20Invisible%20Object.mp4  
-  Source: library/04-documentaries.md
-- Connections 3x05 No Picnic — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%203/Connections%20S03E05%20-%20Life%20Is%20No%20Picnic.mp4  
-  Source: library/04-documentaries.md
-- Connections 3x06 Stuff — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%203/Connections%20S03E06%20-%20Elementary%20Stuff.mp4  
-  Source: library/04-documentaries.md
-- Connections 3x07 Place — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%203/Connections%20S03E07%20-%20A%20Special%20Place.mp4  
-  Source: library/04-documentaries.md
-- Connections 3x08 Sky Fire — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%203/Connections%20S03E08%20-%20Fire%20From%20the%20Sky.mp4  
-  Source: library/04-documentaries.md
-- Connections 3x09 Water — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%203/Connections%20S03E09%20-%20Hit%20the%20Water.mp4  
-  Source: library/04-documentaries.md
-- Connections 3x10 In Touch — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%203/Connections%20S03E10%20-%20In%20Touch.mp4  
-  Source: library/04-documentaries.md
-- Cyrano De Bergerac — https://archive.org/download/Cyrano_DeBergerac/Cyrano_De_Bergerac.mp4  
-  Source: library/04-documentaries.md
-- DatingDo1949 — https://archive.org/download/DatingDo1949/DatingDo1949.mp4  
-  Source: library/04-documentaries.md
-- DatingDo1949 edit — https://archive.org/download/DatingDo1949/DatingDo1949_edit.mp4  
-  Source: library/04-documentaries.md
-- Detour — https://archive.org/download/Detour/Detour.mp4  
-  Source: library/04-documentaries.md
-- EatforHe1954 — https://archive.org/download/EatforHe1954/EatforHe1954.mp4  
-  Source: library/04-documentaries.md
-- EatforHe1954 edit — https://archive.org/download/EatforHe1954/EatforHe1954_edit.mp4  
-  Source: library/04-documentaries.md
-- Edge of Creation (1979) — https://archive.org/download/NGSDivetotheEdgeofCreation/National.Geographic.Specials.S14E01.Dive.to.the.Edge.of.Creation.1980.VHSRip.DD2.0.x264-rattera.mp4  
-  Source: library/04-documentaries.md
-- First Spaceship on Venus — https://archive.org/download/FirstSpaceshipOnVenusMPEG/First_Spaceship_On_Venus.mp4  
-  Source: library/04-documentaries.md
-- FromtheG1954 — https://archive.org/download/FromtheG1954/FromtheG1954.mp4  
-  Source: library/04-documentaries.md
-- FromtheG1954 edit — https://archive.org/download/FromtheG1954/FromtheG1954_edit.mp4  
-  Source: library/04-documentaries.md
-- Front Line, The — https://archive.org/download/FrontLin1965/FrontLin1965_edit.mp4  
-  Source: library/04-documentaries.md
-- GoodEati1951 — https://archive.org/download/GoodEati1951/GoodEati1951.mp4  
-  Source: library/04-documentaries.md
-- GoodEati1951 edit — https://archive.org/download/GoodEati1951/GoodEati1951_edit.mp4  
-  Source: library/04-documentaries.md
-- He Walked By Night — https://archive.org/download/He_Walked_By_Night.avi/He_Walked_By_Night.mp4  
-  Source: library/04-documentaries.md
-- HealthYo1953 — https://archive.org/download/HealthYo1953/HealthYo1953.mp4  
-  Source: library/04-documentaries.md
-- HealthYo1953 edit — https://archive.org/download/HealthYo1953/HealthYo1953_edit.mp4  
-  Source: library/04-documentaries.md
-- het is weer zomer — https://archive.org/download/filmcollectief-00-0013/het_is_weer_zomer.mp4  
-  Source: library/04-documentaries.md
-- humanbirthvertexbreechandcaesarean — https://archive.org/download/humanbirthvertexbreechandcaesarean/humanbirthvertexbreechandcaesarean.mp4  
-  Source: library/04-documentaries.md
-- HumanRep1947 — https://archive.org/download/HumanRep1947/HumanRep1947.mp4  
-  Source: library/04-documentaries.md
-- HumanRep1947 edit — https://archive.org/download/HumanRep1947/HumanRep1947_edit.mp4  
-  Source: library/04-documentaries.md
-- impact — https://archive.org/download/impact/impact.mp4  
-  Source: library/04-documentaries.md
-- Impact 66 — https://archive.org/download/0689_Impact_66_01_01_01_00/0689_Impact_66_01_01_01_00.mp4  
-  Source: library/04-documentaries.md
-- Iron Country: Iron Ore and Minnesotas Future — https://archive.org/download/IronCoun1952/IronCoun1952_edit.mp4  
-  Source: library/04-documentaries.md
-- isforAto1953 — https://archive.org/download/isforAto1953/isforAto1953.mp4  
-  Source: library/04-documentaries.md
-- isforAto1953 edit — https://archive.org/download/isforAto1953/isforAto1953_edit.mp4  
-  Source: library/04-documentaries.md
-- Island of Hope — https://archive.org/download/gov.ntis.ava15996vnb1/Island_of_Hope.mp4  
-  Source: library/04-documentaries.md
-- Jail Bait — https://archive.org/download/JailBait/JailBait.mp4  
-  Source: library/04-documentaries.md
-- lunchroom manners 512kb — https://archive.org/download/lunchroom_manners/lunchroom_manners_512kb.mp4  
-  Source: library/04-documentaries.md
-- MPEG 4 Hi-Res — https://archive.org/download/UnderseaWords-TheLetterA/UnderseaWords1.mp4  
-  Source: library/04-documentaries.md
-- naturally a girl — https://archive.org/download/naturally_a_girl/naturally_a_girl.mp4  
-  Source: library/04-documentaries.md
-- naturally a girl edit — https://archive.org/download/naturally_a_girl/naturally_a_girl_edit.mp4  
-  Source: library/04-documentaries.md
-- Normandy Invasion — https://archive.org/download/87084NormandyInvasion/87084%20Normandy%20Invasion.mp4  
-  Source: library/04-documentaries.md
-- OneGotFa1963 — https://archive.org/download/OneGotFa1963/OneGotFa1963.mp4  
-  Source: library/04-documentaries.md
-- OneGotFa1963 edit — https://archive.org/download/OneGotFa1963/OneGotFa1963_edit.mp4  
-  Source: library/04-documentaries.md
-- Physical1953 — https://archive.org/download/Physical1953/Physical1953.mp4  
-  Source: library/04-documentaries.md
-- Physical1953 edit — https://archive.org/download/Physical1953/Physical1953_edit.mp4  
-  Source: library/04-documentaries.md
-- Plane Talk — https://archive.org/download/PlaneTal1965/PlaneTal1965_edit.mp4  
-  Source: library/04-documentaries.md
-- Public Service Announcement (PSA) on Pollution - Retro — https://archive.org/download/psa_retro_pollution_640/saucer_bite_one.mp4  
-  Source: library/04-documentaries.md
-- Railway with a Heart of Gold — https://archive.org/download/railway_with_a_heart_of_gold_1965/railway_with_a_heart_of_gold_1965_512kb.mp4  
-  Source: library/04-documentaries.md
-- Scarlet Street — https://archive.org/download/ScarletStreet/Scarlet_Street.mp4  
-  Source: library/04-documentaries.md
-- She Gods of Shark Reef — https://archive.org/download/she_gods_of_shark_reef/she_gods_of_shark_reef.mp4  
-  Source: library/04-documentaries.md
-- Signal301959 — https://archive.org/download/Signal301959/Signal301959.mp4  
-  Source: library/04-documentaries.md
-- Signal301959 edit — https://archive.org/download/Signal301959/Signal301959_edit.mp4  
-  Source: library/04-documentaries.md
-- Sinclair at the Worlds Fair — https://archive.org/download/0701_Sinclair_at_the_Worlds_Fair/0701_Sinclair_at_the_Worlds_Fair_M05793_17_12_06_00_3mb.mp4  
-  Source: library/04-documentaries.md
-- Sniffles1955 — https://archive.org/download/Sniffles1955/Sniffles1955.mp4  
-  Source: library/04-documentaries.md
-- Sniffles1955 edit — https://archive.org/download/Sniffles1955/Sniffles1955_edit.mp4  
-  Source: library/04-documentaries.md
-- South Dakota Saga (Part I) — https://archive.org/download/SouthDak1940/SouthDak1940_edit.mp4  
-  Source: library/04-documentaries.md
-- South Dakota Saga (Part II) — https://archive.org/download/SouthDak1940_2/SouthDak1940_2_edit.mp4  
-  Source: library/04-documentaries.md
-- Sudden Birth — https://archive.org/download/sudden_birth/sudden_birth.mp4  
-  Source: library/04-documentaries.md
-- superman eleventh hour 512kb — https://archive.org/download/superman_eleventh_hour/superman_eleventh_hour_512kb.mp4  
-  Source: library/04-documentaries.md
-- superman the mechanical monsters 512kb — https://archive.org/download/superman_the_mechanical_monsters/superman_the_mechanical_monsters_512kb.mp4  
-  Source: library/04-documentaries.md
-- Symptoms1940 — https://archive.org/download/Symptoms1940/Symptoms1940.mp4  
-  Source: library/04-documentaries.md
-- Symptoms1940 edit — https://archive.org/download/Symptoms1940/Symptoms1940_edit.mp4  
-  Source: library/04-documentaries.md
-- Terrible1951 — https://archive.org/download/Terrible1951/Terrible1951.mp4  
-  Source: library/04-documentaries.md
-- Terrible1951 edit — https://archive.org/download/Terrible1951/Terrible1951_edit.mp4  
   Source: library/04-documentaries.md
 - Test Tube Babies — https://archive.org/download/Test_Tube_Babies_1948/Test_Tube_Babies_1948.mp4  
   Source: library/04-documentaries.md
-- The Child Molester (1964) — https://archive.org/download/CHILD/CHILD.mp4  
-  Source: library/04-documentaries.md
-- The Holy Ghost People, part 1 — https://archive.org/download/HolyGhostPeople/HolyGhost1.mp4  
-  Source: library/04-documentaries.md
-- The Holy Ghost People, part 2 — https://archive.org/download/HolyGhostPeople/HolyGhost2.mp4  
-  Source: library/04-documentaries.md
-- theater hd splice — https://archive.org/download/gov.ntis.ava15996vnb1/theater.hd.splice.mp4  
-  Source: library/04-documentaries.md
-- theesxuallymatureadult — https://archive.org/download/theesxuallymatureadult/theesxuallymatureadult.mp4  
-  Source: library/04-documentaries.md
-- TheMagicSword — https://archive.org/download/TheMagicSword/TheMagicSword.mp4  
-  Source: library/04-documentaries.md
-- This Is Redstone Arsenal — https://archive.org/download/16764thisisredstonearsenalvwr/16764%20This%20Is%20Redstone%20Arsenal_vwr.mp4  
-  Source: library/04-documentaries.md
-- ThisChar1950 — https://archive.org/download/ThisChar1950/ThisChar1950.mp4  
-  Source: library/04-documentaries.md
-- ThisChar1950 edit — https://archive.org/download/ThisChar1950/ThisChar1950_edit.mp4  
-  Source: library/04-documentaries.md
-- Trailoft1951 — https://archive.org/download/Trailoft1951/Trailoft1951.mp4  
-  Source: library/04-documentaries.md
-- Trailoft1951 edit — https://archive.org/download/Trailoft1951/Trailoft1951_edit.mp4  
-  Source: library/04-documentaries.md
-- tsunami patong beach 512kb — https://archive.org/download/tsunami_patong_beach/tsunami_patong_beach_512kb.mp4  
-  Source: library/04-documentaries.md
-- Utopia 512kb — https://archive.org/download/utopia/Utopia_512kb.mp4  
-  Source: library/04-documentaries.md
-- viewfromspacereel1 — https://archive.org/download/viewfromspace/viewfromspacereel1.mp4  
-  Source: library/04-documentaries.md
-- viewfromspacereel2 — https://archive.org/download/viewfromspace/viewfromspacereel2.mp4  
-  Source: library/04-documentaries.md
-- White Wonder — https://archive.org/download/WhiteWon1958/WhiteWon1958_edit.mp4  
-  Source: library/04-documentaries.md
-- Zeitgeist Addendum — https://archive.org/download/Zeitgeist.Addendum/Zeitgeist.Addendum.mp4  
-  Source: library/04-documentaries.md
-- AM Radio Program (July 29,1967) — https://archive.org/download/radio-program-july-29-1967/Radio  
-  Source: library/05-radio.md
-- Bill Sprague Collection : DOO WOP GOLD — https://archive.org/download/BillSporagueCollectionDOOWOPGOLD/Doo  
-  Source: library/05-radio.md
-- HaveITol1958 — https://archive.org/download/HaveITol1958/HaveITol1958.mp4  
-  Source: library/05-radio.md
-- HaveITol1958 edit — https://archive.org/download/HaveITol1958/HaveITol1958_edit.mp4  
-  Source: library/05-radio.md
-- Martyrs of Science — 01 - Life of Galileo, Chapter I — https://archive.org/download/martyrs_of_science_1308_librivox/martyrsofscience_01_brewster_128kb.mp3  
-  Source: library/05-radio.md
-- Martyrs of Science — 02 - Life of Galileo, Chapter II — https://archive.org/download/martyrs_of_science_1308_librivox/martyrsofscience_02_brewster_128kb.mp3  
-  Source: library/05-radio.md
-- Martyrs of Science — 03 - Life of Galileo, Chapter III — https://archive.org/download/martyrs_of_science_1308_librivox/martyrsofscience_03_brewster_128kb.mp3  
-  Source: library/05-radio.md
-- Martyrs of Science — 04 - Life of Galileo, Chapter IV — https://archive.org/download/martyrs_of_science_1308_librivox/martyrsofscience_04_brewster_128kb.mp3  
-  Source: library/05-radio.md
-- Martyrs of Science — 05 - Life of Galileo, Chapter V — https://archive.org/download/martyrs_of_science_1308_librivox/martyrsofscience_05_brewster_128kb.mp3  
-  Source: library/05-radio.md
-- Martyrs of Science — 06 - Life of Galileo, Chapter VI — https://archive.org/download/martyrs_of_science_1308_librivox/martyrsofscience_06_brewster_128kb.mp3  
-  Source: library/05-radio.md
-- Martyrs of Science — 07 - Life of Tycho Brahe, Chapter VII — https://archive.org/download/martyrs_of_science_1308_librivox/martyrsofscience_07_brewster_128kb.mp3  
-  Source: library/05-radio.md
-- Martyrs of Science — 08 - Life of Tycho Brahe, Chapter VIII — https://archive.org/download/martyrs_of_science_1308_librivox/martyrsofscience_08_brewster_128kb.mp3  
-  Source: library/05-radio.md
-- Martyrs of Science — 09 - Life of Tycho Brahe, Chapter IX — https://archive.org/download/martyrs_of_science_1308_librivox/martyrsofscience_09_brewster_128kb.mp3  
-  Source: library/05-radio.md
-- Martyrs of Science — 10 - Life of Tycho Brahe, Chapter X — https://archive.org/download/martyrs_of_science_1308_librivox/martyrsofscience_10_brewster_128kb.mp3  
-  Source: library/05-radio.md
-- Martyrs of Science — 11 - Life of John Kepler, Chapter XI — https://archive.org/download/martyrs_of_science_1308_librivox/martyrsofscience_11_brewster_128kb.mp3  
-  Source: library/05-radio.md
-- Martyrs of Science — 12 - Life of John Kepler, Chapter XII — https://archive.org/download/martyrs_of_science_1308_librivox/martyrsofscience_12_brewster_128kb.mp3  
-  Source: library/05-radio.md
-- Martyrs of Science — 13 - Life of John Kepler, Chapter XIII — https://archive.org/download/martyrs_of_science_1308_librivox/martyrsofscience_13_brewster_128kb.mp3  
-  Source: library/05-radio.md
-- Martyrs of Science — 14 - Life of John Kepler, Chapter XIV — https://archive.org/download/martyrs_of_science_1308_librivox/martyrsofscience_14_brewster_128kb.mp3  
-  Source: library/05-radio.md
-- Mercury Theatre — Dracula (1938) — https://archive.org/download/OrsonWelles-MercuryTheater-1938Recordings/MercuryTheater38-07-11Dracula.mp3  
-  Source: library/05-radio.md
-- Mercury Theatre — The War of the Worlds (1938) — https://archive.org/download/OrsonWelles-MercuryTheater-1938Recordings/MercuryTheater38-10-30WarOfTheWorlds.mp3  
-  Source: library/05-radio.md
-- Mercury Theatre — Treasure Island (1938) — https://archive.org/download/OrsonWelles-MercuryTheater-1938Recordings/MercuryTheater38-07-18TreasureIsland.mp3  
-  Source: library/05-radio.md
-- Original AM Radio (February 1965) — https://archive.org/download/original-am-radio-february-1965/Original  
-  Source: library/05-radio.md
-- Paul Mc Cartney Wings Greatest Hits ( Full Album) — https://archive.org/download/29051989PW/Paul  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d1 1 the swedish rhapsody irdial — https://archive.org/download/ird059/tcp_d1_01_the_swedish_rhapsody_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d1 10 bugle irdial — https://archive.org/download/ird059/tcp_d1_10_bugle_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d1 11 5 note version czech lady irdial — https://archive.org/download/ird059/tcp_d1_11_5_note_version_czech_lady_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d1 12 three note odditiy irdial — https://archive.org/download/ird059/tcp_d1_12_three_note_odditiy_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d1 14 counting station spanish irdial — https://archive.org/download/ird059/tcp_d1_14_counting_station_spanish_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d1 15 english lady 00000 ending irdial — https://archive.org/download/ird059/tcp_d1_15_english_lady_00000_ending_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d1 16 attencion 3 finals irdial — https://archive.org/download/ird059/tcp_d1_16_attencion_3_finals_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d1 17 4 note rising scale irdial — https://archive.org/download/ird059/tcp_d1_17_4_note_rising_scale_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d1 18 ciocirlia irdial — https://archive.org/download/ird059/tcp_d1_18_ciocirlia_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d1 19 czech lady irdial — https://archive.org/download/ird059/tcp_d1_19_czech_lady_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d1 2 counting cia irdial — https://archive.org/download/ird059/tcp_d1_02_counting_cia_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d1 20 2 letter ys irdial — https://archive.org/download/ird059/tcp_d1_20_2_letter_ys_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d1 21 2 letter el irdial — https://archive.org/download/ird059/tcp_d1_21_2_letter_el_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d1 22 5 dashes irdial — https://archive.org/download/ird059/tcp_d1_22_5_dashes_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d1 23 2 letter rk irdial — https://archive.org/download/ird059/tcp_d1_23_2_letter_rk_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d1 3 counting control irdial — https://archive.org/download/ird059/tcp_d1_03_counting_control_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d1 4 phonetic alphabet nato irdial — https://archive.org/download/ird059/tcp_d1_04_phonetic_alphabet_nato_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d1 5 5 dashes irdial — https://archive.org/download/ird059/tcp_d1_05_5_dashes_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d1 6 the lincolnshire poacher mi5 irdial — https://archive.org/download/ird059/tcp_d1_06_the_lincolnshire_poacher_mi5_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d1 7 gong station chimes irdial — https://archive.org/download/ird059/tcp_d1_07_gong_station_chimes_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d1 8 dfd 21 irdial — https://archive.org/download/ird059/tcp_d1_08_dfd_21_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d1 9 ready ready 15728 irdial — https://archive.org/download/ird059/tcp_d1_09_ready_ready_15728_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d2 1 nnn french irdial — https://archive.org/download/ird059/tcp_d2_01_nnn_french_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d2 10 spanish lady irdial — https://archive.org/download/ird059/tcp_d2_10_spanish_lady_irdial_.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d2 11 strich english irdial — https://archive.org/download/ird059/tcp_d2_11_strich_english_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d2 12 2 letter nu irdial — https://archive.org/download/ird059/tcp_d2_12_2_letter_nu_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d2 13 g3 strich irdial — https://archive.org/download/ird059/tcp_d2_13_g3_strich_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d2 14 yt irdial — https://archive.org/download/ird059/tcp_d2_14_yt_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d2 15 5 dashes irdial — https://archive.org/download/ird059/tcp_d2_15_5_dashes_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d2 16 german man irdial — https://archive.org/download/ird059/tcp_d2_16_german_man_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d2 17 english man irdial — https://archive.org/download/ird059/tcp_d2_17_english_man_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d2 18 english man german and german lady irdial — https://archive.org/download/ird059/tcp_d2_18_english_man_german_and_german_lady_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d2 19 german lady irdial — https://archive.org/download/ird059/tcp_d2_19_german_lady_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d2 2 strich irdial — https://archive.org/download/ird059/tcp_d2_02_strich_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d2 20 chinese numbers irdial — https://archive.org/download/ird059/tcp_d2_20_chinese_numbers_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d2 21 spanish lady complete sequence irdial — https://archive.org/download/ird059/tcp_d2_21_spanish_lady_complete_sequence_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d2 22 2 letter md irdial — https://archive.org/download/ird059/tcp_d2_22_2_letter_md_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d2 23 english man irdial — https://archive.org/download/ird059/tcp_d2_23_english_man_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d2 24 german lady irdial — https://archive.org/download/ird059/tcp_d2_24_german_lady_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d2 25 phonetic alphabet nato irdial — https://archive.org/download/ird059/tcp_d2_25_phonetic_alphabet_nato_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d2 26 phonetic alphabet nato irdial — https://archive.org/download/ird059/tcp_d2_26_phonetic_alphabet_nato_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d2 27 nancy adam susan irdial — https://archive.org/download/ird059/tcp_d2_27_nancy_adam_susan_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d2 28 counting control irdial — https://archive.org/download/ird059/tcp_d2_28_counting_control_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d2 29 nancy adam susan male irdial — https://archive.org/download/ird059/tcp_d2_29_nancy_adam_susan_male_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d2 3 dfd21 dfc37 irdial — https://archive.org/download/ird059/tcp_d2_03_dfd21_dfc37_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d2 30 cherry ripe irdial — https://archive.org/download/ird059/tcp_d2_30_cherry_ripe_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d2 31 russian lady irdial — https://archive.org/download/ird059/tcp_d2_31_russian_lady_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d2 32 russian man irdial — https://archive.org/download/ird059/tcp_d2_32_russian_man_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d2 33 nnn english irdial — https://archive.org/download/ird059/tcp_d2_33_nnn_english_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d2 34 frank young peter irdial — https://archive.org/download/ird059/tcp_d2_34_frank_young_peter_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d2 35 cherta irdial — https://archive.org/download/ird059/tcp_d2_35_cherta_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d2 36 russian counting man irdial — https://archive.org/download/ird059/tcp_d2_36_russian_counting_man_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d2 37 olx irdial — https://archive.org/download/ird059/tcp_d2_37_olx_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d2 38 6 tones irdial — https://archive.org/download/ird059/tcp_d2_38_6_tones_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d2 39 high pitch polytone irdial — https://archive.org/download/ird059/tcp_d2_39_high_pitch_polytone_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d2 4 drums and trumpets irdial — https://archive.org/download/ird059/tcp_d2_04_drums_and_trumpets_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d2 40 high pitch polytone irdial — https://archive.org/download/ird059/tcp_d2_40_high_pitch_polytone_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d2 41 high pitch polytone irdial — https://archive.org/download/ird059/tcp_d2_41_high_pitch_polytone_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d2 42 high pitch polytone irdial — https://archive.org/download/ird059/tcp_d2_42_high_pitch_polytone_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d2 43 oriental language irdial — https://archive.org/download/ird059/tcp_d2_43_oriental_language_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d2 5 nnn english irdial — https://archive.org/download/ird059/tcp_d2_05_nnn_english_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d2 6 english lady 00000 ending irdial — https://archive.org/download/ird059/tcp_d2_06_english_lady_00000_ending_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d2 7 nnn german irdial — https://archive.org/download/ird059/tcp_d2_07_nnn_german_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d2 8 the russian man d-va northern russian voice irdial — https://archive.org/download/ird059/tcp_d2_08_the_russian_man_d-va_northern_russian_voice_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d2 9 phonetic alphabet nato irdial — https://archive.org/download/ird059/tcp_d2_09_phonetic_alphabet_nato_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d3 1 ready ready irdial — https://archive.org/download/ird059/tcp_d3_01_ready_ready_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d3 10 oblique irdial — https://archive.org/download/ird059/tcp_d3_10_oblique_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d3 11 nnn old incarnation irdial — https://archive.org/download/ird059/tcp_d3_11_nnn_old_incarnation_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d3 12 5 dashes i say again irdial — https://archive.org/download/ird059/tcp_d3_12_5_dashes_i_say_again_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d3 13 2 letter kg irdial — https://archive.org/download/ird059/tcp_d3_13_2_letter_kg_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d3 14 4 figure counting 10 rough tones irdial — https://archive.org/download/ird059/tcp_d3_14_4_figure_counting_10_rough_tones_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d3 15 2 voices in one transmission irdial — https://archive.org/download/ird059/tcp_d3_15_2_voices_in_one_transmission_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d3 17 3 note interval signal irdial — https://archive.org/download/ird059/tcp_d3_17_3_note_interval_signal_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d3 18 10 rough tones irdial — https://archive.org/download/ird059/tcp_d3_18_10_rough_tones_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d3 19 achtung irdial — https://archive.org/download/ird059/tcp_d3_19_achtung_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d3 2 iran iraq jamming efficacy testting irdial — https://archive.org/download/ird059/tcp_d3_02_iran_iraq_jamming_efficacy_testting_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d3 20 a irdial — https://archive.org/download/ird059/tcp_d3_20_a_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d3 22 voice rapid dots irdial — https://archive.org/download/ird059/tcp_d3_22_rapid_dots_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d3 23 strich with rare message irdial — https://archive.org/download/ird059/tcp_d3_23_strich_with_rare_message_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d3 24 hier ist dfc seben und dreizig irdial — https://archive.org/download/ird059/tcp_d3_24_hier_ist_dfc_seben_und_dreizig_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d3 25 2 letter pn irdial — https://archive.org/download/ird059/tcp_d3_25_2_letter_pn_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d3 27 2 letter vo irdial — https://archive.org/download/ird059/tcp_d3_27_2_letter_vo_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d3 28 2 letter hk irdial — https://archive.org/download/ird059/tcp_d3_28_2_letter_hk_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d3 29 2 letter dm irdial — https://archive.org/download/ird059/tcp_d3_29_2_letter_dm_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d3 3 english lady irdial — https://archive.org/download/ird059/tcp_d3_03_english_lady_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d3 30 8 note rising scale irdial — https://archive.org/download/ird059/tcp_d3_30_8_note_rising_scale_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d3 31 spruchnummer 1 irdial — https://archive.org/download/ird059/tcp_d3_31_spruchnummer_1_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d3 32 spruchnummer 4 irdial — https://archive.org/download/ird059/tcp_d3_32_spruchnummer_4_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d3 33 random pop irdial — https://archive.org/download/ird059/tcp_d3_33_random_pop_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d3 34 nomer 101 irdial — https://archive.org/download/ird059/tcp_d3_34_nomer_101_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d3 35 okno okno onko irdial — https://archive.org/download/ird059/tcp_d3_35_okno_okno_onko_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d3 36 nomer 198 irdial — https://archive.org/download/ird059/tcp_d3_36_nomer_198_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d3 37 723 papaqui irdial — https://archive.org/download/ird059/tcp_d3_37_723_papaqui_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d3 38 298 irdial — https://archive.org/download/ird059/tcp_d3_38_298_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d3 39 815 irdial — https://archive.org/download/ird059/tcp_d3_39_815_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d3 4 english lady jammed irdial — https://archive.org/download/ird059/tcp_d3_04_english_lady_jammed_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d3 40 167 irdial — https://archive.org/download/ird059/tcp_d3_40_167_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d3 41 moscow coup attempt irdial — https://archive.org/download/ird059/tcp_d3_41_moscow_coup_attempt_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d3 5 english man version 1 irdial — https://archive.org/download/ird059/tcp_d3_05_english_man_version_1_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d3 6 english man version 3 irdial — https://archive.org/download/ird059/tcp_d3_06_english_man_version_3_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d3 7 english man irdial — https://archive.org/download/ird059/tcp_d3_07_english_man_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d3 8 magnetic fields irdial — https://archive.org/download/ird059/tcp_d3_08_magnetic_fields_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d3 9 magnetic fields different voice irdial — https://archive.org/download/ird059/tcp_d3_09_magnetic_fields_different_voice_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d4 1 russian man complete irdial — https://archive.org/download/ird059/tcp_d4_01_russian_man_complete_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d4 10 counting in polish irdial — https://archive.org/download/ird059/tcp_d4_10_counting_in_polish_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d4 11 konec konec irdial — https://archive.org/download/ird059/tcp_d4_11_konec_konec_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d4 12 pozor irdial — https://archive.org/download/ird059/tcp_d4_12_pozor_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d4 13 russian lady test count and message irdial — https://archive.org/download/ird059/tcp_d4_13_russian_lady_test_count_and_message_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d4 14 russian man irdial — https://archive.org/download/ird059/tcp_d4_14_russian_man_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d4 15 spanish lady 2 finals irdial — https://archive.org/download/ird059/tcp_d4_15_spanish_lady_2_finals_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d4 16 spanish counting irdial — https://archive.org/download/ird059/tcp_d4_16_spanish_counting_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d4 17 spanish counting 4 figure groups irdial — https://archive.org/download/ird059/tcp_d4_17_spanish_counting_4_figure_groups_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d4 18 spanish man irdial — https://archive.org/download/ird059/tcp_d4_18_spanish_man_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d4 19 spanish lady 00000 ending irdial — https://archive.org/download/ird059/tcp_d4_19_spanish_lady_00000_ending_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d4 2 yt irdial — https://archive.org/download/ird059/tcp_d4_02_yt_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d4 20 spanish lady 00000 ending different voice irdial — https://archive.org/download/ird059/tcp_d4_20_spanish_lady_00000_ending_different_voice_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d4 23 unidentified chinese station irdial — https://archive.org/download/ird059/tcp_d4_23_unidentified_chinese_station_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d4 24 nnn french early version irdial — https://archive.org/download/ird059/tcp_d4_24_nnn_french_early_version_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d4 25 nnn hungarian irdial — https://archive.org/download/ird059/tcp_d4_25_nnn_hungarian_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d4 26 wiskey tango viente y uno irdial — https://archive.org/download/ird059/tcp_d4_26_wiskey_tango_viente_y_uno_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d4 27 the crackle irdial — https://archive.org/download/ird059/tcp_d4_27_the_crackle_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d4 29 faders irdial — https://archive.org/download/ird059/tcp_d4_29_faders_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d4 3 555 konec irdial — https://archive.org/download/ird059/tcp_d4_03_555_konec_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d4 30 workshop irdial — https://archive.org/download/ird059/tcp_d4_30_workshop_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d4 31 the pip irdial — https://archive.org/download/ird059/tcp_d4_31_the_pip_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d4 32 the buzzer irdial — https://archive.org/download/ird059/tcp_d4_32_the_buzzer_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d4 33 m1 irdial — https://archive.org/download/ird059/tcp_d4_33_m1_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d4 34 m1b irdial — https://archive.org/download/ird059/tcp_d4_34_m1b_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d4 35 m2 irdial — https://archive.org/download/ird059/tcp_d4_35_m2_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d4 36 m3 irdial — https://archive.org/download/ird059/tcp_d4_36_m3_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d4 37 m3 irdial — https://archive.org/download/ird059/tcp_d4_37_m3_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d4 38 m3 irdial — https://archive.org/download/ird059/tcp_d4_38_m3_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d4 4 preska irdial — https://archive.org/download/ird059/tcp_d4_04_preska_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d4 42 m3a irdial — https://archive.org/download/ird059/tcp_d4_42_m3a_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d4 43 m3b irdial — https://archive.org/download/ird059/tcp_d4_43_m3b_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d4 5 cherta irdial — https://archive.org/download/ird059/tcp_d4_05_cherta_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d4 6 count in russian irdial — https://archive.org/download/ird059/tcp_d4_06_count_in_russian_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d4 7 count in russian different voice irdial — https://archive.org/download/ird059/tcp_d4_07_count_in_russian_different_voice_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d4 8 1-10 announcement irdial — https://archive.org/download/ird059/tcp_d4_08_1-10_announcement_irdial.mp3  
-  Source: library/05-radio.md
-- Shortwave Numbers Stations — tcp d4 9 1-10 announcement female irdial — https://archive.org/download/ird059/tcp_d4_09_1-10_announcement_female_irdial.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Address Uknown (1952-04-27) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_04_27_75_Address_Unknown.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Alibi (1952-09-07) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_09_07_94_Alibi.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Apache Peak (1950-07-22) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_07_22_03_Apache_Peak.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Bad Blood (1951-04-08) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_04_08_38_Bad_Blood.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Beakdown (1951-03-25) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_03_25_36_Breakdown.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Birds Of A Feather (1952-01-06) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_01_06_60_Birds_Of_A_Feather.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Blind Justice (1951-03-11) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_03_11_34_Blind_Justice.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Blood Harvest (1951-01-21) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_01_21_28_Blood_Harvest.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Blood Relative (1950-11-12) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_11_12_19_Blood_Relative.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Blood Trail (1952-01-20) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_01_20_62_Blood_Trail.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Blow Off (1951-11-25) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_11_25_54_The_Blow_Off.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Bright Boy (1952-02-24) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_02_24_67_Bright_Boy.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Candy Man (1950-09-16) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_09_16_11_Candy_Man.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Canned Death (1951-04-22) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_04_22_40_Canned_Death.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Christmas Payoff (1951-12-23) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_12_23_58_Christmas_Payoff.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Christmas Present (1950-12-24) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_12_24_24_Christmas_Present.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Clean Up (1950-09-30) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_09_30_13_Clean_Up.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Clip Job (1952-01-13) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_01_13_61_Clip_Job.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Cold Blood (1952-02-17) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_02_17_66_Cold_Blood.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Conspiracy (1951-04-15) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_04_15_39_Conspiracy.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Cover-Up (1952-08-17) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_08_17_91_Cover_Up.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Dead Give Away (1951-12-02) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_12_02_55_The_Dead_Give_Away.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Dead Give-Away (1950-10-15) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_10_15_15_Dead_Give_Away.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Dead in the Cards (1951-01-14) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_01_14_27_Death_In_The_Cards.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Dead or Alive (1950-09-09) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_09_09_10_Dead_Or_Alive.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Deadhead Freight (1951-01-07) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_01_07_26_Deadhead_Freight.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Death By Adoption (1951-03-18) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_03_18_35_Death_By_Adoption.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Death Plant (1951-12-09) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_12_09_56_Death_Plant.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Death Shaft (1951-09-30) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_09_30_46_Death_Shaft.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Double Edge (1952-08-03) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_08_03_89_Double_Edge.MP3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Dream Farm (1952-03-09) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_03_09_69_Dream_Farm.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Drive-In (last Show) (1952-09-14) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_09_14_95_Drive_In.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Ex-Con (1952-06-29) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_06_29_84_Ex_Con.MP3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Finger Man (1952-07-13) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_07_13_86_Finger_Man.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Fool's Gold (1950-08-19) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_08_19_07_Fools_Gold.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Fugitive Trail (1951-10-21) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_10_21_49_Fugitive_Trail.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Hanging by a Thread (1950-11-26) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_11_26_20_Hanging_By_A_Thread.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Helping Hand (1951-11-04) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_11_04_51_Helping_Hand.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Ice Man (1952-03-02) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_03_02_68_The_Ice_Man.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Illegal Entry (1952-06-08) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_06_08_81_Illegal_Entry.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Illusion (1952-04-20) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_04_20_74_Illusion.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Jailbird (1952-05-25) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_05_25_79_Jailbird.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Joy Ride (1951-05-27) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_05_27_45_Joy_Ride.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Just a Number (audition) (1950-04-19) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_04_19_00_Just_A_Number_AUDITION.MP3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Killer's Crop (1951-12-30) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_12_30_59_Killers_Crop.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Knock-Out (1952-06-22) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_06_22_83_Knockout.MP3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Last Stop (1952-08-10) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_08_10_90_Last_Stop.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Little Sister (1952-05-04) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_05_04_76_Little_Sister.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Living Death (1950-10-08) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_10_08_14_Living_Death.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Loggers Larceny (1951-02-04) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_02_04_30_Loggers_Larceny.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Misplaced Person (1952-08-31) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_08_31_93_Misplaced_Person.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Night Chase (1952-01-27) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_01_27_63_Night_Chase.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Night Hawk (1952-03-30) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_03_30_71_Nighthawk.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — No Living Witnesses (1951-05-06) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_05_06_42_No_Living_Witnesses.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Open and Shut (1950-09-23) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_09_23_12_Open_And_Shut.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Open And Shut (1951-11-11) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_11_11_52_Open_And_Shut.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Paid In Full (1951-05-13) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_05_13_43_Paid_In_Full.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Pick-Up (1951-12-16) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_12_16_57_Pick_Up.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Play for Keeps (1950-09-02) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_09_02_09_Play_For_Keeps.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Play For Keeps (1951-10-14) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_10_14_48_Play_For_Keeps.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Prelude To Felony (1952-03-16) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_03_16_70_Prelude_To_Felony.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Pressure (1951-04-01) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_04_01_37_Pressure.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Quick Silver (1950-08-05) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_08_05_05_Quick_Silver.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Room 114 (1950-12-03) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_12_03_21_Room_114.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Round Trip (1952-07-20) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_07_20_87_Round_Trip.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Sellout (1952-06-01) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_06_01_80_Sell_Out.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Smart Kill (1952-05-18) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_05_18_78_Smart_Kill.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Soft Touch (1950-10-29) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_10_29_17_Soft_Touch.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Square Dance (1951-05-20) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_05_20_44_Squaredance.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Stick-Up (1952-07-27) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_07_27_88_Stick_Up.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — The Boomerang (1952-07-06) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_07_06_85_The_Boomerang.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — The Broken Spur (1950-08-12) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_08_12_06_The_Broken_Spur.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — The Cactus Pear (1950-12-17) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_12_17_23_The_Cactus_Pear.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — The Devil's Share (1950-12-31) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_12_31_25_The_Devils_Share.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — The Hatchet (1951-02-11) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_02_11_31_The_Hatchet.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — The Hitch-Hiker (1952-02-10) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_02_10_65_Hitchhiker.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — The Lucky Dollar (1950-12-10) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_12_10_22_The_Lucky_Dollar.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — The Open Range (1950-08-26) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_08_26_08_The_Open_Range.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — The Rub Out (1952-02-03) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_02_03_64_The_Rub_Out.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — The Trigger Men (1950-07-29) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_07_29_04_The_Trigger_Man.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — The White Elephant (1950-07-15) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_07_15_02_The_White_Elephant.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — The White Elephant (1951-10-28) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_10_28_50_The_White_Elephant.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — The White Suit (1950-11-05) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_11_05_18_The_White_Suit.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — TheTrap (1951-02-25) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_02_25_33_The_Trap.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Three Victims (1952-08-24) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_08_24_92_Three_Victims.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Travesty (1952-06-15) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_06_15_82_Travesty.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Troop Train (1952-04-06) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_04_06_72_Troop_Train.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Uncertain Death (1952-04-13) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_04_13_73_Uncertain_Death.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Unleashed Fury (1952-05-11) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_05_11_77_Unleashed_Fury.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Wheel Chair Killings (1951-10-07) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_10_07_47_The_Wheelchair_Killer.mp3  
-  Source: library/05-radio.md
-- Tales of the Texas Rangers — Wild Crop (1951-11-18) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_11_18_53_Wild_Crop.mp3  
-  Source: library/05-radio.md
-- The Absolute Truth About Muhammad inthe Bible With Arabic Subtitles 512kb — https://archive.org/download/The_Absolute_Truth_About_Muhammad_in_the_Bible_With_Arabic_Subtitles/The_Absolute_Truth_About_Muhammad_inthe_Bible_With_Arabic_Subtitles_512kb.mp4  
-  Source: library/05-radio.md
-- The City at World's End — Chapter 01 - cataclysm — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_01_hamilton.mp3  
-  Source: library/05-radio.md
-- The City at World's End — Chapter 02 - the incredible — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_02_hamilton.mp3  
-  Source: library/05-radio.md
-- The City at World's End — Chapter 03 - dying planet — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_03_hamilton.mp3  
-  Source: library/05-radio.md
-- The City at World's End — Chapter 04 - dead city — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_04_hamilton.mp3  
-  Source: library/05-radio.md
-- The City at World's End — Chapter 05 - in the red dawn — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_05_hamilton.mp3  
-  Source: library/05-radio.md
-- The City at World's End — Chapter 06 - caravan into tomorrow — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_06_hamilton.mp3  
-  Source: library/05-radio.md
-- The City at World's End — Chapter 07 - under the dome — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_07_hamilton.mp3  
-  Source: library/05-radio.md
-- The City at World's End — Chapter 08 - Middletown calling! — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_08_hamilton.mp3  
-  Source: library/05-radio.md
-- The City at World's End — Chapter 09 - out of the silence — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_09_hamilton.mp3  
-  Source: library/05-radio.md
-- The City at World's End — Chapter 10 - from the stars — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_10_hamilton.mp3  
-  Source: library/05-radio.md
-- The City at World's End — Chapter 11 - revelation — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_11_hamilton.mp3  
-  Source: library/05-radio.md
-- The City at World's End — Chapter 12 - crisis — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_12_hamilton.mp3  
-  Source: library/05-radio.md
-- The City at World's End — Chapter 13 - embattled city — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_13_hamilton.mp3  
-  Source: library/05-radio.md
-- The City at World's End — Chapter 14 - last appeal — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_14_hamilton.mp3  
-  Source: library/05-radio.md
-- The City at World's End — Chapter 15 - mission for Earth — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_15_hamilton.mp3  
-  Source: library/05-radio.md
-- The City at World's End — Chapter 16 - on Vega — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_16_hamilton.mp3  
-  Source: library/05-radio.md
-- The City at World's End — Chapter 17 - judgment of the stars — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_17_hamilton.mp3  
-  Source: library/05-radio.md
-- The City at World's End — Chapter 18 - fatefull return — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_18_hamilton.mp3  
-  Source: library/05-radio.md
-- The City at World's End — Chapter 19 - Middletown decides — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_19_hamilton.mp3  
-  Source: library/05-radio.md
-- The City at World's End — Chapter 20 - appointment with destiny — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_20_hamilton.mp3  
-  Source: library/05-radio.md
-- The City at World's End — Chapter 21 - waking world — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_21_hamilton.mp3  
-  Source: library/05-radio.md
-- ''1970 - 2011'' (70-78) Ty Secret St Nicky!) ''MEMORIES'' (DavidV@nP~Tribute) — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/%27%271970%20-%202011%27%27%20%2870-78%29%20Ty%20Secret%20St.%20Nicky%21%29%20%27%27MEMORIES%27%27%20%28DavidV%40nP~Tribute%29.mp4  
-  Source: library/06-sports.md
-- [Television Commercials: Telephone] — https://archive.org/download/Televisi1970/Televisi1970_edit.mp4  
-  Source: library/06-sports.md
 - 0318 Polaroid Dealer Announcement 1964 19 00 57 00 — https://archive.org/download/0318_Polaroid_Dealer_Announcement_1964_19_00_57_00/0318_Polaroid_Dealer_Announcement_1964_19_00_57_00.mp4  
   Source: library/06-sports.md
 - 0536 Westinghouse Travelers Choice 66 18 41 06 00 3mb — https://archive.org/download/0536_Westinghouse_Travelers_Choice_66_18_41_06_00/0536_Westinghouse_Travelers_Choice_66_18_41_06_00_3mb.mp4  
@@ -6576,41 +5551,19 @@ This is the organized catalog for the new TV-style lineup. Original titles and A
   Source: library/06-sports.md
 - 0807 Two-Ford Freedom 07 20 49 00 — https://archive.org/download/0807_Two-Ford_Freedom_07_20_49_00/0807_Two-Ford_Freedom_07_20_49_00.mp4  
   Source: library/06-sports.md
-- 1/4 Mile Crashes - 1993 — https://archive.org/download/1-4-mile-crashes-1993/1  
-  Source: library/06-sports.md
 - 1221 Economy Twins Cigar Ernie 60-339 Ford TV Spot 1960 00 05 51 00 3mb — https://archive.org/download/1221_Economy_Twins_Cigar_Ernie_60-339_Ford_TV_Spot_1960/1221_Economy_Twins_Cigar_Ernie_60-339_Ford_TV_Spot_1960_00_05_51_00_3mb.mp4  
   Source: library/06-sports.md
 - 1952 The Ford Television Theatre ''Heart Of Gold'' w George Reeves (Classic TV Christmas 5 Star) — https://archive.org/download/1969-frosty-the-snowman-christmas-movies-for-kids-animated-cartoons-for-children/1952%20The%20Ford%20Television%20Theatre%20%27%27Heart%20Of%20Gold%27%27%20w%20George%20Reeves%20%28Classic%20TV%20Christmas%205%20Star%29.mp4  
   Source: library/06-sports.md
 - 1954 Chevy Corvette — https://archive.org/download/Car_Commericals_1949-1955/Commercial_-_1954_Chevy_Corvette_512kb.mp4  
   Source: library/06-sports.md
-- 1954CommercialForMercury — https://archive.org/download/1954CommercialForMercury/1954CommercialForMercury.mp4  
-  Source: library/06-sports.md
 - 1955 commercial for Old Gold filter cigarettes — https://archive.org/download/1955CommercialForOldGoldFilterCigarettes/oldgold1955livecommercial.mp4  
   Source: library/06-sports.md
-- 1955Dodge — https://archive.org/download/CommercialFor1955Dodge/1955Dodge.mp4  
-  Source: library/06-sports.md
-- 1956chevroletstationwagons — https://archive.org/download/1956CommercialForChevroletStationWagons/1956chevroletstationwagons.mp4  
-  Source: library/06-sports.md
-- 1956for1957chrysler — https://archive.org/download/1956CommercialFor1957ChryslerRangead1/1956for1957chrysler.mp4  
-  Source: library/06-sports.md
-- 1956for1957chryslerAd2 — https://archive.org/download/1956CommercialFor1957ChryslerRangead2/1956for1957chryslerAd2.mp4  
-  Source: library/06-sports.md
 - 1958 I Love Lucy Ford Commercials — https://archive.org/download/1958ILoveLucyFordCommercials/1958%20I%20Love%20Lucy%20Ford%20Commercials.mp4  
-  Source: library/06-sports.md
-- 1958ChevroletTrucks — https://archive.org/download/1958ChevroletTrucks/1958ChevroletTrucks.mp4  
-  Source: library/06-sports.md
-- 1958for1958OldsmobileAd4 — https://archive.org/download/1958for1958OldsmobileAd4/1958for1958OldsmobileAd4.mp4  
-  Source: library/06-sports.md
-- 1958for1959oldsmobile — https://archive.org/download/1958for1959oldsmobile/1958for1959oldsmobile.mp4  
   Source: library/06-sports.md
 - 1959 commercial for Timex watches (Ad 3) — https://archive.org/download/1959CommercialForTimexWatchesad3/Timex1959Ad3.mp4  
   Source: library/06-sports.md
 - 1960 for 1961 Chevrolet - Christmas shopping — https://archive.org/download/1960For1961ChevroletChristmasShopping/1960%20for%201961%20Chevrolet%20-%20Christmas%20shopping.mp4  
-  Source: library/06-sports.md
-- 1960chevroletBelair — https://archive.org/download/1959CommercialFor1960ChevroletBelAir/1960chevroletBelair.mp4  
-  Source: library/06-sports.md
-- 1960ChevroletTrucks — https://archive.org/download/1960CommercialForChevroletTrucks/1960ChevroletTrucks.mp4  
   Source: library/06-sports.md
 - 1964 Remco's Mr Kelly's Car Wash — https://archive.org/download/1964RemcosMr.KellysCarWash/1964%20Remco%27s%20Mr.%20Kelly%27s%20Car%20Wash.mp4  
   Source: library/06-sports.md
@@ -6628,509 +5581,29 @@ This is the organized catalog for the new TV-style lineup. Original titles and A
   Source: library/06-sports.md
 - 1977 TV Commercials — https://archive.org/download/1977TVCommercials/1977%20TV%20Commercials.mp4  
   Source: library/06-sports.md
-- 1984complete — https://archive.org/download/1984complete/1984complete.mp4  
+- 1982 Ziggy-s Gift (1982 Christmas Special) — https://archive.org/download/1969-frosty-the-snowman-christmas-movies-for-kids-animated-cartoons-for-children/1982%20Ziggy-s%20Gift%20%281982%20Christmas%20Special%29.mp4  
+  Source: library/06-sports.md
+- 1983 Daytona 500 (partial, TasTV, 20-02-1983) — https://archive.org/download/1983-daytona-500-partial-tas-tv-20-02-1983/1983  
   Source: library/06-sports.md
 - 1985 Alien Lottery Final Edit — https://archive.org/download/1985-alien-lottery-final-edit/1985%20Alien%20Lottery%20Final%20Edit.mp4  
   Source: library/06-sports.md
-- 1985 The Glo Friends Save Christmas (1985 Cool Stuff) — https://archive.org/download/1969-frosty-the-snowman-christmas-movies-for-kids-animated-cartoons-for-children/1985%20The%20Glo%20Friends%20Save%20Christmas%20%281985%20Cool%20Stuff%29.mp4  
-  Source: library/06-sports.md
-- 1987 Santa Bear-s High-Flying Adventure (Jeff Dalby) — https://archive.org/download/1969-frosty-the-snowman-christmas-movies-for-kids-animated-cartoons-for-children/1987%20Santa%20Bear-s%20High-Flying%20Adventure%20%28Jeff%20Dalby%29.mp4  
-  Source: library/06-sports.md
-- 201668 Television Commercials The Body master intros — https://archive.org/download/201668_Television_Commercials_The_Body/201668_Television_Commercials_The_Body_master.intros.mp4  
-  Source: library/06-sports.md
-- 202253 Santa Barbara Everybodys Mistake master intros — https://archive.org/download/202253_Santa_Barbara_Everybodys_Mistake/202253_Santa_Barbara_Everybodys_Mistake_master.intros.mp4  
-  Source: library/06-sports.md
-- 202275 Television Commercials Classic Comedy master intros H 264 — https://archive.org/download/202275_Television_Commercials_Classic_Comedy/202275_Television_Commercials_Classic_Comedy_master.intros_H.264.mp4  
-  Source: library/06-sports.md
-- 202407 Corman New World Spots master intros — https://archive.org/download/202407_Corman_New_World_Spots/202407_Corman_New_World_Spots_master.intros.mp4  
-  Source: library/06-sports.md
-- 25 Years Ago, 1960/05/19 — https://archive.org/download/1960-05-19_25_years_ago/1960-05-19_25_years_ago.mp4  
-  Source: library/06-sports.md
-- 3516 KeyvanHeydari Recovering American Puerto Rican Narratives — https://archive.org/download/ALCF_Heydari_0016/3516_KeyvanHeydari_Recovering_American_Puerto_Rican_Narratives_H264_2048x1152Pillars.mp4  
-  Source: library/06-sports.md
-- 43: The Richard Petty Story — https://archive.org/download/43TheRichardPettyStory_201301/43TheRichardPettyStory.mp4  
-  Source: library/06-sports.md
-- 58Oldsmobile-aired1957 — https://archive.org/download/58OldsmobileCommercials/58Oldsmobile-aired1957.mp4  
-  Source: library/06-sports.md
-- 58OldsmobileAired1957Ad2 — https://archive.org/download/58OldsmobileCommercials/58OldsmobileAired1957Ad2.mp4  
-  Source: library/06-sports.md
-- 60 Minutes Mike Wallace Exposes the 1976 Swine Flu Pandemic Vaccine Injuries — https://archive.org/download/60-minutes-mike-wallace-exposes-the-1976-swine-flu-pandemic-vaccine-injuries/60%20Minutes%20Mike%20Wallace%20Exposes%20the%201976%20Swine%20Flu%20Pandemic%20Vaccine%20Injuries.mp4  
-  Source: library/06-sports.md
-- 87) — https://archive.org/download/tyson-v-bonecrusher-incomplete-gtv-9-08-03-87/tyson%20v%20bonecrusher%20incomplete%20gtv-9%2008-03-87.mp4  
-  Source: library/06-sports.md
-- 94) — https://archive.org/download/cricket_25-01-94/cricket_25-01-94.mp4  
-  Source: library/06-sports.md
-- A MC '69 ''Pre-A MC'' (r@batsea2009) (a b c-tv 1969 PROMO) ''a b c Daytime'' Lineup — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%20%2769%20%27%27Pre-A%20MC%27%27%20%28r%40batsea2009%29%20%28a%20b%20c-tv%201969%20PROMO%29%20%27%27a%20b%20c%20Daytime%27%27%20Lineup.mp4  
-  Source: library/06-sports.md
-- A MC 70 (Opening Seq ) (F@natic-centre@fa) No flower on opening page — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2070%20%28Opening%20Seq.%29%20%28F%40natic-centre%40fa%29%20No%20flower%20on%20opening%20page.mp4  
-  Source: library/06-sports.md
-- A MC 70 (Orig End Cr ) Music Theme (R@bertSh@rp) — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2070%20%28Orig.%20End%20Cr.%29%20Music%20Theme%20%28R%40bertSh%40rp%29.mp4  
-  Source: library/06-sports.md
-- A MC 70-01-16 (d@nna515) (Fri 1-3 07 46) AD2R ''Where is Phil '' No flower on opening page — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2070-01-16%20%28d%40nna515%29%20%28Fri%201-3%2007.46%29%20AD2R%20%27%27Where%20is%20Phil....%27%27%20No%20flower%20on%20opening%20page.mp4  
-  Source: library/06-sports.md
-- A MC 70-01-16 (d@nna515) (Fri 2-3 09 44) AD2R Cigar Nick`Mona`Erica Chuck¬Erica Ruth`Ted — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2070-01-16%20%28d%40nna515%29%20%28Fri%202-3%2009.44%29%20AD2R%20Cigar%20Nick%60Mona%60Erica_Chuck%C2%ACErica_Ruth%60Ted.mp4  
-  Source: library/06-sports.md
-- A MC 70-01-16 (d@nna515) (Fri 3-3 01 08) AD2R CLOSING CR (also w JSellis@n) — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2070-01-16%20%28d%40nna515%29%20%28Fri%203-3%2001.08%29%20AD2R%20CLOSING%20CR.%20%28also%20w%20JSellis%40n%29.mp4  
-  Source: library/06-sports.md
-- A MC 70-02-04 Ep 0023a (FULL) (B@bS@aps) (Wed 22 25) Plain cover No adornment — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2070-02-04%20Ep%200023a%20%28FULL%29%20%28B%40bS%40aps%29%20%28Wed%2022.25%29%20Plain%20cover%20No%20adornment.mp4  
-  Source: library/06-sports.md
-- A MC 70-02-04 Ep 0023b (CLOS CR ) (d@nna515 w marc@wuzmyp@mp) (Orig for Feb 4, 1970 ep) — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2070-02-04%20Ep%200023b%20%28CLOS.%20CR.%29%20%28d%40nna515%20w%20marc%40wuzmyp%40mp%29%20%28Orig.%20for%20Feb%204%2C%201970%20ep%29.mp4  
-  Source: library/06-sports.md
-- A MC 70-02-27 Ep 0041 (FULL) (B@bS@aps) (Mon 22 22) — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2070-02-27%20Ep%200041%20%28FULL%29%20%28B%40bS%40aps%29%20%28Mon%2022.22%29.mp4  
-  Source: library/06-sports.md
-- A MC 70-02-27 Ep 0041 (OP SEQ ) (m@rc@wuzmyp@mp (Mon 00 26) (Plain Cvr w no adornment) Used 1st 3 mths only — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2070-02-27%20Ep%200041%20%28OP.%20SEQ.%29%20%28m%40rc%40wuzmyp%40mp%20%28Mon%2000.26%29%20%28Plain%20Cvr%20w%20no%20adornment%29%20Used%201st%203%20mths%20only.mp4  
-  Source: library/06-sports.md
-- A MC 70-02-28 (CLIP) Ep 0042 (f@thergh@stface2 w TheS@apKing) (Tue 00 45) Dr J@e & daughter Tar@ — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2070-02-28%20%28CLIP%29%20Ep%200042%20%28f%40thergh%40stface2%20w%20TheS%40apKing%29%20%28Tue%2000.45%29%20Dr.%20J%40e%20%26%20daughter%20Tar%40.mp4  
-  Source: library/06-sports.md
-- A MC 70-03 (2 PROMOs) (SayN@t@urS@ap w mrgi@sb123) 1) Nick & Amy 2) Phil w mom prep for his prom — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2070-03%20%282%20PROMOs%29%20%28SayN%40t%40urS%40ap%20w%20mrgi%40sb123%29%201%29%20Nick%20%26%20Amy%202%29%20Phil%20w%20mom%20prep%20for%20his%20prom.mp4  
-  Source: library/06-sports.md
-- A MC 70-03 (OP SEQ ) (K@sey85) (No froo-froo on cvr R & top but flower added to opening page) — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2070-03%20%28OP.%20SEQ.%29%20%28K%40sey85%29%20%28No%20froo-froo%20on%20cvr%20R%20%26%20top%20but%20flower%20added%20to%20opening%20page%29.mp4  
-  Source: library/06-sports.md
-- A MC 70-04-29 (FULL) (A~M~C~Fl@shb@ck-B@b S@aps) (Thu 22 03) No froo-froo on cvr R and top — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2070-04-29%20%28FULL%29%20%20%28A~M~C~Fl%40shb%40ck-B%40b%20S%40aps%29%20%28Thu%2022.03%29%20No%20froo-froo%20on%20cvr%20R%20and%20top.mp4  
-  Source: library/06-sports.md
-- A MC 70-05 (CLIP) (f@thergh@stface2 TheS@apKing) ( 01 14) Nick & R@th discuss Phil Nick swears not to tell secret — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2070-05%20%28CLIP%29%20%28f%40thergh%40stface2_TheS%40apKing%29%20%28%2001.14%29%20Nick%20%26%20R%40th%20discuss%20Phil.%20Nick%20swears%20not%20to%20tell%20secret..mp4  
-  Source: library/06-sports.md
-- A MC 70-05 (FULL) (d@nna515) (Tue 17 08 I Love L@cci) No photo of R@semaryPrinz — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2070-05%20%28FULL%29%20%28d%40nna515%29%20%28Tue%2017.08%20I%20Love%20L%40cci%29%20No%20photo%20of%20R%40semaryPrinz.mp4  
-  Source: library/06-sports.md
-- A MC 71-06 (PROMO) (KenGe@rgeJ@nes) New AnneTyler (J@dithBarcr@ft) will wed Nick He wants to sell d@nce studio) — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2071-06%20%28PROMO%29%20%28KenGe%40rgeJ%40nes%29%20New%20AnneTyler%20%28J%40dithBarcr%40ft%29%20will%20wed%20Nick.%20He%20wants%20to%20sell%20d%40nce%20studio%29.mp4  
-  Source: library/06-sports.md
-- A MC 71-06-25 (CLIPs) (S@yN@t@urS@ap) (Fri 06 08) Nick & Ann@Tyl@r are now wed but she wants more than PV — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2071-06-25%20%28CLIPs%29%20%28S%40yN%40t%40urS%40ap%29%20%28Fri%2006.08%29%20Nick%20%26%20Ann%40Tyl%40r%20are%20now%20wed%20but%20she%20wants%20more%20than%20PV.mp4  
-  Source: library/06-sports.md
-- A MC 73 (INTERVVIEW) (@k@renlyng@rney@) A MC Creator Agn@sNix@n w orig Tar@ (K@ren Lyn G@rney) & Phil — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2073%20%28INTERVVIEW%29%20%28%40k%40renlyng%40rney%40%29%20A%20MC%20Creator%20Agn%40sNix%40n%20w%20orig.Tar%40%20%28K%40ren%20Lyn%20G%40rney%29%20%26%20Phil.mp4  
-  Source: library/06-sports.md
-- A MC 73-11-02 and 05 (AUDIO ONLY) (D@nnyHill) ERIC@ testifies at J@ff's murder trial — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2073-11-02%20and%2005%20%28AUDIO%20ONLY%29%20%28D%40nnyHill%29%20ERIC%40%20testifies%20at%20J%40ff%27s%20murder%20trial.mp4  
-  Source: library/06-sports.md
-- A MC 73-11-05-12-15 (AUDIO ONLY) (D@nnyHill) M@NA under hypnosis recalls something — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2073-11-05-12-15%20%28AUDIO%20ONLY%29%20%28D%40nnyHill%29%20M%40NA%20under%20hypnosis%20recalls%20something.mp4  
-  Source: library/06-sports.md
-- A MC 75-07-01 (AUDIO ONLY) (R@bert Sh@rp) Tue 1-3 08 01 — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2075-07-01%20%28AUDIO%20ONLY%29%20%28R%40bert%20Sh%40rp%29%20Tue%201-3%2008.01.mp4  
-  Source: library/06-sports.md
-- A MC 75-07-02a (AUDIO ONLY) (R@bert Sh@rp) Wed 2-3 17 17 — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2075-07-02a%20%28AUDIO%20ONLY%29%20%28R%40bert%20Sh%40rp%29%20Wed%202-3%2017.17.mp4  
-  Source: library/06-sports.md
-- A MC 75-07-02b (AUDIO ONLY) (R@bert Sh@rp) Wed 3-3 19 02 — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2075-07-02b%20%28AUDIO%20ONLY%29%20%28R%40bert%20Sh%40rp%29%20Wed%203-3%2019.02.mp4  
-  Source: library/06-sports.md
-- A MC 76a (A MC Theme Song) (J@stin W@rd-New Chr@styM@nstrels) ''THE GREAT SOAP OPERA THEMES'' — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2076a%20%28A%20MC%20Theme%20Song%29%20%28J%40stin%20W%40rd-New%20Chr%40styM%40nstrels%29%20%27%27THE%20GREAT%20SOAP%20OPERA%20THEMES%27%27.mp4  
-  Source: library/06-sports.md
-- A MC 76b (CLIPS) (@ckgh73994) ''Ph@ebe (RuthW@rrick) Fl@shbacks'' — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2076b%20%28CLIPS%29%20%28%40ckgh73994%29%20%27%27Ph%40ebe%20%28RuthW%40rrick%29%20Fl%40shbacks%27%27.mp4  
-  Source: library/06-sports.md
-- A MC 76c (AUDIO ONLY) (D@nnyHil) ''M@na blackmails Ph@ebe into giving Ch@rles a divorce NOW'' — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2076c%20%28AUDIO%20ONLY%29%20%28D%40nnyHil%29%20%27%27M%40na%20blackmails%20Ph%40ebe%20into%20giving%20Ch%40rles%20a%20divorce%20NOW%27%27.mp4  
-  Source: library/06-sports.md
-- A MC 76d (PROMOs) (SayN@t@urS@ap) (5 LITA-All 5 abc soaps) Ph@ebe's Divorce — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2076d%20%28PROMOs%29%20%28SayN%40t%40urS%40ap%29%20%285%20LITA-All%205%20abc%20soaps%29%20Ph%40ebe%27s%20Divorce.mp4  
-  Source: library/06-sports.md
-- A MC 77 (ADVERT) (Shaun Carr) S@san L@cci (Eric@ K@ne) for ''Riunit@ Win@'' — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2077%20%28ADVERT%29%20%28Shaun%20Carr%29%20S%40san%20L%40cci%20%28Eric%40%20K%40ne%29%20for%20%27%27Riunit%40%20Win%40%27%27.mp4  
-  Source: library/06-sports.md
-- A MC 78 (ADVERT) (ClubBlue) Sus@n L@cci (Eric@ K@ne) for ''Close Up Toothpaste'' — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/A%20MC%2078%20%28ADVERT%29%20%28ClubBlue%29%20Sus%40n%20L%40cci%20%28Eric%40%20K%40ne%29%20for%20%27%27Close%20Up%20Toothpaste%27%27.mp4  
-  Source: library/06-sports.md
-- Africa Blood and Guts 1966 -Africa Addio — https://archive.org/download/africa-blood-and-guts-1966-africa-addio/Africa%20Blood%20and%20Guts%201966%20-Africa%20Addio-.mp4  
-  Source: library/06-sports.md
-- All Time Greatest Stock Car Finishes [VHS, 1990] — https://archive.org/download/all-time-greatest-stock-car-finishes/all-time  
-  Source: library/06-sports.md
-- america10thepromisefulfilledandthepromisebrokenreel1 — https://archive.org/download/america10thepromisefulfilledandthepromisebrokenreel2/america10thepromisefulfilledandthepromisebrokenreel1.mp4  
-  Source: library/06-sports.md
-- america10thepromisefulfilledandthepromisebrokenreel2 — https://archive.org/download/america10thepromisefulfilledandthepromisebrokenreel2/america10thepromisefulfilledandthepromisebrokenreel2.mp4  
-  Source: library/06-sports.md
-- Australian Movie Magazine #7321 — https://archive.org/download/7321_20210301/7321.mp4  
-  Source: library/06-sports.md
-- Beta #34: Alabama For the Record on DirecTV — https://archive.org/download/beta34alabamafortherecord/alabama.ia.mp4  
-  Source: library/06-sports.md
-- Business1968 — https://archive.org/download/Business1968/Business1968.mp4  
-  Source: library/06-sports.md
-- Camel Cigarette Commercials, Reel # 4 — https://archive.org/download/tobacco_hli83d00/VTS_01_1_512kb.mp4  
-  Source: library/06-sports.md
-- Century21964 — https://archive.org/download/Century21964/Century21964.mp4  
-  Source: library/06-sports.md
-- Century21964 edit — https://archive.org/download/Century21964/Century21964_edit.mp4  
-  Source: library/06-sports.md
-- chevrolet1956for1957Chevy — https://archive.org/download/chevrolet1956for1957Chevy/chevrolet1956for1957Chevy.mp4  
-  Source: library/06-sports.md
-- chevrolet1960 — https://archive.org/download/1959CommercialFor1960Chevrolet/chevrolet1960.mp4  
-  Source: library/06-sports.md
-- Christmas in Appalachia — https://archive.org/download/christmasinappalachia/christmasinappalachia/christmasinappalachia.mp4  
-  Source: library/06-sports.md
-- Christmas In Appalachia, 1965 — https://archive.org/download/ChristmasInAppalachia1965/Christmas  
-  Source: library/06-sports.md
-- Classic 1967 commercial for Instant Quaker Oatmeal with Elizabeth Montgomery — https://archive.org/download/Classic1967CommercialForinstantQuakerOatmealWithElizabethMontgomery/Oatmeal1967Witch_512kb.mp4  
-  Source: library/06-sports.md
-- Classic Aunt Jemima commercial (1967) — https://archive.org/download/ClassicAuntJemimaCommercial1967/Pancake1967_512kb.mp4  
-  Source: library/06-sports.md
-- Cliché Family in Televisionland — https://archive.org/download/cliche_family/cliche_family_512kb.mp4  
-  Source: library/06-sports.md
-- Commercials & Beaver On TV — https://archive.org/download/commercials-beaver-on-tv/Walt  
-  Source: library/06-sports.md
-- consumerpoweradvertising — https://archive.org/download/consumerpoweradvertising/consumerpoweradvertising.mp4  
-  Source: library/06-sports.md
-- Consuming Women (Women as Consumers) — https://archive.org/download/Consumin1967/Consumin1967_edit.mp4  
-  Source: library/06-sports.md
-- crying indian psa hd — https://archive.org/download/crying_indian_psa_hd/crying_indian_psa_hd.mp4  
-  Source: library/06-sports.md
-- David Hall Story, The — https://archive.org/download/0423_David_Hall_Story_The_E00834_00_22_40_00/0423_David_Hall_Story_The_E00834_00_22_40_00.mp4  
-  Source: library/06-sports.md
-- detroitspatternofgrowth — https://archive.org/download/detroitspatternofgrowth/detroitspatternofgrowth.mp4  
-  Source: library/06-sports.md
-- dodgetexan — https://archive.org/download/CommercialFor1956DodgeTexan/dodgetexan.mp4  
-  Source: library/06-sports.md
-- Dominican Truce. Cease-Fire Brings Calm To Island, 1965/05/06 — https://archive.org/download/1965-05-06_Dominican_Truce/1965-05-06_Dominican_Truce.mp4  
-  Source: library/06-sports.md
-- Dustys Trail 2 — https://archive.org/download/Dustys_Trail_2/Dustys_Trail_2.mp4  
-  Source: library/06-sports.md
-- East German Propaganda and Advertising Film — https://archive.org/download/East_German_Advertising_1958/East_German_Advertising_1958_512kb.mp4  
-  Source: library/06-sports.md
-- East German Trabant 601 Car Advertising Film — https://archive.org/download/trabant601/trabant601_512kb.mp4  
-  Source: library/06-sports.md
-- Edsel1957Ad1 — https://archive.org/download/1957CommercialsForTheEdsel/Edsel1957Ad1.mp4  
-  Source: library/06-sports.md
-- Edsel1957Ad2 — https://archive.org/download/1957CommercialsForTheEdsel/Edsel1957Ad2.mp4  
-  Source: library/06-sports.md
-- Edsel1957Ad3 — https://archive.org/download/1957CommercialsForTheEdsel/Edsel1957Ad3.mp4  
-  Source: library/06-sports.md
-- Edwood1 — https://archive.org/download/edwoodtvads/Edwood1.mp4  
-  Source: library/06-sports.md
-- eight on the lam — https://archive.org/download/eight_on_the_lam/eight_on_the_lam.mp4  
-  Source: library/06-sports.md
-- Errichetti#9170 — https://archive.org/download/ALCF_ArthurHVirtue_HomeMovies_Clip9170/Errichetti%239170.mp4  
-  Source: library/06-sports.md
-- Errichetti#9173-77 — https://archive.org/download/ALCF_ArthurHVirtue_HomeMovies_Clip917377/Errichetti%239173-77.mp4  
-  Source: library/06-sports.md
-- Errichetti#9209-10 — https://archive.org/download/ALCF_ArthurHVirtue_HomeMovies_Clip920910/Errichetti%239209-10.mp4  
-  Source: library/06-sports.md
-- ESPN November 1987 Commercial Collection — https://archive.org/download/80s-commercials-espn-november-19871080p/80s  
-  Source: library/06-sports.md
-- Fireball 500 [1966] - Trailer — https://archive.org/download/sinema-trailer_fireball-500/Fireball  
-  Source: library/06-sports.md
-- ForwardLookCommercial1955 — https://archive.org/download/1955CommercialForChryslerforwardLook/ForwardLookCommercial1955.mp4  
-  Source: library/06-sports.md
-- Fritz the Cat — https://archive.org/download/fritz-the-cat_202512/Fritz%20the%20Cat.mp4  
-  Source: library/06-sports.md
-- FrontLin1965 — https://archive.org/download/FrontLin1965/FrontLin1965.mp4  
-  Source: library/06-sports.md
-- Ghost of Dragstrip Hollow [1959] - Trailer — https://archive.org/download/sinema-trailer_ghost-of-dragstrip-hollow/Ghost  
-  Source: library/06-sports.md
-- Greased Lightning (1977) - Upscaled 1080p — https://archive.org/download/greased-lightning-1977/Greased  
-  Source: library/06-sports.md
-- Harlem Globetrotters at WDW - 1991 — https://archive.org/download/harlem-globetrotters-at-wdw-1991/Harlem%20Globetrotters%20at%20WDW%20-%201991.mp4  
-  Source: library/06-sports.md
-- Harlem Globetrotters in Australia - 1989 — https://archive.org/download/harlem-globetrotters-at-wdw-1991/Harlem%20Globetrotters%20in%20Australia%20-%201989.mp4  
-  Source: library/06-sports.md
-- Heavy Traffic — https://archive.org/download/heavy-traffic_202512/Heavy%20Traffic.mp4  
-  Source: library/06-sports.md
-- homefront1917to1919wartransformsamericanlife — https://archive.org/download/homefront1917to1919wartransformsamericanlife/homefront1917to1919wartransformsamericanlife.mp4  
-  Source: library/06-sports.md
-- HomeMovie01-01 — https://archive.org/download/Home_Movie_01_01/HomeMovie0101_512kb.mp4  
-  Source: library/06-sports.md
-- IHRA Presents: Quarter Mile Crashes Vol. 1 — https://archive.org/download/ihra-presents-quarter-mile-crashes-vol.-1/IHRA  
-  Source: library/06-sports.md
-- Ingenuity in Action (Part I) — https://archive.org/download/Ingenuit1958/Ingenuit1958_edit.mp4  
-  Source: library/06-sports.md
-- Ingenuity in Action (Part II) — https://archive.org/download/Ingenuit1958_2/Ingenuit1958_2_edit.mp4  
-  Source: library/06-sports.md
-- kukluxklantheinvisibleempire — https://archive.org/download/kukluxklantheinvisibleempire_201505/kukluxklantheinvisibleempire.mp4  
-  Source: library/06-sports.md
-- laborcomesofage — https://archive.org/download/laborcomesofage/laborcomesofage.mp4  
-  Source: library/06-sports.md
-- Lost In Space promo — https://archive.org/download/LostInSpacePromo/Lost  
-  Source: library/06-sports.md
-- Marlboro Commercials Compilation — https://archive.org/download/tobacco_qja84e00/Marlboro_512kb.mp4  
-  Source: library/06-sports.md
-- Match Your Mood — https://archive.org/download/match_your_mood/match_your_mood_edit.mp4  
-  Source: library/06-sports.md
-- My Moviea1 — https://archive.org/download/ytv-dragon-ball-z-keeping-up-appearances-commercial-breaks/My%20Moviea1.mp4  
-  Source: library/06-sports.md
-- My Moviea2 — https://archive.org/download/ytv-dragon-ball-z-keeping-up-appearances-commercial-breaks/My%20Moviea2.mp4  
-  Source: library/06-sports.md
-- My Moviea3 — https://archive.org/download/ytv-dragon-ball-z-keeping-up-appearances-commercial-breaks/My%20Moviea3.mp4  
-  Source: library/06-sports.md
-- My Moviea4 — https://archive.org/download/ytv-dragon-ball-z-keeping-up-appearances-commercial-breaks/My%20Moviea4.mp4  
-  Source: library/06-sports.md
-- My Movier1 — https://archive.org/download/ytv-dragon-ball-z-keeping-up-appearances-commercial-breaks/My%20Movier1.mp4  
-  Source: library/06-sports.md
-- My Movier2 — https://archive.org/download/ytv-dragon-ball-z-keeping-up-appearances-commercial-breaks/My%20Movier2.mp4  
-  Source: library/06-sports.md
-- My Movier3 — https://archive.org/download/ytv-dragon-ball-z-keeping-up-appearances-commercial-breaks/My%20Movier3.mp4  
-  Source: library/06-sports.md
-- My Movier4 — https://archive.org/download/ytv-dragon-ball-z-keeping-up-appearances-commercial-breaks/My%20Movier4.mp4  
-  Source: library/06-sports.md
-- Nitro Funny Cars — https://archive.org/download/nitro-funny-cars/Nitro  
-  Source: library/06-sports.md
-- nobodysvictim — https://archive.org/download/nobodysvictim/nobodysvictim.mp4  
-  Source: library/06-sports.md
-- OKusedCars1960 — https://archive.org/download/1960CommercialForOkUsedCars/OKusedCars1960.mp4  
-  Source: library/06-sports.md
-- On Any Sunday (1971) — https://archive.org/download/on-any-sunday-1971-1080p/On.Any.Sunday.1971.1080p.WEBRip.x265-RARBG.mp4  
-  Source: library/06-sports.md
-- Pink Pistons — https://archive.org/download/pink-pistons-s-01-ep-16/Pink  
-  Source: library/06-sports.md
-- Pit Stop [1969] - Trailer — https://archive.org/download/sinema-trailer_pit-stop/Pit  
-  Source: library/06-sports.md
-- PlaneTal1965 — https://archive.org/download/PlaneTal1965/PlaneTal1965.mp4  
-  Source: library/06-sports.md
-- PlymouthTurbine1955 — https://archive.org/download/1955CommercialForPlymouthBelvedereTurbine/PlymouthTurbine1955.mp4  
-  Source: library/06-sports.md
-- PostRaisinBran1959 — https://archive.org/download/1959CommercialForPostRaisinBranad1/PostRaisinBran1959.mp4  
-  Source: library/06-sports.md
-- Pro Jet — https://archive.org/download/projetvhstape/Pro  
-  Source: library/06-sports.md
-- Programa di dragrace vol. 1 - Koral Tabak — https://archive.org/download/ana-dig-da-silva-19/ANA-DIG-DaSilva-19.mp4  
-  Source: library/06-sports.md
-- Programa di dragrace vol. 2 — https://archive.org/download/ana-dig-da-silva-20/ANA-DIG-DaSilva-20.mp4  
-  Source: library/06-sports.md
-- psa retro pollution 640 — https://archive.org/download/psa_retro_pollution_640/psa_retro_pollution_640.mp4  
-  Source: library/06-sports.md
-- Rolling Stones at Altamont (Home Movie) — https://archive.org/download/rolling-stones-at-altamont-home-movie/service-mbrs-ntscrm-02628023-02628023.mp4  
-  Source: library/06-sports.md
-- ROLLING STONES, Altamont Festival, documentary — https://archive.org/download/rolling-stones-altamont-part-1/ROLLING  
-  Source: library/06-sports.md
-- saucer bite none — https://archive.org/download/psa_retro_pollution_640/saucer_bite_none.mp4  
-  Source: library/06-sports.md
-- saucer bite two — https://archive.org/download/psa_retro_pollution_640/saucer_bite_two.mp4  
-  Source: library/06-sports.md
-- Scenes from the Altamont Speedway Free Festival 1969 — https://archive.org/download/KCRASP025ALTAMONT/KCRA  
-  Source: library/06-sports.md
-- SeatbeltPSAs — https://archive.org/download/SeatbeltPSAs/SeatbeltPSAs.mp4  
-  Source: library/06-sports.md
-- Sharp ELSI-8 Calculator Commercial — https://archive.org/download/sharp_calculator_2/sharp_calculator_2_edit.mp4  
-  Source: library/06-sports.md
-- Speedway — Trailer — https://archive.org/download/trailer-for-speedway/Trailer  
-  Source: library/06-sports.md
-- Spiegel van Nederland (62712) — https://archive.org/download/62712_1411108732_s01_Spiegel_van_Nederland_62712/62712_1411108732_s01_Spiegel_van_Nederland_62712.mp4  
-  Source: library/06-sports.md
-- stalking the wild cranberry 1972 512kb — https://archive.org/download/stalking_the_wild_cranberry_1972/stalking_the_wild_cranberry_1972_512kb.mp4  
-  Source: library/06-sports.md
-- sure mac sure psa 512kb — https://archive.org/download/sure_mac_sure_psa/sure_mac_sure_psa_512kb.mp4  
-  Source: library/06-sports.md
-- Ten for Gold — https://archive.org/download/gov.archives.arc.614503/gov.archives.arc.614503.mp4  
-  Source: library/06-sports.md
-- The Brady Bunch - Cast Commercial Compilation — https://archive.org/download/The_Brady_Bunch_Commercial_Compilation/The%20Brady%20Bunch%20-%20Cast%20Commercial%20Compilation.mp4  
-  Source: library/06-sports.md
-- The Glasco Family - The Wichita Years (8mm) — https://archive.org/download/The_Glasco_Family_8mm_Movies/The_Glasco_Family_8mm_Movies_512kb.mp4  
-  Source: library/06-sports.md
-- The Mystery in Dracula's Castle (1972 Children, Family Adv ) Part 1 and 2 — https://archive.org/download/the-mystery-in-draculas-castle-1972-children-family-adv.-part-1-and-2/The%20Mystery%20in%20Dracula%27s%20Castle%20%281972%20Children%2C%20Family%20Adv.%29%20Part%201%20and%202.mp4  
-  Source: library/06-sports.md
-- THE SADIST — https://archive.org/download/The_Sadist/THE_SADIST.mp4  
-  Source: library/06-sports.md
-- The Secret of Boyne Castle (1969 WD Children) (Ty, Chris Johnson ) — https://archive.org/download/the-secret-of-boyne-castle-1969-wd-children-ty-chris-johnson./The%20Secret%20of%20Boyne%20Castle%20%281969%20WD%20Children%29%20%28Ty%2C%20Chris%20Johnson.%29.mp4  
-  Source: library/06-sports.md
-- The Velvet Underground and Nico 1966 — https://archive.org/download/TheVelvetUndergroundandNico1966/The.Velvet.Underground.and.Nico1966TVrip_512kb.mp4  
-  Source: library/06-sports.md
-- The Yesterday Machine (1965 Time Travel SciFi) (Cult Cinema Classics) — https://archive.org/download/the-yesterday-machine-1965-time-travel-sci-fi-cult-cinema-classics/The%20Yesterday%20Machine%20%281965%20Time%20Travel%20SciFi%29%20%28Cult%20Cinema%20Classics%29.mp4  
-  Source: library/06-sports.md
-- thethirdpollution — https://archive.org/download/thethirdpollution/thethirdpollution.mp4  
-  Source: library/06-sports.md
-- Torsion-AireRideDeSoto-1956Adfor1957 — https://archive.org/download/1956CommercialForChryslerTorsion-aireRide/Torsion-AireRideDeSoto-1956Adfor1957.mp4  
-  Source: library/06-sports.md
-- ToughAC1973Campaign — https://archive.org/download/ToughAC1973Campaign/ToughAC1973Campaign.mp4  
-  Source: library/06-sports.md
-- Track Freaks — https://archive.org/download/trackfreaksiivhs/Track  
-  Source: library/06-sports.md
-- Traveltime: Freedomland — https://archive.org/download/TravelTimeFreedomland/TravelTimeFreedomland.mp4  
-  Source: library/06-sports.md
-- Viceroy Commercials Compilation — https://archive.org/download/tobacco_rou03f00/170500066_512kb.mp4  
-  Source: library/06-sports.md
-- ViciousC1964 — https://archive.org/download/ViciousC1964/ViciousC1964.mp4  
-  Source: library/06-sports.md
-- ViciousC1964 edit — https://archive.org/download/ViciousC1964/ViciousC1964_edit.mp4  
-  Source: library/06-sports.md
-- VTS 01 1 — https://archive.org/download/vts-01-1_20200423_1708/VTS_01_1.mp4  
-  Source: library/06-sports.md
-- VTS 01 2 — https://archive.org/download/vts-01-1_20200423_1708/VTS_01_2.mp4  
-  Source: library/06-sports.md
-- VTS 02 1 — https://archive.org/download/vts-01-1_20200423_1708/VTS_02_1.mp4  
-  Source: library/06-sports.md
-- VTS 02 2 — https://archive.org/download/vts-01-1_20200423_1708/VTS_02_2.mp4  
-  Source: library/06-sports.md
-- Watashi-wa beretto — https://archive.org/download/watashi-wa-beretto/Watashi-wa%20beretto.mp4  
-  Source: library/06-sports.md
-- Westinghouse Air Conditioners Commercial 1 — https://archive.org/download/Westinghouse_2/Westinghouse_2_edit.mp4  
-  Source: library/06-sports.md
-- Wichita-Commercials-01 — https://archive.org/download/WichitaCommercials01/Wichita-Commercials-01.mp4  
-  Source: library/06-sports.md
-- Wonderful World of Wheels (1960s) — https://archive.org/download/68014-wonderful-world-of-wheels-vwr_202412/68014+Wonderful+World+Of+Wheels_vwr.mp4  
-  Source: library/06-sports.md
-- Zamfir The Romance of the Pan Flute — https://archive.org/download/uncommon-ephemera-cassette-832-150-4-zamfir-the-romance-of-the-pan-flute-mercury-records-1982/Zamfir%20The%20Romance%20of%20the%20Pan%20Flute.mp4  
-  Source: library/06-sports.md
-- Atlantis Crystal Water Death — https://archive.org/download/man-from-atlantis-complete-series-1977/Man%20from%20Atlantis%20S01E07%20-%20Crystal%20Water%20Sudden%20Death.mp4  
-  Source: library/07-tv-series.md
-- Atlantis CW Hyde — https://archive.org/download/man-from-atlantis-complete-series-1977/Man%20from%20Atlantis%20S01E09%20-%20CW%20Hyde.mp4  
-  Source: library/07-tv-series.md
-- Atlantis Deadly Carnival — https://archive.org/download/man-from-atlantis-complete-series-1977/Man%20from%20Atlantis%20S01E13%20-%20Deadly%20Carnival.mp4  
-  Source: library/07-tv-series.md
-- Atlantis Death Scouts — https://archive.org/download/man-from-atlantis-complete-series-1977/Man%20from%20Atlantis%20S00E02%20-%20The%20Death%20Scouts.mp4  
-  Source: library/07-tv-series.md
-- Atlantis Disappearances — https://archive.org/download/man-from-atlantis-complete-series-1977/Man%20from%20Atlantis%20S00E04%20-%20The%20Disappearances.mp4  
-  Source: library/07-tv-series.md
-- Atlantis Giant — https://archive.org/download/man-from-atlantis-complete-series-1977/Man%20from%20Atlantis%20S01E04%20-%20Giant.mp4  
-  Source: library/07-tv-series.md
-- Atlantis Hawk Of Mu — https://archive.org/download/man-from-atlantis-complete-series-1977/Man%20from%20Atlantis%20S01E03%20-%20Hawk%20Of%20Mu.mp4  
-  Source: library/07-tv-series.md
-- Atlantis Imp — https://archive.org/download/man-from-atlantis-complete-series-1977/Man%20from%20Atlantis%20S01E11%20-%20Imp.mp4  
-  Source: library/07-tv-series.md
-- Atlantis Killer Spores — https://archive.org/download/man-from-atlantis-complete-series-1977/Man%20from%20Atlantis%20S00E03%20-%20Killer%20Spores.mp4  
-  Source: library/07-tv-series.md
-- Atlantis Man O'War — https://archive.org/download/man-from-atlantis-complete-series-1977/Man%20from%20Atlantis%20S01E05%20-%20Man%20O%27War.mp4  
-  Source: library/07-tv-series.md
-- Atlantis Melt Down — https://archive.org/download/man-from-atlantis-complete-series-1977/Man%20from%20Atlantis%20S01E01%20-%20Melt%20Down.mp4  
-  Source: library/07-tv-series.md
-- Atlantis Naked Montague — https://archive.org/download/man-from-atlantis-complete-series-1977/Man%20from%20Atlantis%20S01E08%20-%20The%20Naked%20Montague.mp4  
-  Source: library/07-tv-series.md
-- Atlantis S00E01 — https://archive.org/download/man-from-atlantis-complete-series-1977/Man%20from%20Atlantis%20S00E01%20-%20Man%20from%20Atlantis.mp4  
-  Source: library/07-tv-series.md
-- Atlantis Scavenger Hunt — https://archive.org/download/man-from-atlantis-complete-series-1977/Man%20from%20Atlantis%20S01E10%20-%20Scavenger%20Hunt.mp4  
-  Source: library/07-tv-series.md
-- Atlantis Shoot Out Lands End — https://archive.org/download/man-from-atlantis-complete-series-1977/Man%20from%20Atlantis%20S01E06%20-%20Shoot%20Out%20At%20Lands%20End.mp4  
-  Source: library/07-tv-series.md
-- Atlantis Siren — https://archive.org/download/man-from-atlantis-complete-series-1977/Man%20from%20Atlantis%20S01E12%20-%20Siren.mp4  
-  Source: library/07-tv-series.md
-- Atlantis The Mudworm — https://archive.org/download/man-from-atlantis-complete-series-1977/Man%20from%20Atlantis%20S01E02%20-%20The%20Mudworm.mp4  
-  Source: library/07-tv-series.md
-- Buck Rogers Amazon Women — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S01E10%20-%20Planet%20of%20the%20Amazon%20Women.mp4  
-  Source: library/07-tv-series.md
-- Buck Rogers Ardala Returns — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S01E17%20-%20Ardala%20Returns.mp4  
-  Source: library/07-tv-series.md
-- Buck Rogers Awakening — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S01E01-E02%20-%20Awakening%20.mp4  
-  Source: library/07-tv-series.md
-- Buck Rogers Blast for Buck — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S01E16%20-%20A%20Blast%20for%20Buck.mp4  
-  Source: library/07-tv-series.md
-- Buck Rogers Cosmic Wiz Kid — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S01E11%20-%20Cosmic%20Wiz%20Kid.mp4  
-  Source: library/07-tv-series.md
-- Buck Rogers Cruise Ship — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S01E13-%20Cruise%20Ship%20to%20the%20Starsm.mp4  
-  Source: library/07-tv-series.md
-- Buck Rogers Dorian Secret — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S02E13%20-%20The%20Dorian%20Secret.mp4  
-  Source: library/07-tv-series.md
-- Buck Rogers Dream of Jennifer — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S01E20%20-%20A%20Dream%20of%20Jennifer.mp4  
-  Source: library/07-tv-series.md
-- Buck Rogers Duel to Death — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S01E22%20-%20Bucks%20Duel%20to%20the%20Death.mp4  
-  Source: library/07-tv-series.md
-- Buck Rogers Escape Bliss — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S01E12%20-%20Escape%20From%20Wedded%20Bliss.mp4  
-  Source: library/07-tv-series.md
-- Buck Rogers Fighting 69th — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S01E08%20-%20Return%20of%20the%20Fighting%2069th.mp4  
-  Source: library/07-tv-series.md
-- Buck Rogers Golden Man — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S02E07%20-%20The%20Golden%20Man.mp4  
-  Source: library/07-tv-series.md
-- Buck Rogers Guardians — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S02E05%20-%20The%20Guardians.mp4  
-  Source: library/07-tv-series.md
-- Buck Rogers Hand of Goral — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S02E11%20-%20The%20Hand%20of%20the%20Goral.mp4  
-  Source: library/07-tv-series.md
-- Buck Rogers Happy B-Day — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S01E15%20-%20Happy%20Birthday%2C%20Buck.mp4  
-  Source: library/07-tv-series.md
-- Buck Rogers Journey Oasis — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S02E03-E04%20-%20Journey%20to%20Oasis.mp4  
-  Source: library/07-tv-series.md
-- Buck Rogers Kill a City Pt1 — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S01E06%20-%20The%20Plot%20to%20Kill%20a%20City%20Pt-1.mp4  
-  Source: library/07-tv-series.md
-- Buck Rogers Kill a City Pt2 — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S01E07%20-%20The%20Plot%20to%20Kill%20a%20City%20Pt-2.mp4  
-  Source: library/07-tv-series.md
-- Buck Rogers Mark of Saurian — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S02E06%20-%20Mark%20of%20the%20Saurian.mp4  
-  Source: library/07-tv-series.md
-- Buck Rogers Olympiad — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S01E19%20-%20Olympiad.mp4  
-  Source: library/07-tv-series.md
-- Buck Rogers Shgoratchx — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S02E10%20-%20Shgoratchx.mp4  
-  Source: library/07-tv-series.md
-- Buck Rogers Slave Girls — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S01E03-E04%20-%20Planet%20of%20the%20Slave%20Girls.mp4  
-  Source: library/07-tv-series.md
-- Buck Rogers Space Rockers — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S01E21%20-%20Space%20Rockers.mp4  
-  Source: library/07-tv-series.md
-- Buck Rogers Space Vampire — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S01E14%20-%20Space%20Vampire.mp4  
-  Source: library/07-tv-series.md
-- Buck Rogers Testimony Traitor — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S02E12%20-%20Testimony%20of%20a%20Traitor.mp4  
-  Source: library/07-tv-series.md
-- Buck Rogers The Crystals — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S02E08%20-%20The%20Crystals.mp4  
-  Source: library/07-tv-series.md
-- Buck Rogers The Satyr — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S02E09%20-%20The%20Satyr.mp4  
-  Source: library/07-tv-series.md
-- Buck Rogers Time of Hawk — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S02E01-E02%20-%20Time%20of%20the%20Hawk.mp4  
-  Source: library/07-tv-series.md
-- Buck Rogers Twiki is Missing — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S01E18%20-%20Twiki%20is%20Missing.mp4  
-  Source: library/07-tv-series.md
-- Buck Rogers Unchained Woman — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S01E09%20-%20Unchained%20Woman.mp4  
-  Source: library/07-tv-series.md
-- Buck Rogers Vegas — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S01E05%20-%20Vegas%20in%20Space.mp4  
-  Source: library/07-tv-series.md
-- Buck Rogers War Witch Pt1 — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S01E23%20-%20Flight%20of%20the%20War%20Witch%20Pt-1.mp4  
-  Source: library/07-tv-series.md
-- Buck Rogers War Witch Pt2 — https://archive.org/download/buck-rogers-in-the-25th-century-complete-series-1979/Buck%20Rogers%20S01E24%20-%20Flight%20of%20the%20War%20Witch%20Pt-2.mp4  
-  Source: library/07-tv-series.md
-- Final Space S01E01 — https://archive.org/download/final-space_202209/Final.Space.S01.1080p.BluRay.x265-RARBG/Final.Space.S01E01.1080p.BluRay.x265-RARBG.mp4  
-  Source: library/07-tv-series.md
-- Final Space S01E02 — https://archive.org/download/final-space_202209/Final.Space.S01.1080p.BluRay.x265-RARBG/Final.Space.S01E02.1080p.BluRay.x265-RARBG.mp4  
-  Source: library/07-tv-series.md
-- Final Space S01E03 — https://archive.org/download/final-space_202209/Final.Space.S01.1080p.BluRay.x265-RARBG/Final.Space.S01E03.1080p.BluRay.x265-RARBG.mp4  
-  Source: library/07-tv-series.md
-- Final Space S01E04 — https://archive.org/download/final-space_202209/Final.Space.S01.1080p.BluRay.x265-RARBG/Final.Space.S01E04.1080p.BluRay.x265-RARBG.mp4  
-  Source: library/07-tv-series.md
-- Final Space S01E05 — https://archive.org/download/final-space_202209/Final.Space.S01.1080p.BluRay.x265-RARBG/Final.Space.S01E05.1080p.BluRay.x265-RARBG.mp4  
-  Source: library/07-tv-series.md
-- Final Space S01E06 — https://archive.org/download/final-space_202209/Final.Space.S01.1080p.BluRay.x265-RARBG/Final.Space.S01E06.1080p.BluRay.x265-RARBG.mp4  
-  Source: library/07-tv-series.md
-- Final Space S01E07 — https://archive.org/download/final-space_202209/Final.Space.S01.1080p.BluRay.x265-RARBG/Final.Space.S01E07.1080p.BluRay.x265-RARBG.mp4  
-  Source: library/07-tv-series.md
-- Final Space S01E08 — https://archive.org/download/final-space_202209/Final.Space.S01.1080p.BluRay.x265-RARBG/Final.Space.S01E08.1080p.BluRay.x265-RARBG.mp4  
-  Source: library/07-tv-series.md
-- Final Space S01E09 — https://archive.org/download/final-space_202209/Final.Space.S01.1080p.BluRay.x265-RARBG/Final.Space.S01E09.1080p.BluRay.x265-RARBG.mp4  
-  Source: library/07-tv-series.md
-- Final Space S01E10 — https://archive.org/download/final-space_202209/Final.Space.S01.1080p.BluRay.x265-RARBG/Final.Space.S01E10.1080p.BluRay.x265-RARBG.mp4  
-  Source: library/07-tv-series.md
-- Final Space S02E01 — https://archive.org/download/final-space_202209/Final.Space.S02.1080p.BluRay.x265-RARBG/Final.Space.S02E01.1080p.BluRay.x265-RARBG.mp4  
-  Source: library/07-tv-series.md
-- Final Space S02E02 — https://archive.org/download/final-space_202209/Final.Space.S02.1080p.BluRay.x265-RARBG/Final.Space.S02E02.1080p.BluRay.x265-RARBG.mp4  
-  Source: library/07-tv-series.md
-- Final Space S02E03 — https://archive.org/download/final-space_202209/Final.Space.S02.1080p.BluRay.x265-RARBG/Final.Space.S02E03.1080p.BluRay.x265-RARBG.mp4  
-  Source: library/07-tv-series.md
-- Final Space S02E04 — https://archive.org/download/final-space_202209/Final.Space.S02.1080p.BluRay.x265-RARBG/Final.Space.S02E04.1080p.BluRay.x265-RARBG.mp4  
-  Source: library/07-tv-series.md
-- Final Space S02E05 — https://archive.org/download/final-space_202209/Final.Space.S02.1080p.BluRay.x265-RARBG/Final.Space.S02E05.1080p.BluRay.x265-RARBG.mp4  
-  Source: library/07-tv-series.md
-- Final Space S02E06 — https://archive.org/download/final-space_202209/Final.Space.S02.1080p.BluRay.x265-RARBG/Final.Space.S02E06.1080p.BluRay.x265-RARBG.mp4  
-  Source: library/07-tv-series.md
-- Final Space S02E07 — https://archive.org/download/final-space_202209/Final.Space.S02.1080p.BluRay.x265-RARBG/Final.Space.S02E07.1080p.BluRay.x265-RARBG.mp4  
-  Source: library/07-tv-series.md
-- Final Space S02E08 — https://archive.org/download/final-space_202209/Final.Space.S02.1080p.BluRay.x265-RARBG/Final.Space.S02E08.1080p.BluRay.x265-RARBG.mp4  
-  Source: library/07-tv-series.md
-- Final Space S02E09 — https://archive.org/download/final-space_202209/Final.Space.S02.1080p.BluRay.x265-RARBG/Final.Space.S02E09.1080p.BluRay.x265-RARBG.mp4  
-  Source: library/07-tv-series.md
-- Final Space S02E10 — https://archive.org/download/final-space_202209/Final.Space.S02.1080p.BluRay.x265-RARBG/Final.Space.S02E10.1080p.BluRay.x265-RARBG.mp4  
-  Source: library/07-tv-series.md
-- Final Space S02E11 — https://archive.org/download/final-space_202209/Final.Space.S02.1080p.BluRay.x265-RARBG/Final.Space.S02E11.1080p.BluRay.x265-RARBG.mp4  
-  Source: library/07-tv-series.md
-- Final Space S02E12 — https://archive.org/download/final-space_202209/Final.Space.S02.1080p.BluRay.x265-RARBG/Final.Space.S02E12.1080p.BluRay.x265-RARBG.mp4  
-  Source: library/07-tv-series.md
-- Final Space S02E13 — https://archive.org/download/final-space_202209/Final.Space.S02.1080p.BluRay.x265-RARBG/Final.Space.S02E13.1080p.BluRay.x265-RARBG.mp4  
-  Source: library/07-tv-series.md
-- Final Space S03E01 — https://archive.org/download/final-space_202209/Final.Space.S03.1080p.WEBRip.x265-RARBG/Final.Space.S03E01.1080p.WEBRip.x265-RARBG.mp4  
-  Source: library/07-tv-series.md
-- Final Space S03E02 — https://archive.org/download/final-space_202209/Final.Space.S03.1080p.WEBRip.x265-RARBG/Final.Space.S03E02.1080p.WEBRip.x265-RARBG.mp4  
-  Source: library/07-tv-series.md
-- Final Space S03E03 — https://archive.org/download/final-space_202209/Final.Space.S03.1080p.WEBRip.x265-RARBG/Final.Space.S03E03.1080p.WEBRip.x265-RARBG.mp4  
-  Source: library/07-tv-series.md
-- Final Space S03E04 — https://archive.org/download/final-space_202209/Final.Space.S03.1080p.WEBRip.x265-RARBG/Final.Space.S03E04.1080p.WEBRip.x265-RARBG.mp4  
-  Source: library/07-tv-series.md
-- Final Space S03E05 — https://archive.org/download/final-space_202209/Final.Space.S03.1080p.WEBRip.x265-RARBG/Final.Space.S03E05.1080p.WEBRip.x265-RARBG.mp4  
-  Source: library/07-tv-series.md
-- Final Space S03E06 — https://archive.org/download/final-space_202209/Final.Space.S03.1080p.WEBRip.x265-RARBG/Final.Space.S03E06.1080p.WEBRip.x265-RARBG.mp4  
-  Source: library/07-tv-series.md
-- Final Space S03E07 — https://archive.org/download/final-space_202209/Final.Space.S03.1080p.WEBRip.x265-RARBG/Final.Space.S03E07.1080p.WEBRip.x265-RARBG.mp4  
-  Source: library/07-tv-series.md
-- Final Space S03E08 — https://archive.org/download/final-space_202209/Final.Space.S03.1080p.WEBRip.x265-RARBG/Final.Space.S03E08.1080p.WEBRip.x265-RARBG.mp4  
-  Source: library/07-tv-series.md
-- Final Space S03E09 — https://archive.org/download/final-space_202209/Final.Space.S03.1080p.WEBRip.x265-RARBG/Final.Space.S03E09.1080p.WEBRip.x265-RARBG.mp4  
-  Source: library/07-tv-series.md
-- Final Space S03E10 — https://archive.org/download/final-space_202209/Final.Space.S03.1080p.WEBRip.x265-RARBG/Final.Space.S03E10.1080p.WEBRip.x265-RARBG.mp4  
-  Source: library/07-tv-series.md
-- Final Space S03E11 — https://archive.org/download/final-space_202209/Final.Space.S03.1080p.WEBRip.x265-RARBG/Final.Space.S03E11.1080p.WEBRip.x265-RARBG.mp4  
-  Source: library/07-tv-series.md
-- Final Space S03E12 — https://archive.org/download/final-space_202209/Final.Space.S03.1080p.WEBRip.x265-RARBG/Final.Space.S03E12.1080p.WEBRip.x265-RARBG.mp4  
-  Source: library/07-tv-series.md
-- Final Space S03E13 — https://archive.org/download/final-space_202209/Final.Space.S03.1080p.WEBRip.x265-RARBG/Final.Space.S03E13.1080p.WEBRip.x265-RARBG.mp4  
-  Source: library/07-tv-series.md
-- 1967 TV Soap: Love is a Many Splendored Thing - 1st of December 1967 — https://archive.org/download/1967_PD_Soapie/LoveisaManySplenderedThing1967.mp4  
-  Source: library/01-tv-classics.md
-- 1962 Daytona 500 — https://archive.org/download/QgRSaMOUrv2iXxFiSQpxFygTEc2tUX/tmpasla91bx.mp4  
-  Source: library/01-tv-classics.md
-- 1983 Daytona 500 (partial, TasTV, 20-02-1983) — https://archive.org/download/1983-daytona-500-partial-tas-tv-20-02-1983/1983  
-  Source: library/06-sports.md
 - 1985 Daytona 500 — https://archive.org/download/1985-daytona-500/1985  
   Source: library/06-sports.md
-- VHS Rip - Rock n Racing (Main Event Video) (Approx. 1989) — https://archive.org/download/vhs-rip-rock-n-racing-main-event-video-approx-1989/VHS  
+- 1985 The Glo Friends Save Christmas (1985 Cool Stuff) — https://archive.org/download/1969-frosty-the-snowman-christmas-movies-for-kids-animated-cartoons-for-children/1985%20The%20Glo%20Friends%20Save%20Christmas%20%281985%20Cool%20Stuff%29.mp4  
   Source: library/06-sports.md
 - 1986 Indianapolis 500 FULL RACE ORIGINAL SATURDAY COVERAGE — https://archive.org/download/1986-indianapolis-500-full-race-original-saturday-coverage/1986  
   Source: library/06-sports.md
+- 1987 Santa Bear-s High-Flying Adventure (Jeff Dalby) — https://archive.org/download/1969-frosty-the-snowman-christmas-movies-for-kids-animated-cartoons-for-children/1987%20Santa%20Bear-s%20High-Flying%20Adventure%20%28Jeff%20Dalby%29.mp4  
+  Source: library/06-sports.md
 - 1990 Daytona 500 — Full Race — https://archive.org/download/01-1990-daytona-500-full-broadcast/01  
   Source: library/06-sports.md
-- 1982 Ziggy-s Gift (1982 Christmas Special) — https://archive.org/download/1969-frosty-the-snowman-christmas-movies-for-kids-animated-cartoons-for-children/1982%20Ziggy-s%20Gift%20%281982%20Christmas%20Special%29.mp4  
+- 3516 KeyvanHeydari Recovering American Puerto Rican Narratives — https://archive.org/download/ALCF_Heydari_0016/3516_KeyvanHeydari_Recovering_American_Puerto_Rican_Narratives_H264_2048x1152Pillars.mp4  
   Source: library/06-sports.md
+- Commercials & Beaver On TV — https://archive.org/download/commercials-beaver-on-tv/Walt  
+  Source: library/06-sports.md
+- VHS Rip - Rock n Racing (Main Event Video) (Approx. 1989) — https://archive.org/download/vhs-rip-rock-n-racing-main-event-video-approx-1989/VHS  
+  Source: library/06-sports.md
+- 1962 Daytona 500 — https://archive.org/download/QgRSaMOUrv2iXxFiSQpxFygTEc2tUX/tmpasla91bx.mp4  
+  Source: library/01-tv-classics.md
+- 1967 TV Soap: Love is a Many Splendored Thing - 1st of December 1967 — https://archive.org/download/1967_PD_Soapie/LoveisaManySplenderedThing1967.mp4  
+  Source: library/01-tv-classics.md
