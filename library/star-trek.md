@@ -1,8 +1,8 @@
 # Star Trek
 
-Copied from the previous Cline TV repository's Star Trek material. This is a library copy for review; it is not programming yet.
+Recovered from the previous Cline TV repository. Library copy only; not loaded by the player.
 
-**Entries: 113**
+**Entries: 80**
 
 - **1x01 The Cage**  
   https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x01%20-%20The%20Cage.mp4
@@ -164,69 +164,3 @@ Copied from the previous Cline TV repository's Star Trek material. This is a lib
   https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x23%20-%20All%20Our%20Yesterdays.mp4
 - **3x24 Turnabout Intruder**  
   https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x24%20-%20Turnabout%20Intruder.mp4
-- **1x01 The Human Bomb**  
-  https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%20E01%20-%20The%20Human%20Bomb.mp4
-- **1x02 The Big Actor**  
-  https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%20E02%20-%20The%20Big%20Actor.mp4
-- **1x05 The Big Cast**  
-  https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%20E05%20-%20The%20Big%20Cast.mp4
-- **1x11 Big September Man**  
-  https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%20E11%20-%20The%20Big%20September%20Man.mp4
-- **1x12 The Big Phone Call**  
-  https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%20E12%20-%20The%20Big%20Phone%20Call.mp4
-- **1x13 The Big Chasing**  
-  https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%20E13%20-%20The%20Big%20Chasing.mp4
-- **1x14 The Big Lamp**  
-  https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%20E14%20-%20The%20Big%20Lamp.mp4
-- **2x01 The Big Jump**  
-  https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%20E01%20-%20The%20Big%20Jump.mp4
-- **2x02 The Big Sorrow**  
-  https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%20E02%20-%20The%20Big%20Sorrow.mp4
-- **2x04 The Big Seventeen**  
-  https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%20E04%20-%20The%20Big%20Seventeen.mp4
-- **2x09 The Big Grandma**  
-  https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%20E09%20-%20The%20Big%20Grandma.mp4
-- **2x11 The Big Show**  
-  https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%20E11%20-%20The%20Big%20Show.mp4
-- **2x14 The Big Hate**  
-  https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%20E14%20-%20The%20Big%20Hate.mp4
-- **2x18 The Big Run**  
-  https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%20E18%20-%20The%20Big%20Run.mp4
-- **2x19 The Big Break**  
-  https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%20E19%20-%20The%20Big%20Break.mp4
-- **2x20 The Big Light**  
-  https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%20E20%20-%20The%20Big%20Light.mp4
-- **2x22 The Big Test**  
-  https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%20E22%20-%20The%20Big%20Test.mp4
-- **2x26 The Big Frank**  
-  https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%20E26%20-%20The%20Big%20Frank.mp4
-- **2x27 The Big Lease**  
-  https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%20E27%20-%20The%20Big%20Lease.mp4
-- **2x28 The Big Hands**  
-  https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%20E28%20-%20The%20Big%20Hands.mp4
-- **2x32 The Big Barrette**  
-  https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%20E32%20-%20The%20Big%20Barrette.mp4
-- **2x33 The Big Dance**  
-  https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%20E33%20-%20The%20Big%20Dance.mp4
-- **3x04 The Big Betty**  
-  https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%20E04%20-%20The%20Big%20Betty.mp4
-- **3x16 The Big Thief**  
-  https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%20E16%20-%20The%20Big%20Thief.mp4
-- **3x19 The Big Trunk**  
-  https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%20E19%20-%20The%20Big%20Trunk.mp4
-- **3x22 The Big Ham**  
-  https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%20E22%20-%20The%20Big%20Ham.mp4
-- **3x24 The Big Children**  
-  https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%20E24%20-%20The%20Big%20Children.mp4
-- **3x27 The Big Winchester**  
-  https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%20E27%20-%20The%20Big%20Winchester.mp4
-- **3x28 The Big Shoplift**  
-  https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%20E28%20-%20The%20Big%20Shoplift.mp4
-- **3x29 Big Hit-Run Killer**  
-  https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%20E29%20-%20The%20Big%20Hit-Run%20Killer.mp4
-- **3x31 The Big Girl**  
-  https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%20E31%20-%20The%20Big%20Girl.mp4
-- **3x34 The Big Frame**  
-  https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%20E34%20-%20The%20Big%20Frame.mp4
-- **3x35 The Big Plant**  
-  https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%20E35%20-%20The%20Big%20Plant.mp4
