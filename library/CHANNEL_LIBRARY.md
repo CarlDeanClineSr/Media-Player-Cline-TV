@@ -1,32 +1,28 @@
 # CLINE TV — NEW CHANNEL LIBRARY
 
-**Purpose:** a TV-style lineup, not an Archive.org dump. Channels are ordered by viewing interest. The original program title and direct media URL are retained. No renamed titles are used as catalog truth.
+This is the organized programming library for the rebuilt Cline TV lineup. It is arranged for **TV-style channel surfing first** and guide scanning second. The original program titles and direct media URLs are retained; titles are not rewritten to make them fit a channel.
 
-## LINEUP
+## CHANNEL ORDER
 
-- **CH 01 — FEATURE FILMS** · 119 programs
-- **CH 02 — SCI-FI & SPACE FILMS** · 45 programs
+- **CH 01 — FEATURE FILMS** · 128 programs
+- **CH 02 — SCI-FI & SPACE FILMS** · 35 programs
 - **CH 03 — HORROR & MONSTERS** · 20 programs
-- **CH 04 — FAMILY & ANIMATION FILMS** · 9 programs
-- **CH 05 — CLASSIC & WESTERN FILMS** · 1 programs
-- **CH 06 — COMEDY & ROMANCE FILMS** · 6 programs
-- **CH 07 — CLASSIC TV** · 451 programs
-- **CH 08 — SCI-FI TV** · 189 programs
-- **CH 09 — CRIME & MYSTERY TV** · 120 programs
-- **CH 10 — COMEDY & VARIETY TV** · 1 programs
-- **CH 11 — FAMILY & CHILDREN TV** · 613 programs
-- **CH 12 — DOCUMENTARIES** · 163 programs
-- **CH 13 — SCIENCE & COSMOS** · 1074 programs
-- **CH 14 — HISTORY & WAR** · 6 programs
-- **CH 15 — SPACE & NASA** · 59 programs
-- **CH 16 — SPORTS** · 196 programs
-- **CH 17 — OLD-TIME RADIO** · 1741 programs
-- **CH 18 — RADIO DRAMA & MYSTERY** · 312 programs
-- **CH 19 — RADIO COMEDY & SATIRE** · 0 programs
-- **CH 20 — MUSIC & JAZZ** · 95 programs
-- **CH 21 — NEWS & PUBLIC AFFAIRS** · 57 programs
-- **CH 22 — EDUCATION & TECHNOLOGY** · 156 programs
-- **CH 23 — SPECIALS & EVENTS** · 0 programs
+- **CH 04 — FAMILY, COMEDY & WESTERNS** · 17 programs
+- **CH 05 — CLASSIC TV** · 483 programs
+- **CH 06 — SCI-FI TV** · 158 programs
+- **CH 07 — CRIME & MYSTERY TV** · 120 programs
+- **CH 08 — FAMILY & CHILDREN TV** · 613 programs
+- **CH 09 — DOCUMENTARIES** · 163 programs
+- **CH 10 — SCIENCE & COSMOS** · 1074 programs
+- **CH 11 — HISTORY & WAR** · 6 programs
+- **CH 12 — SPACE & NASA** · 59 programs
+- **CH 13 — SPORTS** · 196 programs
+- **CH 14 — OLD-TIME RADIO** · 1741 programs
+- **CH 15 — RADIO DRAMA & MYSTERY** · 312 programs
+- **CH 16 — MUSIC & JAZZ** · 95 programs
+- **CH 17 — NEWS & PUBLIC AFFAIRS** · 57 programs
+- **CH 18 — EDUCATION & TECHNOLOGY** · 156 programs
+- **CH 19 — SPECIALS & EVENTS** · 0 programs
 
 **Review hold:** 35 programs — not assigned to a player channel until reviewed.
 
@@ -63,6 +59,7 @@
 - DVD9 — https://archive.org/download/Night.Of.The.Living.Dead_1080p/NightOfTheLivingDead_DVD9.mp4
 - E.T. The Extra Terrestrial — https://archive.org/download/My-Favorite-Movies_202503/E.T%20The%20Extra%20Terrestrial.mp4
 - EndoftheWorld — https://archive.org/download/EndoftheWorld/EndoftheWorld.mp4
+- Fantastic Planet 1973 DUBBED REMASTERED — https://archive.org/download/fantastic-planet__1973/Fantastic.Planet.1973.DUBBED.REMASTERED.1080p.BluRay.H264.AAC.mp4
 - Fiddler On The Roof — https://archive.org/download/fiddler-on-the-roof/Fiddler
 - FLIP FROG-FIDDLESTICKS DVD 512kb — https://archive.org/download/FLIP_FROG-FIDDLESTICKS/FLIP_FROG-FIDDLESTICKS_DVD_512kb.mp4
 - FLIP FROG-FIDDLESTICKS VCD 512kb — https://archive.org/download/FLIP_FROG-FIDDLESTICKS/FLIP_FROG-FIDDLESTICKS_VCD_512kb.mp4
@@ -101,6 +98,7 @@
 - Night — https://archive.org/download/night_of_the_living_dead_dvd/Night.mp4
 - NightOfTheLivingDead m2ts — https://archive.org/download/Night.Of.The.Living.Dead_1080p/NightOfTheLivingDead.mp4
 - OutofThi1954 — https://archive.org/download/OutofThi1954/OutofThi1954.mp4
+- planet outlaws — https://archive.org/download/planet_outlaws_ipod/planet_outlaws.mp4
 - Popeye meetsSinbadtheSailor 512kb — https://archive.org/download/Popeye_meetsSinbadtheSailor/Popeye_meetsSinbadtheSailor_512kb.mp4
 - Pot o Gold — https://archive.org/download/pot_o_gold/pot_o_gold.mp4
 - Prisoners Of The Lost Universe (1983) — https://archive.org/download/PrisonersOfTheLostUniverse1983/PrisonersOfTheLostUniverse1983.mp4
@@ -113,8 +111,10 @@
 - Silver Spurs — https://archive.org/download/silver_spurs/silver_spurs.mp4
 - Silver Trail, The — https://archive.org/download/the_silver_trail/the_silver_trail.mp4
 - Silver_Fleet_The — https://archive.org/download/Silver_Fleet_The/Silver_Fleet_The_.mp4
+- Sweet Sweetback’s Badass Song - Full Movie — https://archive.org/download/1566981383/1566981383.mp4
 - swingin six — https://archive.org/download/swingin_six/swingin_six.mp4
 - swingin six edit — https://archive.org/download/swingin_six/swingin_six_edit.mp4
+- Target Earth (1954) — https://archive.org/download/target-earth-1954-colorized/Target%20Earth%201954%20colorized.mp4
 - The Brain That Wouldnt Die — https://archive.org/download/TheBrainThatWouldntDie_165/TheBrainThatWouldNotDie1962.mp4
 - The Day the Earth Stood Still (1951) — https://dn720705.ca.archive.org/0/items/day-the-earth-stood-still-1951/Day%20the%20Earth%20Stood%20Still%201951.mp4
 - The Fast And The Furious — https://archive.org/download/TheFastandtheFuriousJohnIreland1954goofyrip/TheFastandtheFuriousJohnIreland1954goofyrip.mp4
@@ -127,6 +127,7 @@
 - The Invisible Man (1933) — https://dn720208.ca.archive.org/0/items/invisible-man-1933/Invisible%20Man%201933.mp4
 - The Last Starfighter (1984) — https://ia801508.us.archive.org/7/items/the-last-starfighter-1984-mca-universal-home-video-vhs-rip/THE%20LAST%20STARFIGHTER%201984%20MCA%20UNIVERSAL%20HOME%20VIDEO%20VHS%20RIP.mp4
 - The Phantom Planet — https://archive.org/download/Phantom_Planet/The_Phantom_Planet.mp4
+- The Quiet Earth (1985) — https://ia800709.us.archive.org/4/items/the-quiet-earth-1985-vhs-rip/THE%20QUIET%20EARTH%201985%20VHS%20RIP.mp4
 - The Silver Horde — https://archive.org/download/SilverHorde1930/The_Silver_Horde_1930.mp4
 - The Terror — https://archive.org/download/TheTerror/TheTerror.mp4
 - The Thing (1982) — Cinema 17 WOC — https://dn710202.ca.archive.org/0/items/the-thing-cinema-17-woc-phl-17-7.19.91-8pm/The%20Thing%20-%20Cinema%2017%20WOC%20-%20PHL17%2C%207.19.91%20%40%208pm.mp4
@@ -141,10 +142,14 @@
 - ThisisNotaTest — https://archive.org/download/ThisisNotaTest/ThisisNotaTest.mp4
 - Titanic (1997) — https://archive.org/download/My-Favorite-Movies_202503/Titanic%20%281997%29.mp4
 - Total Recall (1990) — https://ia801603.us.archive.org/23/items/1990-total-recall-1990-carolco-vhs-480p-h-264/1990%20Total%20Recall%20%281990%20Carolco%20VHS%29%20480p%20H264.mp4
+- TripDownMktStreet clean — https://archive.org/download/TripDownMarketStreetrBeforeTheFire/TripDownMktStreet_clean.mp4
 - Twister — https://archive.org/download/My-Favorite-Movies_202503/Twister.mp4
 - Une vierge chez les morts-vivants — https://archive.org/download/a-virgin-among-the-living-dead/A
 - Venom (2018) — https://archive.org/download/My-Favorite-Movies_202503/Venom%20%282018%29.mp4
+- Venom Let There Be Carnage — https://archive.org/download/My-Favorite-Movies_202503/Venom%20Let%20There%20Be%20Carnage.mp4
 - Venom The Last Dance — https://archive.org/download/My-Favorite-Movies_202503/Venom%20The%20Last%20Dance.mp4
+- Voyage to the Planet of Prehistoric Women — https://archive.org/download/VoyageToThePlanetOfPrehistoricWomen_20130813/Voyage%20to%20the%20Planet%20of%20Prehistoric%20Women.mp4
+- Voyage to the Planet of Prehistoric Women — https://archive.org/download/VoyagetothePlanetofPrehistoricWomen/VoyagetothePlanetofPrehistoricWomen.mp4
 - VTS 01 1 — https://archive.org/download/night_of_the_living_dead_dvd/VTS_01_1.mp4
 - VTS 01 2 — https://archive.org/download/night_of_the_living_dead_dvd/VTS_01_2.mp4
 - VTS 01 3 — https://archive.org/download/night_of_the_living_dead_dvd/VTS_01_3.mp4
@@ -156,10 +161,8 @@
 
 ## CH 02 — SCI-FI & SPACE FILMS
 
-- All Quiet on the Western Front (1930) — https://dn721904.ca.archive.org/0/items/All_Quiet_on_the_Western_Front_1930_AMC_Film_Preservation/All_Quiet_on_the_Western_Front_1930_AMC_Film_Preservation.mp4
 - Amazing Spider-man 2 — https://archive.org/download/My-Favorite-Movies_202503/Spider-man%205%20The%20Amazing%20Spider-man%202.mp4
 - Assignment Outer Space — https://archive.org/download/Assignment_Outer_Space/Assignment_Outer_Space.mp4
-- Fantastic Planet 1973 DUBBED REMASTERED — https://archive.org/download/fantastic-planet__1973/Fantastic.Planet.1973.DUBBED.REMASTERED.1080p.BluRay.H264.AAC.mp4
 - Halo 4 Forward Unto Dawn — https://archive.org/download/My-Favorite-Movies_202503/Halo%204%20Forward%20Unto%20Dawn.mp4
 - Jurassic Park (1993) — https://archive.org/download/My-Favorite-Movies_202503/Jurassic%20Park%20%281993%29.mp4
 - Jurassic Park 3 — https://archive.org/download/My-Favorite-Movies_202503/Jurassic%20Park%203.mp4
@@ -170,7 +173,6 @@
 - Jurassic World Rebirth — https://archive.org/download/My-Favorite-Movies_202503/Jurassic%20World%204%20Rebirth.mp4
 - Killers From Space — https://archive.org/download/Killers_from_space/Killers_from_space.mp4
 - Mars Needs Moms — https://archive.org/download/My-Favorite-Movies_202503/Mars%20Needs%20Moms.mp4
-- planet outlaws — https://archive.org/download/planet_outlaws_ipod/planet_outlaws.mp4
 - Ready Player One — https://archive.org/download/My-Favorite-Movies_202503/Ready%20Player%20One.mp4
 - Robinson Crusoe on Mars (1964) — https://dn711000.ca.archive.org/0/items/RobinsonCrusoeOnMarsEn/RobinsonCrusoeOnMarsEn.mp4
 - Robots — https://archive.org/download/My-Favorite-Movies_202503/Robots.mp4
@@ -189,18 +191,11 @@
 - Star Wars Ep 7 — https://archive.org/download/My-Favorite-Movies_202503/Star%20Wars%20Episode%207%20The%20Force%20Awakens.mp4
 - Star Wars Ep 8 — https://archive.org/download/My-Favorite-Movies_202503/Star%20Wars%20Episode%208%20The%20Last%20Jedi.mp4
 - Star Wars Ep 9 — https://archive.org/download/My-Favorite-Movies_202503/Star%20Wars%20Episode%209%20The%20Rise%20of%20Skywalker.mp4
-- Sweet Sweetback’s Badass Song - Full Movie — https://archive.org/download/1566981383/1566981383.mp4
-- Target Earth (1954) — https://archive.org/download/target-earth-1954-colorized/Target%20Earth%201954%20colorized.mp4
 - Teenagers from Outer Space — https://archive.org/download/teenagers_from_outerspace/Teenagers_from_Outer_Space.mp4
 - The Amazing Spider-man — https://archive.org/download/My-Favorite-Movies_202503/Spider-man%204%20The%20Amazing%20Spider-man.mp4
-- The Quiet Earth (1985) — https://ia800709.us.archive.org/4/items/the-quiet-earth-1985-vhs-rip/THE%20QUIET%20EARTH%201985%20VHS%20RIP.mp4
-- TripDownMktStreet clean — https://archive.org/download/TripDownMarketStreetrBeforeTheFire/TripDownMktStreet_clean.mp4
 - Tron (1982) — https://archive.org/download/My-Favorite-Movies_202503/Tron%20%281982%29.mp4
 - Tron Ares — https://archive.org/download/My-Favorite-Movies_202503/Tron%20%282025%29%20Tron%20Ares.mp4
 - Tron Legacy — https://archive.org/download/My-Favorite-Movies_202503/Tron%20%282010%29%20Tron%20Legacy.mp4
-- Venom Let There Be Carnage — https://archive.org/download/My-Favorite-Movies_202503/Venom%20Let%20There%20Be%20Carnage.mp4
-- Voyage to the Planet of Prehistoric Women — https://archive.org/download/VoyageToThePlanetOfPrehistoricWomen_20130813/Voyage%20to%20the%20Planet%20of%20Prehistoric%20Women.mp4
-- Voyage to the Planet of Prehistoric Women — https://archive.org/download/VoyagetothePlanetofPrehistoricWomen/VoyagetothePlanetofPrehistoricWomen.mp4
 
 ## CH 03 — HORROR & MONSTERS
 
@@ -225,8 +220,10 @@
 - The Monster That Challenged the World (1957) — Colorized — https://dn720309.ca.archive.org/0/items/monster-that-challenged-the-world-1957-colorized/Monster%20That%20Challenged%20the%20World%201957%20colorized.mp4
 - Young Frankenstein (1974) — Colorized — https://ia801003.us.archive.org/1/items/young-frankenstein-colorized-1974-720p/Young%20Frankenstein%20%28Colorized%2C%201974%29%20720p.mp4
 
-## CH 04 — FAMILY & ANIMATION FILMS
+## CH 04 — FAMILY, COMEDY & WESTERNS
 
+- A Dolls House (1973 Christmas, Drama, Romance) — https://archive.org/download/a-dolls-house-1973-christmas-drama-romance/A
+- All Quiet on the Western Front (1930) — https://dn721904.ca.archive.org/0/items/All_Quiet_on_the_Western_Front_1930_AMC_Film_Preservation/All_Quiet_on_the_Western_Front_1930_AMC_Film_Preservation.mp4
 - Atlantis 2 Milo's Return — https://archive.org/download/My-Favorite-Movies_202503/Atlantis%202%20Milo%27s%20Return.mp4
 - Atlantis Lost Empire — https://archive.org/download/My-Favorite-Movies_202503/Atlantis%20%282001%29%20The%20Lost%20Empire.mp4
 - FamilyEnforcer — https://archive.org/download/FamilyEnforcer/FamilyEnforcer.mp4
@@ -235,22 +232,15 @@
 - Herbie Monte Carlo — https://archive.org/download/My-Favorite-Movies_202503/%281977%29%20Herbie%20Goes%20To%20Monte%20Carlo.mp4
 - Herbie Rides Again — https://archive.org/download/My-Favorite-Movies_202503/%281974%29%20Herbie%20Rides%20Again.mp4
 - Princess and the Frog — https://archive.org/download/My-Favorite-Movies_202503/The%20Princess%20and%20the%20Frog.mp4
-- welcome animation — https://archive.org/download/Welcome2DriveIn/welcome_animation.mp4
-
-## CH 05 — CLASSIC & WESTERN FILMS
-
 - Rio Lobo (1970 John Wayne Western Civil War) — https://archive.org/download/rio-lobo-1970-john-wayne-western-civil-war/Rio
-
-## CH 06 — COMEDY & ROMANCE FILMS
-
-- A Dolls House (1973 Christmas, Drama, Romance) — https://archive.org/download/a-dolls-house-1973-christmas-drama-romance/A
 - Rush Hour 1 — https://archive.org/download/My-Favorite-Movies_202503/Rush%20Hour%201.mp4
 - Rush Hour 2 — https://archive.org/download/My-Favorite-Movies_202503/Rush%20Hour%202.mp4
 - Rush Hour 3 — https://archive.org/download/My-Favorite-Movies_202503/Rush%20Hour%203.mp4
 - The Love Bug (1968) — https://archive.org/download/My-Favorite-Movies_202503/%281968%29%20The%20Love%20Bug.mp4
 - The Love Bug (1997) — https://archive.org/download/My-Favorite-Movies_202503/%281997%29%20The%20Love%20Bug.mp4
+- welcome animation — https://archive.org/download/Welcome2DriveIn/welcome_animation.mp4
 
-## CH 07 — CLASSIC TV
+## CH 05 — CLASSIC TV
 
 - 1x01 The Cage — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x01%20-%20The%20Cage.mp4
 - 1x01 The Human Bomb — https://archive.org/download/Dragnet1951/Dragnet/Season%201/Dragnet%20%281951%29%20-%20S01E01%20-%20The%20Human%20Bomb.mp4
@@ -537,6 +527,37 @@
 - Monty Python - Whither Canada? — https://archive.org/download/mpfc-remastered_20210305_1553/01.%20Whither%20Canada%3F.mp4
 - Mothra vs Godzilla — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/4.MothraVs.Godzilla1964.mp4
 - One Million Years BC — https://archive.org/download/one-million-years-bc-1966_202010/One%20Million%20Years%20BC%20%281966%29.mp4
+- Outer Limits 1x01 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e1-1963-colorized.mp4
+- Outer Limits 1x02 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e2-1963-colorized.mp4
+- Outer Limits 1x03 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e3-1963-colorized.mp4
+- Outer Limits 1x04 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e4-1963-colorized-720p-hd.mp4
+- Outer Limits 1x05 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e5-1963-colorized-720p-hd.mp4
+- Outer Limits 1x06 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e6-1963-colorized-720p-hd.mp4
+- Outer Limits 1x07 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e7-1963-colorized-720p-hd.mp4
+- Outer Limits 1x08 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e8-1963-colorized-720p-hd.mp4
+- Outer Limits 1x09 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e9-1963-colorized-720p-hd.mp4
+- Outer Limits 1x10 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e10-1963-colorized-720p-hd.mp4
+- Outer Limits 1x11 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e11-1963-colorized-720p-hd.mp4
+- Outer Limits 1x12 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e12-1963-colorized-720p-hd.mp4
+- Outer Limits 1x13 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e13-1963-colorized-720p-hd.mp4
+- Outer Limits 1x14 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e14-1963-colorized-720p-hd.mp4
+- Outer Limits 1x15 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e15-1963-colorized-720p-hd.mp4
+- Outer Limits 1x16 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e16-1963-colorized-720p-hd.mp4
+- Outer Limits 1x17 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e17-1963-colorized-720p-hd.mp4
+- Outer Limits 1x18 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e18-colorized-720p-hd.mp4
+- Outer Limits 1x19 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e19-1963-colorized-576p-sd.mp4
+- Outer Limits 1x20 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e20-1963-colorized.mp4
+- Outer Limits 1x21 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e21-1963-colorized.mp4
+- Outer Limits 1x22 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e22-1963-colorized-720p-hd.mp4
+- Outer Limits 1x23 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e23-1963-colorized-720p-hd.mp4
+- Outer Limits 1x24 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e24-1963-colorized-576p-sd.mp4
+- Outer Limits 1x25 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e25-1963-colorized-576p-sd.mp4
+- Outer Limits 1x27 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e27-1963-colorized-576p-sd.mp4
+- Outer Limits 1x28 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e28-1963-colorized-576p-sd.mp4
+- Outer Limits 1x29 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e29-1963-colorized-576p-sd.mp4
+- Outer Limits 1x30 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e30-1963-colorized-576p-sd.mp4
+- Outer Limits 1x31 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e31-1963-colorized-576p-sd.mp4
+- Outer Limits 1x32 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e32-1963-colorized-576p-sd.mp4
 - Pontiac GTO Ad — https://archive.org/download/PontiacGto1966CarCommercialTvAd/GTOad.mp4
 - Roswell BBC Doc — https://archive.org/download/TheRoswellUFOCrashBBCDocumentaryProof/The%20Roswell%20UFO%20Crash%20BBC%20Documentary%20-%20Proof.mp4
 - s01e01 EntertheLoneRanger — https://archive.org/download/theloneranger_201705/s01e01_EntertheLoneRanger.mp4
@@ -609,6 +630,7 @@
 - The Saint (2017) — https://archive.org/download/2017-the-saint-movie-1080p-spanish-or-english/(2017)
 - TheCaseofLadyBeryl — https://archive.org/download/SherlockHolmes-TheCaseofLadyBeryl/TheCaseofLadyBeryl.mp4
 - TheCaseoftheShyBallerina — https://archive.org/download/SherlockHolmes-TheCaseoftheShyBallerina/TheCaseoftheShyBallerina.mp4
+- TheHoneymoonersSketch1951 — https://archive.org/download/Cavalcade_Of_Stars/TheHoneymoonersSketch1951.mp4
 - Three Stooges 1949 Failed TV Pilot — https://archive.org/download/3StoogesPilot/ThreeStooges1949FailedPilot.mp4
 - Tormented — https://archive.org/download/tormented/tormented.mp4
 - Wartburg 1000 Ad — https://archive.org/download/wartburg_1000_1966/wartburg_1000_1966_512kb.mp4
@@ -704,40 +726,9 @@
 - Final Space S03E12 — https://archive.org/download/final-space_202209/Final.Space.S03.1080p.WEBRip.x265-RARBG/Final.Space.S03E12.1080p.WEBRip.x265-RARBG.mp4
 - Final Space S03E13 — https://archive.org/download/final-space_202209/Final.Space.S03.1080p.WEBRip.x265-RARBG/Final.Space.S03E13.1080p.WEBRip.x265-RARBG.mp4
 
-## CH 08 — SCI-FI TV
+## CH 06 — SCI-FI TV
 
 - In Search of: UFOs — https://archive.org/download/InSearchOf16mm/In%20Search%20of...UFOs%20%28480p_30fps_H264-128kbit_AAC%29.mp4
-- Outer Limits 1x01 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e1-1963-colorized.mp4
-- Outer Limits 1x02 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e2-1963-colorized.mp4
-- Outer Limits 1x03 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e3-1963-colorized.mp4
-- Outer Limits 1x04 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e4-1963-colorized-720p-hd.mp4
-- Outer Limits 1x05 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e5-1963-colorized-720p-hd.mp4
-- Outer Limits 1x06 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e6-1963-colorized-720p-hd.mp4
-- Outer Limits 1x07 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e7-1963-colorized-720p-hd.mp4
-- Outer Limits 1x08 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e8-1963-colorized-720p-hd.mp4
-- Outer Limits 1x09 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e9-1963-colorized-720p-hd.mp4
-- Outer Limits 1x10 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e10-1963-colorized-720p-hd.mp4
-- Outer Limits 1x11 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e11-1963-colorized-720p-hd.mp4
-- Outer Limits 1x12 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e12-1963-colorized-720p-hd.mp4
-- Outer Limits 1x13 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e13-1963-colorized-720p-hd.mp4
-- Outer Limits 1x14 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e14-1963-colorized-720p-hd.mp4
-- Outer Limits 1x15 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e15-1963-colorized-720p-hd.mp4
-- Outer Limits 1x16 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e16-1963-colorized-720p-hd.mp4
-- Outer Limits 1x17 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e17-1963-colorized-720p-hd.mp4
-- Outer Limits 1x18 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e18-colorized-720p-hd.mp4
-- Outer Limits 1x19 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e19-1963-colorized-576p-sd.mp4
-- Outer Limits 1x20 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e20-1963-colorized.mp4
-- Outer Limits 1x21 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e21-1963-colorized.mp4
-- Outer Limits 1x22 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e22-1963-colorized-720p-hd.mp4
-- Outer Limits 1x23 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e23-1963-colorized-720p-hd.mp4
-- Outer Limits 1x24 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e24-1963-colorized-576p-sd.mp4
-- Outer Limits 1x25 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e25-1963-colorized-576p-sd.mp4
-- Outer Limits 1x27 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e27-1963-colorized-576p-sd.mp4
-- Outer Limits 1x28 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e28-1963-colorized-576p-sd.mp4
-- Outer Limits 1x29 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e29-1963-colorized-576p-sd.mp4
-- Outer Limits 1x30 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e30-1963-colorized-576p-sd.mp4
-- Outer Limits 1x31 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e31-1963-colorized-576p-sd.mp4
-- Outer Limits 1x32 — https://archive.org/download/the-outer-limits-s-1e-1-1963-colorized/the%20outer%20limits-s1e32-1963-colorized-576p-sd.mp4
 - Space 1999 AB Chrysalis — https://archive.org/download/Space1999.Series1_201602/Space%201999%20S02E12%20The%20AB%20Chrysalis.mp4
 - Space 1999 All That Glisters — https://archive.org/download/Space1999.Series1_201602/Space%201999%20S02E09%20All%20That%20Glisters.mp4
 - Space 1999 Alpha Child — https://archive.org/download/Space1999.Series1/Space%201999%20S01E07%20Alpha%20Child.mp4
@@ -896,7 +887,7 @@
 - Project UFO 2x12 — https://archive.org/download/project-ufo-complete-series-1978/Project%20UFO%20S02E12%20-%20The%20Whitman%20Tower%20Incident.mp4
 - Project UFO 2x13 — https://archive.org/download/project-ufo-complete-series-1978/Project%20UFO%20S02E13%20-%20The%20Wild%20Blue%20Yonder%20Incident.mp4
 
-## CH 09 — CRIME & MYSTERY TV
+## CH 07 — CRIME & MYSTERY TV
 
 - 4x03 The Big Crime — https://archive.org/download/Dragnet1951/Dragnet/Season%204/Dragnet%20%281951%29%20-%20S04E03%20-%20The%20Big%20Crime.mp4
 - Dragnet TV — Dragnet (1951) - S02E07 - The Big 22 Rifle for Christmas — https://archive.org/download/Dragnet1951/Dragnet/Season%202/Dragnet%20%281951%29%20-%20S02E07%20-%20The%20Big%20.22%20Rifle%20for%20Christmas.mp4
@@ -1019,11 +1010,7 @@
 - Hitchcock 3x39 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e39-colorized-576p-sd.mp4
 - Miss Marple — S03Ep02 A Caribbean Mystery — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/10%20A%20Caribbean%20Mystery%20%281989%29/S03Ep02%20A%20Caribbean%20Mystery.mp4
 
-## CH 10 — COMEDY & VARIETY TV
-
-- TheHoneymoonersSketch1951 — https://archive.org/download/Cavalcade_Of_Stars/TheHoneymoonersSketch1951.mp4
-
-## CH 11 — FAMILY & CHILDREN TV
+## CH 08 — FAMILY & CHILDREN TV
 
 - 3x05 Children Shall Lead — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x05%20-%20And%20the%20Children%20Shall%20Lead.mp4
 - 3x12 Plato's Stepchildren — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x12%20-%20Plato%27s%20Stepchildren.mp4
@@ -1639,7 +1626,7 @@
 - X-Men — EP76 - Graduation Day — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP76%20-%20Graduation%20Day.mp4
 - Your Hit Parade - Christmas Eve Show 1955 — https://archive.org/download/YourHitParade-ChristmasEveShow1955/YourHitParade-ChristmasEveShow1955.mp4
 
-## CH 12 — DOCUMENTARIES
+## CH 09 — DOCUMENTARIES
 
 - 01 Déjà Vu (1858-1961) — https://archive.org/download/nova-pbs-documentaries/The%20Vietnam%20War/01%20D%C3%A9j%C3%A0%20Vu%20%281858-1961%29.mp4
 - 02 Riding the Tiger (1961-1963) — https://archive.org/download/nova-pbs-documentaries/The%20Vietnam%20War/02%20Riding%20the%20Tiger%20%281961-1963%29.mp4
@@ -1805,7 +1792,7 @@
 - White Wonder — https://archive.org/download/WhiteWon1958/WhiteWon1958_edit.mp4
 - Zeitgeist Addendum — https://archive.org/download/Zeitgeist.Addendum/Zeitgeist.Addendum.mp4
 
-## CH 13 — SCIENCE & COSMOS
+## CH 10 — SCIENCE & COSMOS
 
 - Cosmos - Shores of the Cosmic Ocean — https://archive.org/download/cosmos_1980/COSMOS_01.mp4
 - Cosmos — 01 — The Shores of the Cosmic Ocean (Carl Sagan, 1980) — https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2001%20The%20Shores%20of%20the%20Cosmic%20Ocean.ia.mp4
@@ -2882,7 +2869,7 @@
 - Planet Earth - The Living Machine — https://archive.org/download/planet.earth/Planet%20Earth%201%20The%20Living%20Machine.mp4
 - Threads of Technology — https://archive.org/download/0559_Threads_of_Technology/0559_Threads_of_Technology_09_12_29_01_3mb.mp4
 
-## CH 14 — HISTORY & WAR
+## CH 11 — HISTORY & WAR
 
 - 07 The Veneer of Civilization (June 1968-May 1969) — https://archive.org/download/nova-pbs-documentaries/The%20Vietnam%20War/07%20The%20Veneer%20of%20Civilization%20%28June%201968-May%201969%29.mp4
 - 08 The History of the World (April 1969-May 1970) — https://archive.org/download/nova-pbs-documentaries/The%20Vietnam%20War/08%20The%20History%20of%20the%20World%20%28April%201969-May%201970%29.mp4
@@ -2891,7 +2878,7 @@
 - Vietnam Special — https://archive.org/download/gov.archives.arc.653071/gov.archives.arc.653071.mp4
 - War Babies — https://archive.org/download/war_babies/war_babies.mp4
 
-## CH 15 — SPACE & NASA
+## CH 12 — SPACE & NASA
 
 - APOLLO 11 16MM ONBOARD FILM — https://archive.org/download/Apollo1116mmOnboardFilm/apollo11_6_1_512kb.mp4
 - Apollo 11 Onboard Film — https://archive.org/download/Apollo1116mmOnboardFilm/apollo11_6_1.mp4
@@ -2953,7 +2940,7 @@
 - Time of Apollo — https://archive.org/download/gov.ntis.ava03129vnb1/ava03129vnb1_512kb.mp4
 - Video- Demonstration of Laminar Flow in a Liquid Onboard the International Space Station (ISS) - 0601215 — https://archive.org/download/MSFC-0601215/0601215.mp4
 
-## CH 16 — SPORTS
+## CH 13 — SPORTS
 
 - ''1970 - 2011'' (70-78) Ty Secret St Nicky!) ''MEMORIES'' (DavidV@nP~Tribute) — https://archive.org/download/1970-2011-70-78-ty-secret-st.-nicky-memories-david-vn-p-tribute/%27%271970%20-%202011%27%27%20%2870-78%29%20Ty%20Secret%20St.%20Nicky%21%29%20%27%27MEMORIES%27%27%20%28DavidV%40nP~Tribute%29.mp4
 - [Home Movies: Texas Travels and Televised Moon Walk] — https://archive.org/download/6270HMTexasTravelsAndTelevisedMoonWalk01181613/6270_HM_Texas_Travels_and_Televised_Moon_Walk_01_18_16_13.mp4
@@ -3152,7 +3139,7 @@
 - Wonderful World of Wheels (1960s) — https://archive.org/download/68014-wonderful-world-of-wheels-vwr_202412/68014+Wonderful+World+Of+Wheels_vwr.mp4
 - Zamfir The Romance of the Pan Flute — https://archive.org/download/uncommon-ephemera-cassette-832-150-4-zamfir-the-romance-of-the-pan-flute-mercury-records-1982/Zamfir%20The%20Romance%20of%20the%20Pan%20Flute.mp4
 
-## CH 17 — OLD-TIME RADIO
+## CH 14 — OLD-TIME RADIO
 
 - 21st Precinct — Case of the Basket (53-11-17) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2053-11-17%20%28020%29%20Case%20of%20the%20Basket.mp3
 - 21st Precinct — Case of the Ditch (53-11-24) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2053-11-24%20%28021%29%20Case%20of%20the%20Ditch.mp3
@@ -4896,7 +4883,7 @@
 - The Whistler — Witness at the Fountain (46-09-09) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_46-09-09_ep224_Witness_at_the_Fountain.mp3
 - The Whistler — X Marks the Murderer (45-08-20) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-08-20_ep169_X_Marks_the_Murderer.mp3
 
-## CH 18 — RADIO DRAMA & MYSTERY
+## CH 15 — RADIO DRAMA & MYSTERY
 
 - Dragnet Radio — The Big Crime (51-02-15) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-02-15_088_The_Big_Crime.mp3
 - Johnny Dollar — 491105 024The Island of Tin-Yutan (The South Sea Adventure) (1949-11-05) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201949-11-05%20024%20The%20Island%20of%20Tin-Yutan%20%28The%20South%20Sea%20Adventure%29.mp3
@@ -5211,10 +5198,7 @@
 - X Minus One 58-01-09 (125) Gray Flannel Armor — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne58-01-09125GrayFlannelArmor.mp3
 - X Minus One 73-01-27 (xxx) The Iron Chancellor — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne73-01-27xxxTheIronChancellor.mp3
 
-## CH 19 — RADIO COMEDY & SATIRE
-
-
-## CH 20 — MUSIC & JAZZ
+## CH 16 — MUSIC & JAZZ
 
 - 1920s Jazz — 2to2 — https://archive.org/download/Free_20s_Jazz_Collection/2to2.mp3
 - 1920s Jazz — 4or5x — https://archive.org/download/Free_20s_Jazz_Collection/4or5x.mp3
@@ -5312,7 +5296,7 @@
 - Shortwave Numbers Stations — tcp d4 28 the backwards music station irdial — https://archive.org/download/ird059/tcp_d4_28_the_backwards_music_station_irdial.mp3
 - The Whistler — Concerto of Death (48-06-16) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-06-16_ep316_Concerto_of_Death.mp3
 
-## CH 21 — NEWS & PUBLIC AFFAIRS
+## CH 17 — NEWS & PUBLIC AFFAIRS
 
 - AM Radio Broadcast (Feb, 1, 1963) — https://archive.org/download/am-radio-broadcast-feb-1-1963_202108/AM
 - AM Radio News (1-17-1972) — https://archive.org/download/radio-news-1-17-1972/Radio
@@ -5372,7 +5356,7 @@
 - The Whistler — Broken Chain (East Coast Broadcast) (46-08-21) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_46-08-21_epxxx_Broken_Chain_epEast_Coast_Broadcast.mp3
 - The Whistler — Seven Steps To Murder (East Coast Broadcast) (47-02-12) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-02-12_epxxx_Seven_Steps_To_Murder_-_East_Coast_Broadcast.mp3
 
-## CH 22 — EDUCATION & TECHNOLOGY
+## CH 18 — EDUCATION & TECHNOLOGY
 
 - Reading Rainbow — The Gift of the Sacred Dog (S01E10) — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S01E10.The.Gift.of.the.Sacred.Dog.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
 - Reading Rainbow S01E01 Tight Times — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S01E01.Tight.Times.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
@@ -5531,16 +5515,9 @@
 - Reading Rainbow S21E05 Show Way — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S21E05.Show.Way.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
 - Schoolhouse Rock — 73 Nike Commercial Three is a Magic Number — https://archive.org/download/schoolhouse-rock-30th/73%20Nike%20Commercial%20Three%20is%20a%20Magic%20Number.mp4
 
-## CH 23 — SPECIALS & EVENTS
-
-
 ---
 ## REVIEW HOLD — NOT A PLAYER CHANNEL
 
-- 1968 Baltimore Riots Reel — https://archive.org/download/68riotsTBDreel/68riotsTBDreel.mp4  
-  Source: library/04-documentaries.md
-- Test Tube Babies — https://archive.org/download/Test_Tube_Babies_1948/Test_Tube_Babies_1948.mp4  
-  Source: library/04-documentaries.md
 - 0318 Polaroid Dealer Announcement 1964 19 00 57 00 — https://archive.org/download/0318_Polaroid_Dealer_Announcement_1964_19_00_57_00/0318_Polaroid_Dealer_Announcement_1964_19_00_57_00.mp4  
   Source: library/06-sports.md
 - 0536 Westinghouse Travelers Choice 66 18 41 06 00 3mb — https://archive.org/download/0536_Westinghouse_Travelers_Choice_66_18_41_06_00/0536_Westinghouse_Travelers_Choice_66_18_41_06_00_3mb.mp4  
@@ -5607,3 +5584,7 @@
   Source: library/01-tv-classics.md
 - 1967 TV Soap: Love is a Many Splendored Thing - 1st of December 1967 — https://archive.org/download/1967_PD_Soapie/LoveisaManySplenderedThing1967.mp4  
   Source: library/01-tv-classics.md
+- 1968 Baltimore Riots Reel — https://archive.org/download/68riotsTBDreel/68riotsTBDreel.mp4  
+  Source: library/04-documentaries.md
+- Test Tube Babies — https://archive.org/download/Test_Tube_Babies_1948/Test_Tube_Babies_1948.mp4  
+  Source: library/04-documentaries.md
