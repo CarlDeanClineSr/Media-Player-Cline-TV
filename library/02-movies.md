@@ -2,8 +2,55 @@
 
 Recovered from the archived Cline TV catalog. Direct Archive.org media links only. Duplicate URLs are removed.
 
+- 1955Chev1955 — https://archive.org/download/1955Chev1955/1955Chev1955.mp4
+- 1955Chev1955 edit — https://archive.org/download/1955Chev1955/1955Chev1955_edit.mp4
+- A Christmas Story (1983) — https://dn720300.ca.archive.org/0/items/a-christmas-story_202105/A%20Christmas%20Story%20.ia.mp4
+- A Dolls House (1973 Christmas, Drama, Romance) — https://archive.org/download/a-dolls-house-1973-christmas-drama-romance/A Doll's House (1973 Christmas, Drama, Romance).mp4
+- A Ghost Story for Christmas — Lot No. 249 (2023) — https://archive.org/download/a-ghost-story-for-christmas-1971/A Ghost Story for Christmas (1971 - 78, 2005 - 13, 18 -)/17 Lot No. 249 (2023).mp4
+- A Hard Day’s Night (1964) — https://archive.org/download/aharddaysnightmovie/1964.8.11 A Hard Day's Night.mp4
+- Acapulco Gold(1976) — https://archive.org/download/acapulco.-gold.-1976.1080p.-blu-ray.-h-264.-aac-rarbg/Acapulco.Gold.1976.1080p.BluRay.H264.AAC-RARBG.ia.mp4
+- All Quiet on the Western Front (1930) — https://dn721904.ca.archive.org/0/items/All_Quiet_on_the_Western_Front_1930_AMC_Film_Preservation/All_Quiet_on_the_Western_Front_1930_AMC_Film_Preservation.mp4
+- Amazing Spider-man 2 — https://archive.org/download/My-Favorite-Movies_202503/Spider-man%205%20The%20Amazing%20Spider-man%202.mp4
+- Angel on My Shoulder — https://archive.org/download/angel_on_my_shoulder/angel_on_my_shoulder.mp4
+- Assignment Outer Space — https://archive.org/download/Assignment_Outer_Space/Assignment_Outer_Space.mp4
+- Atlantis 2 Milo's Return — https://archive.org/download/My-Favorite-Movies_202503/Atlantis%202%20Milo%27s%20Return.mp4
+- Atlantis Lost Empire — https://archive.org/download/My-Favorite-Movies_202503/Atlantis%20%282001%29%20The%20Lost%20Empire.mp4
+- babies and breadwinners 2 — https://archive.org/download/babies_and_breadwinners_2/babies_and_breadwinners_2.mp4
+- babies and breadwinners 2 edit — https://archive.org/download/babies_and_breadwinners_2/babies_and_breadwinners_2_edit.mp4
+- Batteries 2009 512kb — https://archive.org/download/batteriesnotincluded_2009/Batteries_2009_512kb.mp4
+- bb minnie the moocher 512kb — https://archive.org/download/bb_minnie_the_moocher/bb_minnie_the_moocher_512kb.mp4
+- Black Gold — https://archive.org/download/Black_Gold/BlackGold.mp4
+- CaptainKidd — https://archive.org/download/CaptainKidd_/CaptainKidd.mp4
+- CarnivalOfSouls — https://archive.org/download/CarnivalofSouls/CarnivalOfSouls.mp4
+- Carol For Another Christmas — https://archive.org/download/carol-for-another-christmas-1964/Carol for Another Christmas.mp4
+- ccoPublicDomainAttack of the Giant Leeches — https://archive.org/download/cco_attackofthegiantleeches/ccoPublicDomainAttack_of_the_Giant_Leeches.mp4
+- Christmas Vacation — https://archive.org/download/My-Favorite-Movies_202503/National%20Lampoon%27s%20Christmas%20Vacation.mp4
+- Corvairi1960 — https://archive.org/download/Corvairi1960/Corvairi1960.mp4
+- Corvairi1960 edit — https://archive.org/download/Corvairi1960/Corvairi1960_edit.mp4
+- Countdow1960 — https://archive.org/download/Countdow1960/Countdow1960.mp4
+- Countdow1960 edit — https://archive.org/download/Countdow1960/Countdow1960_edit.mp4
+- Day After Tomorrow — https://archive.org/download/My-Favorite-Movies_202503/The%20Day%20After%20Tomarrow.mp4
+- dead people — https://archive.org/download/dead_people_ipod/dead_people.mp4
 - Deep Red — https://archive.org/download/DeepRed1975/DeepRed.mp4
+- Desert Gold — https://archive.org/download/DesertGold/DesertGold.mp4
+- Drive-inIntermission7 512kb — https://archive.org/download/DriveInIntermission7/Drive-inIntermission7_512kb.mp4
+- DVD5 — https://archive.org/download/Night.Of.The.Living.Dead_1080p/NightOfTheLivingDead_DVD5.mp4
+- DVD9 — https://archive.org/download/Night.Of.The.Living.Dead_1080p/NightOfTheLivingDead_DVD9.mp4
+- E.T. The Extra Terrestrial — https://archive.org/download/My-Favorite-Movies_202503/E.T%20The%20Extra%20Terrestrial.mp4
+- EndoftheWorld — https://archive.org/download/EndoftheWorld/EndoftheWorld.mp4
+- FamilyEnforcer — https://archive.org/download/FamilyEnforcer/FamilyEnforcer.mp4
+- Fantastic Planet 1973 DUBBED REMASTERED — https://archive.org/download/fantastic-planet__1973/Fantastic.Planet.1973.DUBBED.REMASTERED.1080p.BluRay.H264.AAC.mp4
+- Fiddler On The Roof — https://archive.org/download/fiddler-on-the-roof/Fiddler on the Roof.mp4
+- FLIP FROG-FIDDLESTICKS DVD 512kb — https://archive.org/download/FLIP_FROG-FIDDLESTICKS/FLIP_FROG-FIDDLESTICKS_DVD_512kb.mp4
+- FLIP FROG-FIDDLESTICKS VCD 512kb — https://archive.org/download/FLIP_FROG-FIDDLESTICKS/FLIP_FROG-FIDDLESTICKS_VCD_512kb.mp4
+- FLIP THE FROG - FIDDLESTICKS — https://archive.org/download/FLIP_FROG-FIDDLESTICKS/FLIP_FROG-FIDDLESTICKS_256k.mp4
+- FLIP THE FROG - FIDDLESTICKS — https://archive.org/download/FLIP_FROG-FIDDLESTICKS/FLIP_FROG-FIDDLESTICKS_64k.mp4
+- Frankenstein (1931) — Colorized — https://dn600309.us.archive.org/0/items/frankenstein-1931-colorized/Frankenstein%201931%20colorized.mp4
+- gags and gals — https://archive.org/download/gags_and_gals/gags_and_gals.mp4
+- gags and gals edit — https://archive.org/download/gags_and_gals/gags_and_gals_edit.mp4
+- Gangster Story — https://archive.org/download/GangsterStory/GangsterStoryPresentedByMoviePowder.mp4
 - Ghidorah The Three Headed Monster (1964) — https://archive.org/download/RecurringDinosaurInfestationFilms/4.GhidorahTheThreeHeadedMonster1964.mp4
+- Ghost-Town Gold — https://archive.org/download/three_mesquiteers/three_mesquiteers.mp4
 - Godzilla (1998) — https://archive.org/download/My-Favorite-Movies_202503/Godzilla%20%281998%29.mp4
 - Godzilla (2014) — https://archive.org/download/My-Favorite-Movies_202503/Godzilla%20%282014%29.mp4
 - Godzilla 1985 — https://archive.org/download/RecurringDinosaurInfestationFilms/16.Godzilla1985.mp4
@@ -12,11 +59,146 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Godzilla Vs Kong 2 The New Empire — https://archive.org/download/My-Favorite-Movies_202503/Godzilla%20Vs%20Kong%202%20The%20New%20Empire.mp4
 - Godzilla vs Monster Zero (1965) — https://archive.org/download/RecurringDinosaurInfestationFilms/6.GodzillaVsMonsterZero1965.mp4
 - Godzilla vs The Sea Monster (1966) — https://archive.org/download/RecurringDinosaurInfestationFilms/7.GodzillaVsTheSeaMonster1966.mp4
-- https://archive.org/download/TheGoodTheBadAndTheUgly1966/The%20Good%2C%20the%20Bad%20and%20the%20Ugly%20%5B1966%5D.mp4 — https://archive.org/download/TheGoodTheBadAndTheUgly1966/The%20Good%2C%20the%20Bad%20and%20the%20Ugly%20%5B1966%5D.mp4
+- Gold — https://archive.org/download/Gold-1932/Gold.mp4
+- GonewiththeWest — https://archive.org/download/GonewiththeWest/GonewiththeWest.mp4
+- Good Bad & Ugly — https://archive.org/download/TheGoodTheBadAndTheUgly1966/The%20Good%2C%20the%20Bad%20and%20the%20Ugly%20%5B1966%5D.mp4
+- Grave-of-the-Vampire — https://archive.org/download/Grave_of_the_Vampire_movie/Grave-of-the-Vampire.mp4
+- Halo 4 Forward Unto Dawn — https://archive.org/download/My-Favorite-Movies_202503/Halo%204%20Forward%20Unto%20Dawn.mp4
+- Help! - The Beatles Movie — https://archive.org/download/help_20201109/Help!.mp4
+- Herbie Fully Loaded — https://archive.org/download/My-Favorite-Movies_202503/%282005%29%20Herbie%20Fully%20Loaded.mp4
+- Herbie Goes Bananas — https://archive.org/download/My-Favorite-Movies_202503/%281980%29%20Herbie%20Goes%20Bananas.mp4
+- Herbie Monte Carlo — https://archive.org/download/My-Favorite-Movies_202503/%281977%29%20Herbie%20Goes%20To%20Monte%20Carlo.mp4
+- Herbie Rides Again — https://archive.org/download/My-Favorite-Movies_202503/%281974%29%20Herbie%20Rides%20Again.mp4
+- Horror Express — https://archive.org/download/Horror_Express/Horror_Express.mp4
+- How Green Was My Valley (1941) — https://archive.org/download/HowGreenWasMyValley1941_201812/How Green was My Valley (1941).mp4
+- https://archive.org/download/Night.Of.The.Living.Dead_1080p/NightOfTheLivingDead_1080p.mp4 — https://archive.org/download/Night.Of.The.Living.Dead_1080p/NightOfTheLivingDead_1080p.mp4
+- https://archive.org/download/Night.Of.The.Living.Dead_1080p/NightOfTheLivingDead_720p.mp4 — https://archive.org/download/Night.Of.The.Living.Dead_1080p/NightOfTheLivingDead_720p.mp4
+- hussy1959 — https://archive.org/download/LouisianaHussy_319/hussy1959.mp4
+- Indestructible Man — https://archive.org/download/Indestructible_Man_movie/Indestructible_Man.mp4
+- Into The Storm — https://archive.org/download/My-Favorite-Movies_202503/Into%20The%20Storm.mp4
+- INVASION OF THE BEE GIRLS widescreen — https://archive.org/download/InvasionOfTheBeeGirlsWidescreenQualityUpgrade/InvasionOfTheBeeGirlsWidescreen.mp4
 - Invasion of the Saucer Men (1957) — https://archive.org/download/invasion-of-the-saucer-men-1957-colorized-classics/Invasion%20of%20the%20Saucer%20Men%20%281957%29%20Colorized%20Classics.mp4
+- iPhone & iPod Touch — https://archive.org/download/Night.Of.The.Living.Dead_1080p/NightOfTheLivingDead_iPhone.mp4
+- iPod — https://archive.org/download/Night.Of.The.Living.Dead_1080p/NightOfTheLivingDead_iPod.mp4
+- Iron Man (2008) — https://archive.org/download/My-Favorite-Movies_202503/Iron%20Man%20%282008%29.mp4
+- Iron Man 2 — https://archive.org/download/My-Favorite-Movies_202503/Iron%20Man%202.mp4
+- Iron Man 3 — https://archive.org/download/My-Favorite-Movies_202503/Iron%20Man%203.mp4
+- Island of the sunken gold / De brandende vulkaan — https://archive.org/download/Island_of_the-sunken_gold/De_brandende_vulkaan_episode_1_to_5_512kb.mp4
+- It's Alive — https://archive.org/download/ItsAlive/ItsAlive.mp4
+- Jurassic Park (1993) — https://archive.org/download/My-Favorite-Movies_202503/Jurassic%20Park%20%281993%29.mp4
+- Jurassic Park 3 — https://archive.org/download/My-Favorite-Movies_202503/Jurassic%20Park%203.mp4
+- Jurassic Park Lost World — https://archive.org/download/My-Favorite-Movies_202503/Jurassic%20Park%202%20The%20Lost%20World.mp4
+- Jurassic World (2015) — https://archive.org/download/My-Favorite-Movies_202503/Jurassic%20World%20%282015%29.mp4
+- Jurassic World Dominion — https://archive.org/download/My-Favorite-Movies_202503/Jurassic%20World%203%20Dominion.mp4
+- Jurassic World Fallen Kingdom — https://archive.org/download/My-Favorite-Movies_202503/Jurassic%20World%202%20Fallen%20Kingdom.mp4
+- Jurassic World Rebirth — https://archive.org/download/My-Favorite-Movies_202503/Jurassic%20World%204%20Rebirth.mp4
+- Killers From Space — https://archive.org/download/Killers_from_space/Killers_from_space.mp4
+- King Kong (1933) — Colorized 1989 — https://ia601609.us.archive.org/25/items/king-kong-in-color-1989/King-Kong-in-Color-1989.mp4
+- Kronos (1957) — Colorized — https://dn710200.ca.archive.org/0/items/kronos-1957-colorized-mvoie-576p-sd/kronos-1957-colorized%20mvoie-576p-sd.mp4
+- Le Tatoué (1968) — https://archive.org/download/le-tatoue-1968/Le Tatoué - 1968.mp4
+- Long John Silver (1954) — https://archive.org/download/LongJohnSilver1954/Long John Silver (1954).mp4
+- Ma Barkers Killer Brood — https://archive.org/download/Ma_Barkers_Killer_Brood/Ma_Barkers_Killer_Brood.mp4
+- Mars Needs Moms — https://archive.org/download/My-Favorite-Movies_202503/Mars%20Needs%20Moms.mp4
 - Messiah of Evil — https://archive.org/download/MessiahofEvil_avi/Messiah_of_Evil.mp4
 - Mothra vs Godzilla (1964) — https://archive.org/download/RecurringDinosaurInfestationFilms/5.MothraVsGodzilla1964.mp4
+- Murder à la Mod (1968 Film Noir, Crime, Murder, Mystery, Dramady) — https://archive.org/download/murder-a-la-mod-1968-film-noir-dramady-crime-murcer-mystery/Murder à la Mod (1968 Film Noir, Dramady, Crime, Murcer, Mystery).mp4
+- My Favorite Brunette — https://archive.org/download/my_favorite_brunette/my_favorite_brunette.mp4
+- Night — https://archive.org/download/night_of_the_living_dead_dvd/Night.mp4
+- Nightmare Castle — https://archive.org/download/nightmare_castle/M4V10002.MP4
+- Nightmare Castle — https://archive.org/download/nightmare_castle/nightmare_castle.mp4
 - Nightmare Castle — https://archive.org/download/NightmareCastle/MoviePowderPresentsNightmareCastle.mp4
+- NightOfTheLivingDead m2ts — https://archive.org/download/Night.Of.The.Living.Dead_1080p/NightOfTheLivingDead.mp4
+- OutofThi1954 — https://archive.org/download/OutofThi1954/OutofThi1954.mp4
+- planet outlaws — https://archive.org/download/planet_outlaws_ipod/planet_outlaws.mp4
+- Popeye meetsSinbadtheSailor 512kb — https://archive.org/download/Popeye_meetsSinbadtheSailor/Popeye_meetsSinbadtheSailor_512kb.mp4
+- Pot o Gold — https://archive.org/download/pot_o_gold/pot_o_gold.mp4
+- Princess and the Frog — https://archive.org/download/My-Favorite-Movies_202503/The%20Princess%20and%20the%20Frog.mp4
+- Prisoners Of The Lost Universe (1983) — https://archive.org/download/PrisonersOfTheLostUniverse1983/PrisonersOfTheLostUniverse1983.mp4
+- PS3 — https://archive.org/download/Night.Of.The.Living.Dead_1080p/NightOfTheLivingDead_PS3.mp4
+- PSP — https://archive.org/download/Night.Of.The.Living.Dead_1080p/NightOfTheLivingDead_PSP.mp4
+- Ready Player One — https://archive.org/download/My-Favorite-Movies_202503/Ready%20Player%20One.mp4
+- Red vs Blue Restoration — https://archive.org/download/My-Favorite-Movies_202503/Red%20vs%20Blue%20Restoration.mp4
+- Rio Lobo (1970 John Wayne Western Civil War) — https://archive.org/download/rio-lobo-1970-john-wayne-western-civil-war/Rio Lobo (1970 John Wayne Western Civil War).mp4
+- Road To El Dorado — https://archive.org/download/My-Favorite-Movies_202503/The%20Road%20To%20El%20Dorado.mp4
+- Robinson Crusoe on Mars (1964) — https://dn711000.ca.archive.org/0/items/RobinsonCrusoeOnMarsEn/RobinsonCrusoeOnMarsEn.mp4
+- Robots — https://archive.org/download/My-Favorite-Movies_202503/Robots.mp4
+- Rush Hour 1 — https://archive.org/download/My-Favorite-Movies_202503/Rush%20Hour%201.mp4
+- Rush Hour 2 — https://archive.org/download/My-Favorite-Movies_202503/Rush%20Hour%202.mp4
+- Rush Hour 3 — https://archive.org/download/My-Favorite-Movies_202503/Rush%20Hour%203.mp4
+- Santa Claus Conquers The Martians ( 1964) HD VERSION — https://archive.org/download/y-2-mate.is-santa-claus-conquers-the-martians-1964-adventure-comedy-sci-fi-chris/Y2Mate.is - Santa Claus Conquers the Martians (1964) Adventure, Comedy, Sci-Fi, Christmas Movie-L4SZyeUGSM4-1080p-1639926880939.ia.mp4
+- Seconds (1966) — https://archive.org/download/seconds.-1966.1080p.-blu-ray.-h-264.-aac-rarbg/Seconds.1966.1080p.BluRay.H264.AAC-RARBG.ia.mp4
+- Silver Spurs — https://archive.org/download/silver_spurs/silver_spurs.mp4
+- Silver Trail, The — https://archive.org/download/the_silver_trail/the_silver_trail.mp4
+- Silver_Fleet_The — https://archive.org/download/Silver_Fleet_The/Silver_Fleet_The_.mp4
+- Spider-man (2002) — https://archive.org/download/My-Favorite-Movies_202503/Spider-man%20%282002%29.mp4
+- Spider-man 2 — https://archive.org/download/My-Favorite-Movies_202503/Spider-man%202.mp4
+- Spider-man 3 — https://archive.org/download/My-Favorite-Movies_202503/Spider-man%203.mp4
+- Spider-man Far From Home — https://archive.org/download/My-Favorite-Movies_202503/Spider-man%207%20Far%20From%20Home.mp4
+- Spider-man Homecoming — https://archive.org/download/My-Favorite-Movies_202503/Spider-man%206%20Homecoming.mp4
+- Spider-man No Way Home — https://archive.org/download/My-Favorite-Movies_202503/Spider-man%208%20No%20Way%20Home.mp4
+- Star Wars Ep 1 — https://archive.org/download/My-Favorite-Movies_202503/Star%20Wars%20Episode%201%20The%20Phantom%20Menace.mp4
+- Star Wars Ep 2 — https://archive.org/download/My-Favorite-Movies_202503/Star%20Wars%20Episode%202%20Attack%20Of%20The%20Clones.mp4
+- Star Wars Ep 3 — https://archive.org/download/My-Favorite-Movies_202503/Star%20Wars%20Episode%203%20Revenge%20Of%20The%20Sith.mp4
+- Star Wars Ep 4 — https://archive.org/download/My-Favorite-Movies_202503/Star%20Wars%20Episode%204%20A%20New%20Hope.mp4
+- Star Wars Ep 5 — https://archive.org/download/My-Favorite-Movies_202503/Star%20Wars%20Episode%205%20The%20Empire%20Strikes%20Back.mp4
+- Star Wars Ep 6 — https://archive.org/download/My-Favorite-Movies_202503/Star%20Wars%20Episode%206%20Return%20of%20the%20Jedi.mp4
+- Star Wars Ep 7 — https://archive.org/download/My-Favorite-Movies_202503/Star%20Wars%20Episode%207%20The%20Force%20Awakens.mp4
+- Star Wars Ep 8 — https://archive.org/download/My-Favorite-Movies_202503/Star%20Wars%20Episode%208%20The%20Last%20Jedi.mp4
+- Star Wars Ep 9 — https://archive.org/download/My-Favorite-Movies_202503/Star%20Wars%20Episode%209%20The%20Rise%20of%20Skywalker.mp4
+- Sweet Sweetback’s Badass Song - Full Movie — https://archive.org/download/1566981383/1566981383.mp4
+- swingin six — https://archive.org/download/swingin_six/swingin_six.mp4
+- swingin six edit — https://archive.org/download/swingin_six/swingin_six_edit.mp4
 - Target Earth (1954) — https://archive.org/download/target-earth-1954-colorized/Target%20Earth%201954%20colorized.mp4
+- Teenagers from Outer Space — https://archive.org/download/teenagers_from_outerspace/Teenagers_from_Outer_Space.mp4
+- The Amazing Spider-man — https://archive.org/download/My-Favorite-Movies_202503/Spider-man%204%20The%20Amazing%20Spider-man.mp4
 - The Brain That Wouldnt Die — https://archive.org/download/TheBrainThatWouldntDie_165/TheBrainThatWouldNotDie1962.mp4
+- The Day the Earth Stood Still (1951) — https://dn720705.ca.archive.org/0/items/day-the-earth-stood-still-1951/Day%20the%20Earth%20Stood%20Still%201951.mp4
+- The Fast And The Furious — https://archive.org/download/TheFastandtheFuriousJohnIreland1954goofyrip/TheFastandtheFuriousJohnIreland1954goofyrip.mp4
+- The Ghoul — https://archive.org/download/TheGhoul/TheGhoul_1933.mp4
+- The Gorilla — https://archive.org/download/the_gorilla/the_gorilla.mp4
+- The Graduate (1967) — https://archive.org/download/the-graduate-1967_202301/The Graduate (1967).mp4
+- The Grim Reaper (1976) — https://archive.org/download/the-grim-reaper-1976/The Grim Reaper (1976).mp4
+- The Homecoming: A Christmas Story (1971) — https://archive.org/download/the-waltons-christmas-movie-the-homecoming-ty-for-sharing-morris-pattison-this-is-a-classic/The Walton's Christmas Movie ''The Homecoming'' (Ty for sharing, Morris Pattison - this is a CLASSIC!!).mp4
+- The House On Haunted Hill — https://archive.org/download/House_On_Haunted_Hill.avi/The_House_on_Haunted_Hill.mp4
+- The Invisible Man (1933) — https://dn720208.ca.archive.org/0/items/invisible-man-1933/Invisible%20Man%201933.mp4
+- The Last Starfighter (1984) — https://ia801508.us.archive.org/7/items/the-last-starfighter-1984-mca-universal-home-video-vhs-rip/THE%20LAST%20STARFIGHTER%201984%20MCA%20UNIVERSAL%20HOME%20VIDEO%20VHS%20RIP.mp4
+- The Love Bug (1968) — https://archive.org/download/My-Favorite-Movies_202503/%281968%29%20The%20Love%20Bug.mp4
+- The Love Bug (1997) — https://archive.org/download/My-Favorite-Movies_202503/%281997%29%20The%20Love%20Bug.mp4
+- The Monster That Challenged the World (1957) — Colorized — https://dn720309.ca.archive.org/0/items/monster-that-challenged-the-world-1957-colorized/Monster%20That%20Challenged%20the%20World%201957%20colorized.mp4
+- The Phantom Planet — https://archive.org/download/Phantom_Planet/The_Phantom_Planet.mp4
+- The Quiet Earth (1985) — https://ia800709.us.archive.org/4/items/the-quiet-earth-1985-vhs-rip/THE%20QUIET%20EARTH%201985%20VHS%20RIP.mp4
+- The Silver Horde — https://archive.org/download/SilverHorde1930/The_Silver_Horde_1930.mp4
+- The Terror — https://archive.org/download/TheTerror/TheTerror.mp4
+- The Thing (1982) — Cinema 17 WOC — https://dn710202.ca.archive.org/0/items/the-thing-cinema-17-woc-phl-17-7.19.91-8pm/The%20Thing%20-%20Cinema%2017%20WOC%20-%20PHL17%2C%207.19.91%20%40%208pm.mp4
+- The Thing from Another World (1951) — TBS Turner Colorized — https://dn710009.ca.archive.org/0/items/the-thing-from-another-world-tbs-turner-colorized-version/The%20Thing%20From%20Another%20World%20%28TBS%20Turner%20Colorized%20Version%29%20and%20Inside%20Detroit%20%28Partial%29.ia.mp4
+- The Time Machine (1978) — https://archive.org/download/the-time-machine-1978-time-travel-sci-fi/The%20Time%20Machine%20%281978%20Time%20Travel%20SciFi%29.mp4
+- The Wizard of Oz — https://archive.org/download/My-Favorite-Movies_202503/The%20Wizard%20of%20Oz.mp4
+- TheAtomicBrain — https://archive.org/download/atomic_brain_1964/TheAtomicBrain.mp4
+- TheMostDangerousGame — https://archive.org/download/TheMostDangerousGame/TheMostDangerousGame.mp4
+- TheThing — https://archive.org/download/TheThingFromAnotherWorld_201712/TheThing.mp4
+- they made me a criminal 1939 — https://archive.org/download/They_Made_Me_A_Criminal_1939/they_made_me_a_criminal_1939.mp4
+- ThiefofBagdad1924 512kb — https://archive.org/download/ThiefOfBagdad1924/ThiefofBagdad1924_512kb.mp4
+- ThisisNotaTest — https://archive.org/download/ThisisNotaTest/ThisisNotaTest.mp4
+- Titanic (1997) — https://archive.org/download/My-Favorite-Movies_202503/Titanic%20%281997%29.mp4
+- Total Recall (1990) — https://ia801603.us.archive.org/23/items/1990-total-recall-1990-carolco-vhs-480p-h-264/1990%20Total%20Recall%20%281990%20Carolco%20VHS%29%20480p%20H264.mp4
+- TripDownMktStreet clean — https://archive.org/download/TripDownMarketStreetrBeforeTheFire/TripDownMktStreet_clean.mp4
+- Tron (1982) — https://archive.org/download/My-Favorite-Movies_202503/Tron%20%281982%29.mp4
+- Tron Ares — https://archive.org/download/My-Favorite-Movies_202503/Tron%20%282025%29%20Tron%20Ares.mp4
+- Tron Legacy — https://archive.org/download/My-Favorite-Movies_202503/Tron%20%282010%29%20Tron%20Legacy.mp4
+- Twister — https://archive.org/download/My-Favorite-Movies_202503/Twister.mp4
+- Une vierge chez les morts-vivants — https://archive.org/download/a-virgin-among-the-living-dead/A Virgin Among the Living Dead.mp4
+- Venom (2018) — https://archive.org/download/My-Favorite-Movies_202503/Venom%20%282018%29.mp4
+- Venom Let There Be Carnage — https://archive.org/download/My-Favorite-Movies_202503/Venom%20Let%20There%20Be%20Carnage.mp4
+- Venom The Last Dance — https://archive.org/download/My-Favorite-Movies_202503/Venom%20The%20Last%20Dance.mp4
+- Voyage to the Planet of Prehistoric Women — https://archive.org/download/VoyageToThePlanetOfPrehistoricWomen_20130813/Voyage%20to%20the%20Planet%20of%20Prehistoric%20Women.mp4
+- Voyage to the Planet of Prehistoric Women — https://archive.org/download/VoyagetothePlanetofPrehistoricWomen/VoyagetothePlanetofPrehistoricWomen.mp4
+- VTS 01 1 — https://archive.org/download/night_of_the_living_dead_dvd/VTS_01_1.mp4
+- VTS 01 2 — https://archive.org/download/night_of_the_living_dead_dvd/VTS_01_2.mp4
+- VTS 01 3 — https://archive.org/download/night_of_the_living_dead_dvd/VTS_01_3.mp4
+- week 18 — https://archive.org/download/ShockerInternetDriveIn-Week18aNaschyDoubleFeature/week_18.mp4
+- Week13 — https://archive.org/download/ShockerInternetDriveIn-Week13dementedDoubleFeature/Week13.mp4
+- welcome animation — https://archive.org/download/Welcome2DriveIn/welcome_animation.mp4
+- Woman of the Lake (1966) — https://archive.org/download/woman.of.the.-lake.-1966.-dvdrip.-onna.no.-mizuumi.-yoshishige.-yoshida/Woman.of.the.Lake.1966.DVDRip.Onna.no.Mizuumi.Yoshishige.Yoshida.mp4
+- Young and Innocent — https://archive.org/download/YoungandInnocentTheGirlWasYoung/Young_and_Innocent.mp4
+- Young Frankenstein (1974) — Colorized — https://ia801003.us.archive.org/1/items/young-frankenstein-colorized-1974-720p/Young%20Frankenstein%20%28Colorized%2C%201974%29%20720p.mp4
 - Zontar the Thing from Venus (Restored) — https://archive.org/download/ZontarTheThingFromVenusrestored/Zontarrestored.mp4
