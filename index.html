@@ -49,10 +49,10 @@ button:hover{border-color:var(--green)}:focus-visible{outline:3px solid var(--gr
 
 #osd{top:12px;left:12px;font-size:clamp(12px,2vw,17px);max-width:90%;white-space:pre-line}
 #cabinet:fullscreen{width:100%;height:100%;max-height:none;overflow:auto;align-content:center;align-content:safe center;background:#000}#cabinet:fullscreen .glass-tube{width:min(100%,105.6dvh);height:auto;max-height:none;max-width:none;aspect-ratio:4/3;justify-self:center}
-dialog{background:#101610;color:#eee;border:1px solid #47845b;border-radius:12px;width:min(780px,94vw);max-height:88dvh;padding:20px;font-size:16px}dialog::backdrop{background:#000b}
+dialog{background:#101610;color:#eee;border:1px solid #47845b;border-radius:12px;width:min(780px,94vw);max-width:94vw;max-height:88dvh;padding:20px;font-size:16px;overflow-x:hidden}dialog::backdrop{background:#000b}
 .dialog-top{display:flex;align-items:center;justify-content:space-between;gap:12px}.dialog-top h2{font-size:20px;margin:0}.guide-filters{display:flex;gap:10px;flex-wrap:wrap;margin:18px 0}.guide-filters label{display:grid;gap:6px;flex:1;font-size:14px}
 .guide-filters input,.guide-filters select,#share-url{background:#050805;color:#eee;border:1px solid #777;border-radius:4px;padding:10px;min-height:44px;min-width:0;width:100%}
-#guide-results{display:grid;gap:6px;max-height:49dvh;overflow:auto}#guide-results button{text-align:left;width:100%;line-height:1.5}#guide-results button[aria-current="true"]{border-color:var(--green);color:var(--green)}#guide-count{font-size:14px;color:#bbb}
+#guide-results{display:grid;gap:6px;max-height:49dvh;overflow:auto;min-width:0}#guide-results button{text-align:left;width:100%;min-width:0;display:block;line-height:1.35;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}#guide-results button[aria-current="true"]{border-color:var(--green);color:var(--green)}#guide-count{font-size:14px;color:#bbb}
 #share-url{margin:16px 0;font-size:14px}.hint{font-size:14px;color:#bbb}
 /* Larger, symmetric channel dial. Compact screens retain the controls on the right. */
 .channel-dial{width:140px}.channel-dial .dial-housing{width:140px;height:160px}
@@ -652,7 +652,7 @@ function showMoreGuide(){
     const end=Math.min(guideShown+GUIDE_BATCH,guideMatches.length);
     for(;guideShown<end;guideShown++){
         const {ci,vi}=guideMatches[guideShown],c=categories[ci],item=c.content[vi],b=document.createElement('button');
-        b.textContent=`CH ${c.name} · ${vi+1}. ${item.n}`;
+        b.textContent=`CH ${c.name} · ${vi+1}. ${item.n}`;b.title=item.n;
         b.setAttribute('aria-current',String(ci===currentCategoryIndex&&vi===currentVideoIndex));
         b.addEventListener('click',()=>{document.getElementById('guide').close();choose(ci,vi,{delay:false});});fragment.appendChild(b);
     }
