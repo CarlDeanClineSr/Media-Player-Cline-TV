@@ -147,8 +147,8 @@ const LIBRARY_SOURCES = [
 
 function parseLibraryMarkdown(text){
     const items = [];
-    for(const line of String(text).split(/\\r?\\n/)){
-        const m = line.match(/^\\s*-\\s+(.*?)\\s+—\\s+(https?:\\/\\/\\S+)\\s*$/);
+    for(const line of String(text).split(/\r?\n/)){
+        const m = line.match(/^\s*-\s+(.*?)\s+—\s+(https?:\/\/\S+)\s*$/);
         if(m) items.push({n:m[1].trim(),u:m[2].trim()});
     }
     return items;
