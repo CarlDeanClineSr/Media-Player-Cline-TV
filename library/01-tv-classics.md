@@ -1,7 +1,30 @@
 # TV CLASSICS
 
-Recovered from the archived V188 Cline TV catalog. Direct Archive.org media links only. Duplicate URLs are removed.
+Recovered from the archived Cline TV catalog. Direct Archive.org media links only. Duplicate URLs are removed.
 
+- BettyWhiteChristmas — https://archive.org/download/DateWithTheAngels-1950sFamilySitcom-ChristmasEpisode/BettyWhiteChristmas.mp4
+- Captain Nice - Promos by Bill Feigenbaum — https://archive.org/download/capn-nice-tv-show/Captain%20Nice%20-%20Promos%20by%20Bill%20Feigenbaum.mp4
+- Captain Nice — 101 - The Man Who Flies Like A Pigeon — https://archive.org/download/capn-nice-tv-show/101_-_The_Man_Who_Flies_Like_A_Pigeon.mp4
+- Captain Nice — 102 - How Sheik Can You Get — https://archive.org/download/capn-nice-tv-show/102_-_How_Sheik_Can_You_Get.mp4
+- Captain Nice — 112 - Tastes OK But Something s Missing — https://archive.org/download/capn-nice-tv-show/112_-_Tastes_OK_But_Something_s_Missing.mp4
+- Captain Nice — CapnNice103 - That Thing — https://archive.org/download/capn-nice-tv-show/CapnNice103_-_That_Thing.mp4
+- Captain Nice — CapnNice106 - Is Big Town Burning — https://archive.org/download/capn-nice-tv-show/CapnNice106_-_Is_Big_Town_Burning.mp4
+- Captain Nice — CapnNice107 - Don t Take Any Wooden Indians — https://archive.org/download/capn-nice-tv-show/CapnNice107_-_Don_t_Take_Any_Wooden_Indians.mp4
+- Captain Nice — Pop Goes the Culture -Alice Ghostley talks Captain Nice — https://archive.org/download/capn-nice-tv-show/Pop%20Goes%20the%20Culture%20-Alice%20Ghostley%20talks%20Captain%20Nice.mp4
+- Captain Nice — The Forgotten Superheroes - Captain Nice & Mr Terrific — https://archive.org/download/capn-nice-tv-show/The%20Forgotten%20Superheroes%20-%20Captain%20Nice%20%26%20Mr.%20Terrific.mp4
+- Captain Nice — William Daniels on starring in the TV series Captain Nice - TelevisionAcademy com Interviews — https://archive.org/download/capn-nice-tv-show/William%20Daniels%20on%20starring%20in%20the%20TV%20series%20%20Captain%20Nice%20%20-%20TelevisionAcademy.com%20Interviews.mp4
+- Captain Nice on 13 Week Theatre — https://archive.org/download/capn-nice-tv-show/Captain%20Nice%20%20on%2013%20Week%20Theatre.mp4
+- Captain Nice Vs Mr Terrific — https://archive.org/download/capn-nice-tv-show/Captain%20Nice%20Vs%20Mr.%20Terrific.mp4
+- Captain Nice104 - That Was The Bridge That Was — https://archive.org/download/capn-nice-tv-show/Captain_Nice104_-_That_Was_The_Bridge_That_Was.mp4
+- Captain Nice105 - The Man With Three Blue Eyes — https://archive.org/download/capn-nice-tv-show/Captain_Nice105_-_The_Man_With_Three_Blue_Eyes.mp4
+- Captain Nice108 - That s What Mothers Are For — https://archive.org/download/capn-nice-tv-show/Captain_Nice108_-_That_s_What_Mothers_Are_For.mp4
+- Captain Nice109 - Whatever Lola Wants — https://archive.org/download/capn-nice-tv-show/Captain_Nice109_-_Whatever_Lola_Wants.mp4
+- Captain Nice110 - Who s Afraid of Amanda Woolfe — https://archive.org/download/capn-nice-tv-show/Captain_Nice110_-_Who_s_Afraid_of_Amanda_Woolfe.mp4
+- Captain Nice111 - The Week They Stole Payday — https://archive.org/download/capn-nice-tv-show/Captain_Nice111_-_The_Week_They_Stole_Payday.mp4
+- Captain Nice113 - May I Have The Last Dance — https://archive.org/download/capn-nice-tv-show/Captain_Nice113_-_May_I_Have_The_Last_Dance.mp4
+- Captain Nice114 - One Rotten Apple — https://archive.org/download/capn-nice-tv-show/Captain_Nice114_-_One_Rotten_Apple.mp4
+- Captain Nice115 - Beware Of Hidden Prophets — https://archive.org/download/capn-nice-tv-show/Captain_Nice115_-_Beware_Of_Hidden_Prophets.mp4
+- Honeymooners 1951 — https://archive.org/download/Cavalcade_Of_Stars/Honeymooners_1951.mp4
 - https://archive.org/download/1967DogdeDartTvCommercialPamAustinClips/Dodgedart.mp4 — https://archive.org/download/1967DogdeDartTvCommercialPamAustinClips/Dodgedart.mp4
 - https://archive.org/download/AtomAgeVampire/AtomAgeVampire.mp4 — https://archive.org/download/AtomAgeVampire/AtomAgeVampire.mp4
 - https://archive.org/download/Bloodlust.mpeg/Bloodlust.mp4 — https://archive.org/download/Bloodlust.mpeg/Bloodlust.mp4
@@ -31,3 +54,99 @@ Recovered from the archived V188 Cline TV catalog. Direct Archive.org media link
 - https://archive.org/download/tormented/tormented.mp4 — https://archive.org/download/tormented/tormented.mp4
 - https://archive.org/download/wartburg_1000_1966/wartburg_1000_1966_512kb.mp4 — https://archive.org/download/wartburg_1000_1966/wartburg_1000_1966_512kb.mp4
 - https://archive.org/download/white_zombie/white_zombie.mp4 — https://archive.org/download/white_zombie/white_zombie.mp4
+- Last of the Summer Wine S1E01 - Of Funerals and Fish (Pilot) — https://archive.org/download/last-of-the-summer-wine-s-1-e-02-short-back-and-palais-glide/Last%20of%20the%20Summer%20Wine%20S1E01%20-%20Of%20Funerals%20and%20Fish%20%28Pilot%29.mp4
+- Last of the Summer Wine S1E02 - Short Back and Palais Glide — https://archive.org/download/last-of-the-summer-wine-s-1-e-02-short-back-and-palais-glide/Last%20of%20the%20Summer%20Wine%20S1E02%20-%20Short%20Back%20and%20Palais%20Glide.mp4
+- Last of the Summer Wine S1E03 - Inventor of the 40 Foot Ferret — https://archive.org/download/last-of-the-summer-wine-s-1-e-02-short-back-and-palais-glide/Last%20of%20the%20Summer%20Wine%20S1E03%20-%20Inventor%20of%20the%2040%20Foot%20Ferret.mp4
+- Last of the Summer Wine S1E04 - Paté and Chips — https://archive.org/download/last-of-the-summer-wine-s-1-e-02-short-back-and-palais-glide/Last%20of%20the%20Summer%20Wine%20S1E04%20-%20Pate%CC%81%20and%20Chips.mp4
+- Last of the Summer Wine S1E05 - Spring Fever — https://archive.org/download/last-of-the-summer-wine-s-1-e-02-short-back-and-palais-glide/Last%20of%20the%20Summer%20Wine%20S1E05%20-%20Spring%20Fever.mp4
+- Last of the Summer Wine S1E06 - The New Mobile Trio — https://archive.org/download/last-of-the-summer-wine-s-1-e-02-short-back-and-palais-glide/Last%20of%20the%20Summer%20Wine%20S1E06%20-%20The%20New%20Mobile%20Trio.mp4
+- Last of the Summer Wine S1E07 - Hail Smiling Morn or Thereabouts — https://archive.org/download/last-of-the-summer-wine-s-1-e-02-short-back-and-palais-glide/Last%20of%20the%20Summer%20Wine%20S1E07%20-%20Hail%20Smiling%20Morn%20or%20Thereabouts.mp4
+- LegionOfOldTimers1949 — https://archive.org/download/LegionOfOldTimers1949/LegionOfOldTimers1949.mp4
+- MesaOfLostWomen — https://archive.org/download/MesaOfLostWomen/MesaOfLostWomen.mp4
+- Miss Marple — S01Ep01 The Body in the Library (Part One) — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/01%20The%20Body%20in%20the%20Library%20%281984%29/S01Ep01%20The%20Body%20in%20the%20Library%20%28Part%20One%29.mp4
+- Miss Marple — S01Ep02 The Body in the Library (Part Two) — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/01%20The%20Body%20in%20the%20Library%20%281984%29/S01Ep02%20The%20Body%20in%20the%20Library%20%28Part%20Two%29.mp4
+- Miss Marple — S01Ep03 The Body in the Library (Part Three) — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/01%20The%20Body%20in%20the%20Library%20%281984%29/S01Ep03%20The%20Body%20in%20the%20Library%20%28Part%20Three%29.mp4
+- Miss Marple — S01Ep04 The Moving Finger (Part One) — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/02%20The%20Moving%20Finger%20%281985%29/S01Ep04%20The%20Moving%20Finger%20%28Part%20One%29.mp4
+- Miss Marple — S01Ep05 The Moving Finger (Part Two) — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/02%20The%20Moving%20Finger%20%281985%29/S01Ep05%20The%20Moving%20Finger%20%28Part%20Two%29.mp4
+- Miss Marple — S01Ep06 A Murder Is Announced (Part One) — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/03%20A%20Murder%20Is%20Announced%20%281985%29/S01Ep06%20A%20Murder%20Is%20Announced%20%28Part%20One%29.mp4
+- Miss Marple — S01Ep07 A Murder Is Announced (Part Two) — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/03%20A%20Murder%20Is%20Announced%20%281985%29/S01Ep07%20A%20Murder%20Is%20Announced%20%28Part%20Two%29.mp4
+- Miss Marple — S01Ep08 A Murder Is Announced (Part Three) — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/03%20A%20Murder%20Is%20Announced%20%281985%29/S01Ep08%20A%20Murder%20Is%20Announced%20%28Part%20Three%29.mp4
+- Miss Marple — S01Ep09 A Pocketful of Rye (Part One) — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/04%20A%20Pocketful%20of%20Rye%20%281985%29/S01Ep09%20A%20Pocketful%20of%20Rye%20%28Part%20One%29.mp4
+- Miss Marple — S01Ep10 A Pocketful of Rye (Part Two) — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/04%20A%20Pocketful%20of%20Rye%20%281985%29/S01Ep10%20A%20Pocketful%20of%20Rye%20%28Part%20Two%29.mp4
+- Miss Marple — S02Ep01 Ep02 The Murder at the Vicarage — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/05%20The%20Murder%20at%20the%20Vicarage%20%281986%29/S02Ep01%20Ep02%20The%20Murder%20at%20the%20Vicarage.mp4
+- Miss Marple — S02Ep03 Sleeping Murder (Part One) — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/06%20Sleeping%20Murder%20%281987%29/S02Ep03%20Sleeping%20Murder%20%28Part%20One%29.mp4
+- Miss Marple — S02Ep04 Sleeping Murder (Part Two) — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/06%20Sleeping%20Murder%20%281987%29/S02Ep04%20Sleeping%20Murder%20%28Part%20Two%29.mp4
+- Miss Marple — S02Ep05 At Bertram — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/07%20At%20Bertram%27s%20Hotel%20%281987%29/S02Ep05%20At%20Bertram%27s%20Hotel%20%28Part%20One%29.mp4
+- Miss Marple — S02Ep06 At Bertram — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/07%20At%20Bertram%27s%20Hotel%20%281987%29/S02Ep06%20At%20Bertram%27s%20Hotel%20%28Part%20Two%29.mp4
+- Miss Marple — S02Ep07 Nemesis (Part One) — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/08%20Nemesis%20%281987%29/S02Ep07%20Nemesis%20%28Part%20One%29.mp4
+- Miss Marple — S02Ep08 Nemesis (Part Two) — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/08%20Nemesis%20%281987%29/S02Ep08%20Nemesis%20%28Part%20Two%29.mp4
+- Miss Marple — S03Ep01 4 50 from Paddington — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/09%204.50%20from%20Paddington%20%281987%29/S03Ep01%204.50%20from%20Paddington.mp4
+- Miss Marple — S03Ep02 A Caribbean Mystery — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/10%20A%20Caribbean%20Mystery%20%281989%29/S03Ep02%20A%20Caribbean%20Mystery.mp4
+- Miss Marple — S03Ep03 They Do It with Mirrors — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/11%20They%20Do%20It%20with%20Mirrors%20%281991%29/S03Ep03%20They%20Do%20It%20with%20Mirrors.mp4
+- Miss Marple — S03Ep04 The Mirror Crack — https://archive.org/download/miss-marple-1984-92/Agatha%20Christie%27s%20Miss%20Marple%20%281984%20-%2092%29/12%20The%20Mirror%20Crack%27d%20from%20Side%20to%20Side%20%281992%29/S03Ep04%20The%20Mirror%20Crack%27d%20from%20Side%20to%20Side.mp4
+- s01e01 EntertheLoneRanger — https://archive.org/download/theloneranger_201705/s01e01_EntertheLoneRanger.mp4
+- s01e02 TheLoneRangerFightsOn — https://archive.org/download/theloneranger_201705/s01e02_TheLoneRangerFightsOn.mp4
+- s01e03TheLoneRangersTriumph — https://archive.org/download/theloneranger_201705/s01e03TheLoneRangersTriumph.mp4
+- s01e04 TheLegionofOldTimers — https://archive.org/download/theloneranger_201705/s01e04_TheLegionofOldTimers.mp4
+- s01e05 RustlersHideout — https://archive.org/download/theloneranger_201705/s01e05_RustlersHideout.mp4
+- s01e06 Warhorse — https://archive.org/download/theloneranger_201705/s01e06_Warhorse.mp4
+- s01e07 PeteandPedro — https://archive.org/download/theloneranger_201705/s01e07_PeteandPedro.mp4
+- s01e08 TheRenegades — https://archive.org/download/theloneranger_201705/s01e08_TheRenegades.mp4
+- s01e09 TheTenderfeet — https://archive.org/download/theloneranger_201705/s01e09_TheTenderfeet.mp4
+- s01e10 Highheels — https://archive.org/download/theloneranger_201705/s01e10_Highheels.mp4
+- s01e11 SixgunsLegacy — https://archive.org/download/theloneranger_201705/s01e11_SixgunsLegacy.mp4
+- s01e12 Returnoftheconvict — https://archive.org/download/theloneranger_201705/s01e12_Returnoftheconvict.mp4
+- s01e13 finderskeepers — https://archive.org/download/theloneranger_201705/s01e13_finderskeepers.mp4
+- s01e14 themaskedrider — https://archive.org/download/theloneranger_201705/s01e14_themaskedrider.mp4
+- s01e15 OldJoesSister — https://archive.org/download/theloneranger_201705/s01e15_OldJoesSister.mp4
+- s01e16 CanonBallMckay — https://archive.org/download/theloneranger_201705/s01e16_CanonBallMckay.mp4
+- TarzanandtheTrappers — https://archive.org/download/TarzanandtheTrappers/TarzanandtheTrappers.mp4
+- TeenageDevilDolls — https://archive.org/download/TeenageDevilDolls/TeenageDevilDolls.mp4
+- The Dick Cavett Show — Dick Cavett Show 1970-04-09 Paul Simon, Mickey Mantle, Whitey Ford, Marcel Marceau — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201970-04-09%20Paul%20Simon%2C%20Mickey%20Mantle%2C%20Whitey%20Ford%2C%20Marcel%20Marceau.mp4
+- The Dick Cavett Show — Dick Cavett Show 1970-11-10 Fred Astaire — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201970-11-10%20Fred%20Astaire.mp4
+- The Dick Cavett Show — Dick Cavett Show 1971-02-10 Maximilian Schell, Duke Ellington, Sally Field — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201971-02-10%20Maximilian%20Schell%2C%20Duke%20Ellington%2C%20Sally%20Field.mp4
+- The Dick Cavett Show — Dick Cavett Show 1971-03-08 Lucille Ball, Lucie Arnaz, Carol Burnett — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201971-03-08%20Lucille%20Ball%2C%20Lucie%20Arnaz%2C%20Carol%20Burnett.mp4
+- The Dick Cavett Show — Dick Cavett Show 1971-08-12 Dizzy Gillespie, Evel Knievel, Averell Harriman — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201971-08-12%20Dizzy%20Gillespie%2C%20Evel%20Knievel%2C%20Averell%20Harriman.mp4
+- The Dick Cavett Show — Dick Cavett Show 1972-02-11 Liza Minnelli, Robert Klein, Pete Seeger — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201972-02-11%20Liza%20Minnelli%2C%20Robert%20Klein%2C%20Pete%20Seeger.mp4
+- The Dick Cavett Show — Dick Cavett Show 1972-04-17 Alexis Smith, Gloria Swanson, Elsa Lanchester, Jeanette Rankin — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201972-04-17%20Alexis%20Smith%2C%20Gloria%20Swanson%2C%20Elsa%20Lanchester%2C%20Jeanette%20Rankin.mp4
+- The Dick Cavett Show — Dick Cavett Show 1972-06-22 Art Carney, Alexis Smith, Clement Freud — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201972-06-22%20Art%20Carney%2C%20Alexis%20Smith%2C%20Clement%20Freud.mp4
+- The Dick Cavett Show — Dick Cavett Show 1973-08-06 Norman Mailer (Marilyn Monroe) — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201973-08-06%20Norman%20Mailer%20%28Marilyn%20Monroe%29.mp4
+- The Dick Cavett Show — Dick Cavett Show 1974-03-07 Lucille Ball — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201974-03-07%20Lucille%20Ball.mp4
+- The Dick Cavett Show — Dick Cavett Show 1978-05-31 Burt Reynolds — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201978-05-31%20Burt%20Reynolds.mp4
+- The Dick Cavett Show — Dick Cavett Show 1978-06-15 Brian De Palma, Martin Scorsese (2-parts) — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201978-06-15%20Brian%20De%20Palma%2C%20Martin%20Scorsese%20%282-parts%29.mp4
+- The Dick Cavett Show — Dick Cavett Show 1979-06-05 Arthur Miller (3-parts) — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201979-06-05%20Arthur%20Miller%20%283-parts%29.mp4
+- The Dick Cavett Show — Dick Cavett Show 1979-06-07 Masters And Johnson (2-parts) — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201979-06-07%20Masters%20And%20Johnson%20%282-parts%29.mp4
+- The Dick Cavett Show — Dick Cavett Show 1980-07-09 Bob Fosse (2-parts) — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201980-07-09%20Bob%20Fosse%20%282-parts%29.mp4
+- The Dick Cavett Show — Dick Cavett Show 1982-03-22 Cher (2-parts) — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201982-03-22%20Cher%20%282-parts%29.mp4
+- The Dick Cavett Show — Dick Cavett Show 1985-09-30 Joan Rivers — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201985-09-30%20Joan%20Rivers.mp4
+- The Dick Cavett Show — Dick Cavett Show 1985-12-02 Dick Clark & Walter Matthau — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201985-12-02%20Dick%20Clark%20%26%20Walter%20Matthau.mp4
+- The Dick Cavett Show — Dick Cavett Show 1985-12-16 Richard Pryor — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201985-12-16%20Richard%20Pryor.mp4
+- The Dick Cavett Show — Dick Cavett Show 1992-04-08 Christopher Reeve — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201992-04-08%20Christopher%20Reeve.mp4
+- The Dick Cavett Show — Dick Cavett Show 1992-04-20 Jackie Mason — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201992-04-20%20Jackie%20Mason.mp4
+- The Dick Cavett Show — Dick Cavett Show 1992-11-16 Harvey Keitel — https://archive.org/download/dick-cavett-show-decades/Dick%20Cavett%20Show%201992-11-16%20Harvey%20Keitel.mp4
+- The Phantom Planet — https://archive.org/download/PhantomPlanet/classicscifiphantomplanet1.mp4
+- The Phantom Planet — https://archive.org/download/PhantomPlanet/phantomplanet2.mp4
+- The Prisoner 01 Arrival — https://archive.org/download/The_Prisoner/ThePrisoner01Arrival.mp4
+- The Prisoner 02 The Chimes Of Big Ben — https://archive.org/download/The_Prisoner/ThePrisoner02TheChimesOfBigBen.mp4
+- The Prisoner 03 A B And C — https://archive.org/download/The_Prisoner/ThePrisoner03A.b.and.c.mp4
+- The Prisoner 04 Free For All — https://archive.org/download/The_Prisoner/ThePrisoner04FreeForAll.mp4
+- The Prisoner 05 The Schizoid Man — https://archive.org/download/The_Prisoner/ThePrisoner05TheSchizoidMan.mp4
+- The Prisoner 06 The General — https://archive.org/download/The_Prisoner/ThePrisoner06TheGeneral.mp4
+- The Prisoner 07 Many Happy Returns — https://archive.org/download/The_Prisoner/ThePrisoner07ManyHappyReturns.mp4
+- The Prisoner 08 Dance Of The Dead — https://archive.org/download/The_Prisoner/ThePrisoner08DanceOfTheDead.mp4
+- The Prisoner 09 Checkmate — https://archive.org/download/The_Prisoner/ThePrisoner09Checkmate.mp4
+- The Prisoner 10 Hammer Into Anvil — https://archive.org/download/The_Prisoner/ThePrisoner10HammerIntoAnvil.mp4
+- The Prisoner 11 It — https://archive.org/download/The_Prisoner/ThePrisoner11ItsYourFuneral.mp4
+- The Prisoner 12 A Change Of Mind — https://archive.org/download/The_Prisoner/ThePrisoner12AChangeOfMind.mp4
+- The Prisoner 13 Do Not Forsake Me Oh My Darling — https://archive.org/download/The_Prisoner/ThePrisoner13DoNotForsakeMeOhMyDarling.mp4
+- The Prisoner 14 Living In Harmony — https://archive.org/download/The_Prisoner/ThePrisoner14LivingInHarmony.mp4
+- The Prisoner 15 The Girl Who Was Death — https://archive.org/download/The_Prisoner/ThePrisoner15TheGirlWhoWasDeath.mp4
+- The Prisoner 16 Once Upon A Time — https://archive.org/download/The_Prisoner/ThePrisoner16OnceUponATime.mp4
+- The Prisoner 17 Fall Out — https://archive.org/download/The_Prisoner/ThePrisoner17FallOut.mp4
+- TheCaseofLadyBeryl — https://archive.org/download/SherlockHolmes-TheCaseofLadyBeryl/TheCaseofLadyBeryl.mp4
+- TheCaseoftheShyBallerina — https://archive.org/download/SherlockHolmes-TheCaseoftheShyBallerina/TheCaseoftheShyBallerina.mp4
+- TheHoneymoonersSketch1951 — https://archive.org/download/Cavalcade_Of_Stars/TheHoneymoonersSketch1951.mp4
+- Three Stooges 1949 Failed TV Pilot — https://archive.org/download/3StoogesPilot/ThreeStooges1949FailedPilot.mp4
+- Wonderfu1960 — https://archive.org/download/Wonderfu1960/Wonderfu1960.mp4
+- Wonderfu1960 edit — https://archive.org/download/Wonderfu1960/Wonderfu1960_edit.mp4
+- キャプテンナイス (CAPTAIN NICE) — https://archive.org/download/capn-nice-tv-show/%E3%82%AD%E3%83%A3%E3%83%97%E3%83%86%E3%83%B3%E3%83%8A%E3%82%A4%E3%82%B9%20%28CAPTAIN%20NICE%29.mp4
