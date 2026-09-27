@@ -98,7 +98,7 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - 21st Precinct — Case of the L D 80 (53-12-04) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2053-12-04%20%28022%29%20Case%20of%20the%20L.D.%2080.mp3
 - 21st Precinct — Case of the Patient (53-11-03) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2053-11-03%20%28018%29%20Case%20of%20the%20Patient.mp3
 - 21st Precinct — Case of the Picture (53-10-13) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2053-10-13%20%28015%29%20Case%20of%20the%20Picture.mp3
-- 21st Precinct — Case of the Sailor — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2053-08-04%20%28005%29%20Case%20of%20the%20Sailor%27s%20Family.mp3
+- 21st Precinct — Case of the Sailor's Family (53-08-04) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2053-08-04%20%28005%29%20Case%20of%20the%20Sailor%27s%20Family.mp3
 - 21st Precinct — Case of the Stairs (54-01-01) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2054-01-01%20%28026%29%20Case%20of%20the%20Stairs.mp3
 - 21st Precinct — Case of the Young Incorrigible (53-07-14) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2053-07-14%20%28002%29%20Case%20of%20the%20Young%20Incorrigible.mp3
 - 21st Precinct — Post Number Seven (53-08-11) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2053-08-11%20%28006%29%20Post%20Number%20Seven.mp3
@@ -197,17 +197,21 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - 21st Precinct — The Wife (54-12-29) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2054-12-29%20%28077%29%20The%20Wife.mp3
 - 21st Precinct — The Will (54-06-23) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2054-06-23%20%28050%29%20The%20Will.mp3
 - 21st Precinct — The Wreck (54-08-25) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2054-08-25%20%28059%29%20The%20Wreck.mp3
+- AM Radio Broadcast (Feb, 1, 1963) — https://archive.org/download/am-radio-broadcast-feb-1-1963_202108/AM Radio Broadcast (Feb,1,1963).mp4
+- AM Radio News (1-17-1972) — https://archive.org/download/radio-news-1-17-1972/Radio News (1-17-1972).mp4
+- AM Radio Program (July 29,1967) — https://archive.org/download/radio-program-july-29-1967/Radio Program (July-29-1967).mp4
 - Beatles Hoax WKBW AM Radio Broadcast 1960s — https://archive.org/download/beatles-hoax-wkbwbroadcast/BeatlesHoaxWKBWBroadcast.ia.mp4
+- Bill Sprague Collection : DOO WOP GOLD — https://archive.org/download/BillSporagueCollectionDOOWOPGOLD/Doo Wop Gold Vol 1.mp4
 - Churchill Broadcasts — Address To Harrow School — https://archive.org/download/Winston_Churchill/1941-11-29_BBC_Winston_Churchill_Address_To_Harrow_School.mp3
 - Churchill Broadcasts — Address To Italy — https://archive.org/download/Winston_Churchill/1940-12-23_BBC_Winston_Churchill_Address_To_Italy.mp3
-- Churchill Broadcasts — America — https://archive.org/download/Winston_Churchill/1944-11-23_BBC_Winston_Churchill_Americas_Thanksgiving_Day.mp3
+- Churchill Broadcasts — America's Thanksgiving Day — https://archive.org/download/Winston_Churchill/1944-11-23_BBC_Winston_Churchill_Americas_Thanksgiving_Day.mp3
 - Churchill Broadcasts — Anglo American Unity — https://archive.org/download/Winston_Churchill/1943-09-06_BBC_Winston_Churchill_Anglo_American_Unity.mp3
 - Churchill Broadcasts — Broadcast From Quebec — https://archive.org/download/Winston_Churchill/1943-08-31_CBC_Winston_Churchill_Broadcast_From_Quebec.mp3
 - Churchill Broadcasts — Broadcast To America — https://archive.org/download/Winston_Churchill/1941-06-16_BBC_Winston_Churchill_Broadcast_To_America.mp3
-- Churchill Broadcasts — Do Your Worst, We — https://archive.org/download/Winston_Churchill/1941-07-14_BBC_Winston_Churchill_Do_Your_Worst_Well_Do_Our_Best.mp3
+- Churchill Broadcasts — Do Your Worst, We'll Do Our Best — https://archive.org/download/Winston_Churchill/1941-07-14_BBC_Winston_Churchill_Do_Your_Worst_Well_Do_Our_Best.mp3
 - Churchill Broadcasts — First Speech As Prime Minister — https://archive.org/download/Winston_Churchill/1940-05-19_BBC_Winston_Churchill_First_Speech_As_Prime_Minister.mp3
-- Churchill Broadcasts — Germany — https://archive.org/download/Winston_Churchill/1945-05-08_BBC_Winston_Churchill_Germanys_Unconditional_Surrender.mp3
 - Churchill Broadcasts — Germany Invades Russia — https://archive.org/download/Winston_Churchill/1941-06-22_BBC_Winston_Churchill_Germany_Invades_Russia.mp3
+- Churchill Broadcasts — Germany's Unconditional Surrender — https://archive.org/download/Winston_Churchill/1945-05-08_BBC_Winston_Churchill_Germanys_Unconditional_Surrender.mp3
 - Churchill Broadcasts — Give Us The Tools — https://archive.org/download/Winston_Churchill/1941-02-09_BBC_Winston_Churchill_Give_Us_The_Tools.mp3
 - Churchill Broadcasts — House Of Commons Secret Session — https://archive.org/download/Winston_Churchill/1940-09-17_BBC_Winston_Churchill_House_Of_Commons_Secret_Session.mp3
 - Churchill Broadcasts — Meeting With President Roosevelt — https://archive.org/download/Winston_Churchill/1941-08-24_BBC_Winston_Churchill_Meeting_With_President_Roosevelt.mp3
@@ -558,9 +562,9 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Gunsmoke — Alarm at Pleasant Valley (55-09-10) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-09-10%20%28178%29%20Alarm%20at%20Pleasant%20Valley.mp3
 - Gunsmoke — Bad Boy (54-02-27) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-02-27%20%28097%29%20Bad%20Boy.mp3
 - Gunsmoke — Barton Boy (55-10-01) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-10-01%20%28181%29%20Barton%20Boy.mp3
-- Gunsmoke — Ben Slade — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2052-05-24%20%28005%29%20Ben%20Slade%27s%20Saloon.mp3
+- Gunsmoke — Ben Slade's Saloon (52-05-24) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2052-05-24%20%28005%29%20Ben%20Slade%27s%20Saloon.mp3
 - Gunsmoke — Ben Thompson (52-05-03) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2052-05-03%20%28002%29%20Ben%20Thompson%20%28act%201%29.mp3
-- Gunsmoke — Ben Tolliver — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-07-23%20%28171%29%20Ben%20Tolliver%27s%20Stud.mp3
+- Gunsmoke — Ben Tolliver's Stud (Norman Macdonnell) (55-07-23) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-07-23%20%28171%29%20Ben%20Tolliver%27s%20Stud.mp3
 - Gunsmoke — Big Broad (54-02-06) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-02-06%20%28094%29%20Big%20Broad.mp3
 - Gunsmoke — Big Girl Lost (53-12-19) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-12-19%20%28087%29%20Big%20Girl%20Lost.mp3
 - Gunsmoke — Billy the Kid (52-04-26) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2052-04-26%20%28001%29%20Billy%20the%20Kid.mp3
@@ -571,15 +575,15 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Gunsmoke — Boy (53-08-01) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-08-01%20%28067%29%20Boy.mp3
 - Gunsmoke — Brush at Elkader (James Nusser) (55-10-23) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-10-23%20%28185%29%20Brush%20at%20Elkader.mp3
 - Gunsmoke — Buffalo Killers (52-06-07) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2052-06-07%20%28007%29%20Buffalo%20Killers.mp3
-- Gunsmoke — Bum — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-04-18%20%28052%29%20Bum%27s%20Rush.mp3
+- Gunsmoke — Bum's Rush (53-04-18) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-04-18%20%28052%29%20Bum%27s%20Rush.mp3
 - Gunsmoke — Cain (52-10-03) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2052-10-03%20%28024%29%20Cain.mp3
 - Gunsmoke — Cain (reused script) (53-02-07) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-02-07%20%28042%29%20Cain.mp3
 - Gunsmoke — Cara (54-05-01) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-05-01%20%28106%29%20Cara.mp3
 - Gunsmoke — Carmen (52-05-31) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2052-05-31%20%28006%29%20Carmen.mp3
 - Gunsmoke — Cavalcade (53-01-31) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-01-31%20%28041%29%20Cavalcade.mp3
 - Gunsmoke — Change of Heart (55-09-03) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-09-03%20%28177%29%20Change%20of%20Heart.mp3
-- Gunsmoke — Chester — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-01-15%20%28144%29%20Chester%27s%20Murder.mp3
-- Gunsmoke — Chester — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-02-12%20%28148%29%20Chester%27s%20Hanging.mp3
+- Gunsmoke — Chester's Hanging (55-02-12) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-02-12%20%28148%29%20Chester%27s%20Hanging.mp3
+- Gunsmoke — Chester's Murder (55-01-15) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-01-15%20%28144%29%20Chester%27s%20Murder.mp3
 - Gunsmoke — Cheyennes (55-02-05) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-02-05%20%28147%29%20Cheyennes.mp3
 - Gunsmoke — Cholera (54-12-04) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-12-04%20%28138%29%20Cholera.mp3
 - Gunsmoke — Claustrophobia (54-06-26) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-06-26%20%28114%29%20Claustrophobia.mp3
@@ -600,7 +604,7 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Gunsmoke — Fingered (52-11-21) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2052-11-21%20%28031%29%20Fingered.mp3
 - Gunsmoke — Flashback (53-06-27) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-06-27%20%28062%29%20Flashback.mp3
 - Gunsmoke — General Parsley Smith (55-07-02) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-07-02%20%28168%29%20General%20Parsley%20Smith.mp3
-- Gunsmoke — Gentleman — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2052-07-26%20%28014%29%20Gentleman%27s%20Disagreement.mp3
+- Gunsmoke — Gentleman's Disagreement (52-07-26) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2052-07-26%20%28014%29%20Gentleman%27s%20Disagreement.mp3
 - Gunsmoke — Going Bad (54-06-19) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-06-19%20%28113%29%20Going%20Bad.mp3
 - Gunsmoke — Gone Straight (53-08-22) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-08-22%20%28070%29%20Gone%20Straight.mp3
 - Gunsmoke — Gonif (53-04-11) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-04-11%20%28051%29%20Gonif.mp3
@@ -619,7 +623,7 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Gunsmoke — How to Kill a Friend (53-10-03) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-10-03%20%28076%29%20How%20to%20Kill%20a%20Friend.mp3
 - Gunsmoke — How to Kill a Woman (53-10-31) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-10-31%20%28080%29%20How%20to%20Kill%20a%20Woman.mp3
 - Gunsmoke — How to Kill a Woman (54-11-20) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-11-20%20%28136%29%20How%20To%20Kill%20a%20Woman.mp3
-- Gunsmoke — I Don — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2052-12-06%20%28033%29%20I%20Don%27t%20Know.mp3
+- Gunsmoke — I Don't Know (52-12-06) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2052-12-06%20%28033%29%20I%20Don%27t%20Know.mp3
 - Gunsmoke — Indian Scout (55-08-20) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-08-20%20%28175%29%20Indian%20Scout.mp3
 - Gunsmoke — Indian White (55-09-24) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-09-24%20%28180%29%20Indian%20White.mp3
 - Gunsmoke — Innocent Broad (55-08-06) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-08-06%20%28173%29%20Innocent%20Broad.mp3
@@ -629,9 +633,9 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Gunsmoke — Jesse (53-08-29) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-08-29%20%28071%29%20Jesse.mp3
 - Gunsmoke — Joe Phy (54-08-09) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-08-09%20%28121%29%20Joe%20Phy.mp3
 - Gunsmoke — Johnny Red (Virginia Gregg) (55-08-13) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-08-13%20%28174%29%20Johnny%20Red.mp3
-- Gunsmoke — Joke — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-01-09%20%28090%29%20Joke%27s%20on%20Us.mp3
+- Gunsmoke — Joke's on Us (54-01-09) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-01-09%20%28090%29%20Joke%27s%20on%20Us.mp3
 - Gunsmoke — Kick Me (53-11-28) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-11-28%20%28084%29%20Kick%20Me.mp3
-- Gunsmoke — Kite — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-03-05%20%28151%29%20Kite%27s%20Reward.mp3
+- Gunsmoke — Kite's Reward (55-03-05) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-03-05%20%28151%29%20Kite%27s%20Reward.mp3
 - Gunsmoke — Kitty (52-11-29) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2052-11-29%20%28032%29%20Kitty.mp3
 - Gunsmoke — Kitty Caught (Lawrence Dobkin) (54-10-16) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-10-16%20%28131%29%20Kitty%20Caught.mp3
 - Gunsmoke — Kitty Lost (54-12-25) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-12-25%20%28141%29%20Kitty%20Lost.mp3
@@ -747,17 +751,17 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Johnny Dollar — 490415 008 The Case of the Hundred Thousand Dollar Legs (1949-04-15) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201949-04-15%20008%20The%20Case%20of%20the%20Hundred%20Thousand%20Dollar%20Legs.mp3
 - Johnny Dollar — 490422 009 The Case of Barton Drake (1949-04-22) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201949-04-22%20009%20The%20Case%20of%20Barton%20Drake.mp3
 - Johnny Dollar — 490724 011 Who Took the Taxis for a Ride (1949-07-24) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201949-07-24%20011%20Who%20Took%20the%20Taxis%20for%20a%20Ride.mp3
-- Johnny Dollar — 490807 013 Murder Ain — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201949-08-07%20013%20Murder%20Ain%27t%20Minor%20%28The%20Case%20of%20Bonnie%20Goodwin%29.mp3
+- Johnny Dollar — 490807 013 Murder Ain't Minor (The Case of Bonnie Goodwin) (1949-08-07) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201949-08-07%20013%20Murder%20Ain%27t%20Minor%20%28The%20Case%20of%20Bonnie%20Goodwin%29.mp3
 - Johnny Dollar — 490821 015 Out of the Fire into the Frying Pan (The Prize Hog Bodyguard) (1949-08-21) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201949-08-21%20015%20Out%20of%20the%20Fire%20into%20the%20Frying%20Pan%20%28The%20Prize%20Hog%20Bodyguard%29.mp3
 - Johnny Dollar — 490904 017 The Expiring Nickels and the Egyptian Jackpot (1949-09-04) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201949-09-04%20017%20The%20Expiring%20Nickels%20and%20the%20Egyptian%20Jackpot.mp3
 - Johnny Dollar — 490925 018 The Search for Michelle Marsh (1949-09-25) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201949-09-25%20018%20The%20Search%20for%20Michelle%20Marsh.mp3
 - Johnny Dollar — 491001 019 The Fishing Boat Affair (1949-10-01) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201949-10-01%20019%20The%20Fishing%20Boat%20Affair.mp3
 - Johnny Dollar — 491008 020 The Racehorse Piledriver Matter (1949-10-08) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201949-10-08%20020%20The%20Racehorse%20Piledriver%20Matter.mp3
 - Johnny Dollar — 491015 021 Dr Otto Schmedlich (1949-10-15) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201949-10-15%20021%20Dr%20Otto%20Schmedlich.mp3
-- Johnny Dollar — 491022 022 Witness, Witness, Who — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201949-10-22%20022%20Witness%2C%20Witness%2C%20Who%27s%20Got%20the%20Witness.mp3
-- Johnny Dollar — 491029 023 The Little Man Who Wasn — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201949-10-29%20023%20The%20Little%20Man%20Who%20Wasn%27t%20All%20There.mp3
+- Johnny Dollar — 491022 022 Witness, Witness, Who's Got the Witness (1949-10-22) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201949-10-22%20022%20Witness%2C%20Witness%2C%20Who%27s%20Got%20the%20Witness.mp3
+- Johnny Dollar — 491029 023 The Little Man Who Wasn't All There (1949-10-29) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201949-10-29%20023%20The%20Little%20Man%20Who%20Wasn%27t%20All%20There.mp3
 - Johnny Dollar — 491105 024The Island of Tin-Yutan (The South Sea Adventure) (1949-11-05) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201949-11-05%20024%20The%20Island%20of%20Tin-Yutan%20%28The%20South%20Sea%20Adventure%29.mp3
-- Johnny Dollar — 491112 025 The Melanie Carter Matter (Who — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201949-11-12%20025%20The%20Melanie%20Carter%20Matter%20%28Who%27d%20Like%20To%20Rock%20The%20Old%20Doll%20To%20Sleep%29.mp3
+- Johnny Dollar — 491112 025 The Melanie Carter Matter (Who'd Like To Rock The Old Doll To Sleep) (1949-11-12) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201949-11-12%20025%20The%20Melanie%20Carter%20Matter%20%28Who%27d%20Like%20To%20Rock%20The%20Old%20Doll%20To%20Sleep%29.mp3
 - Johnny Dollar — 491126 026 The Skull Canyon Mine (1949-11-26) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201949-11-26%20026%20The%20Skull%20Canyon%20Mine.mp3
 - Johnny Dollar — 491203 027 Bodyguard to Anne Connelly (1949-12-03) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201949-12-03%20027%20Bodyguard%20to%20Anne%20Connelly.mp3
 - Johnny Dollar — 491210 028 The Circus Animal Show Matter (1949-12-10) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201949-12-10%20028%20The%20Circus%20Animal%20Show%20Matter.mp3
@@ -765,7 +769,7 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Johnny Dollar — 491224 030 The Department Store Swindle Matter (How I Played Santa Claus And Almost Got Left Holding The Bag) (1949-12-24) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201949-12-24%20030%20The%20Department%20Store%20Swindle%20Matter%20%28How%20I%20Played%20Santa%20Claus%20And%20Almost%20Got%20Left%20Holding%20The%20Bag%29.mp3
 - Johnny Dollar — 500203 034 Death Takes a Working Day (The Loyal B Martin Matter; How to Take a Vacation in Fairfield County) (1950-02-03) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201950-02-03%20034%20Death%20Takes%20a%20Working%20Day%20%28The%20Loyal%20B%20Martin%20Matter%29.mp3
 - Johnny Dollar — 500210 035 The S S Malay Trader Ship (1950-02-10) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201950-02-10%20035%20The%20S.S.%20Malay%20Trader%20Ship.mp3
-- Johnny Dollar — 500217 036 The Gravedigger — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201950-02-17%20036%20The%20Gravedigger%27s%20Spades%20%28Mr%20%26%20Mrs%20Arbuthnel%20Trump%29.mp3
+- Johnny Dollar — 500217 036 The Gravedigger's Spades (Mr & Mrs Arbuthnel Trump) (1950-02-17) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201950-02-17%20036%20The%20Gravedigger%27s%20Spades%20%28Mr%20%26%20Mrs%20Arbuthnel%20Trump%29.mp3
 - Johnny Dollar — 500224 037 The Archeologist (The Disappearance of Bruce Lambert) (1950-02-24) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201950-02-24%20037%20The%20Archeologist%20%28The%20Disappearance%20of%20Bruce%20Lambert%29.mp3
 - Johnny Dollar — 500303 038 Bodyguard to the Late Robert W Perry (1950-03-03) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201950-03-03%20038%20Bodyguard%20to%20the%20Late%20Robert%20W%20Perry.mp3
 - Johnny Dollar — 500307 039 Alec Jefferson, The Youthful Millionaire (Rebel Wildcatters) (1950-03-07) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201950-03-07%20039%20Alec%20Jefferson%2C%20The%20Youthful%20Millionaire%20%28Rebel%20Wildcatters%29.mp3
@@ -854,7 +858,7 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Johnny Dollar — 530220 150 The Latourette Matter (1953-02-20) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201953-02-20%20150%20The%20Latourette%20Matter.mp3
 - Johnny Dollar — 530227 151 The Underwood Matter (1953-02-27) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201953-02-27%20151%20The%20Underwood%20Matter.mp3
 - Johnny Dollar — 530306 152 The Jeanne Maxwell Matter (1953-03-06) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201953-03-06%20152%20The%20Jeanne%20Maxwell%20Matter.mp3
-- Johnny Dollar — 530317 154 The King — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201953-03-17%20154%20The%20King%27s%20Necklace%20Matter%20%5BAFRTS%5D.mp3
+- Johnny Dollar — 530317 154 The King's Necklace Matter [AFRTS] (1953-03-17) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201953-03-17%20154%20The%20King%27s%20Necklace%20Matter%20%5BAFRTS%5D.mp3
 - Johnny Dollar — 530324 155 The Syndicate Matter (1953-03-24) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201953-03-24%20155%20The%20Syndicate%20Matter.mp3
 - Johnny Dollar — 530331 156 The Lester James Matter (no ending) (1953-03-31) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201953-03-31%20156%20The%20Lester%20James%20Matter%20%28no%20ending%29.mp3
 - Johnny Dollar — 530407 157 The Enoch Arden Matter (1953-04-07) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201953-04-07%20157%20The%20Enoch%20Arden%20Matter.mp3
@@ -888,7 +892,7 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Johnny Dollar — 531103 187 The Gino Gambona Matter [AFRTS] (1953-11-03) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201953-11-03%20187%20The%20Gino%20Gambona%20Matter%20%5BAFRTS%5D.mp3
 - Johnny Dollar — 531110 188 The Bobby Foster Matter [AFRTS] (1953-11-10) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201953-11-10%20188%20The%20Bobby%20Foster%20Matter%20%5BAFRTS%5D.mp3
 - Johnny Dollar — 531117 189 The Nathan Gayles Matter [AFRTS] (1953-11-17) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201953-11-17%20189%20The%20Nathan%20Gayles%20Matter%20%5BAFRTS%5D.mp3
-- Johnny Dollar — 531124 190 The Independent Diamond Traders — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201953-11-24%20190%20The%20Independent%20Diamond%20Traders%27%20Matter.mp3
+- Johnny Dollar — 531124 190 The Independent Diamond Traders' Matter (1953-11-24) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201953-11-24%20190%20The%20Independent%20Diamond%20Traders%27%20Matter.mp3
 - Johnny Dollar — 531201 191 The Monopoly Matter (1953-12-01) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201953-12-01%20191%20The%20Monopoly%20Matter.mp3
 - Johnny Dollar — 531208 192 The Barton Baker Matter [AFRTS] (1953-12-08) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201953-12-08%20192%20The%20Barton%20Baker%20Matter%20%5BAFRTS%5D.mp3
 - Johnny Dollar — 531215 193 The Milk and Honey Matter [AFRTS] (1953-12-15) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles/YTJD%201953-12-15%20193%20The%20Milk%20and%20Honey%20Matter%20%5BAFRTS%5D.mp3
@@ -1141,7 +1145,7 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Johnny Dollar — 570721 544 The Yours Truly Matter (1957-07-21) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles_Bob_Bailey_2/YTJD%201957-07-21%20544%20The%20Yours%20Truly%20Matter.mp3
 - Johnny Dollar — 570728 545 The Confederate Coinage Matter [AFRTS] (1957-07-28) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles_Bob_Bailey_2/YTJD%201957-07-28%20545%20The%20Confederate%20Coinage%20Matter%20%5BAFRTS%5D.mp3
 - Johnny Dollar — 570804 546 The Wayward Widow Matter [AFRTS] (1957-08-04) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles_Bob_Bailey_2/YTJD%201957-08-04%20546%20The%20Wayward%20Widow%20Matter%20%5BAFRTS%5D.mp3
-- Johnny Dollar — 570811 547 The Killer — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles_Bob_Bailey_2/YTJD%201957-08-11%20547%20The%20Killer%27s%20Brand%20Matter.mp3
+- Johnny Dollar — 570811 547 The Killer's Brand Matter (1957-08-11) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles_Bob_Bailey_2/YTJD%201957-08-11%20547%20The%20Killer%27s%20Brand%20Matter.mp3
 - Johnny Dollar — 570825 549 The Smoky Sleeper Matter (1957-08-25) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles_Bob_Bailey_2/YTJD%201957-08-25%20549%20The%20Smoky%20Sleeper%20Matter.mp3
 - Johnny Dollar — 570901 550 The Poor Little Rich Girl Matter [AFRTS] (1957-09-01) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles_Bob_Bailey_2/YTJD%201957-09-01%20550%20The%20Poor%20Little%20Rich%20Girl%20Matter%20%5BAFRTS%5D.mp3
 - Johnny Dollar — 570908 551 The Charmona Matter (1957-09-08) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles_Bob_Bailey_2/YTJD%201957-09-08%20551%20The%20Charmona%20Matter.mp3
@@ -1163,7 +1167,7 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Johnny Dollar — 571229 567 The Latin Lovely Matter (1957-12-29) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles_Bob_Bailey_2/YTJD%201957-12-29%20567%20The%20Latin%20Lovely%20Matter.mp3
 - Johnny Dollar — 580105 568 The Ingenuous Jeweler Matter [AFRTS] (1958-01-05) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles_Bob_Bailey_2/YTJD%201958-01-05%20568%20The%20Ingenuous%20Jeweler%20Matter%20%5BAFRTS%5D.mp3
 - Johnny Dollar — 580112 569 The Boron 112 Matter (1958-01-12) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles_Bob_Bailey_2/YTJD%201958-01-12%20569%20The%20Boron%20112%20Matter.mp3
-- Johnny Dollar — 580119 570 The Eleven O — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles_Bob_Bailey_2/YTJD%201958-01-19%20570%20The%20Eleven%20O%27Clock%20Matter%20%5BAFRTS%5D.mp3
+- Johnny Dollar — 580119 570 The Eleven O'Clock Matter [AFRTS] (1958-01-19) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles_Bob_Bailey_2/YTJD%201958-01-19%20570%20The%20Eleven%20O%27Clock%20Matter%20%5BAFRTS%5D.mp3
 - Johnny Dollar — 580202 572 The Price of Fame Matter [AFRTS] (1958-02-02) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles_Bob_Bailey_2/YTJD%201958-02-02%20572%20The%20Price%20of%20Fame%20Matter%20%5BAFRTS%5D.mp3
 - Johnny Dollar — 580209 573 The Sick Chick Matter (1958-02-09) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles_Bob_Bailey_2/YTJD%201958-02-09%20573%20The%20Sick%20Chick%20Matter.mp3
 - Johnny Dollar — 580216 574 The Time and Tide Matter [AFRTS] (1958-02-16) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles_Bob_Bailey_2/YTJD%201958-02-16%20574%20The%20Time%20and%20Tide%20Matter%20%5BAFRTS%5D.mp3
@@ -1172,6 +1176,7 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Johnny Dollar — 580309 577 The Wayward Moth Matter [AFRTS] (1) (1958-03-09) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles_Bob_Bailey_2/YTJD%201958-03-09%20577%20The%20Wayward%20Moth%20Matter%20%5BAFRTS%5D%20%281%29.mp3
 - Johnny Dollar — 580316 578 The Salkoff Sequel Matter [AFRTS] (1958-03-16) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles_Bob_Bailey_2/YTJD%201958-03-16%20578%20The%20Salkoff%20Sequel%20Matter%20%5BAFRTS%5D.mp3
 - Johnny Dollar — 580323 579 The Denver Disbursal Matter [AFRTS] (1958-03-23) — https://archive.org/download/OTRR_YoursTrulyJohnnyDollar_Singles_Bob_Bailey_2/YTJD%201958-03-23%20579%20The%20Denver%20Disbursal%20Matter%20%5BAFRTS%5D.mp3
+- Kmart In Store Music Christmas 1974 — https://archive.org/download/KmartInStoreMusicChristmas1974/Kmart In-Store Music- Christmas 1974.mp4
 - Martyrs of Science — 01 - Life of Galileo, Chapter I — https://archive.org/download/martyrs_of_science_1308_librivox/martyrsofscience_01_brewster_128kb.mp3
 - Martyrs of Science — 02 - Life of Galileo, Chapter II — https://archive.org/download/martyrs_of_science_1308_librivox/martyrsofscience_02_brewster_128kb.mp3
 - Martyrs of Science — 03 - Life of Galileo, Chapter III — https://archive.org/download/martyrs_of_science_1308_librivox/martyrsofscience_03_brewster_128kb.mp3
@@ -1189,6 +1194,8 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Mercury Theatre — Dracula (1938) — https://archive.org/download/OrsonWelles-MercuryTheater-1938Recordings/MercuryTheater38-07-11Dracula.mp3
 - Mercury Theatre — The War of the Worlds (1938) — https://archive.org/download/OrsonWelles-MercuryTheater-1938Recordings/MercuryTheater38-10-30WarOfTheWorlds.mp3
 - Mercury Theatre — Treasure Island (1938) — https://archive.org/download/OrsonWelles-MercuryTheater-1938Recordings/MercuryTheater38-07-18TreasureIsland.mp3
+- Original AM Radio (February 1965) — https://archive.org/download/original-am-radio-february-1965/Original AM Radio (February 1965).ia.mp4
+- Paul Mc Cartney Wings Greatest Hits ( Full Album) — https://archive.org/download/29051989PW/Paul McCartney _ Wings - Greatest Hits (Full Album).mp4
 - Philip Marlowe — Cloak of Kamehameha (49-04-23) — https://archive.org/download/OTRR_Philip_Marlowe_Singles/Philip_Marlowe_49-04-23_ep030_The_Cloak_of_Kamehameha.mp3
 - Philip Marlowe — Cloak of Kamehameha (50-05-16) — https://archive.org/download/OTRR_Philip_Marlowe_Singles/Philip_Marlowe_50-05-16_ep084_The_Cloak_of_Kamehameha.mp3
 - Philip Marlowe — Dude from Manhattan (49-07-02) — https://archive.org/download/OTRR_Philip_Marlowe_Singles/Philip_Marlowe_49-07-02_ep040_The_Dude_from_Manhattan.mp3
@@ -1219,9 +1226,9 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Philip Marlowe — The Big Step (50-02-28) — https://archive.org/download/OTRR_Philip_Marlowe_Singles/Philip_Marlowe_50-02-28_ep073_The_Big_Step.mp3
 - Philip Marlowe — The Birds on the Wing (49-11-26) — https://archive.org/download/OTRR_Philip_Marlowe_Singles/Philip_Marlowe_49-11-26_ep060_The_Birds_on_the_Wing.mp3
 - Philip Marlowe — The Black Halo (49-01-15) — https://archive.org/download/OTRR_Philip_Marlowe_Singles/Philip_Marlowe_49-01-15_016_The_Black_Halo.mp3
-- Philip Marlowe — The Bum — https://archive.org/download/OTRR_Philip_Marlowe_Singles/Philip_Marlowe_49-09-03_ep048_The_Bums_Rush.mp3
+- Philip Marlowe — The Bum's Rush (49-09-03) — https://archive.org/download/OTRR_Philip_Marlowe_Singles/Philip_Marlowe_49-09-03_ep048_The_Bums_Rush.mp3
 - Philip Marlowe — The Busy Body (49-06-18) — https://archive.org/download/OTRR_Philip_Marlowe_Singles/Philip_Marlowe_49-06-18_ep038_The_Busy_Body.mp3
-- Philip Marlowe — The Collector — https://archive.org/download/OTRR_Philip_Marlowe_Singles/Philip_Marlowe_50-08-25_ep098_The_Collectors_Item.mp3
+- Philip Marlowe — The Collector's Item (50-08-25) — https://archive.org/download/OTRR_Philip_Marlowe_Singles/Philip_Marlowe_50-08-25_ep098_The_Collectors_Item.mp3
 - Philip Marlowe — The Covered Bridge (50-01-14) — https://archive.org/download/OTRR_Philip_Marlowe_Singles/Philip_Marlowe_50-01-14_ep067_The_Covered_Bridge.mp3
 - Philip Marlowe — The Dancing Hands (49-03-19) — https://archive.org/download/OTRR_Philip_Marlowe_Singles/Philip_Marlowe_49-03-19_ep025_The_Dancing_Hands.mp3
 - Philip Marlowe — The Dark Tunnel (50-08-18) — https://archive.org/download/OTRR_Philip_Marlowe_Singles/Philip_Marlowe_50-08-18_ep097_The_Dark_Tunnel.mp3
@@ -1234,7 +1241,7 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Philip Marlowe — The Fifth Mask (50-09-08) — https://archive.org/download/OTRR_Philip_Marlowe_Singles/Philip_Marlowe_50-09-08_ep100_The_Fifth_Mask.mp3
 - Philip Marlowe — The Final Payment (50-09-15) — https://archive.org/download/OTRR_Philip_Marlowe_Singles/Philip_Marlowe_50-09-15_ep101_The_Final_Payment.mp3
 - Philip Marlowe — The Fine Italian Hand (49-11-05) — https://archive.org/download/OTRR_Philip_Marlowe_Singles/Philip_Marlowe_49-11-05_ep057_The_Fine_Italian_Hand.mp3
-- Philip Marlowe — The Fox — https://archive.org/download/OTRR_Philip_Marlowe_Singles/Philip_Marlowe_50-05-23_ep085_The_Foxs_Tail.mp3
+- Philip Marlowe — The Fox's Tail (50-05-23) — https://archive.org/download/OTRR_Philip_Marlowe_Singles/Philip_Marlowe_50-05-23_ep085_The_Foxs_Tail.mp3
 - Philip Marlowe — The Girl from Pitchfork Corners (50-07-05) — https://archive.org/download/OTRR_Philip_Marlowe_Singles/Philip_Marlowe_50-07-05_ep091_The_Girl_from_Pitchfork_Corners.mp3
 - Philip Marlowe — The Glass Donkey (50-07-28) — https://archive.org/download/OTRR_Philip_Marlowe_Singles/Philip_Marlowe_50-07-28_ep094_The_Glass_Donkey.mp3
 - Philip Marlowe — The Green Flame (49-03-26) — https://archive.org/download/OTRR_Philip_Marlowe_Singles/Philip_Marlowe_49-03-26_ep026_The_Green_Flame.mp3
@@ -1264,13 +1271,13 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Philip Marlowe — The Man on the Roof (50-04-04) — https://archive.org/download/OTRR_Philip_Marlowe_Singles/Philip_Marlowe_50-04-04_ep078_The_Man_on_the_Roof.mp3
 - Philip Marlowe — The Medium Was Rare (51-09-08) — https://archive.org/download/OTRR_Philip_Marlowe_Singles/Philip_Marlowe_51-09-08_ep113_The_Medium_Was_Rare.mp3
 - Philip Marlowe — The Mexican Boat Ride (49-07-30) — https://archive.org/download/OTRR_Philip_Marlowe_Singles/Philip_Marlowe_49-07-30_ep043_Mexican_Boat_Ride.mp3
-- Philip Marlowe — The Monkey — https://archive.org/download/OTRR_Philip_Marlowe_Singles/Philip_Marlowe_50-03-07_ep074_The_Monkeys_Uncle.mp3
+- Philip Marlowe — The Monkey's Uncle (50-03-07) — https://archive.org/download/OTRR_Philip_Marlowe_Singles/Philip_Marlowe_50-03-07_ep074_The_Monkeys_Uncle.mp3
 - Philip Marlowe — The Old Acquaintance (48-12-26) — https://archive.org/download/OTRR_Philip_Marlowe_Singles/Philip_Marlowe_48-12-26_014_The_Old_Acquaintance.mp3
 - Philip Marlowe — The Open Window (49-10-08) — https://archive.org/download/OTRR_Philip_Marlowe_Singles/Philip_Marlowe_49-10-08_ep053_The_Open_Window.mp3
 - Philip Marlowe — The Orange Dog (49-01-22) — https://archive.org/download/OTRR_Philip_Marlowe_Singles/Philip_Marlowe_49-01-22_017_The_Orange_Dog.mp3
 - Philip Marlowe — The Panama Hat (48-10-10) — https://archive.org/download/OTRR_Philip_Marlowe_Singles/Philip_Marlowe_48-10-10_003_The_Panama_Hat.mp3
-- Philip Marlowe — The Parrot — https://archive.org/download/OTRR_Philip_Marlowe_Singles/Philip_Marlowe_50-08-04_ep095_The_Parrots_Bed.mp3
-- Philip Marlowe — The Pelican — https://archive.org/download/OTRR_Philip_Marlowe_Singles/Philip_Marlowe_50-06-28_ep090_The_Pelicans_Roost.mp3
+- Philip Marlowe — The Parrot's Bed (50-08-04) — https://archive.org/download/OTRR_Philip_Marlowe_Singles/Philip_Marlowe_50-08-04_ep095_The_Parrots_Bed.mp3
+- Philip Marlowe — The Pelican's Roost (50-06-28) — https://archive.org/download/OTRR_Philip_Marlowe_Singles/Philip_Marlowe_50-06-28_ep090_The_Pelicans_Roost.mp3
 - Philip Marlowe — The Persian Slippers (48-10-03) — https://archive.org/download/OTRR_Philip_Marlowe_Singles/Philip_Marlowe_48-10-03_002_The_Persian_Slippers.mp3
 - Philip Marlowe — The Pigeons Blood (49-06-11) — https://archive.org/download/OTRR_Philip_Marlowe_Singles/Philip_Marlowe_49-06-11_ep037_The_Pigeons_Blood.mp3
 - Philip Marlowe — The Promise to Pay (49-05-14) — https://archive.org/download/OTRR_Philip_Marlowe_Singles/Philip_Marlowe_49-05-14_ep033_The_Promise_to_Pay.mp3
@@ -1291,16 +1298,16 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Philip Marlowe — The Vital Statistic (50-03-14) — https://archive.org/download/OTRR_Philip_Marlowe_Singles/Philip_Marlowe_50-03-14_ep075_The_Vital_Statistic.mp3
 - Philip Marlowe — The White Carnation (50-09-22) — https://archive.org/download/OTRR_Philip_Marlowe_Singles/Philip_Marlowe_50-09-22_ep102_The_White_Carnation.mp3
 - Philip Marlowe — Trouble Is My Business (47-08-05) — https://archive.org/download/OTRR_Philip_Marlowe_Singles/Philip_Marlowe_47-08-05_008_Trouble_Is_My_Business.mp3
-- Philip Marlowe — Where There — https://archive.org/download/OTRR_Philip_Marlowe_Singles/Philip_Marlowe_48-10-17_004_Where_Theres_a_Will.mp3
+- Philip Marlowe — Where There's a Will (48-10-17) — https://archive.org/download/OTRR_Philip_Marlowe_Singles/Philip_Marlowe_48-10-17_004_Where_Theres_a_Will.mp3
 - Philip Marlowe — Who Shot Waldo (47-06-12) — https://archive.org/download/OTRR_Philip_Marlowe_Singles/Philip_Marlowe_47-06-12_xxx_Who_Shot_Waldo.mp3
-- Philip Marlowe — Young Man — https://archive.org/download/OTRR_Philip_Marlowe_Singles/Philip_Marlowe_51-08-18_ep110_The_Young_Mans_Fancy.mp3
+- Philip Marlowe — Young Man's Fancy (51-08-18) — https://archive.org/download/OTRR_Philip_Marlowe_Singles/Philip_Marlowe_51-08-18_ep110_The_Young_Mans_Fancy.mp3
 - Richard Diamond — A Christmas Carol (49-12-24) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2049-12-24%20%28035%29%20A%20Christmas%20Carol.mp3
 - Richard Diamond — Big Foot Grafton Case (50-08-30) (53-08-30) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2053-08-30%20%28154%29%20The%20Big%20Foot%20Grafton%20Case%20%28AFRTS%29.mp3
 - Richard Diamond — Bill Kirby Murder Case (49-10-29) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2049-10-29%20%28027%29%20Bill%20Kirby%20Murder%20Case.mp3
 - Richard Diamond — Butchers and Protection Racket (50-01-07) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2050-01-07%20%28037%29%20Butchers%20and%20Protection%20Racket.mp3
 - Richard Diamond — Charles Walsh and Bob Wells (49-07-09) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2049-07-09%20%28012%29%20Charles%20Walsh%20and%20Bob%20Wells.mp3
 - Richard Diamond — Christmas Show (51-12-21) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2051-12-21%20%28114%29%20Christmas%20Show.mp3
-- Richard Diamond — Dead Man — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2050-11-08%20%28072%29%20Dead%20Man%27s%20Letter%20%28AFRTS%29.mp3
+- Richard Diamond — Dead Man's Letter (50-11-08) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2050-11-08%20%28072%29%20Dead%20Man%27s%20Letter%20%28AFRTS%29.mp3
 - Richard Diamond — Diamond in the Rough - Barton Case (AFRS) (49-05-01) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2049-05-01%20%28002%29%20Diamond%20In%20the%20Rough%20%28AFRS%29.mp3
 - Richard Diamond — Edna Wolfe Case (50-08-09) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2050-08-09%20%28059%29%20Edna%20Wolfe%20Case.mp3
 - Richard Diamond — Eight Hundred Thousand Dollars In Jewels (50-06-14) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2050-06-14%20%28052%29%20Eighty%20Thousand%20Dollars%20In%20Jewels.mp3
@@ -1322,10 +1329,10 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Richard Diamond — Missing Night Watchman (repeat 50-12-06) (53-06-21) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2053-06-21%20%28144%29%20Missing%20Night%20Watchman.mp3
 - Richard Diamond — Mona Lisa Murder (50-11-15) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2050-11-15%20%28073%29%20Mona%20Lisa%20Murder%20%28AFRTS%29.mp3
 - Richard Diamond — Monsieur Bouchon (51-03-16) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2051-03-16%20%28087%29%20Monsieur%20Bouchon.mp3
-- Richard Diamond — Mr Victor — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2050-01-15%20%28038%29%20Mr%20Victor%27s%20Daughter.mp3
-- Richard Diamond — Mr Walker — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2052-03-28%20%28128%29%20Mr.%20Walker%27s%20Problem.mp3
-- Richard Diamond — Mrs X Can — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2050-06-21%20%28053%29%20Mrs%20X%20Can%27t%20Find%20Her%20Husband.mp3
-- Richard Diamond — Photographer — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2050-03-26%20%28047%29%20Photographer%27s%20Card.mp3
+- Richard Diamond — Mr Victor's Daughter (50-01-15) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2050-01-15%20%28038%29%20Mr%20Victor%27s%20Daughter.mp3
+- Richard Diamond — Mr Walker's Problem (52-03-28) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2052-03-28%20%28128%29%20Mr.%20Walker%27s%20Problem.mp3
+- Richard Diamond — Mrs X Can't Find Her Husband (50-06-21) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2050-06-21%20%28053%29%20Mrs%20X%20Can%27t%20Find%20Her%20Husband.mp3
+- Richard Diamond — Photographer's Card (50-03-26) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2050-03-26%20%28047%29%20Photographer%27s%20Card.mp3
 - Richard Diamond — Private Eye Test (50-03-19) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2050-03-19%20%28046%29%20Private%20Eye%20Test.mp3
 - Richard Diamond — Ralph Chase Case (49-05-15) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2049-05-15%20%28004%29%20Ralph%20Chase%20Case.mp3
 - Richard Diamond — Rene Bennet Protection Case (49-10-22) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2049-10-22%20%28026%29%20Rene%20Bennet%20Protection%20Case.mp3
@@ -1348,7 +1355,7 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Richard Diamond — The Dixon Case (52-03-14) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2052-03-14%20%28126%29%20The%20Dixon%20Case.mp3
 - Richard Diamond — The Eddie Burke Case (52-02-08) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2052-02-08%20%28121%29%20The%20Eddie%20Burke%20Case.mp3
 - Richard Diamond — The Eddie Garrett Case (49-08-27) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2049-08-27%20%28019%29%20The%20Eddie%20Garrett%20Case.mp3
-- Richard Diamond — The Eight O — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2053-06-07%20%28143%29%20The%20Eight%20O%27Clock%20Killer.mp3
+- Richard Diamond — The Eight O'Clock Killer(Repeat of 50-11-22) (53-06-07) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2053-06-07%20%28143%29%20The%20Eight%20O%27Clock%20Killer.mp3
 - Richard Diamond — The Enigma Of Big Ed (52-04-04) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2052-04-04%20%28129%29%20The%20Enigma%20Of%20Big%20Ed.mp3
 - Richard Diamond — The Evans Farmer Case (50-08-23) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2050-08-23%20%28061%29%20The%20Evans%20Farmer%20Case.mp3
 - Richard Diamond — The Fixed Fight Case (50-08-02) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2050-08-02%20%28058%29%20The%20Fixed%20Fight%20Case.mp3
@@ -1561,9 +1568,9 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Suspense 421222 022 Two Sharp Knives (128-44) 28177 29m22s (42-12-22) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20421222%20022%20Two%20Sharp%20Knives%20%28128-44%29%2028177%2029m22s.mp3
 - Suspense 430105 023 Nothing up My Sleeve (128-44) 28439 29m39s (43-01-05) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430105%20023%20Nothing%20up%20My%20Sleeve%20%28128-44%29%2028439%2029m39s.mp3
 - Suspense 430112 024 The Pit and the Pendulum (128-44) 27533 29m01s (43-01-12) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430112%20024%20The%20Pit%20and%20the%20Pendulum%20%28128-44%29%2027533%2029m01s.mp3
-- Suspense 430119 025 The Devil — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430119%20025%20The%20Devil%27s%20Saint%20%28128-44%29%2028654%2030m13s.mp3
+- Suspense 430119 025 The Devil's Saint (128-44) 28654 30m13s (43-01-19) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430119%20025%20The%20Devil%27s%20Saint%20%28128-44%29%2028654%2030m13s.mp3
 - Suspense 430202 027 The Doctor Prescribed Death (128-44) 28376 29m55s (43-02-02) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430202%20027%20The%20Doctor%20Prescribed%20Death%20%28128-44%29%2028376%2029m55s.mp3
-- Suspense 430209 028 The Hangman Won — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430209%20028%20The%20Hangman%20Won%27t%20Wait%20%2864-48%29%207595%2014m50s.mp3
+- Suspense 430209 028 The Hangman Won't Wait (64-48) 7595 14m50s (43-02-09) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430209%20028%20The%20Hangman%20Won%27t%20Wait%20%2864-48%29%207595%2014m50s.mp3
 - Suspense 430216 029 In Fear and Trembling (128-44) 27947 29m05s (43-02-16) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430216%20029%20In%20Fear%20and%20Trembling%20%28128-44%29%2027947%2029m05s.mp3
 - Suspense 430223 030 Will You Walk into My Parlor (64-48) 7504 14m38s (43-02-23) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430223%20030%20Will%20You%20Walk%20into%20My%20Parlor%20%2864-48%29%207504%2014m38s.mp3
 - Suspense 430323 034 The Customers Like Murder (64-44) 14113 28m44s (43-03-23) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430323%20034%20The%20Customers%20Like%20Murder%20%2864-44%29%2014113%2028m44s.mp3
@@ -1576,18 +1583,18 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Suspense 430511 041 Mr Markham, Antique Dealer (128-44) 27776 28m56s (43-05-11) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430511%20041%20Mr%20Markham%2C%20Antique%20Dealer%20%28128-44%29%2027776%2028m56s.mp3
 - Suspense 430518 042 The ABC Murders (128-44) 27245 28m22s (43-05-18) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430518%20042%20The%20ABC%20Murders%20%28128-44%29%2027245%2028m22s.mp3
 - Suspense 430525 043 Sorry, Wrong Number (128-44) 28100 29m17s (43-05-25) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430525%20043%20Sorry%2C%20Wrong%20Number%20%28128-44%29%2028100%2029m17s.mp3
-- Suspense 430601 044 Banquo — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430601%20044%20Banquo%27s%20Chair%20%28128-44%29%2027639%2029m08s.mp3
+- Suspense 430601 044 Banquo's Chair (128-44) 27639 29m08s (43-06-01) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430601%20044%20Banquo%27s%20Chair%20%28128-44%29%2027639%2029m08s.mp3
 - Suspense 430608 045 Five Canaries in the Room (128-44) 28730 30m18s (43-06-08) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430608%20045%20Five%20Canaries%20in%20the%20Room%20%28128-44%29%2028730%2030m18s.mp3
 - Suspense 430615 046 Last Night (128-44) 27985 29m30s (43-06-15) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430615%20046%20Last%20Night%20%28128-44%29%2027985%2029m30s.mp3
 - Suspense 430622 047 The Man Without a Body (128-44) 28584 30m09s (43-06-22) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430622%20047%20The%20Man%20Without%20a%20Body%20%28128-44%29%2028584%2030m09s.mp3
-- Suspense 430629 048 Uncle Henry — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430629%20048%20Uncle%20Henry%27s%20Rosebush%20%28131-44%29%2026911%2027m58s.mp3
+- Suspense 430629 048 Uncle Henry's Rosebush (131-44) 26911 27m58s (43-06-29) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430629%20048%20Uncle%20Henry%27s%20Rosebush%20%28131-44%29%2026911%2027m58s.mp3
 - Suspense 430706 049 The White Rose Murders (128-44) 28211 29m45s (43-07-06) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430706%20049%20The%20White%20Rose%20Murders%20%28128-44%29%2028211%2029m45s.mp3
 - Suspense 430720 050 Murder Goes for a Swim (128-44) 28663 30m14s (43-07-20) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430720%20050%20Murder%20Goes%20for%20a%20Swim%20%28128-44%29%2028663%2030m14s.mp3
 - Suspense 430727 051 The Last Letter of Dr Bronson (128-44) 28454 29m40s (43-07-27) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430727%20051%20The%20Last%20Letter%20of%20Dr%20Bronson%20%28128-44%29%2028454%2029m40s.mp3
 - Suspense 430803 052 A Friend to Alexander (128-44) 28548 30m06s (43-08-03) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430803%20052%20A%20Friend%20to%20Alexander%20%28128-44%29%2028548%2030m06s.mp3
 - Suspense 430810 053 The Fountain Plays (128-44) 29441 30m43s (43-08-10) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430810%20053%20The%20Fountain%20Plays%20%28128-44%29%2029441%2030m43s.mp3
 - Suspense 430821 054 Sorry, Wrong Number (128-44) 27529 28m41s (43-08-21) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430821%20054%20Sorry%2C%20Wrong%20Number%20%28128-44%29%2027529%2028m41s.mp3
-- Suspense 430828 055 The King — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430828%20055%20The%20King%27s%20Birthday%20%28128-44%29%2027258%2028m23s.mp3
+- Suspense 430828 055 The King's Birthday (128-44) 27258 28m23s (43-08-28) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430828%20055%20The%20King%27s%20Birthday%20%28128-44%29%2027258%2028m23s.mp3
 - Suspense 430902 056 The Singing Walls (128-44) 28548 30m06s (43-09-02) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430902%20056%20The%20Singing%20Walls%20%28128-44%29%2028548%2030m06s.mp3
 - Suspense 430909 057 Marry for Murder (134-44) 28996 29m28s (43-09-09) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430909%20057%20Marry%20for%20Murder%20%28134-44%29%2028996%2029m28s.mp3
 - Suspense 430916 058 The Cross-Eyed Bear (128-44) 28680 30m15s (43-09-16) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430916%20058%20The%20Cross-Eyed%20Bear%20%28128-44%29%2028680%2030m15s.mp3
@@ -1624,8 +1631,8 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Suspense 440427 089 Death Went Along for the Ride (128-44) 28425 29m59s (44-04-27) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440427%20089%20Death%20Went%20Along%20for%20the%20Ride%20%28128-44%29%2028425%2029m59s.mp3
 - Suspense 440504 090 The Dark Tower (128-44) 28626 30m11s (44-05-04) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440504%20090%20The%20Dark%20Tower%20%28128-44%29%2028626%2030m11s.mp3
 - Suspense 440511 091 The Visitor (128-44) 28393 29m36s (44-05-11) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440511%20091%20The%20Visitor%20%28128-44%29%2028393%2029m36s.mp3
-- Suspense 440518 092 Donovan — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440518%20092%20Donovan%27s%20Brain%2C%20Part%20One%20%28128-44%29%2028258%2029m48s.mp3
-- Suspense 440525 093 Donovan — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440525%20093%20Donovan%27s%20Brain%2C%20Part%20Two%20%28128-44%29%2028118%2029m39s.mp3
+- Suspense 440518 092 Donovan's Brain, Part One (128-44) 28258 29m48s (44-05-18) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440518%20092%20Donovan%27s%20Brain%2C%20Part%20One%20%28128-44%29%2028258%2029m48s.mp3
+- Suspense 440525 093 Donovan's Brain, Part Two (128-44) 28118 29m39s (44-05-25) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440525%20093%20Donovan%27s%20Brain%2C%20Part%20Two%20%28128-44%29%2028118%2029m39s.mp3
 - Suspense 440601 094 Fugue in C-Minor (128-44) 28362 29m54s Rehearsal (44-06-01) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440601%20094%20Fugue%20in%20C-Minor%20%28128-44%29%2028362%2029m54s%20Rehearsal.mp3
 - Suspense 440608 095 Case History on Edgar Lowndes (128-44) 28494 30m03s (44-06-08) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440608%20095%20Case%20History%20on%20Edgar%20Lowndes%20%28128-44%29%2028494%2030m03s.mp3
 - Suspense 440615 096 A Friend to Alexander (128-44) 25656 27m01s (44-06-15) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440615%20096%20A%20Friend%20to%20Alexander%20%28128-44%29%2025656%2027m01s.mp3
@@ -1635,15 +1642,15 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Suspense 440713 100 The Beast Must Die (128-44) 28579 30m08s (44-07-13) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440713%20100%20The%20Beast%20Must%20Die%20%28128-44%29%2028579%2030m08s.mp3
 - Suspense 440720 101 Of Maestro and Man (128-44) 28749 30m19s (44-07-20) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440720%20101%20Of%20Maestro%20and%20Man%20%28128-44%29%2028749%2030m19s.mp3
 - Suspense 440727 102 The Black Shawl (128-44) 28167 29m42s (44-07-27) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440727%20102%20The%20Black%20Shawl%20%28128-44%29%2028167%2029m42s.mp3
-- Suspense 440803 103 Banquo — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440803%20103%20Banquo%27s%20Chair%20%28128-44%29%2028427%2029m59s.mp3
+- Suspense 440803 103 Banquo's Chair (128-44) 28427 29m59s (44-08-03) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440803%20103%20Banquo%27s%20Chair%20%28128-44%29%2028427%2029m59s.mp3
 - Suspense 440810 104 The Man Who Knew How (128-44) 28640 29m52s (44-08-10) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440810%20104%20The%20Man%20Who%20Knew%20How%20%28128-44%29%2028640%2029m52s.mp3
 - Suspense 440817 105 The Diary of Sophronia Winters (128-44) 28372 29m55s (44-08-17) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440817%20105%20The%20Diary%20of%20Sophronia%20Winters%20%28128-44%29%2028372%2029m55s.mp3
-- Suspense 440824 106 Actor — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440824%20106%20Actor%27s%20Blood%20%28128-44%29%2028185%2029m43s.mp3
+- Suspense 440824 106 Actor's Blood (128-44) 28185 29m43s (44-08-24) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440824%20106%20Actor%27s%20Blood%20%28128-44%29%2028185%2029m43s.mp3
 - Suspense 440831 107 Black Path of Fear (128-44) 28432 29m59s (44-08-31) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440831%20107%20Black%20Path%20of%20Fear%20%28128-44%29%2028432%2029m59s.mp3
 - Suspense 440907 108 Voyage Through Darkness (64-44) 14669 29m55s (44-09-07) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440907%20108%20Voyage%20Through%20Darkness%20%2864-44%29%2014669%2029m55s.mp3
-- Suspense 440914 109 You — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440914%20109%20You%27ll%20Never%20See%20Me%20Again%20%28128-44%29%2028674%2030m14s.mp3
+- Suspense 440914 109 You'll Never See Me Again (128-44) 28674 30m14s (44-09-14) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440914%20109%20You%27ll%20Never%20See%20Me%20Again%20%28128-44%29%2028674%2030m14s.mp3
 - Suspense 440921 110 The Bluebeard of Bellac (128-44) 28568 30m08s (44-09-21) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440921%20110%20The%20Bluebeard%20of%20Bellac%20%28128-44%29%2028568%2030m08s.mp3
-- Suspense 440928 111 The Man Who Couldn — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440928%20111%20The%20Man%20Who%20Couldn%27t%20Lose%20%2864-48%29%2014286%2029m06s.mp3
+- Suspense 440928 111 The Man Who Couldn't Lose (64-48) 14286 29m06s (44-09-28) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440928%20111%20The%20Man%20Who%20Couldn%27t%20Lose%20%2864-48%29%2014286%2029m06s.mp3
 - Suspense 441005 112 Dateline - Lisbon (128-44) 28573 29m48s (44-10-05) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20441005%20112%20Dateline%20-%20Lisbon%20%28128-44%29%2028573%2029m48s.mp3
 - Suspense 441012 113 The Merry Widower (128-44) 28236 29m23s (44-10-12) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20441012%20113%20The%20Merry%20Widower%20%28128-44%29%2028236%2029m23s.mp3
 - Suspense 441019 114 Eve (128-48) 29169 30m46s AFRS (44-10-19) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20441019%20114%20Eve%20%28128-48%29%2029169%20%2030m46s%20AFRS.mp3
@@ -1659,15 +1666,15 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Suspense 450104 124 I Had an Alibi (128-44) 28332 29m52s (45-01-04) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20450104%20124%20I%20Had%20an%20Alibi%20%28128-44%29%2028332%2029m52s.mp3
 - Suspense 450111 125 Drive-In (64-44) 14488 29m31s (45-01-11) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20450111%20125%20Drive-In%20%2864-44%29%2014488%2029m31s.mp3
 - Suspense 450118 126 To Find Help (128-44) 23698 24m56s AFRS (45-01-18) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20450118%20126%20To%20Find%20Help%20%28128-44%29%2023698%20%2024m56s%20AFRS.mp3
-- Suspense 450125 127 Drury — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20450125%20127%20Drury%27s%20Bones%20%28128-44%29%2027879%2029m02s.mp3
+- Suspense 450125 127 Drury's Bones (128-44) 27879 29m02s (45-01-25) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20450125%20127%20Drury%27s%20Bones%20%28128-44%29%2027879%2029m02s.mp3
 - Suspense 450201 128 The Most Dangerous Game (128-44) 27980 29m30s (45-02-01) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20450201%20128%20The%20Most%20Dangerous%20Game%20%28128-44%29%2027980%2029m30s.mp3
 - Suspense 450208 129 Tale of Two Sisters (128-44) 28045 29m34s (45-02-08) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20450208%20129%20Tale%20of%20Two%20Sisters%20%28128-44%29%2028045%2029m34s.mp3
 - Suspense 450215 130 Sell Me Your Life (128-44) 28298 29m29s (45-02-15) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20450215%20130%20Sell%20Me%20Your%20Life%20%28128-44%29%2028298%2029m29s.ogg
 - Suspense 450222 131 John Barbie and Son (128-44) 28009 29m32s (45-02-22) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20450222%20131%20John%20Barbie%20and%20Son%20%28128-44%29%2028009%2029m32s.mp3
 - Suspense 450301 132 My Wife Geraldine (128-44) 28270 29m27s (45-03-01) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20450301%20132%20My%20Wife%20Geraldine%20%28128-44%29%2028270%2029m27s.mp3
-- Suspense 450308 133 Love — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20450308%20133%20Love%27s%20Lovely%20Counterfeit%20%28128-44%29%2028599%2029m48s.mp3
+- Suspense 450308 133 Love's Lovely Counterfeit (128-44) 28599 29m48s (45-03-08) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20450308%20133%20Love%27s%20Lovely%20Counterfeit%20%28128-44%29%2028599%2029m48s.mp3
 - Suspense 450315 134 Cricket (131-44) 28431 29m30s (45-03-15) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20450315%20134%20Cricket%20%28131-44%29%2028431%2029m30s.mp3
-- Suspense 450322 135 Heart — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20450322%20135%20Heart%27s%20Desire%20%2864-44%29%2014505%2029m34s.mp3
+- Suspense 450322 135 Heart's Desire (64-44) 14505 29m34s (45-03-22) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20450322%20135%20Heart%27s%20Desire%20%2864-44%29%2014505%2029m34s.mp3
 - Suspense 450329 136 The Taming of the Beast (128-44) 28406 29m37s (45-03-29) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20450329%20136%20The%20Taming%20of%20the%20Beast%20%28128-44%29%2028406%2029m37s.mp3
 - Suspense 450405 137 A Guy Gets Lonely (128-44) 28240 29m26s (45-04-05) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20450405%20137%20A%20Guy%20Gets%20Lonely%20%28128-44%29%2028240%2029m26s.mp3
 - Suspense 450419 138 Pearls Are a Nuisance (128-44) 28522 30m05s (45-04-19) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20450419%20138%20Pearls%20Are%20a%20Nuisance%20%28128-44%29%2028522%2030m05s.mp3
@@ -1701,7 +1708,7 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Suspense 451115 167 Murder off Key (64-44) 14688 29m58s (45-11-15) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20451115%20167%20Murder%20off%20Key%20%2864-44%29%2014688%2029m58s.mp3
 - Suspense 451122 168 Nineteen Deacon Street (64-44) 14528 29m37s (45-11-22) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20451122%20168%20Nineteen%20Deacon%20Street%20%2864-44%29%2014528%2029m37s.mp3
 - Suspense 451129 169 A Week Ago Wednesday (132-44) 28875 29m39s (45-11-29) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20451129%20169%20A%20Week%20Ago%20Wednesday%20%28132-44%29%2028875%2029m39s.mp3
-- Suspense 451206 170 I Won — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20451206%20170%20I%20Won%27t%20Take%20a%20Minute%20%2864-44%29%2014189%2028m54s.mp3
+- Suspense 451206 170 I Won't Take a Minute (64-44) 14189 28m54s (45-12-06) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20451206%20170%20I%20Won%27t%20Take%20a%20Minute%20%2864-44%29%2014189%2028m54s.mp3
 - Suspense 451213 171 The Argyle Album (64-44) 14867 31m01s (45-12-13) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20451213%20171%20The%20Argyle%20Album%20%2864-44%29%2014867%2031m01s.mp3
 - Suspense 451220 172 Double Entry (128-48) 24492 25m47s AFRS (45-12-20) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20451220%20172%20Double%20Entry%20%28128-48%29%2024492%20%2025m47s%20AFRS.mp3
 - Suspense 451227 173 Pink Camellias (128-44) 28646 30m13s (45-12-27) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20451227%20173%20Pink%20Camellias%20%28128-44%29%2028646%2030m13s.mp3
@@ -1752,7 +1759,7 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Tales of the Texas Rangers — Drive-In (last Show) (1952-09-14) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_09_14_95_Drive_In.mp3
 - Tales of the Texas Rangers — Ex-Con (1952-06-29) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_06_29_84_Ex_Con.MP3
 - Tales of the Texas Rangers — Finger Man (1952-07-13) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_07_13_86_Finger_Man.mp3
-- Tales of the Texas Rangers — Fool — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_08_19_07_Fools_Gold.mp3
+- Tales of the Texas Rangers — Fool's Gold (1950-08-19) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_08_19_07_Fools_Gold.mp3
 - Tales of the Texas Rangers — Fugitive Trail (1951-10-21) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_10_21_49_Fugitive_Trail.mp3
 - Tales of the Texas Rangers — Hanging by a Thread (1950-11-26) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_11_26_20_Hanging_By_A_Thread.mp3
 - Tales of the Texas Rangers — Helping Hand (1951-11-04) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_11_04_51_Helping_Hand.mp3
@@ -1762,7 +1769,7 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Tales of the Texas Rangers — Jailbird (1952-05-25) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_05_25_79_Jailbird.mp3
 - Tales of the Texas Rangers — Joy Ride (1951-05-27) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_05_27_45_Joy_Ride.mp3
 - Tales of the Texas Rangers — Just a Number (audition) (1950-04-19) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_04_19_00_Just_A_Number_AUDITION.MP3
-- Tales of the Texas Rangers — Killer — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_12_30_59_Killers_Crop.mp3
+- Tales of the Texas Rangers — Killer's Crop (1951-12-30) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_12_30_59_Killers_Crop.mp3
 - Tales of the Texas Rangers — Knock-Out (1952-06-22) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_06_22_83_Knockout.MP3
 - Tales of the Texas Rangers — Last Stop (1952-08-10) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_08_10_90_Last_Stop.mp3
 - Tales of the Texas Rangers — Little Sister (1952-05-04) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_05_04_76_Little_Sister.mp3
@@ -1791,7 +1798,7 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Tales of the Texas Rangers — The Boomerang (1952-07-06) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_07_06_85_The_Boomerang.mp3
 - Tales of the Texas Rangers — The Broken Spur (1950-08-12) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_08_12_06_The_Broken_Spur.mp3
 - Tales of the Texas Rangers — The Cactus Pear (1950-12-17) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_12_17_23_The_Cactus_Pear.mp3
-- Tales of the Texas Rangers — The Devil — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_12_31_25_The_Devils_Share.mp3
+- Tales of the Texas Rangers — The Devil's Share (1950-12-31) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_12_31_25_The_Devils_Share.mp3
 - Tales of the Texas Rangers — The Hatchet (1951-02-11) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_02_11_31_The_Hatchet.mp3
 - Tales of the Texas Rangers — The Hitch-Hiker (1952-02-10) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_02_10_65_Hitchhiker.mp3
 - Tales of the Texas Rangers — The Lucky Dollar (1950-12-10) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_12_10_22_The_Lucky_Dollar.mp3
@@ -1810,27 +1817,27 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Tales of the Texas Rangers — Wheel Chair Killings (1951-10-07) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_10_07_47_The_Wheelchair_Killer.mp3
 - Tales of the Texas Rangers — Wild Crop (1951-11-18) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_11_18_53_Wild_Crop.mp3
 - The Absolute Truth About Muhammad inthe Bible With Arabic Subtitles 512kb — https://archive.org/download/The_Absolute_Truth_About_Muhammad_in_the_Bible_With_Arabic_Subtitles/The_Absolute_Truth_About_Muhammad_inthe_Bible_With_Arabic_Subtitles_512kb.mp4
-- The City at World — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_01_hamilton.mp3
-- The City at World — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_02_hamilton.mp3
-- The City at World — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_03_hamilton.mp3
-- The City at World — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_04_hamilton.mp3
-- The City at World — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_05_hamilton.mp3
-- The City at World — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_06_hamilton.mp3
-- The City at World — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_07_hamilton.mp3
-- The City at World — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_08_hamilton.mp3
-- The City at World — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_09_hamilton.mp3
-- The City at World — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_10_hamilton.mp3
-- The City at World — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_11_hamilton.mp3
-- The City at World — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_12_hamilton.mp3
-- The City at World — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_13_hamilton.mp3
-- The City at World — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_14_hamilton.mp3
-- The City at World — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_15_hamilton.mp3
-- The City at World — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_16_hamilton.mp3
-- The City at World — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_17_hamilton.mp3
-- The City at World — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_18_hamilton.mp3
-- The City at World — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_19_hamilton.mp3
-- The City at World — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_20_hamilton.mp3
-- The City at World — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_21_hamilton.mp3
+- The City at World's End — Chapter 01 - cataclysm — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_01_hamilton.mp3
+- The City at World's End — Chapter 02 - the incredible — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_02_hamilton.mp3
+- The City at World's End — Chapter 03 - dying planet — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_03_hamilton.mp3
+- The City at World's End — Chapter 04 - dead city — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_04_hamilton.mp3
+- The City at World's End — Chapter 05 - in the red dawn — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_05_hamilton.mp3
+- The City at World's End — Chapter 06 - caravan into tomorrow — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_06_hamilton.mp3
+- The City at World's End — Chapter 07 - under the dome — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_07_hamilton.mp3
+- The City at World's End — Chapter 08 - Middletown calling! — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_08_hamilton.mp3
+- The City at World's End — Chapter 09 - out of the silence — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_09_hamilton.mp3
+- The City at World's End — Chapter 10 - from the stars — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_10_hamilton.mp3
+- The City at World's End — Chapter 11 - revelation — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_11_hamilton.mp3
+- The City at World's End — Chapter 12 - crisis — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_12_hamilton.mp3
+- The City at World's End — Chapter 13 - embattled city — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_13_hamilton.mp3
+- The City at World's End — Chapter 14 - last appeal — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_14_hamilton.mp3
+- The City at World's End — Chapter 15 - mission for Earth — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_15_hamilton.mp3
+- The City at World's End — Chapter 16 - on Vega — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_16_hamilton.mp3
+- The City at World's End — Chapter 17 - judgment of the stars — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_17_hamilton.mp3
+- The City at World's End — Chapter 18 - fatefull return — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_18_hamilton.mp3
+- The City at World's End — Chapter 19 - Middletown decides — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_19_hamilton.mp3
+- The City at World's End — Chapter 20 - appointment with destiny — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_20_hamilton.mp3
+- The City at World's End — Chapter 21 - waking world — https://archive.org/download/city_worlds_end_1203_librivox/cityatworldsend_21_hamilton.mp3
 - The Whistler — 18 Bowden Lane (47-05-12) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-05-12_ep259_18_Bowden_Lane.mp3
 - The Whistler — 44-10-23 Death Carries A Lunch Kit — https://archive.org/download/OTRR_Whistler_Singles/Whistler_44-10-23_ep127_Death_Carries_a_Lunch_Kit_epharp_in_opening.mp3
 - The Whistler — A Brief Pause For Murder (East Coast Broadcast) (46-09-11) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_46-09-11_epxxx_A_Brief_Pause_For_Murder_epEast_Coast_Broadcast.mp3
@@ -2064,15 +2071,15 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - The Whistler — What Makes a Murderer (48-04-07) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-04-07_ep306_What_Makes_a_Murderer.mp3
 - The Whistler — Whirlpool (48-10-10) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-10-10_ep331_Whirlpool.mp3
 - The Whistler — Whispered Verdict (47-08-13) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-08-13_ep272_Whispered_Verdict.mp3
-- The Whistler — Whistler 43-02-21 ep041 Fool — https://archive.org/download/OTRR_Whistler_Singles/Whistler_43-02-21_ep041_Fools_Gold.mp3
-- The Whistler — Whistler 45-01-08 ep137 The Body Wouldn — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-01-08_ep137_The_Body_Wouldnt_Stay_in_the_Bay.mp3
-- The Whistler — Whistler 45-04-30 ep153 The Master — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-04-30_ep153_The_Masters_Tree.mp3
-- The Whistler — Whistler 45-08-27 ep170 I — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-08-27_ep170_Ill_Trade_You_Murder.mp3
-- The Whistler — Whistler 46-03-18 ep199 The Master — https://archive.org/download/OTRR_Whistler_Singles/Whistler_46-03-18_ep199_The_Masters_Touch.mp3
-- The Whistler — Whistler 47-02-17 ep247 A Woman — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-02-17_ep247_A_Womans_Privilege.mp3
-- The Whistler — Whistler 47-04-07 ep254 The Sheriff — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-04-07_ep254_The_Sheriffs_Assistant.mp3
-- The Whistler — Whistler 47-06-02 ep262 Caesar — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-06-02_ep262_Caesars_Wife.mp3
-- The Whistler — Whistler 48-09-15 ep327 Uncle Ben — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-09-15_ep327_Uncle_Bens_Widow.mp3
+- The Whistler — Whistler 43-02-21 ep041 Fool's Gold — https://archive.org/download/OTRR_Whistler_Singles/Whistler_43-02-21_ep041_Fools_Gold.mp3
+- The Whistler — Whistler 45-01-08 ep137 The Body Wouldn't Stay in the Bay — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-01-08_ep137_The_Body_Wouldnt_Stay_in_the_Bay.mp3
+- The Whistler — Whistler 45-04-30 ep153 The Master's Tree — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-04-30_ep153_The_Masters_Tree.mp3
+- The Whistler — Whistler 45-08-27 ep170 I'll Trade You Murder — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-08-27_ep170_Ill_Trade_You_Murder.mp3
+- The Whistler — Whistler 46-03-18 ep199 The Master's Touch — https://archive.org/download/OTRR_Whistler_Singles/Whistler_46-03-18_ep199_The_Masters_Touch.mp3
+- The Whistler — Whistler 47-02-17 ep247 A Woman's Privilege — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-02-17_ep247_A_Womans_Privilege.mp3
+- The Whistler — Whistler 47-04-07 ep254 The Sheriff's Assistant — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-04-07_ep254_The_Sheriffs_Assistant.mp3
+- The Whistler — Whistler 47-06-02 ep262 Caesar's Wife — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-06-02_ep262_Caesars_Wife.mp3
+- The Whistler — Whistler 48-09-15 ep327 Uncle Ben's Widow — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-09-15_ep327_Uncle_Bens_Widow.mp3
 - The Whistler — Windfall (44-12-18) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_44-12-18_ep134_Windfall.mp3
 - The Whistler — Windfall (47-05-05) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-05-05_ep258_Windfall.mp3
 - The Whistler — With My Own Eyes (46-12-09) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_46-12-09_ep237_With_My_Own_Eyes.mp3
@@ -2084,9 +2091,9 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - X Minus One 55-05-15 (004) Universe — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-05-15004Universe.mp3
 - X Minus One 55-05-22 (005) Knock — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-05-22005Knock.mp3
 - X Minus One 55-05-29 (006) The Man in the Moon — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-05-29006TheManInTheMoon.mp3
-- X Minus One 55-06-05 (007) Perigi — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-06-05007PerigisWonderfulDolls.mp3
+- X Minus One 55-06-05 (007) Perigi's Wonderful Dolls — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-06-05007PerigisWonderfulDolls.mp3
 - X Minus One 55-07-07 (008) The Green Hills of Earth — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-07-07008TheGreenHillsOfEarth.mp3
-- X Minus One 55-07-14 (009) Dr Grimshaw — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-07-14009DrGrimshawsSanitarium.mp3
+- X Minus One 55-07-14 (009) Dr Grimshaw's Sanitarium — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-07-14009DrGrimshawsSanitarium.mp3
 - X Minus One 55-07-21 (010) Nightmare — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-07-21010Nightmare.mp3
 - X Minus One 55-07-28 (011) The Embassy — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-07-28011TheEmbassy.mp3
 - X Minus One 55-08-04 (012) The Veldt — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-08-04012TheVeldt.mp3
@@ -2098,7 +2105,7 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - X Minus One 55-09-15 (018) The Castaways — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-09-15018TheCastaways.mp3
 - X Minus One 55-09-22 (019) And the Moon Be Still as Bright — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-09-22019AndTheMoonBeStillAsBright.mp3
 - X Minus One 55-10-06 (020) First Contact — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-10-06020FirstContact.mp3
-- X Minus One 55-10-20 (021) Child — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-10-20021ChildsPlay.mp3
+- X Minus One 55-10-20 (021) Child's Play — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-10-20021ChildsPlay.mp3
 - X Minus One 55-10-27 (022) Requiem — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-10-27022Requiem.mp3
 - X Minus One 55-11-03 (023) Hello, Tomorrow — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-11-03023HelloTomorrow.mp3
 - X Minus One 55-11-10 (024) Dwellers in Silence — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-11-10024DwellersInSilence.mp3
@@ -2111,7 +2118,7 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - X Minus One 55-12-28 (031) A Logic Named Joe — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-12-28031ALogicNamedJoe.mp3
 - X Minus One 56-01-04 (032) The Roads Must Roll — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-01-04032TheRoadsMustRoll.mp3
 - X Minus One 56-01-11 (033) Time and Time Again — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-01-11033TimeAndTimeAgain.mp3
-- X Minus One 56-01-18 (034) Perigi — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-01-18034PerigisWonderfulDolls.mp3
+- X Minus One 56-01-18 (034) Perigi's Wonderful Dolls — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-01-18034PerigisWonderfulDolls.mp3
 - X Minus One 56-01-25 (035) The Parade — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-01-25035TheParade.mp3
 - X Minus One 56-02-01 (036) The Cave of Night — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-02-01036TheCaveOfNight.mp3
 - X Minus One 56-02-08 (037) C-Chute — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-02-08037C-chute.mp3
@@ -2149,7 +2156,7 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - X Minus One 56-10-03 (069) Protective Mimicry — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-10-03069ProtectiveMimicry.mp3
 - X Minus One 56-10-10 (070) Colony — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-10-10070Colony.mp3
 - X Minus One 56-10-17 (071) Soldier Boy — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-10-17071SoldierBoy.mp3
-- X Minus One 56-10-24 (072) Pictures Don — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-10-24072PicturesDontLie.mp3
+- X Minus One 56-10-24 (072) Pictures Don't Lie — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-10-24072PicturesDontLie.mp3
 - X Minus One 56-10-31 (073) Sam, This Is You — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-10-31073SamThisIsYou.mp3
 - X Minus One 56-11-07 (074) Appointment in Tomorrow — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-11-07074AppointmentInTomorrow.mp3
 - X Minus One 56-11-21 (076) Chain of Command — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-11-21076ChainOfCommand.mp3
@@ -2162,7 +2169,7 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - X Minus One 57-01-16 (084) The Girls from Earth — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-01-16084TheGirlsFromEarth.mp3
 - X Minus One 57-01-23 (085) Open Warfare — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-01-23085OpenWarfare.mp3
 - X Minus One 57-01-30 (086) Caretaker — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-01-30086Caretaker.mp3
-- X Minus One 57-02-06 (087) Venus Is a Man — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-02-06087VenusIsAMansWorld.mp3
+- X Minus One 57-02-06 (087) Venus Is a Man's World — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-02-06087VenusIsAMansWorld.mp3
 - X Minus One 57-02-13 (088) The Trap — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-02-13088TheTrap.mp3
 - X Minus One 57-02-20 (089) Field Study — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-02-20089FieldStudy.mp3
 - X Minus One 57-02-27 (090) Real Gone — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-02-27090RealGone.mp3
@@ -2173,7 +2180,7 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - X Minus One 57-04-03 (095) Martian Sam — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-04-03095MartianSam.mp3
 - X Minus One 57-04-10 (096) Something for Nothing — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-04-10096SomethingForNothing.mp3
 - X Minus One 57-04-17 (097) The Discovery of Morniel Mathaway — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-04-17097TheDiscoveryOfMornielMathaway.mp3
-- X Minus One 57-04-24 (098) Man — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-04-24098MansBestFriend.mp3
+- X Minus One 57-04-24 (098) Man's Best Friend — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-04-24098MansBestFriend.mp3
 - X Minus One 57-06-20 (099) Inside Story — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-06-20099InsideStory.mp3
 - X Minus One 57-06-27 (100) The Category Inventor — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-06-27100TheCategoryInventor.mp3
 - X Minus One 57-07-04 (101) Skulking Permit — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-07-04101SkulkingPermit.mp3
