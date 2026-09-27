@@ -3,122 +3,784 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=5.0,user-scalable=yes">
-<title>CLINE CLASSIC TV</title>
+<title>CLINE CLASSIC TV | MASTER REBUILD (4:3 EDITION)</title>
 <style>
-:root{--green:#00ff66}*{box-sizing:border-box}
-html,body{margin:0;background:#0a0a0a;color:#eee;font-family:"Courier New",Courier,monospace;min-height:100%;overflow:auto}
-body{display:flex;align-items:center;justify-content:center;padding:12px}
-button,input,select{font:inherit}button,input{touch-action:manipulation}
-#cabinet{width:min(96vw,1368px);background:#0f0f0f;border:16px solid #0a0a0a;border-radius:28px;box-shadow:0 60px 100px #000,inset 0 0 140px #000;display:grid;grid-template-columns:minmax(260px,1fr) 280px;gap:12px;padding:24px;position:relative}
-.glass-tube{width:100%;aspect-ratio:4/3;background:#000;border-radius:14px;overflow:hidden;border:14px solid #1c1c1c;box-shadow:inset 0 0 90px #000,0 0 50px #000;position:relative;align-self:center}
-video{width:100%;height:100%;object-fit:contain;background:#000;position:relative;z-index:3}
+:root{--green:#00ff66}*{box-sizing:border-box}body{background:#0a0a0a;margin:0;overflow:hidden;height:100vh;width:100vw;display:flex;flex-direction:column;align-items:center;justify-content:center;font-family:"Courier New",Courier,monospace}
+#cabinet{width:min(96vw,1200px);height:min(92vh,900px);max-width:100%;max-height:100%;background:#0f0f0f;border:clamp(18px,4vw,28px) solid #0a0a0a;border-radius:28px;box-shadow:0 60px 100px #000,inset 0 0 140px #000;display:flex;flex-direction:column;padding:clamp(20px,5vw,50px) clamp(30px,6vw,80px);position:relative;overflow:hidden;align-items:center}
+.glass-tube{width:100%;height:auto;aspect-ratio:4/3;max-height:60vh;background:#000;border-radius:14px;overflow:hidden;border:clamp(14px,3vw,22px) solid #1c1c1c;box-shadow:inset 0 0 90px #000,0 0 50px #000;margin-bottom:clamp(12px,3vw,24px);display:flex;align-items:center;justify-content:center;position:relative}
+#audio-stage{position:absolute;inset:0;display:none;overflow:hidden;background:radial-gradient(circle at 50% 50%,rgba(0,80,60,.24),transparent 34%),radial-gradient(circle at 50% 50%,#06120f 0%,#020706 58%,#000 100%);z-index:2}#audio-stage.active{display:block}#audio-scope{width:100%;height:100%;display:block}
+#radio-mode-label{position:absolute;left:50%;bottom:86px;transform:translateX(-50%);color:rgba(0,255,102,.82);font-size:clamp(9px,2.2vw,13px);font-weight:bold;letter-spacing:.16em;text-shadow:0 0 8px rgba(0,255,102,.7);pointer-events:none;white-space:nowrap;z-index:6}
+#osd{position:absolute;top:clamp(20px,5vw,35px);left:clamp(20px,5vw,35px);color:var(--green);font-size:clamp(11px,2.6vw,17px);font-weight:bold;text-transform:uppercase;text-shadow:2px 2px 0 #000,0 0 8px var(--green);z-index:40;pointer-events:none;opacity:0;transition:opacity .5s ease-in-out;line-height:1.3;max-width:90%}
 #crt-overlay{position:absolute;inset:0;background:linear-gradient(rgba(18,16,16,0) 50%,rgba(0,0,0,.25) 50%),linear-gradient(90deg,rgba(255,0,0,.06),rgba(0,255,0,.02),rgba(0,0,255,.06));background-size:100% 4px,3px 100%;box-shadow:inset 0 0 80px rgba(0,0,0,.9),inset 0 0 20px rgba(255,255,255,.1);border-radius:10px;pointer-events:none;z-index:30}
-#static-overlay{position:absolute;inset:0;background:#ddd;opacity:0;z-index:20;pointer-events:none}
-#static-overlay.active{opacity:.14;animation:static .08s infinite}
-@keyframes static{0%{transform:translate(0)}25%{transform:translate(-3px,2px)}50%{transform:translate(2px,-2px)}75%{transform:translate(3px,1px)}100%{transform:translate(0)}}
-#osd{position:absolute;top:12px;left:12px;color:var(--green);font-size:clamp(12px,2vw,17px);font-weight:bold;text-shadow:2px 2px #000,0 0 8px var(--green);z-index:40;pointer-events:none;opacity:0;transition:opacity .25s;max-width:90%}
-#osd.show{opacity:1}
-.right-panel{background:#000;border:1px solid #222;border-radius:10px;padding:12px 6px;display:grid;grid-template-columns:180px 44px;gap:8px;align-items:center;justify-content:center}
-.knob-column{display:flex;flex-direction:column;align-items:center;gap:14px}
-.dial-label{font-size:14px;text-align:center;color:#eee}
-.dial-housing{position:relative;width:140px;height:145px;display:flex;align-items:center;justify-content:center}
-.knob{width:74px;height:74px;padding:0;min-height:0;background:#1f1f1f;border:10px solid #0f0f0f;border-radius:50%;cursor:pointer;box-shadow:0 8px 20px #000;position:relative;z-index:5}
-.knob::after{content:"";position:absolute;top:50%;left:50%;width:4px;height:28px;background:#ddd;transform:translate(-50%,-50%);transform-origin:center top}
+#static-overlay{position:absolute;inset:0;background-image:url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyBAMAAADsEZWCAAAAGFBMVEUAAAAgICAoKCgwMDA4ODhAQEBISEhQUFBcXFxpaWlx+DpwAAABqElEQVQ4y+2UPQ7DMAyD3R/4/hfp27tP2r8I0qE2cICMoJ4lS2T+2C8/f172v17r12p9qVqfvNWv2vpUtf5Mtb5ZrS9R6wvV+kS1vlWtL1LrS9T6VLU+Wa0vVOsz1fpctT5TrS9R6zvV+la1vlytL1Prk9X6TrU+X61vVOub1fpKtT5XrW9U6yvV+kS1vlWtL1LrS9T6VLU+Wa0vVOsz1fpctT5TrS9R6zvV+la1vlytL1Prk9X6TrU+X61vVOub1fpKtf4B0gG9f19hP4kAAAAASUVORK5CYII=');background-repeat:repeat;opacity:0;z-index:20;pointer-events:none;animation:static-flicker .1s infinite}#static-overlay.active{opacity:1}
+@keyframes static-flicker{0%{background-position:0 0}20%{background-position:-50px 20px}40%{background-position:100px -40px}60%{background-position:-20px 80px}80%{background-position:60px 10px}100%{background-position:0 -50px}}
+video{width:100%;height:100%;object-fit:contain;background:#000;transition:opacity .1s;position:relative;z-index:3}#internal-show{display:none;position:absolute;inset:0;z-index:4;background:#050805;color:#00ff66;padding:clamp(22px,5vw,48px);overflow:hidden;text-align:center;font-family:"Courier New",Courier,monospace}#internal-show.active{display:block}#internal-show-title{font-size:clamp(13px,3vw,22px);font-weight:bold;letter-spacing:.08em;margin-bottom:22px;text-shadow:0 0 8px #00ff66}#internal-show-scroll{white-space:pre-line;font-size:clamp(12px,2.5vw,18px);line-height:1.65;max-width:900px;margin:auto;transform:translateY(100%);animation:internal-day-scroll 14s linear forwards}@keyframes internal-day-scroll{from{transform:translateY(100%)}to{transform:translateY(-115%)}}
+#audio-player{display:none;position:absolute;left:5%;bottom:18px;width:90%;height:54px;z-index:50;filter:invert(80%) sepia(10%) saturate(1000%) hue-rotate(90deg) brightness(90%) contrast(90%);border-radius:8px;box-shadow:0 0 15px rgba(0,0,0,.8)}
+.right-panel{width:100%;height:auto;background:linear-gradient(#4d4d4d,#2a2a2a);border:clamp(10px,2vw,14px) solid #111;border-radius:10px;padding:clamp(12px,3vw,20px);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:clamp(25px,6vw,40px);box-shadow:inset 0 0 40px #000}
+.dial-housing{position:relative;width:clamp(100px,40vw,140px);height:clamp(120px,36vw,160px);display:flex;flex-direction:column;align-items:center;justify-content:center}
+.knob{width:clamp(60px,22vw,74px);height:clamp(60px,22vw,74px);background:#1f1f1f;border:clamp(8px,3vw,10px) solid #0f0f0f;border-radius:50%;cursor:pointer;box-shadow:0 8px 20px #000;position:relative;touch-action:manipulation;z-index:5}
+.knob::after{content:'';position:absolute;top:50%;left:50%;width:4px;height:28px;background:#ddd;transform:translate(-50%,-50%);transform-origin:center top}
 .number-ring{position:absolute;width:clamp(140px,50vw,200px);height:clamp(140px,50vw,200px);top:50%;left:50%;transform:translate(-50%,-50%);pointer-events:none}
 .tick{position:absolute;width:2px;height:8px;background:#777;top:50%;left:50%;transform-origin:center center;opacity:.8}
+.number{position:absolute;width:clamp(26px,6vw,32px);height:clamp(26px,6vw,32px);text-align:center;line-height:clamp(26px,6vw,32px);font-size:clamp(12px,3vw,16px);font-weight:bold;color:#eee;text-shadow:0 0 5px #000;transform:translate(-50%,-50%);pointer-events:none}
+.volume-container{width:clamp(70px,25vw,82px);height:32px;background:#222;border:5px solid #111;border-radius:20px;display:flex;align-items:center;justify-content:center}
+.volume-slider{width:clamp(50px,20vw,62px);height:6px;background:#444;border-radius:3px;outline:none;appearance:none;}
+.volume-slider::-webkit-slider-thumb{width:22px;height:22px;background:#ccc;border-radius:50%;border:4px solid #111;appearance:none;cursor:pointer;}
+.fs-toggle{position:absolute;top:clamp(15px,4vw,25px);left:clamp(15px,4vw,25px);background:#111;color:#fff;border:1px solid #444;padding:clamp(8px,2vw,10px) clamp(12px,3vw,16px);cursor:pointer;font-size:clamp(9px,2.5vw,10px);z-index:100;font-weight:bold;border-radius:8px}
+.version{position:absolute;top:clamp(15px,4vw,25px);right:clamp(15px,4vw,25px);color:#ff6600;font-size:clamp(9px,2.5vw,10px);font-weight:bold}
+@media(min-width:769px){body{flex-direction:row}#cabinet{flex-direction:row;padding:50px 80px;justify-content:center;align-items:center}.glass-tube{width:auto;height:100%;aspect-ratio:4/3;max-height:100%;margin-bottom:0}.right-panel{width:24%;height:100%;margin-left:20px}}
 
-#channel-readout{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);z-index:6;pointer-events:none;font-size:16px;font-weight:bold;color:var(--green);text-shadow:0 0 8px var(--green)}
-.volume-container{width:130px;height:32px;background:#222;border:5px solid #111;border-radius:20px;display:flex;align-items:center;justify-content:center}
-.volume-slider{width:105px;height:6px;background:#444;appearance:none}
-.volume-slider::-webkit-slider-thumb{width:22px;height:22px;background:#ccc;border-radius:50%;border:4px solid #111;appearance:none}
-#next-title{width:100%;font-size:13px;line-height:1.4;overflow-wrap:anywhere;text-align:center;min-height:18px}
+/* MASTER REBUILD: channel positions map directly to CH 1–CH 27 source arrays. */
+body{height:auto;min-height:100dvh;overflow:auto;display:block;padding:12px;color:#eee}
+button,input,select{font:inherit}button,a,input,select{touch-action:manipulation}
+button{color:#eee;background:#161616;border:1px solid #666;border-radius:6px;padding:10px 12px;cursor:pointer;font-size:14px;min-height:44px}
+button:hover{border-color:var(--green)}:focus-visible{outline:3px solid var(--green);outline-offset:3px}
+[hidden]{display:none!important}#cabinet{margin:auto;width:min(100%,1368px);height:auto;max-height:none;display:grid;grid-template-columns:minmax(260px,1fr) 280px;gap:12px;padding:24px;border-width:16px;overflow:visible}
+.glass-tube{width:100%;height:auto;aspect-ratio:4/3;max-height:none;min-width:0;margin:0;border-width:14px;align-self:center}
+.right-panel{width:100%;height:100%;margin:0;display:grid;grid-template-columns:180px 44px;gap:8px;padding:12px 6px;background:#000;min-width:0;align-items:center;justify-content:center}.knob-column{display:flex;flex-direction:column;align-items:center;gap:14px}.program-dial{width:100%;display:flex;flex-direction:column;align-items:center}#next-title{width:100%;font-size:14px;line-height:1.5;overflow-wrap:anywhere;margin-top:8px}
+.dial-housing{width:140px;height:145px;flex-shrink:0}.knob{padding:0;min-height:0;width:74px;height:74px}
+.dial-label{font-size:14px;text-align:center;color:#eee}.knob-column > label{display:flex;flex-direction:column;align-items:center;width:100%}.volume-container{width:130px}.volume-slider{width:105px}
+.toolbar{display:flex;flex-direction:column;align-items:center;gap:14px}
+.toolbar .mini-button{position:relative;isolation:isolate;display:grid;place-items:center;width:44px;height:44px;min-height:44px;padding:0;border:0;background:transparent;color:#e2dfd5;font-family:Arial,sans-serif;font-size:16px;line-height:1;border-radius:50%;box-shadow:none}
+.toolbar .mini-button::before{content:"";position:absolute;z-index:-1;width:26px;height:26px;border-radius:50%;border:2px solid #777;background:linear-gradient(#424242,#171717);box-shadow:0 3px 5px #000,inset 0 1px 2px #aaa}
+.toolbar .mini-button:hover::before{border-color:#ccc}.toolbar .mini-button:active::before{box-shadow:inset 0 2px 5px #000}.toolbar .mini-button[aria-pressed="true"]{color:var(--green)}
+.toolbar .mini-button[aria-pressed="true"]::before{border-color:var(--green)}
+.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap;border:0}
+
+#osd{top:12px;left:12px;font-size:clamp(12px,2vw,17px);max-width:90%;white-space:pre-line}
+#cabinet:fullscreen{width:100%;height:100%;max-height:none;overflow:auto;align-content:center;align-content:safe center;background:#000}#cabinet:fullscreen .glass-tube{width:min(100%,105.6dvh);height:auto;max-height:none;max-width:none;aspect-ratio:4/3;justify-self:center}
+dialog{background:#101610;color:#eee;border:1px solid #47845b;border-radius:12px;width:min(780px,94vw);max-height:88dvh;padding:20px;font-size:16px}dialog::backdrop{background:#000b}
+.dialog-top{display:flex;align-items:center;justify-content:space-between;gap:12px}.dialog-top h2{font-size:20px;margin:0}.guide-filters{display:flex;gap:10px;flex-wrap:wrap;margin:18px 0}.guide-filters label{display:grid;gap:6px;flex:1;font-size:14px}
+.guide-filters input,.guide-filters select,#share-url{background:#050805;color:#eee;border:1px solid #777;border-radius:4px;padding:10px;min-height:44px;min-width:0;width:100%}
+#guide-results{display:grid;gap:6px;max-height:49dvh;overflow:auto}#guide-results button{text-align:left;width:100%;line-height:1.5}#guide-results button[aria-current="true"]{border-color:var(--green);color:var(--green)}#guide-count{font-size:14px;color:#bbb}
+#share-url{margin:16px 0;font-size:14px}.hint{font-size:14px;color:#bbb}
+/* Larger, symmetric channel dial. Compact screens retain the controls on the right. */
 .channel-dial{width:140px}.channel-dial .dial-housing{width:140px;height:160px}
 .channel-dial .number-ring{width:140px;height:140px;--tick-radius:56px}
 #s-knob{width:90px;height:90px;border-radius:50%;border:10px solid #0f0f0f}
 #s-knob::after{height:16px;top:5%;transform:translateX(-50%);transform-origin:center center}
 #t-knob{border-radius:50%;border:10px solid #0f0f0f}
 #t-knob::after{height:20px;top:12%;transform:translateX(-50%);transform-origin:center center}
-.toolbar{display:flex;flex-direction:column;align-items:center;gap:14px}
-.mini-button{position:relative;display:grid;place-items:center;width:44px;height:44px;min-height:44px;padding:0;border:0;background:transparent;color:#e2dfd5;font-family:Arial,sans-serif;font-size:16px;border-radius:50%;cursor:pointer}
-.mini-button::before{content:"";position:absolute;z-index:-1;width:26px;height:26px;border-radius:50%;border:2px solid #777;background:linear-gradient(#424242,#171717);box-shadow:0 3px 5px #000,inset 0 1px 2px #aaa}
-.mini-button:hover::before{border-color:#ccc}.mini-button[aria-pressed=true]{color:var(--green)}.mini-button[aria-pressed=true]::before{border-color:var(--green)}
-#now-title{text-align:center;font-size:13px;line-height:1.3;grid-column:1/-1;color:#ddd}
-dialog{width:min(92vw,760px);max-height:80vh;background:#111;color:#eee;border:2px solid #555;border-radius:10px;padding:18px;box-shadow:0 20px 80px #000}
-dialog::backdrop{background:rgba(0,0,0,.75)}
-.dialog-top{display:flex;align-items:center;justify-content:space-between;gap:10px}.dialog-top h2{margin:0;font-size:20px;color:var(--green)}
-.dialog-top button,.guide-filters button{background:#161616;color:#eee;border:1px solid #666;border-radius:6px;padding:8px 12px;cursor:pointer}
-.guide-filters{display:grid;grid-template-columns:1fr 180px;gap:10px;margin:15px 0}.guide-filters label{display:flex;flex-direction:column;gap:5px;font-size:12px;color:#aaa}.guide-filters input,.guide-filters select{background:#050505;color:#eee;border:1px solid #555;border-radius:5px;padding:9px}
-#guide-results{display:grid;gap:6px;max-height:52vh;overflow:auto}
-.guide-item{display:grid;grid-template-columns:55px 1fr auto;gap:10px;align-items:center;text-align:left;background:#181818;border:1px solid #444;color:#eee;padding:10px;border-radius:5px;cursor:pointer}
-.guide-item:hover{border-color:var(--green)}.guide-ch{color:var(--green);font-weight:bold}.guide-item small{color:#999}
-#guide-count{color:#aaa;font-size:12px}
-#share-url{width:100%;margin:12px 0;background:#050505;color:#eee;border:1px solid #555;padding:10px}
-@media(max-width:768px){body{padding:4px}#cabinet{width:100%;grid-template-columns:1fr;padding:12px;border-width:8px;border-radius:18px}.right-panel{grid-template-columns:minmax(180px,1fr) 44px}.glass-tube{border-width:9px}.guide-filters{grid-template-columns:1fr}}
+#channel-readout{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);z-index:6;pointer-events:none;font-size:16px;font-weight:bold;color:#eee}
+#cabinet{min-width:0}
+#guide-more{width:100%;margin-top:10px}
+@media(max-width:1000px){#cabinet{padding:12px;border-width:8px;gap:12px}.glass-tube{border-width:8px}.right-panel{padding:12px 6px;border-width:6px}}
+@media(max-width:740px),(max-height:600px){
+ body{padding:6px}.site-nav{font-size:12px;gap:6px;margin-bottom:6px}.site-nav a{font-size:12px;padding:8px;min-height:36px}
+ #cabinet{grid-template-columns:minmax(0,1fr) 142px;padding:8px;border-width:6px;gap:8px;border-radius:18px}
+ .glass-tube{border-width:6px}
+ .right-panel{grid-template-columns:80px 44px;gap:2px;padding:8px 2px;border-width:4px}
+ .knob-column{gap:8px}.dial-housing,.channel-dial .dial-housing{width:80px;height:86px}
+ .channel-dial{width:80px}.dial-label{font-size:12px}
+ .number-ring{display:none}#s-ring{display:block;width:80px;height:80px;--tick-radius:38px}#s-ring .tick{height:5px;width:2px}.knob,#s-knob{width:60px;height:60px;border-width:8px}
+ #s-knob::after,#t-knob::after{height:9px;top:4%}#channel-readout{font-size:13px}
+ .volume-container{width:78px;height:40px}.volume-slider{width:64px;height:28px;background:linear-gradient(#444,#444) center/100% 6px no-repeat}
+ .toolbar{gap:4px}.toolbar .mini-button{width:44px;height:44px}
+ #osd{font-size:12px;top:6px;left:6px;max-width:94%}
+ #cabinet:fullscreen .glass-tube{width:min(100%,112dvh)}
+ #audio-player{left:0;width:100%;bottom:0;height:40px}#radio-mode-label{bottom:48px;font-size:9px}
+ dialog{padding:12px}.guide-filters label{flex-basis:100%}
+}
+
+@media(max-height:600px) and (min-width:600px){
+ .glass-tube{max-width:calc((100dvh - 110px)*4/3);justify-self:center}
+ #cabinet:fullscreen .glass-tube{max-width:none;width:min(100%,calc((100dvh - 36px)*4/3))}
+}
+@media(prefers-reduced-motion:reduce){#static-overlay{animation:none}*{transition:none!important}}
 </style>
 </head>
 <body>
 <main id="cabinet">
-<div class="glass-tube">
-<div id="static-overlay"></div><div id="crt-overlay"></div><div id="osd">STANDBY</div>
-<video id="player" controls playsinline webkit-playsinline preload="metadata" aria-label="Cline TV player"></video>
-</div>
-<div class="right-panel">
-<div class="knob-column">
-<div><div class="dial-label">PROGRAM</div><div class="dial-housing"><div class="number-ring" id="program-ring"></div><button class="knob" id="program-knob" aria-label="Next program"></button></div><div id="next-title"></div></div>
-<label><span class="dial-label">VOLUME</span><span class="volume-container"><input type="range" min="0" max="1" step=".01" value=".7" class="volume-slider" id="volume"></span></label>
-<div><div class="dial-label">CHANNEL</div><div class="dial-housing"><div class="number-ring" id="channel-ring"></div><button class="knob" id="channel-knob" aria-label="Next channel"></button><span id="channel-readout">1</span></div></div>
-</div>
-<div class="toolbar">
-<button class="mini-button" id="guide-btn" title="Program guide">☷</button>
-<button class="mini-button" id="restart-btn" title="Start over">↺</button>
-<button class="mini-button" id="favorite-btn" title="Favorite channel" aria-pressed="false">★</button>
-<button class="mini-button" id="previous-btn" title="Previous channel">↶</button>
-<button class="mini-button" id="share-btn" title="Share program">↗</button>
-<button class="mini-button" id="fs-btn" title="Full screen">⛶</button>
-</div>
-<div id="now-title"></div>
-</div>
-<dialog id="guide"><div class="dialog-top"><h2>PROGRAM GUIDE</h2><button id="guide-close">Close</button></div>
-<div class="guide-filters"><label>Search programs<input id="guide-search" type="search" placeholder="Title or channel"></label><label>Channel<select id="guide-channel"></select></label></div>
-<p id="guide-count"></p><div id="guide-results"></div></dialog>
-<dialog id="share-dialog"><div class="dialog-top"><h2>SHARE PROGRAM</h2><button id="share-close">Close</button></div><input id="share-url" readonly><button id="copy-share">Copy link</button><p id="share-status"></p></dialog>
+  <div class="glass-tube">
+    <div id="audio-stage"><canvas id="audio-scope" aria-hidden="true"></canvas><div id="radio-mode-label">AUDIO SCOPE</div></div><div id="internal-show" aria-live="polite"><div id="internal-show-title"></div><div id="internal-show-scroll"></div></div>
+    <div id="static-overlay"></div><div id="crt-overlay"></div><div id="osd">STANDBY</div>
+    <video id="player" controls playsinline webkit-playsinline preload="metadata" aria-label="TV player"></video>
+    <audio id="audio-player" controls preload="metadata" aria-label="Radio player"></audio>
+  </div>
+  <div class="right-panel">
+    <div class="knob-column">
+    <div class="program-dial"><div class="dial-label">PROGRAM</div><div class="dial-housing"><div class="number-ring" id="t-ring"></div><button class="knob" id="t-knob" aria-label="Next program; right-click or swipe down for previous" onkeydown="if(event.key==='ArrowLeft'||event.key==='ArrowDown'){event.preventDefault();tune(-1);}else if(event.key==='ArrowRight'||event.key==='ArrowUp'){event.preventDefault();tune(1);}" onclick="tune(1)" oncontextmenu="event.preventDefault();tune(-1);"></button></div><div id="next-title" hidden></div></div>
+    <label><span class="dial-label">VOLUME</span><span class="volume-container"><input type="range" min="0" max="1" step="0.01" value="0.7" class="volume-slider" id="volume-knob" aria-label="Volume" oninput="changeVolume(this.value)"></span></label>
+    <div class="channel-dial"><div class="dial-label">CHANNEL</div><div class="dial-housing"><div class="number-ring" id="s-ring" aria-hidden="true"></div><button class="knob" id="s-knob" aria-label="Next channel; right-click or swipe down for previous" onkeydown="if(event.key==='ArrowLeft'||event.key==='ArrowDown'){event.preventDefault();changeCategory(-1);}else if(event.key==='ArrowRight'||event.key==='ArrowUp'){event.preventDefault();changeCategory(1);}" onclick="changeCategory(1)" oncontextmenu="event.preventDefault();changeCategory(-1);"></button><span id="channel-readout" aria-hidden="true">1</span></div></div>
+    </div>
+    <div class="toolbar" aria-label="Playback controls">
+      <button class="mini-button" onclick="openGuide()" id="guide-open" title="Program guide" aria-label="Program guide">☷</button>
+      <button class="mini-button" onclick="restartProgram()" title="Start over" aria-label="Start over">↺</button>
+      <button class="mini-button" onclick="toggleFavorite()" id="favorite" aria-pressed="false" title="Favorite channel" aria-label="Favorite channel">★</button>
+      <button class="mini-button" onclick="shareSelection()" title="Share program" aria-label="Share program">↗</button>
+      <button class="mini-button" onclick="toggleFS()" title="Full screen" aria-label="Full screen">⛶</button>
+      <button class="mini-button" onclick="retryCurrent()" id="retry-play" title="Retry" aria-label="Retry" hidden>⟳</button>
+      <button class="mini-button" onclick="resumeCurrent()" id="resume-play" title="Tap to play" aria-label="Tap to play" hidden>▶</button>
+    </div>
+    <strong id="now-title" hidden></strong><div id="playback-status" class="sr-only" role="status" aria-live="polite"></div>
+  </div>
+  <dialog id="guide" aria-labelledby="guide-heading">
+    <div class="dialog-top"><h2 id="guide-heading">Program guide</h2><button onclick="document.getElementById('guide').close()">Close</button></div>
+    <div class="guide-filters"><label>Search programs<input id="guide-search" type="search" placeholder="Title or channel" oninput="renderGuide()"></label><label>Channel<select id="guide-channel" onchange="renderGuide()"><option value="all">All channels</option><option value="favorites">Favorite channels</option></select></label></div>
+    <p id="guide-count" role="status"></p><div id="guide-results"></div><button id="guide-more" onclick="showMoreGuide()" hidden>Show more programs</button>
+  </dialog>
+  <dialog id="share-dialog" aria-labelledby="share-heading"><div class="dialog-top"><h2 id="share-heading">Share this program</h2><button onclick="document.getElementById('share-dialog').close()">Close</button></div><label for="share-url">Link to this program and playback time</label><input id="share-url" readonly onclick="this.select()"><button onclick="copyShareLink()">Copy link</button><p id="share-status" role="status" class="hint"></p></dialog>
 </main>
 <script>
-const channels=[{"name":"STAR TREK","items":[{"title":"1x01 The Cage","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x01%20-%20The%20Cage.mp4"},{"title":"1x02 Where No Man Has Gone","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x02%20-%20Where%20No%20Man%20Has%20Gone%20Before.mp4"},{"title":"1x03 Corbomite Maneuver","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x03%20-%20The%20Corbomite%20Maneuver.mp4"},{"title":"1x04 Mudd's Women","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x04%20-%20Mudd%27s%20Women.mp4"},{"title":"1x05 The Enemy Within","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x05%20-%20The%20Enemy%20Within.mp4"},{"title":"1x06 The Man Trap","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x06%20-%20The%20Man%20Trap.mp4"},{"title":"1x07 The Naked Time","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x07%20-%20The%20Naked%20Time.mp4"},{"title":"1x08 Charlie X","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x08%20-%20Charlie%20X.mp4"},{"title":"1x09 Balance of Terror","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x09%20-%20Balance%20of%20Terror.mp4"},{"title":"1x10 Little Girls Made of","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x10%20-%20What%20are%20Little%20Girls%20Made%20of.mp4"},{"title":"1x11 Dagger of the Mind","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x11%20-%20Dagger%20of%20the%20Mind.mp4"},{"title":"1x12 Miri","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x12%20-%20Miri.mp4"},{"title":"1x13 Conscience of King","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x13%20-%20The%20Conscience%20of%20the%20King.mp4"},{"title":"1x14 The Galileo Seven","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x14%20-%20The%20Galileo%20Seven.mp4"},{"title":"1x15 Court Martial","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x15%20-%20Court%20Martial.mp4"},{"title":"1x16 The Menagerie Pt I","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x16%20-%20The%20Menagerie%20-%20Part%20I.mp4"},{"title":"1x17 The Menagerie Pt II","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x17%20-%20The%20Menagerie%20-%20Part%20II.mp4"},{"title":"1x18 Shore Leave","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x18%20-%20Shore%20Leave.mp4"},{"title":"1x19 Squire of Gothos","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x19%20-%20The%20Squire%20of%20Gothos.mp4"},{"title":"1x20 Arena","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x20%20-%20Arena.mp4"},{"title":"1x21 Alternative Factor","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x21%20-%20The%20Alternative%20Factor.mp4"},{"title":"1x22 Tomorrow is Yesterday","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x22%20-%20Tomorrow%20is%20Yesterday.mp4"},{"title":"1x23 Return of Archons","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x23%20-%20The%20Return%20of%20the%20Archons.mp4"},{"title":"1x24 Taste of Armageddon","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x24%20-%20A%20Taste%20of%20Armageddon.mp4"},{"title":"1x25 Space Seed","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x25%20-%20Space%20Seed.mp4"},{"title":"1x26 This Side of Paradise","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x26%20-%20This%20Side%20of%20Paradise.mp4"},{"title":"1x27 Devil in the Dark","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x27%20-%20The%20Devil%20in%20the%20Dark.mp4"},{"title":"1x28 Errand of Mercy","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x28%20-%20Errand%20of%20Mercy.mp4"},{"title":"1x29 City on the Edge","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x29%20-%20The%20City%20on%20the%20Edge%20of%20Forever.mp4"},{"title":"1x30 Operation Annihilate!","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x30%20-%20Operation%20Annihilate%21.mp4"},{"title":"2x01 Catspaw","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x01%20-%20Catspaw.mp4"},{"title":"2x02 Metamorphosis","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x02%20-%20Metamorphosis.mp4"},{"title":"2x03 Friday's Child","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x03%20-%20Friday%27s%20Child.mp4"},{"title":"2x04 Who Mourns for Adonais","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x04%20-%20Who%20Mourns%20for%20Adonais.mp4"},{"title":"2x05 Amok Time","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x05%20-%20Amok%20Time.mp4"},{"title":"2x06 Doomsday Machine","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x06%20-%20The%20Doomsday%20Machine.mp4"},{"title":"2x07 Wolf in the Fold","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x07%20-%20Wolf%20in%20the%20Fold.mp4"},{"title":"2x08 The Changeling","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x08%20-%20The%20Changeling.mp4"},{"title":"2x09 The Apple","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x09%20-%20The%20Apple.mp4"},{"title":"2x10 Mirror, Mirror","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x10%20-%20Mirror%2C%20Mirror.mp4"},{"title":"2x11 The Deadly Years","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x11%20-%20The%20Deadly%20Years.mp4"},{"title":"2x12 I, Mudd","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x12%20-%20I%2C%20Mudd.mp4"},{"title":"2x13 Trouble With Tribbles","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x13%20-%20The%20Trouble%20With%20Tribbles.mp4"},{"title":"2x14 Bread and Circuses","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x14%20-%20Bread%20and%20Circuses.mp4"},{"title":"2x15 Journey to Babel","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x15%20-%20Journey%20to%20Babel.mp4"},{"title":"2x16 Private Little War","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x16%20-%20A%20Private%20Little%20War.mp4"},{"title":"2x17 Gamesters of Triskelion","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x17%20-%20The%20Gamesters%20of%20Triskelion.mp4"},{"title":"2x18 Obsession","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x18%20-%20Obsession.mp4"},{"title":"2x19 Immunity Syndrome","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x19%20-%20The%20Immunity%20Syndrome.mp4"},{"title":"2x20 Piece of the Action","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x20%20-%20A%20Piece%20of%20the%20Action.mp4"},{"title":"2x21 By Any Other Name","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x21%20-%20By%20Any%20Other%20Name.mp4"},{"title":"2x22 Return to Tomorrow","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x22%20-%20Return%20to%20Tomorrow.mp4"},{"title":"2x23 Patterns of Force","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x23%20-%20Patterns%20of%20Force%20%281%29.mp4"},{"title":"2x24 The Ultimate Computer","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x24%20-%20The%20Ultimate%20Computer.mp4"},{"title":"2x25 The Omega Glory","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x25%20-%20The%20Omega%20Glory.mp4"},{"title":"2x26 Assignment Earth","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x26%20-%20Assignment%20Earth.mp4"},{"title":"3x01 Spectre of the Gun","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x01%20-%20Spectre%20of%20the%20Gun.mp4"},{"title":"3x02 Elaan of Troyius","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x02%20-%20Elaan%20of%20Troyius.mp4"},{"title":"3x03 The Paradise Syndrome","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x03%20-%20The%20Paradise%20Syndrome.mp4"},{"title":"3x04 Enterprise Incident","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x04%20-%20The%20Enterprise%20Incident.mp4"},{"title":"3x05 Children Shall Lead","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x05%20-%20And%20the%20Children%20Shall%20Lead.mp4"},{"title":"3x06 Spock's Brain","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x06%20-%20Spock%27s%20Brain.mp4"},{"title":"3x07 Truth no Beauty","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x07%20-%20Is%20There%20in%20Truth%20no%20Beauty.mp4"},{"title":"3x08 The Empath","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x08%20-%20The%20Empath.mp4"},{"title":"3x09 The Tholian Web","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x09%20-%20The%20Tholian%20Web.mp4"},{"title":"3x10 For the World Is Hollow","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x10%20-%20For%20the%20World%20Is%20Hollow%20and%20I%20Have%20Touched%20the%20Sky.mp4"},{"title":"3x11 Day of the Dove","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x11%20-%20day%20of%20the%20Dove.mp4"},{"title":"3x12 Plato's Stepchildren","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x12%20-%20Plato%27s%20Stepchildren.mp4"},{"title":"3x13 Wink of an Eye","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x13%20-%20Wink%20of%20an%20Eye.mp4"},{"title":"3x14 That Which Survives","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x14%20-%20That%20Which%20Survives.mp4"},{"title":"3x15 Your Last Battlefield","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x15%20-%20Let%20That%20Be%20Your%20Last%20Battlefield.mp4"},{"title":"3x16 Whom Gods Destroy","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x16%20-%20Whom%20Gods%20Destroy.mp4"},{"title":"3x17 The Mark of Gideon","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x17%20-%20The%20Mark%20of%20Gideon.mp4"},{"title":"3x18 The Lights of Zetar","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x18%20-%20The%20Lights%20of%20Zetar.mp4"},{"title":"3x19 The Cloud Minders","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x19%20-%20The%20Cloud%20Minders.mp4"},{"title":"3x20 The Way to Eden","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x20%20-%20The%20Way%20to%20Eden.mp4"},{"title":"3x21 Requiem for Methuselah","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x21%20-%20Requiem%20for%20Methuselah.mp4"},{"title":"3x22 The Savage Curtain","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x22%20-%20The%20Savage%20Curtain.mp4"},{"title":"3x23 All Our Yesterdays","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x23%20-%20All%20Our%20Yesterdays.mp4"},{"title":"3x24 Turnabout Intruder","url":"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x24%20-%20Turnabout%20Intruder.mp4"}]},{"name":"SCIENCE","items":[{"title":"Cosmos - Shores of the Cosmic Ocean","url":"https://archive.org/download/cosmos_1980/COSMOS_01.mp4"},{"title":"Nova 1994-02-28 In Search of Human Origins, The Story of Lucy","url":"https://archive.org/download/nova_collection/Nova%201994-02-28%20In%20Search%20of%20Human%20Origins%2C%20The%20Story%20of%20Lucy.ia.mp4"},{"title":"Nova 1994-03-01 In Search of Human Origins, Surviving in Africa","url":"https://archive.org/download/nova_collection/Nova%201994-03-01%20In%20Search%20of%20Human%20Origins%2C%20Surviving%20in%20Africa.ia.mp4"},{"title":"Nova 1994-03-02 In Search of Human Origins, The Creative Revolution","url":"https://archive.org/download/nova_collection/Nova%201994-03-02%20In%20Search%20of%20Human%20Origins%2C%20The%20Creative%20Revolution.ia.mp4"},{"title":"Nova 1994-12-27 In Search of the First Language","url":"https://archive.org/download/nova_collection/Nova%201994-12-27%20In%20Search%20of%20the%20First%20Language.ia.mp4"},{"title":"Nova 2011-11-02 The Fabric of the Cosmos What is Space","url":"https://archive.org/download/nova_collection/Nova%202011-11-02%20The%20Fabric%20of%20the%20Cosmos%20What%20is%20Space.ia.mp4"},{"title":"Nova 2011-11-09 The Fabric of the Cosmos The Illusion of Time","url":"https://archive.org/download/nova_collection/Nova%202011-11-09%20The%20Fabric%20of%20the%20Cosmos%20The%20Illusion%20of%20Time.ia.mp4"},{"title":"Nova 2011-11-16 The Fabric of the Cosmos Quantum Leap","url":"https://archive.org/download/nova_collection/Nova%202011-11-16%20The%20Fabric%20of%20the%20Cosmos%20Quantum%20Leap.ia.mp4"},{"title":"Nova 2011-11-23 The Fabric of the Cosmos Universe or Multiverse","url":"https://archive.org/download/nova_collection/Nova%202011-11-23%20The%20Fabric%20of%20the%20Cosmos%20Universe%20or%20Multiverse.ia.mp4"},{"title":"Cosmos — 01 — The Shores of the Cosmic Ocean (Carl Sagan, 1980)","url":"https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2001%20The%20Shores%20of%20the%20Cosmic%20Ocean.ia.mp4"},{"title":"Cosmos — 02 — One Voice in the Cosmic Fugue (Carl Sagan, 1980)","url":"https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2002%20One%20Voice%20in%20the%20Cosmic%20Fugue.ia.mp4"},{"title":"Cosmos — 03 — Harmony of the Worlds (Carl Sagan, 1980)","url":"https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2003%20Harmony%20of%20the%20Worlds.ia.mp4"},{"title":"Cosmos — 04 — Heaven and Hell (Carl Sagan, 1980)","url":"https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2004%20Heaven%20and%20Hell.ia.mp4"},{"title":"Cosmos — 05 — Blues for a Red Planet (Carl Sagan, 1980)","url":"https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2005%20Blues%20for%20a%20Red%20Planet.ia.mp4"},{"title":"Cosmos — 06 — Travellers' Tales (Carl Sagan, 1980)","url":"https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2006%20Travellers%27%20Tales.ia.mp4"},{"title":"Cosmos — 07 — The Backbone of Night (Carl Sagan, 1980)","url":"https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2007%20The%20Backbone%20of%20Night.ia.mp4"},{"title":"Cosmos — 08 — Journeys in Space and Time (Carl Sagan, 1980)","url":"https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2008%20Journeys%20in%20Space%20and%20Time.ia.mp4"},{"title":"Cosmos — 09 — The Lives of the Stars (Carl Sagan, 1980)","url":"https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2009%20The%20Lives%20of%20the%20Stars.ia.mp4"},{"title":"Cosmos — 10 — The Edge of Forever (Carl Sagan, 1980)","url":"https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2010%20The%20Edge%20of%20Forever.ia.mp4"},{"title":"Cosmos — 11 — The Persistence of Memory (Carl Sagan, 1980)","url":"https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2011%20The%20Persistence%20of%20Memory.ia.mp4"},{"title":"Cosmos — 12 — Encyclopaedia Galactica (Carl Sagan, 1980)","url":"https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2012%20Encyclopaedia%20Galactica.ia.mp4"},{"title":"Cosmos — 13 — Who Speaks for Earth (Carl Sagan, 1980)","url":"https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2013%20Who%20Speaks%20for%20Earth.ia.mp4"}]},{"name":"GODZILLA & MONSTERS","items":[{"title":"Godzilla (1998)","url":"https://archive.org/download/My-Favorite-Movies_202503/Godzilla%20%281998%29.mp4"},{"title":"Godzilla (2014)","url":"https://archive.org/download/My-Favorite-Movies_202503/Godzilla%20%282014%29.mp4"},{"title":"Godzilla King of The Monsters","url":"https://archive.org/download/My-Favorite-Movies_202503/Godzilla%20King%20of%20The%20Monsters.mp4"},{"title":"Godzilla Vs Kong (2021)","url":"https://archive.org/download/My-Favorite-Movies_202503/Godzilla%20Vs%20Kong%20%282021%29.mp4"},{"title":"Godzilla Vs Kong 2 The New Empire","url":"https://archive.org/download/My-Favorite-Movies_202503/Godzilla%20Vs%20Kong%202%20The%20New%20Empire.mp4"},{"title":"Godzilla vs The Sea Monster (1966)","url":"https://archive.org/download/RecurringDinosaurInfestationFilms/7.GodzillaVsTheSeaMonster1966.mp4"},{"title":"Godzilla vs Monster Zero (1965)","url":"https://archive.org/download/RecurringDinosaurInfestationFilms/6.GodzillaVsMonsterZero1965.mp4"},{"title":"Mothra vs Godzilla (1964)","url":"https://archive.org/download/RecurringDinosaurInfestationFilms/5.MothraVsGodzilla1964.mp4"},{"title":"Godzilla 1985","url":"https://archive.org/download/RecurringDinosaurInfestationFilms/16.Godzilla1985.mp4"}]},{"name":"FEATURE FILMS 1","items":[{"title":"The Love Bug (1968)","url":"https://archive.org/download/My-Favorite-Movies_202503/%281968%29%20The%20Love%20Bug.mp4"},{"title":"Rush Hour 3","url":"https://archive.org/download/My-Favorite-Movies_202503/Rush%20Hour%203.mp4"},{"title":"Star Wars Ep 1","url":"https://archive.org/download/My-Favorite-Movies_202503/Star%20Wars%20Episode%201%20The%20Phantom%20Menace.mp4"},{"title":"Tron (1982)","url":"https://archive.org/download/My-Favorite-Movies_202503/Tron%20%281982%29.mp4"},{"title":"The Amazing Spider-man","url":"https://archive.org/download/My-Favorite-Movies_202503/Spider-man%204%20The%20Amazing%20Spider-man.mp4"},{"title":"Jurassic Park Lost World","url":"https://archive.org/download/My-Favorite-Movies_202503/Jurassic%20Park%202%20The%20Lost%20World.mp4"},{"title":"Twister","url":"https://archive.org/download/My-Favorite-Movies_202503/Twister.mp4"},{"title":"Godzilla (2014)","url":"https://archive.org/download/My-Favorite-Movies_202503/Godzilla%20%282014%29.mp4"}]},{"name":"FEATURE FILMS 2","items":[{"title":"Herbie Rides Again","url":"https://archive.org/download/My-Favorite-Movies_202503/%281974%29%20Herbie%20Rides%20Again.mp4"},{"title":"Christmas Vacation","url":"https://archive.org/download/My-Favorite-Movies_202503/National%20Lampoon%27s%20Christmas%20Vacation.mp4"},{"title":"Star Wars Ep 2","url":"https://archive.org/download/My-Favorite-Movies_202503/Star%20Wars%20Episode%202%20Attack%20Of%20The%20Clones.mp4"},{"title":"Tron Legacy","url":"https://archive.org/download/My-Favorite-Movies_202503/Tron%20%282010%29%20Tron%20Legacy.mp4"},{"title":"Amazing Spider-man 2","url":"https://archive.org/download/My-Favorite-Movies_202503/Spider-man%205%20The%20Amazing%20Spider-man%202.mp4"},{"title":"Jurassic Park 3","url":"https://archive.org/download/My-Favorite-Movies_202503/Jurassic%20Park%203.mp4"},{"title":"Atlantis Lost Empire","url":"https://archive.org/download/My-Favorite-Movies_202503/Atlantis%20%282001%29%20The%20Lost%20Empire.mp4"},{"title":"Godzilla King of The Monsters","url":"https://archive.org/download/My-Favorite-Movies_202503/Godzilla%20King%20of%20The%20Monsters.mp4"}]},{"name":"FEATURE FILMS 3","items":[{"title":"Herbie Monte Carlo","url":"https://archive.org/download/My-Favorite-Movies_202503/%281977%29%20Herbie%20Goes%20To%20Monte%20Carlo.mp4"},{"title":"E.T. The Extra Terrestrial","url":"https://archive.org/download/My-Favorite-Movies_202503/E.T%20The%20Extra%20Terrestrial.mp4"},{"title":"Star Wars Ep 3","url":"https://archive.org/download/My-Favorite-Movies_202503/Star%20Wars%20Episode%203%20Revenge%20Of%20The%20Sith.mp4"},{"title":"Tron Ares","url":"https://archive.org/download/My-Favorite-Movies_202503/Tron%20%282025%29%20Tron%20Ares.mp4"},{"title":"Spider-man Homecoming","url":"https://archive.org/download/My-Favorite-Movies_202503/Spider-man%206%20Homecoming.mp4"},{"title":"Jurassic World (2015)","url":"https://archive.org/download/My-Favorite-Movies_202503/Jurassic%20World%20%282015%29.mp4"},{"title":"Atlantis 2 Milo's Return","url":"https://archive.org/download/My-Favorite-Movies_202503/Atlantis%202%20Milo%27s%20Return.mp4"},{"title":"Godzilla Vs Kong (2021)","url":"https://archive.org/download/My-Favorite-Movies_202503/Godzilla%20Vs%20Kong%20%282021%29.mp4"}]},{"name":"FEATURE FILMS 4","items":[{"title":"Herbie Goes Bananas","url":"https://archive.org/download/My-Favorite-Movies_202503/%281980%29%20Herbie%20Goes%20Bananas.mp4"},{"title":"Mars Needs Moms","url":"https://archive.org/download/My-Favorite-Movies_202503/Mars%20Needs%20Moms.mp4"},{"title":"Star Wars Ep 4","url":"https://archive.org/download/My-Favorite-Movies_202503/Star%20Wars%20Episode%204%20A%20New%20Hope.mp4"},{"title":"Iron Man (2008)","url":"https://archive.org/download/My-Favorite-Movies_202503/Iron%20Man%20%282008%29.mp4"},{"title":"Spider-man Far From Home","url":"https://archive.org/download/My-Favorite-Movies_202503/Spider-man%207%20Far%20From%20Home.mp4"},{"title":"Jurassic World Fallen Kingdom","url":"https://archive.org/download/My-Favorite-Movies_202503/Jurassic%20World%202%20Fallen%20Kingdom.mp4"},{"title":"Red vs Blue Restoration","url":"https://archive.org/download/My-Favorite-Movies_202503/Red%20vs%20Blue%20Restoration.mp4"},{"title":"Godzilla Vs Kong 2 The New Empire","url":"https://archive.org/download/My-Favorite-Movies_202503/Godzilla%20Vs%20Kong%202%20The%20New%20Empire.mp4"}]},{"name":"FEATURE FILMS 5","items":[{"title":"The Love Bug (1997)","url":"https://archive.org/download/My-Favorite-Movies_202503/%281997%29%20The%20Love%20Bug.mp4"},{"title":"Robots","url":"https://archive.org/download/My-Favorite-Movies_202503/Robots.mp4"},{"title":"Star Wars Ep 5","url":"https://archive.org/download/My-Favorite-Movies_202503/Star%20Wars%20Episode%205%20The%20Empire%20Strikes%20Back.mp4"},{"title":"Iron Man 2","url":"https://archive.org/download/My-Favorite-Movies_202503/Iron%20Man%202.mp4"},{"title":"Spider-man No Way Home","url":"https://archive.org/download/My-Favorite-Movies_202503/Spider-man%208%20No%20Way%20Home.mp4"},{"title":"Jurassic World Dominion","url":"https://archive.org/download/My-Favorite-Movies_202503/Jurassic%20World%203%20Dominion.mp4"},{"title":"Big Ass Spider","url":"https://archive.org/download/My-Favorite-Movies_202503/Big%20Ass%20Spider.mp4"}]},{"name":"FEATURE FILMS 6","items":[{"title":"Herbie Fully Loaded","url":"https://archive.org/download/My-Favorite-Movies_202503/%282005%29%20Herbie%20Fully%20Loaded.mp4"},{"title":"Princess and the Frog","url":"https://archive.org/download/My-Favorite-Movies_202503/The%20Princess%20and%20the%20Frog.mp4"},{"title":"Star Wars Ep 6","url":"https://archive.org/download/My-Favorite-Movies_202503/Star%20Wars%20Episode%206%20Return%20of%20the%20Jedi.mp4"},{"title":"Iron Man 3","url":"https://archive.org/download/My-Favorite-Movies_202503/Iron%20Man%203.mp4"},{"title":"Venom (2018)","url":"https://archive.org/download/My-Favorite-Movies_202503/Venom%20%282018%29.mp4"},{"title":"Jurassic World Rebirth","url":"https://archive.org/download/My-Favorite-Movies_202503/Jurassic%20World%204%20Rebirth.mp4"},{"title":"Eight Legged Freaks","url":"https://archive.org/download/My-Favorite-Movies_202503/Eight%20Legged%20Freaks.mp4"}]},{"name":"FEATURE FILMS 7","items":[{"title":"The Wizard of Oz","url":"https://archive.org/download/My-Favorite-Movies_202503/The%20Wizard%20of%20Oz.mp4"},{"title":"Road To El Dorado","url":"https://archive.org/download/My-Favorite-Movies_202503/The%20Road%20To%20El%20Dorado.mp4"},{"title":"Star Wars Ep 7","url":"https://archive.org/download/My-Favorite-Movies_202503/Star%20Wars%20Episode%207%20The%20Force%20Awakens.mp4"},{"title":"Spider-man (2002)","url":"https://archive.org/download/My-Favorite-Movies_202503/Spider-man%20%282002%29.mp4"},{"title":"Venom Let There Be Carnage","url":"https://archive.org/download/My-Favorite-Movies_202503/Venom%20Let%20There%20Be%20Carnage.mp4"},{"title":"Into The Storm","url":"https://archive.org/download/My-Favorite-Movies_202503/Into%20The%20Storm.mp4"},{"title":"Little Shop Of Horrors","url":"https://archive.org/download/My-Favorite-Movies_202503/Little%20Shop%20Of%20Horrors%20%281986%29.mp4"}]},{"name":"FEATURE FILMS 8","items":[{"title":"Rush Hour 1","url":"https://archive.org/download/My-Favorite-Movies_202503/Rush%20Hour%201.mp4"},{"title":"Halo 4 Forward Unto Dawn","url":"https://archive.org/download/My-Favorite-Movies_202503/Halo%204%20Forward%20Unto%20Dawn.mp4"},{"title":"Star Wars Ep 8","url":"https://archive.org/download/My-Favorite-Movies_202503/Star%20Wars%20Episode%208%20The%20Last%20Jedi.mp4"},{"title":"Spider-man 2","url":"https://archive.org/download/My-Favorite-Movies_202503/Spider-man%202.mp4"},{"title":"Venom The Last Dance","url":"https://archive.org/download/My-Favorite-Movies_202503/Venom%20The%20Last%20Dance.mp4"},{"title":"Day After Tomorrow","url":"https://archive.org/download/My-Favorite-Movies_202503/The%20Day%20After%20Tomarrow.mp4"},{"title":"World War Z","url":"https://archive.org/download/My-Favorite-Movies_202503/World%20War%20Z.mp4"}]},{"name":"FEATURE FILMS 9","items":[{"title":"Rush Hour 2","url":"https://archive.org/download/My-Favorite-Movies_202503/Rush%20Hour%202.mp4"},{"title":"Ready Player One","url":"https://archive.org/download/My-Favorite-Movies_202503/Ready%20Player%20One.mp4"},{"title":"Star Wars Ep 9","url":"https://archive.org/download/My-Favorite-Movies_202503/Star%20Wars%20Episode%209%20The%20Rise%20of%20Skywalker.mp4"},{"title":"Spider-man 3","url":"https://archive.org/download/My-Favorite-Movies_202503/Spider-man%203.mp4"},{"title":"Jurassic Park (1993)","url":"https://archive.org/download/My-Favorite-Movies_202503/Jurassic%20Park%20%281993%29.mp4"},{"title":"Titanic (1997)","url":"https://archive.org/download/My-Favorite-Movies_202503/Titanic%20%281997%29.mp4"},{"title":"Godzilla (1998)","url":"https://archive.org/download/My-Favorite-Movies_202503/Godzilla%20%281998%29.mp4"}]}];
-const player=document.getElementById("player"), programLabel=document.getElementById("next-title"), osd=document.getElementById("osd");
-let channelIndex=0, programIndex=0, previousChannel=0, current=null;
-const favorites=new Set(JSON.parse(localStorage.getItem("clineTVFavorites")||"[]"));
-let volume=Number(localStorage.getItem("clineTVVolume")||.7); document.getElementById("volume").value=volume; player.volume=volume;
-function save(){localStorage.setItem("clineTVFavorites",JSON.stringify([...favorites]));localStorage.setItem("clineTVVolume",volume)}
-function flash(t){osd.textContent=t;osd.classList.add("show");clearTimeout(flash.timer);flash.timer=setTimeout(()=>osd.classList.remove("show"),1800)}
-function showStatic(){const s=document.getElementById("static-overlay");s.classList.add("active");setTimeout(()=>s.classList.remove("active"),180)}
-function play(i=programIndex,autoplay=true){const list=channels[channelIndex].items;if(!list.length){player.removeAttribute("src");programLabel.textContent="CHANNEL NOT PROGRAMMED";return}
- programIndex=(i+list.length)%list.length;current=list[programIndex];player.src=current.url;player.load();programLabel.textContent="NEXT: "+(list[(programIndex+1)%list.length]?.title||"—");document.getElementById("now-title").textContent=current.title;
- flash("CH "+String(channelIndex+1).padStart(2,"0")+"  "+channels[channelIndex].name);showStatic();
- if(autoplay) player.play().catch(()=>{});
- updateFavorite();
+// ==========================================
+// V188 MASTER CATALOG DATA COMPRESSION
+// ==========================================
+const mk = (p, a) => { let r=[]; for(let i=0;i<a.length;i+=2) r.push({n:a[i], u:p+a[i+1]}); return r; };
+const mks = (a) => { let r=[]; for(let i=0;i<a.length;i+=2) r.push({n:a[i], u:a[i+1]}); return r; };
+
+// CLINE TV — 12 CHANNEL DATA
+// Channel count is the new lineup. Player/cabinet/screen/control structure remains from the archived 4:3 master.
+
+const ch1 = [
+    {n:"1x01 The Cage",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x01%20-%20The%20Cage.mp4"},
+    {n:"1x02 Where No Man Has Gone",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x02%20-%20Where%20No%20Man%20Has%20Gone%20Before.mp4"},
+    {n:"1x03 Corbomite Maneuver",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x03%20-%20The%20Corbomite%20Maneuver.mp4"},
+    {n:"1x04 Mudd's Women",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x04%20-%20Mudd%27s%20Women.mp4"},
+    {n:"1x05 The Enemy Within",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x05%20-%20The%20Enemy%20Within.mp4"},
+    {n:"1x06 The Man Trap",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x06%20-%20The%20Man%20Trap.mp4"},
+    {n:"1x07 The Naked Time",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x07%20-%20The%20Naked%20Time.mp4"},
+    {n:"1x08 Charlie X",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x08%20-%20Charlie%20X.mp4"},
+    {n:"1x09 Balance of Terror",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x09%20-%20Balance%20of%20Terror.mp4"},
+    {n:"1x10 Little Girls Made of",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x10%20-%20What%20are%20Little%20Girls%20Made%20of.mp4"},
+    {n:"1x11 Dagger of the Mind",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x11%20-%20Dagger%20of%20the%20Mind.mp4"},
+    {n:"1x12 Miri",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x12%20-%20Miri.mp4"},
+    {n:"1x13 Conscience of King",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x13%20-%20The%20Conscience%20of%20the%20King.mp4"},
+    {n:"1x14 The Galileo Seven",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x14%20-%20The%20Galileo%20Seven.mp4"},
+    {n:"1x15 Court Martial",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x15%20-%20Court%20Martial.mp4"},
+    {n:"1x16 The Menagerie Pt I",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x16%20-%20The%20Menagerie%20-%20Part%20I.mp4"},
+    {n:"1x17 The Menagerie Pt II",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x17%20-%20The%20Menagerie%20-%20Part%20II.mp4"},
+    {n:"1x18 Shore Leave",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x18%20-%20Shore%20Leave.mp4"},
+    {n:"1x19 Squire of Gothos",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x19%20-%20The%20Squire%20of%20Gothos.mp4"},
+    {n:"1x20 Arena",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x20%20-%20Arena.mp4"},
+    {n:"1x21 Alternative Factor",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x21%20-%20The%20Alternative%20Factor.mp4"},
+    {n:"1x22 Tomorrow is Yesterday",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x22%20-%20Tomorrow%20is%20Yesterday.mp4"},
+    {n:"1x23 Return of Archons",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x23%20-%20The%20Return%20of%20the%20Archons.mp4"},
+    {n:"1x24 Taste of Armageddon",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x24%20-%20A%20Taste%20of%20Armageddon.mp4"},
+    {n:"1x25 Space Seed",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x25%20-%20Space%20Seed.mp4"},
+    {n:"1x26 This Side of Paradise",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x26%20-%20This%20Side%20of%20Paradise.mp4"},
+    {n:"1x27 Devil in the Dark",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x27%20-%20The%20Devil%20in%20the%20Dark.mp4"},
+    {n:"1x28 Errand of Mercy",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x28%20-%20Errand%20of%20Mercy.mp4"},
+    {n:"1x29 City on the Edge",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x29%20-%20The%20City%20on%20the%20Edge%20of%20Forever.mp4"},
+    {n:"1x30 Operation Annihilate!",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x30%20-%20Operation%20Annihilate%21.mp4"},
+    {n:"2x01 Catspaw",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x01%20-%20Catspaw.mp4"},
+    {n:"2x02 Metamorphosis",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x02%20-%20Metamorphosis.mp4"},
+    {n:"2x03 Friday's Child",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x03%20-%20Friday%27s%20Child.mp4"},
+    {n:"2x04 Who Mourns for Adonais",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x04%20-%20Who%20Mourns%20for%20Adonais.mp4"},
+    {n:"2x05 Amok Time",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x05%20-%20Amok%20Time.mp4"},
+    {n:"2x06 Doomsday Machine",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x06%20-%20The%20Doomsday%20Machine.mp4"},
+    {n:"2x07 Wolf in the Fold",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x07%20-%20Wolf%20in%20the%20Fold.mp4"},
+    {n:"2x08 The Changeling",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x08%20-%20The%20Changeling.mp4"},
+    {n:"2x09 The Apple",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x09%20-%20The%20Apple.mp4"},
+    {n:"2x10 Mirror, Mirror",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x10%20-%20Mirror%2C%20Mirror.mp4"},
+    {n:"2x11 The Deadly Years",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x11%20-%20The%20Deadly%20Years.mp4"},
+    {n:"2x12 I, Mudd",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x12%20-%20I%2C%20Mudd.mp4"},
+    {n:"2x13 Trouble With Tribbles",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x13%20-%20The%20Trouble%20With%20Tribbles.mp4"},
+    {n:"2x14 Bread and Circuses",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x14%20-%20Bread%20and%20Circuses.mp4"},
+    {n:"2x15 Journey to Babel",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x15%20-%20Journey%20to%20Babel.mp4"},
+    {n:"2x16 Private Little War",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x16%20-%20A%20Private%20Little%20War.mp4"},
+    {n:"2x17 Gamesters of Triskelion",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x17%20-%20The%20Gamesters%20of%20Triskelion.mp4"},
+    {n:"2x18 Obsession",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x18%20-%20Obsession.mp4"},
+    {n:"2x19 Immunity Syndrome",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x19%20-%20The%20Immunity%20Syndrome.mp4"},
+    {n:"2x20 Piece of the Action",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x20%20-%20A%20Piece%20of%20the%20Action.mp4"},
+    {n:"2x21 By Any Other Name",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x21%20-%20By%20Any%20Other%20Name.mp4"},
+    {n:"2x22 Return to Tomorrow",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x22%20-%20Return%20to%20Tomorrow.mp4"},
+    {n:"2x23 Patterns of Force",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x23%20-%20Patterns%20of%20Force%20%281%29.mp4"},
+    {n:"2x24 The Ultimate Computer",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x24%20-%20The%20Ultimate%20Computer.mp4"},
+    {n:"2x25 The Omega Glory",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x25%20-%20The%20Omega%20Glory.mp4"},
+    {n:"2x26 Assignment Earth",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x26%20-%20Assignment%20Earth.mp4"},
+    {n:"3x01 Spectre of the Gun",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x01%20-%20Spectre%20of%20the%20Gun.mp4"},
+    {n:"3x02 Elaan of Troyius",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x02%20-%20Elaan%20of%20Troyius.mp4"},
+    {n:"3x03 The Paradise Syndrome",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x03%20-%20The%20Paradise%20Syndrome.mp4"},
+    {n:"3x04 Enterprise Incident",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x04%20-%20The%20Enterprise%20Incident.mp4"},
+    {n:"3x05 Children Shall Lead",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x05%20-%20And%20the%20Children%20Shall%20Lead.mp4"},
+    {n:"3x06 Spock's Brain",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x06%20-%20Spock%27s%20Brain.mp4"},
+    {n:"3x07 Truth no Beauty",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x07%20-%20Is%20There%20in%20Truth%20no%20Beauty.mp4"},
+    {n:"3x08 The Empath",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x08%20-%20The%20Empath.mp4"},
+    {n:"3x09 The Tholian Web",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x09%20-%20The%20Tholian%20Web.mp4"},
+    {n:"3x10 For the World Is Hollow",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x10%20-%20For%20the%20World%20Is%20Hollow%20and%20I%20Have%20Touched%20the%20Sky.mp4"},
+    {n:"3x11 Day of the Dove",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x11%20-%20day%20of%20the%20Dove.mp4"},
+    {n:"3x12 Plato's Stepchildren",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x12%20-%20Plato%27s%20Stepchildren.mp4"},
+    {n:"3x13 Wink of an Eye",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x13%20-%20Wink%20of%20an%20Eye.mp4"},
+    {n:"3x14 That Which Survives",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x14%20-%20That%20Which%20Survives.mp4"},
+    {n:"3x15 Your Last Battlefield",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x15%20-%20Let%20That%20Be%20Your%20Last%20Battlefield.mp4"},
+    {n:"3x16 Whom Gods Destroy",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x16%20-%20Whom%20Gods%20Destroy.mp4"},
+    {n:"3x17 The Mark of Gideon",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x17%20-%20The%20Mark%20of%20Gideon.mp4"},
+    {n:"3x18 The Lights of Zetar",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x18%20-%20The%20Lights%20of%20Zetar.mp4"},
+    {n:"3x19 The Cloud Minders",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x19%20-%20The%20Cloud%20Minders.mp4"},
+    {n:"3x20 The Way to Eden",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x20%20-%20The%20Way%20to%20Eden.mp4"},
+    {n:"3x21 Requiem for Methuselah",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x21%20-%20Requiem%20for%20Methuselah.mp4"},
+    {n:"3x22 The Savage Curtain",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x22%20-%20The%20Savage%20Curtain.mp4"},
+    {n:"3x23 All Our Yesterdays",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x23%20-%20All%20Our%20Yesterdays.mp4"},
+    {n:"3x24 Turnabout Intruder",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x24%20-%20Turnabout%20Intruder.mp4"}
+];
+
+const ch2 = [
+    {n:"Cosmos - Shores of the Cosmic Ocean",u:"https://archive.org/download/cosmos_1980/COSMOS_01.mp4"},
+    {n:"Nova 1994-02-28 In Search of Human Origins, The Story of Lucy",u:"https://archive.org/download/nova_collection/Nova%201994-02-28%20In%20Search%20of%20Human%20Origins%2C%20The%20Story%20of%20Lucy.ia.mp4"},
+    {n:"Nova 1994-03-01 In Search of Human Origins, Surviving in Africa",u:"https://archive.org/download/nova_collection/Nova%201994-03-01%20In%20Search%20of%20Human%20Origins%2C%20Surviving%20in%20Africa.ia.mp4"},
+    {n:"Nova 1994-03-02 In Search of Human Origins, The Creative Revolution",u:"https://archive.org/download/nova_collection/Nova%201994-03-02%20In%20Search%20of%20Human%20Origins%2C%20The%20Creative%20Revolution.ia.mp4"},
+    {n:"Nova 1994-12-27 In Search of the First Language",u:"https://archive.org/download/nova_collection/Nova%201994-12-27%20In%20Search%20of%20the%20First%20Language.ia.mp4"},
+    {n:"Nova 2011-11-02 The Fabric of the Cosmos What is Space",u:"https://archive.org/download/nova_collection/Nova%202011-11-02%20The%20Fabric%20of%20the%20Cosmos%20What%20is%20Space.ia.mp4"},
+    {n:"Nova 2011-11-09 The Fabric of the Cosmos The Illusion of Time",u:"https://archive.org/download/nova_collection/Nova%202011-11-09%20The%20Fabric%20of%20the%20Cosmos%20The%20Illusion%20of%20Time.ia.mp4"},
+    {n:"Nova 2011-11-16 The Fabric of the Cosmos Quantum Leap",u:"https://archive.org/download/nova_collection/Nova%202011-11-16%20The%20Fabric%20of%20the%20Cosmos%20Quantum%20Leap.ia.mp4"},
+    {n:"Nova 2011-11-23 The Fabric of the Cosmos Universe or Multiverse",u:"https://archive.org/download/nova_collection/Nova%202011-11-23%20The%20Fabric%20of%20the%20Cosmos%20Universe%20or%20Multiverse.ia.mp4"},
+    {n:"Cosmos — 01 — The Shores of the Cosmic Ocean (Carl Sagan, 1980)",u:"https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2001%20The%20Shores%20of%20the%20Cosmic%20Ocean.ia.mp4"},
+    {n:"Cosmos — 02 — One Voice in the Cosmic Fugue (Carl Sagan, 1980)",u:"https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2002%20One%20Voice%20in%20the%20Cosmic%20Fugue.ia.mp4"},
+    {n:"Cosmos — 03 — Harmony of the Worlds (Carl Sagan, 1980)",u:"https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2003%20Harmony%20of%20the%20Worlds.ia.mp4"},
+    {n:"Cosmos — 04 — Heaven and Hell (Carl Sagan, 1980)",u:"https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2004%20Heaven%20and%20Hell.ia.mp4"},
+    {n:"Cosmos — 05 — Blues for a Red Planet (Carl Sagan, 1980)",u:"https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2005%20Blues%20for%20a%20Red%20Planet.ia.mp4"},
+    {n:"Cosmos — 06 — Travellers' Tales (Carl Sagan, 1980)",u:"https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2006%20Travellers%27%20Tales.ia.mp4"},
+    {n:"Cosmos — 07 — The Backbone of Night (Carl Sagan, 1980)",u:"https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2007%20The%20Backbone%20of%20Night.ia.mp4"},
+    {n:"Cosmos — 08 — Journeys in Space and Time (Carl Sagan, 1980)",u:"https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2008%20Journeys%20in%20Space%20and%20Time.ia.mp4"},
+    {n:"Cosmos — 09 — The Lives of the Stars (Carl Sagan, 1980)",u:"https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2009%20The%20Lives%20of%20the%20Stars.ia.mp4"},
+    {n:"Cosmos — 10 — The Edge of Forever (Carl Sagan, 1980)",u:"https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2010%20The%20Edge%20of%20Forever.ia.mp4"},
+    {n:"Cosmos — 11 — The Persistence of Memory (Carl Sagan, 1980)",u:"https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2011%20The%20Persistence%20of%20Memory.ia.mp4"},
+    {n:"Cosmos — 12 — Encyclopaedia Galactica (Carl Sagan, 1980)",u:"https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2012%20Encyclopaedia%20Galactica.ia.mp4"},
+    {n:"Cosmos — 13 — Who Speaks for Earth (Carl Sagan, 1980)",u:"https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2013%20Who%20Speaks%20for%20Earth.ia.mp4"}
+];
+
+const ch3 = [
+    {n:"Godzilla (1998)",u:"https://archive.org/download/My-Favorite-Movies_202503/Godzilla%20%281998%29.mp4"},
+    {n:"Godzilla (2014)",u:"https://archive.org/download/My-Favorite-Movies_202503/Godzilla%20%282014%29.mp4"},
+    {n:"Godzilla King of The Monsters",u:"https://archive.org/download/My-Favorite-Movies_202503/Godzilla%20King%20of%20The%20Monsters.mp4"},
+    {n:"Godzilla Vs Kong (2021)",u:"https://archive.org/download/My-Favorite-Movies_202503/Godzilla%20Vs%20Kong%20%282021%29.mp4"},
+    {n:"Godzilla Vs Kong 2 The New Empire",u:"https://archive.org/download/My-Favorite-Movies_202503/Godzilla%20Vs%20Kong%202%20The%20New%20Empire.mp4"},
+    {n:"Godzilla vs The Sea Monster (1966)",u:"https://archive.org/download/RecurringDinosaurInfestationFilms/7.GodzillaVsTheSeaMonster1966.mp4"},
+    {n:"Godzilla vs Monster Zero (1965)",u:"https://archive.org/download/RecurringDinosaurInfestationFilms/6.GodzillaVsMonsterZero1965.mp4"},
+    {n:"Mothra vs Godzilla (1964)",u:"https://archive.org/download/RecurringDinosaurInfestationFilms/5.MothraVsGodzilla1964.mp4"},
+    {n:"Godzilla 1985",u:"https://archive.org/download/RecurringDinosaurInfestationFilms/16.Godzilla1985.mp4"}
+];
+
+const ch4 = [
+    {n:"The Love Bug (1968)",u:"https://archive.org/download/My-Favorite-Movies_202503/%281968%29%20The%20Love%20Bug.mp4"},
+    {n:"Rush Hour 3",u:"https://archive.org/download/My-Favorite-Movies_202503/Rush%20Hour%203.mp4"},
+    {n:"Star Wars Ep 1",u:"https://archive.org/download/My-Favorite-Movies_202503/Star%20Wars%20Episode%201%20The%20Phantom%20Menace.mp4"},
+    {n:"Tron (1982)",u:"https://archive.org/download/My-Favorite-Movies_202503/Tron%20%281982%29.mp4"},
+    {n:"The Amazing Spider-man",u:"https://archive.org/download/My-Favorite-Movies_202503/Spider-man%204%20The%20Amazing%20Spider-man.mp4"},
+    {n:"Jurassic Park Lost World",u:"https://archive.org/download/My-Favorite-Movies_202503/Jurassic%20Park%202%20The%20Lost%20World.mp4"},
+    {n:"Twister",u:"https://archive.org/download/My-Favorite-Movies_202503/Twister.mp4"},
+    {n:"Godzilla (2014)",u:"https://archive.org/download/My-Favorite-Movies_202503/Godzilla%20%282014%29.mp4"}
+];
+
+const ch5 = [
+    {n:"Herbie Rides Again",u:"https://archive.org/download/My-Favorite-Movies_202503/%281974%29%20Herbie%20Rides%20Again.mp4"},
+    {n:"Christmas Vacation",u:"https://archive.org/download/My-Favorite-Movies_202503/National%20Lampoon%27s%20Christmas%20Vacation.mp4"},
+    {n:"Star Wars Ep 2",u:"https://archive.org/download/My-Favorite-Movies_202503/Star%20Wars%20Episode%202%20Attack%20Of%20The%20Clones.mp4"},
+    {n:"Tron Legacy",u:"https://archive.org/download/My-Favorite-Movies_202503/Tron%20%282010%29%20Tron%20Legacy.mp4"},
+    {n:"Amazing Spider-man 2",u:"https://archive.org/download/My-Favorite-Movies_202503/Spider-man%205%20The%20Amazing%20Spider-man%202.mp4"},
+    {n:"Jurassic Park 3",u:"https://archive.org/download/My-Favorite-Movies_202503/Jurassic%20Park%203.mp4"},
+    {n:"Atlantis Lost Empire",u:"https://archive.org/download/My-Favorite-Movies_202503/Atlantis%20%282001%29%20The%20Lost%20Empire.mp4"},
+    {n:"Godzilla King of The Monsters",u:"https://archive.org/download/My-Favorite-Movies_202503/Godzilla%20King%20of%20The%20Monsters.mp4"}
+];
+
+const ch6 = [
+    {n:"Herbie Monte Carlo",u:"https://archive.org/download/My-Favorite-Movies_202503/%281977%29%20Herbie%20Goes%20To%20Monte%20Carlo.mp4"},
+    {n:"E.T. The Extra Terrestrial",u:"https://archive.org/download/My-Favorite-Movies_202503/E.T%20The%20Extra%20Terrestrial.mp4"},
+    {n:"Star Wars Ep 3",u:"https://archive.org/download/My-Favorite-Movies_202503/Star%20Wars%20Episode%203%20Revenge%20Of%20The%20Sith.mp4"},
+    {n:"Tron Ares",u:"https://archive.org/download/My-Favorite-Movies_202503/Tron%20%282025%29%20Tron%20Ares.mp4"},
+    {n:"Spider-man Homecoming",u:"https://archive.org/download/My-Favorite-Movies_202503/Spider-man%206%20Homecoming.mp4"},
+    {n:"Jurassic World (2015)",u:"https://archive.org/download/My-Favorite-Movies_202503/Jurassic%20World%20%282015%29.mp4"},
+    {n:"Atlantis 2 Milo's Return",u:"https://archive.org/download/My-Favorite-Movies_202503/Atlantis%202%20Milo%27s%20Return.mp4"},
+    {n:"Godzilla Vs Kong (2021)",u:"https://archive.org/download/My-Favorite-Movies_202503/Godzilla%20Vs%20Kong%20%282021%29.mp4"}
+];
+
+const ch7 = [
+    {n:"Herbie Goes Bananas",u:"https://archive.org/download/My-Favorite-Movies_202503/%281980%29%20Herbie%20Goes%20Bananas.mp4"},
+    {n:"Mars Needs Moms",u:"https://archive.org/download/My-Favorite-Movies_202503/Mars%20Needs%20Moms.mp4"},
+    {n:"Star Wars Ep 4",u:"https://archive.org/download/My-Favorite-Movies_202503/Star%20Wars%20Episode%204%20A%20New%20Hope.mp4"},
+    {n:"Iron Man (2008)",u:"https://archive.org/download/My-Favorite-Movies_202503/Iron%20Man%20%282008%29.mp4"},
+    {n:"Spider-man Far From Home",u:"https://archive.org/download/My-Favorite-Movies_202503/Spider-man%207%20Far%20From%20Home.mp4"},
+    {n:"Jurassic World Fallen Kingdom",u:"https://archive.org/download/My-Favorite-Movies_202503/Jurassic%20World%202%20Fallen%20Kingdom.mp4"},
+    {n:"Red vs Blue Restoration",u:"https://archive.org/download/My-Favorite-Movies_202503/Red%20vs%20Blue%20Restoration.mp4"},
+    {n:"Godzilla Vs Kong 2 The New Empire",u:"https://archive.org/download/My-Favorite-Movies_202503/Godzilla%20Vs%20Kong%202%20The%20New%20Empire.mp4"}
+];
+
+const ch8 = [
+    {n:"The Love Bug (1997)",u:"https://archive.org/download/My-Favorite-Movies_202503/%281997%29%20The%20Love%20Bug.mp4"},
+    {n:"Robots",u:"https://archive.org/download/My-Favorite-Movies_202503/Robots.mp4"},
+    {n:"Star Wars Ep 5",u:"https://archive.org/download/My-Favorite-Movies_202503/Star%20Wars%20Episode%205%20The%20Empire%20Strikes%20Back.mp4"},
+    {n:"Iron Man 2",u:"https://archive.org/download/My-Favorite-Movies_202503/Iron%20Man%202.mp4"},
+    {n:"Spider-man No Way Home",u:"https://archive.org/download/My-Favorite-Movies_202503/Spider-man%208%20No%20Way%20Home.mp4"},
+    {n:"Jurassic World Dominion",u:"https://archive.org/download/My-Favorite-Movies_202503/Jurassic%20World%203%20Dominion.mp4"},
+    {n:"Big Ass Spider",u:"https://archive.org/download/My-Favorite-Movies_202503/Big%20Ass%20Spider.mp4"}
+];
+
+const ch9 = [
+    {n:"Herbie Fully Loaded",u:"https://archive.org/download/My-Favorite-Movies_202503/%282005%29%20Herbie%20Fully%20Loaded.mp4"},
+    {n:"Princess and the Frog",u:"https://archive.org/download/My-Favorite-Movies_202503/The%20Princess%20and%20the%20Frog.mp4"},
+    {n:"Star Wars Ep 6",u:"https://archive.org/download/My-Favorite-Movies_202503/Star%20Wars%20Episode%206%20Return%20of%20the%20Jedi.mp4"},
+    {n:"Iron Man 3",u:"https://archive.org/download/My-Favorite-Movies_202503/Iron%20Man%203.mp4"},
+    {n:"Venom (2018)",u:"https://archive.org/download/My-Favorite-Movies_202503/Venom%20%282018%29.mp4"},
+    {n:"Jurassic World Rebirth",u:"https://archive.org/download/My-Favorite-Movies_202503/Jurassic%20World%204%20Rebirth.mp4"},
+    {n:"Eight Legged Freaks",u:"https://archive.org/download/My-Favorite-Movies_202503/Eight%20Legged%20Freaks.mp4"}
+];
+
+const ch10 = [
+    {n:"The Wizard of Oz",u:"https://archive.org/download/My-Favorite-Movies_202503/The%20Wizard%20of%20Oz.mp4"},
+    {n:"Road To El Dorado",u:"https://archive.org/download/My-Favorite-Movies_202503/The%20Road%20To%20El%20Dorado.mp4"},
+    {n:"Star Wars Ep 7",u:"https://archive.org/download/My-Favorite-Movies_202503/Star%20Wars%20Episode%207%20The%20Force%20Awakens.mp4"},
+    {n:"Spider-man (2002)",u:"https://archive.org/download/My-Favorite-Movies_202503/Spider-man%20%282002%29.mp4"},
+    {n:"Venom Let There Be Carnage",u:"https://archive.org/download/My-Favorite-Movies_202503/Venom%20Let%20There%20Be%20Carnage.mp4"},
+    {n:"Into The Storm",u:"https://archive.org/download/My-Favorite-Movies_202503/Into%20The%20Storm.mp4"},
+    {n:"Little Shop Of Horrors",u:"https://archive.org/download/My-Favorite-Movies_202503/Little%20Shop%20Of%20Horrors%20%281986%29.mp4"}
+];
+
+const ch11 = [
+    {n:"Rush Hour 1",u:"https://archive.org/download/My-Favorite-Movies_202503/Rush%20Hour%201.mp4"},
+    {n:"Halo 4 Forward Unto Dawn",u:"https://archive.org/download/My-Favorite-Movies_202503/Halo%204%20Forward%20Unto%20Dawn.mp4"},
+    {n:"Star Wars Ep 8",u:"https://archive.org/download/My-Favorite-Movies_202503/Star%20Wars%20Episode%208%20The%20Last%20Jedi.mp4"},
+    {n:"Spider-man 2",u:"https://archive.org/download/My-Favorite-Movies_202503/Spider-man%202.mp4"},
+    {n:"Venom The Last Dance",u:"https://archive.org/download/My-Favorite-Movies_202503/Venom%20The%20Last%20Dance.mp4"},
+    {n:"Day After Tomorrow",u:"https://archive.org/download/My-Favorite-Movies_202503/The%20Day%20After%20Tomarrow.mp4"},
+    {n:"World War Z",u:"https://archive.org/download/My-Favorite-Movies_202503/World%20War%20Z.mp4"}
+];
+
+const ch12 = [
+    {n:"Rush Hour 2",u:"https://archive.org/download/My-Favorite-Movies_202503/Rush%20Hour%202.mp4"},
+    {n:"Ready Player One",u:"https://archive.org/download/My-Favorite-Movies_202503/Ready%20Player%20One.mp4"},
+    {n:"Star Wars Ep 9",u:"https://archive.org/download/My-Favorite-Movies_202503/Star%20Wars%20Episode%209%20The%20Rise%20of%20Skywalker.mp4"},
+    {n:"Spider-man 3",u:"https://archive.org/download/My-Favorite-Movies_202503/Spider-man%203.mp4"},
+    {n:"Jurassic Park (1993)",u:"https://archive.org/download/My-Favorite-Movies_202503/Jurassic%20Park%20%281993%29.mp4"},
+    {n:"Titanic (1997)",u:"https://archive.org/download/My-Favorite-Movies_202503/Titanic%20%281997%29.mp4"},
+    {n:"Godzilla (1998)",u:"https://archive.org/download/My-Favorite-Movies_202503/Godzilla%20%281998%29.mp4"}
+];
+
+const categories = [
+    {name:"1",label:"STAR TREK",kind:"video",content:ch1},
+    {name:"2",label:"SCIENCE",kind:"video",content:ch2},
+    {name:"3",label:"GODZILLA & MONSTERS",kind:"video",content:ch3},
+    {name:"4",label:"FEATURE FILMS 1",kind:"video",content:ch4},
+    {name:"5",label:"FEATURE FILMS 2",kind:"video",content:ch5},
+    {name:"6",label:"FEATURE FILMS 3",kind:"video",content:ch6},
+    {name:"7",label:"FEATURE FILMS 4",kind:"video",content:ch7},
+    {name:"8",label:"FEATURE FILMS 5",kind:"video",content:ch8},
+    {name:"9",label:"FEATURE FILMS 6",kind:"video",content:ch9},
+    {name:"10",label:"FEATURE FILMS 7",kind:"video",content:ch10},
+    {name:"11",label:"FEATURE FILMS 8",kind:"video",content:ch11},
+    {name:"12",label:"FEATURE FILMS 9",kind:"video",content:ch12}
+];
+// ==========================================
+// V188 TV ENGINE LOGIC & AUDIO SYNTHESIS
+// ==========================================
+// V188 groups preserved source arrays by content type. IDs derive from URLs within each public channel.
+let currentCategoryIndex=0, currentVideoIndex=0, tunerDeg=0, categoryDeg=0;
+let audioCtx=null, audioScopeFrame=null, radioStars=[], osdTimeout;
+const player=document.getElementById('player'), audioPlayer=document.getElementById('audio-player');
+const volumeKnob=document.getElementById('volume-knob'), audioStage=document.getElementById('audio-stage'), audioScope=document.getElementById('audio-scope');
+const MAX_RETRIES=4, STORAGE_KEY='cline-tv-v188';
+let session=null, generation=0, transitionTimer=null, lastSave=0;
+const failedSelections=new Set();
+function readPreferences(){
+    try { const p=JSON.parse(localStorage.getItem(STORAGE_KEY)); return p && typeof p==='object' && !Array.isArray(p) ? p : {}; } catch { return {}; }
 }
-function changeProgram(step){play(programIndex+step)}
-function changeChannel(step){previousChannel=channelIndex;channelIndex=(channelIndex+step+channels.length)%channels.length;programIndex=0;play(0)}
-function previous(){const t=channelIndex;channelIndex=previousChannel;previousChannel=t;programIndex=0;play(0)}
-function toggleFavorite(){if(favorites.has(channelIndex))favorites.delete(channelIndex);else favorites.add(channelIndex);save();updateFavorite();flash(favorites.has(channelIndex)?"CHANNEL FAVORITE":"FAVORITE REMOVED")}
-function updateFavorite(){const b=document.getElementById("favorite-btn");b.setAttribute("aria-pressed",favorites.has(channelIndex));document.getElementById("channel-readout").textContent=channelIndex+1}
-function restart(){player.currentTime=0;player.play().catch(()=>{});flash("START OVER")}
-function share(){const u=new URL(location.href);u.hash="ch="+(channelIndex+1)+"&p="+programIndex;document.getElementById("share-url").value=u.href;document.getElementById("share-dialog").showModal()}
-function openFromHash(){const m=location.hash.match(/ch=(\d+)&p=(\d+)/);if(m){channelIndex=Math.max(0,Math.min(channels.length-1,Number(m[1])-1));programIndex=Math.max(0,Number(m[2]));}}
-function ticks(id,count){const r=document.getElementById(id);r.innerHTML="";const step=360/count;for(let i=0;i<count;i++){const t=document.createElement("i");t.className="tick";t.style.transform="translate(-50%,-50%) rotate("+i*step+"deg) translateY(calc(-1 * var(--tick-radius,60px)))";r.appendChild(t)}}
-ticks("program-ring",100);ticks("channel-ring",12);
-function renderGuide(){const q=document.getElementById("guide-search").value.toLowerCase(), sel=document.getElementById("guide-channel").value;let rows=[];channels.forEach((ch,ci)=>{if(sel!=="all"&&Number(sel)!==ci)return;ch.items.forEach((x,pi)=>{if(q&&!((x.title+" "+ch.name+" "+(ci+1)).toLowerCase().includes(q)))return;rows.push({x,ci,pi})})});document.getElementById("guide-count").textContent=rows.length+" programs";document.getElementById("guide-results").innerHTML=rows.map(r=>'<button class="guide-item" data-ci="'+r.ci+'" data-pi="'+r.pi+'"><span class="guide-ch">CH '+String(r.ci+1).padStart(2,"0")+'</span><span>'+r.x.title+'<br><small>'+channels[r.ci].name+'</small></span><span>▶</span></button>').join("");document.querySelectorAll(".guide-item").forEach(b=>b.onclick=()=>{channelIndex=Number(b.dataset.ci);programIndex=Number(b.dataset.pi);document.getElementById("guide").close();play(programIndex)})}
-function openGuide(){const s=document.getElementById("guide-channel");s.innerHTML='<option value="all">All channels</option>'+channels.map((c,i)=>'<option value="'+i+'">CH '+String(i+1).padStart(2,"0")+" — "+c.name+"</option>").join("");document.getElementById("guide-search").value="";renderGuide();document.getElementById("guide").showModal()}
-document.getElementById("program-knob").onclick=()=>changeProgram(1);document.getElementById("program-knob").oncontextmenu=e=>(e.preventDefault(),changeProgram(-1));
-document.getElementById("channel-knob").onclick=()=>changeChannel(1);document.getElementById("channel-knob").oncontextmenu=e=>(e.preventDefault(),changeChannel(-1));
-document.getElementById("guide-btn").onclick=openGuide;document.getElementById("restart-btn").onclick=restart;document.getElementById("favorite-btn").onclick=toggleFavorite;document.getElementById("previous-btn").onclick=previous;document.getElementById("share-btn").onclick=share;
-document.getElementById("fs-btn").onclick=()=>{if(!document.fullscreenElement)document.getElementById("cabinet").requestFullscreen?.();else document.exitFullscreen?.()};
-document.getElementById("volume").oninput=e=>{volume=Number(e.target.value);player.volume=volume;save()};
-document.getElementById("guide-close").onclick=()=>document.getElementById("guide").close();document.getElementById("share-close").onclick=()=>document.getElementById("share-dialog").close();
-document.getElementById("copy-share").onclick=async()=>{try{await navigator.clipboard.writeText(document.getElementById("share-url").value);document.getElementById("share-status").textContent="Copied."}catch{document.getElementById("share-url").select();document.getElementById("share-status").textContent="Select and copy the link."}};
-document.getElementById("guide-search").oninput=renderGuide;document.getElementById("guide-channel").onchange=renderGuide;
-document.addEventListener("keydown",e=>{if(["INPUT","SELECT","TEXTAREA"].includes(e.target.tagName))return;if(e.key==="ArrowUp"){e.preventDefault();changeProgram(1)}else if(e.key==="ArrowDown"){e.preventDefault();changeProgram(-1)}else if(e.key==="PageDown"){e.preventDefault();changeChannel(1)}else if(e.key==="PageUp"){e.preventDefault();changeChannel(-1)}else if(e.key==="p"||e.key==="P"){previous()}});
-openFromHash();play(programIndex);
+const preferences=readPreferences();
+if(!preferences.channels || typeof preferences.channels!=='object' || Array.isArray(preferences.channels)) preferences.channels={};
+if(!Array.isArray(preferences.favorites)) preferences.favorites=[];
+function persist(){try{localStorage.setItem(STORAGE_KEY,JSON.stringify(preferences));}catch{/* Playback works when browser storage is unavailable. */}}
+function savedChannel(c){const p=preferences.channels[c.name];return p && typeof p==='object'?p:{};}
+function validTime(t){return typeof t==='number' && Number.isFinite(t) && t>=0 ? t : 0;}
+function itemId(url){return hashText(url).toString(36)+'-'+hashText([...url].reverse().join('')).toString(36);}
+const programIds=categories.map(c=>{const occurrences=new Map();return c.content.map(item=>{const base=item.id || itemId(item.u),n=(occurrences.get(base)||0)+1;occurrences.set(base,n);return base+'-'+n;});});
+function selectionKey(ci,vi){return categories[ci].name+':'+programIds[ci][vi];}
+function currentItem(){return categories[currentCategoryIndex].content[currentVideoIndex];}
+function active(s=session){return s && session===s && s.generation===generation;}
+function savePosition(){
+    if(!active() || !session.ready) return;
+    preferences.channels[categories[session.ci].name]={id:programIds[session.ci][session.vi],time:session.media.ended?0:validTime(session.media.currentTime)};
+    preferences.lastChannel=categories[session.ci].name;
+    persist();
+}
+function cancelSession(){
+    clearTimeout(transitionTimer);transitionTimer=null;
+    if(session){session.controller.abort();clearTimeout(session.retryTimer);clearTimeout(session.watchdog);clearTimeout(session.skipTimer);stopPictureCheck(session);}
+    generation++;session=null;
+    player.pause();audioPlayer.pause();
+    player.removeAttribute('src');audioPlayer.removeAttribute('src');player.load();audioPlayer.load();
+    stopAudioScope();
+}
+// Short display labels only: original catalog titles and media URLs stay intact.
+function displayTitle(title, limit=52){
+    const clean=String(title).replace(/\.(mp4|mkv|avi|mp3|m4a)$/i,'')
+        .replace(/\[(?:\d{3,4}p|HD|SD|BluRay|WEB-DL|x264|x265)\]/gi,'')
+        .replace(/_/g,' ').replace(/\s+/g,' ').trim();
+    return clean.length>limit?clean.slice(0,limit-1).trimEnd()+'…':clean;
+}
+function updateTitleDisplay(text, transient=false){
+    const c=categories[currentCategoryIndex],o=document.getElementById('osd');
+    const [nextCI,nextVI]=nextSelection();
+    const title=displayTitle(currentItem().n);
+    const notice=text && text!==currentItem().n ? `\n${text}` : '';
+    o.textContent=`CH ${c.name} · ${currentVideoIndex+1}/${c.content.length}\n${title}${notice}\nNEXT: ${displayTitle(categories[nextCI].content[nextVI].n,46)}`;
+    o.style.opacity='1';clearTimeout(osdTimeout);
+    // Every on-screen message fades, including loading and buffering notices.
+    osdTimeout=setTimeout(()=>o.style.opacity='0',3500);
+}
+function setStatus(text, transient=false){document.getElementById('playback-status').textContent=text;updateTitleDisplay(text || currentItem().n,transient);}
+function updateNow(){
+    const c=categories[currentCategoryIndex];
+    document.getElementById('now-title').textContent=`CH ${c.name} · ${c.label} · ${currentVideoIndex+1}/${c.content.length} — ${currentItem().n}`;
+    const [ci,vi]=nextSelection();
+    document.getElementById('next-title').textContent=`Up next: ${categories[ci].content[vi].n} · CH ${categories[ci].name}`;
+    document.getElementById('favorite').setAttribute('aria-pressed',String(preferences.favorites.includes(c.name)));
+    tunerDeg=currentVideoIndex*(360/c.content.length);categoryDeg=currentCategoryIndex*(360/categories.length);
+    document.getElementById('t-knob').style.transform=`rotate(${tunerDeg}deg)`;
+    document.getElementById('s-knob').style.transform=`rotate(${categoryDeg}deg)`;
+    document.getElementById('channel-readout').textContent=c.name;
+    document.getElementById('s-knob').setAttribute('title',`CH ${c.name} · ${c.label} · click next / swipe up or down`);
+    document.getElementById('t-knob').setAttribute('title',`${currentVideoIndex+1} / ${c.content.length} · ${currentItem().n}`);
+}
+function nextSelection(){return currentVideoIndex+1<categories[currentCategoryIndex].content.length?[currentCategoryIndex,currentVideoIndex+1]:[(currentCategoryIndex+1)%categories.length,0];}
+function choose(ci,vi,{time,delay=true,automatic=false}={}){
+    if(!categories[ci]?.content[vi])return;
+    savePosition();cancelSession();
+    currentCategoryIndex=ci;currentVideoIndex=vi;
+    if(!automatic)failedSelections.clear();
+    const saved=savedChannel(categories[ci]);
+    const resume=time===undefined && saved.id===programIds[ci][vi]?validTime(saved.time):validTime(time);
+    preferences.lastChannel=categories[ci].name;persist();updateNow();
+    document.getElementById('retry-play').hidden=true;document.getElementById('resume-play').hidden=true;
+    const overlay=document.getElementById('static-overlay');overlay.classList.toggle('active',delay);
+    setStatus('Loading…');
+    const token=generation;
+    const launch=()=>{if(token!==generation)return;overlay.classList.remove('active');loadAndPlay(resume);};
+    if(delay){playStaticSound();transitionTimer=setTimeout(launch,350);}else launch();
+}
+// Metadata establishes duration/resume state, NOT whether video has decoded.
+// Picture checks wait for five seconds of visible, advancing playback.
+const PICTURE_GRACE_SECONDS=5, PICTURE_POLL_MS=500;
+function stopPictureCheck(s){
+    clearTimeout(s.pictureTimer);s.pictureTimer=null;
+    if(s.frameRequest!=null && typeof s.media.cancelVideoFrameCallback==='function'){
+        try{s.media.cancelVideoFrameCallback(s.frameRequest);}catch{/* Source may already be unloaded. */}
+    }
+    s.frameRequest=null;
+}
+function confirmPicture(s){
+    if(!active(s)||s.rejecting||s.pictureSeen)return;
+    s.pictureSeen=true;stopPictureCheck(s);
+    s.retries=0;failedSelections.clear();
+    if(s.isPlaying)setStatus('',true);
+}
+function watchPictureFrame(s){
+    if(!active(s)||s.audioMode||s.pictureSeen||s.rejecting||s.frameRequest!=null)return;
+    if(typeof s.media.requestVideoFrameCallback!=='function')return;
+    try{
+        s.frameApi=true;
+        s.frameRequest=s.media.requestVideoFrameCallback((_now,frame)=>{
+            s.frameRequest=null;
+            if(!active(s)||s.rejecting)return;
+            if(frame.width>0&&frame.height>0)confirmPicture(s);
+            else watchPictureFrame(s);
+        });
+    }catch{s.frameApi=false;}
+}
+function skipNoPicture(s){
+    if(!active(s)||s.rejecting)return;
+    // A playing event must not cancel this decision or its separate skip timer.
+    s.rejecting=true;s.ready=false;stopPictureCheck(s);
+    clearTimeout(s.watchdog);clearTimeout(s.retryTimer);s.retryTimer=null;
+    s.media.pause();stopAudioScope();
+    failedSelections.add(selectionKey(s.ci,s.vi));
+    const total=categories.reduce((n,c)=>n+c.content.length,0);
+    if(failedSelections.size>=total){
+        setStatus('No playable picture found. Choose a program or press Retry.');
+        document.getElementById('retry-play').hidden=false;return;
+    }
+    setStatus('No video picture — skipping this TV entry.');
+    s.skipTimer=setTimeout(()=>{
+        if(active(s)){
+            const [ci,vi]=nextSelection();choose(ci,vi,{time:0,automatic:true});
+        }
+    },700);
+}
+function checkPicture(s){
+    if(!active(s)||s.audioMode||s.rejecting||s.pictureSeen)return;
+    clearTimeout(s.pictureTimer);s.pictureTimer=null;
+    const media=s.media,dimensions=media.videoWidth>0&&media.videoHeight>0;
+    let frameCountsAvailable=false;
+    if(dimensions&&typeof media.getVideoPlaybackQuality==='function'){
+        try{
+            const q=media.getVideoPlaybackQuality();
+            frameCountsAvailable=Number.isFinite(q.totalVideoFrames)&&Number.isFinite(q.droppedVideoFrames);
+            if(frameCountsAvailable&&q.totalVideoFrames>q.droppedVideoFrames){confirmPicture(s);return;}
+        }catch{/* Fall back only when a frame counter is unavailable. */}
+    }
+    if(dimensions&&!s.frameApi&&!frameCountsAvailable&&media.readyState>=2){confirmPicture(s);return;}
+    const now=performance.now(),position=validTime(media.currentTime);
+    const advancing=s.isPlaying&&!media.paused&&!media.ended&&!media.seeking&&!document.hidden&&media.readyState>=2;
+    if(advancing&&s.pictureClock!==null&&s.pictureTime!==null){
+        // Clamp timer gaps and ignore seek jumps; loading/paused/hidden time is not playback.
+        const elapsed=Math.max(0,Math.min(1000,now-s.pictureClock))/1000;
+        const delta=position-s.pictureTime,rate=Number.isFinite(media.playbackRate)&&media.playbackRate>0?media.playbackRate:1;
+        if(delta>0&&delta<=Math.max(2,elapsed*rate*3))s.pictureElapsed+=Math.min(elapsed,delta/rate);
+    }
+    s.pictureClock=advancing?now:null;s.pictureTime=advancing?position:null;
+    if(s.pictureElapsed>=PICTURE_GRACE_SECONDS){skipNoPicture(s);return;}
+    if(s.isPlaying)s.pictureTimer=setTimeout(()=>checkPicture(s),PICTURE_POLL_MS);
+}
+function loadAndPlay(time=0,retries=0){
+    const item=currentItem();
+    if(item.internal){
+        player.style.display='none';audioPlayer.style.display='none';stopAudioScope();
+        const overlay=document.getElementById('internal-show');
+        document.getElementById('internal-show-title').textContent=item.n;
+        const scroll=document.getElementById('internal-show-scroll');
+        scroll.textContent=item.showText||'';
+        scroll.style.animation='none';void scroll.offsetWidth;scroll.style.animation='';
+        overlay.classList.add('active');
+        const controller=new AbortController();
+        const s={generation,ci:currentCategoryIndex,vi:currentVideoIndex,media:{pause(){},paused:false,ended:false,currentTime:0,duration:Number(item.duration)||8},audioMode:false,controller,retryTimer:null,watchdog:null,skipTimer:null,pictureTimer:null,frameRequest:null,frameApi:false,pictureSeen:true,pictureElapsed:0,pictureClock:null,pictureTime:null,isPlaying:true,rejecting:false,retries,ready:true,resume:0};
+        session=s;clearTimeout(transitionTimer);
+        transitionTimer=setTimeout(()=>{if(active(s)){overlay.classList.remove('active');const [ci,vi]=nextSelection();choose(ci,vi,{time:0,automatic:true});}},Math.max(1,Number(item.duration)||8)*1000);
+        return;
+    }
+    document.getElementById('internal-show').classList.remove('active');
+    const audioMode=categories[currentCategoryIndex].kind==='audio';
+    const media=audioMode?audioPlayer:player;
+    player.style.display=audioMode?'none':'block';audioPlayer.style.display=audioMode?'block':'none';
+    if(audioMode)startAudioScope(item);else stopAudioScope();
+    const s={generation,ci:currentCategoryIndex,vi:currentVideoIndex,media,audioMode,
+        controller:new AbortController(),retryTimer:null,watchdog:null,skipTimer:null,
+        pictureTimer:null,frameRequest:null,frameApi:false,pictureSeen:false,pictureElapsed:0,
+        pictureClock:null,pictureTime:null,isPlaying:false,rejecting:false,retries,ready:false,resume:time};
+    session=s;
+    const listen=(event,fn)=>media.addEventListener(event,()=>{if(active(s)&&!s.rejecting)fn();},{signal:s.controller.signal});
+    listen('loadedmetadata',()=>{
+        // Always restore bookkeeping here, even while dimensions are zero or unavailable.
+        s.ready=true;
+        if(s.resume>0){
+            const end=media.duration,target=Number.isFinite(end)&&s.resume>=end-2?0:s.resume;
+            try{media.currentTime=target;}catch{setStatus('Saved position unavailable; starting here.');}
+        }
+        s.resume=0;
+    });
+    listen('loadeddata',()=>{watchPictureFrame(s);checkPicture(s);});
+    listen('playing',()=>{
+        s.isPlaying=true;
+        clearTimeout(s.watchdog);clearTimeout(s.retryTimer);s.retryTimer=null;
+        if(audioMode||s.pictureSeen){s.retries=0;failedSelections.clear();}
+        document.getElementById('resume-play').hidden=true;document.getElementById('retry-play').hidden=true;
+        setStatus(audioMode||s.pictureSeen?'':'Checking video picture…',true);
+        watchPictureFrame(s);checkPicture(s);savePosition();
+    });
+    const suspendPicture=()=>{s.isPlaying=false;s.pictureClock=null;s.pictureTime=null;clearTimeout(s.pictureTimer);s.pictureTimer=null;};
+    listen('waiting',()=>{suspendPicture();if(!media.paused){setStatus('Buffering…');armWatchdog(s);}});
+    listen('stalled',()=>{suspendPicture();if(!media.paused){setStatus('Waiting for the media source…');armWatchdog(s);}});
+    listen('pause',()=>{suspendPicture();clearTimeout(s.watchdog);savePosition();});
+    listen('seeking',()=>{s.pictureClock=null;s.pictureTime=null;});
+    listen('play',()=>armWatchdog(s));
+    listen('timeupdate',()=>{checkPicture(s);if(Date.now()-lastSave>5000){lastSave=Date.now();savePosition();}});
+    listen('volumechange',()=>{preferences.volume=media.volume;preferences.muted=media.muted;volumeKnob.value=String(media.volume);persist();});
+    listen('ended',()=>{stopPictureCheck(s);savePosition();const [ci,vi]=nextSelection();choose(ci,vi,{time:0,automatic:true});});
+    listen('error',()=>{suspendPicture();handleArchiveError(s);});
+    document.addEventListener('visibilitychange',()=>{if(active(s)){s.pictureClock=null;s.pictureTime=null;}},{signal:s.controller.signal});
+    media.volume=Number(volumeKnob.value);media.muted=preferences.muted===true;
+    media.src=item.u;media.load();watchPictureFrame(s);attemptPlay(s);
+}
+function armWatchdog(s){clearTimeout(s.watchdog);s.watchdog=setTimeout(()=>{if(active(s)&&!s.media.paused)handleArchiveError(s);},30000);}
+function attemptPlay(s){
+    if(!active(s)||s.rejecting)return;
+    armWatchdog(s);
+    const promise=s.media.play();
+    if(promise)promise.catch(e=>{
+        if(!active(s)||e.name==='AbortError')return;
+        if(e.name==='NotAllowedError'){clearTimeout(s.watchdog);setStatus('Tap to play — your browser needs a button press.');document.getElementById('resume-play').hidden=false;}
+        else handleArchiveError(s);
+    });
+}
+function handleArchiveError(s){
+    if(!active(s)||s.rejecting||s.retryTimer!==null)return;
+    clearTimeout(s.watchdog);
+    if(s.retries<MAX_RETRIES){
+        s.retries++;setStatus(`Source unavailable — retry ${s.retries}/${MAX_RETRIES} in 4 seconds.`);
+        document.getElementById('retry-play').hidden=false;
+        s.retryTimer=setTimeout(()=>{
+            if(!active(s))return;
+            const resume=s.ready?validTime(s.media.currentTime):s.resume,retries=s.retries;
+            s.controller.abort();clearTimeout(s.watchdog);clearTimeout(s.skipTimer);stopPictureCheck(s);s.media.pause();loadAndPlay(resume,retries);
+        },4000);
+    }else{
+        failedSelections.add(selectionKey(s.ci,s.vi));
+        const total=categories.reduce((n,c)=>n+c.content.length,0);
+        if(failedSelections.size>=total){setStatus('Sources unavailable. Choose a program or press Retry.');document.getElementById('retry-play').hidden=false;return;}
+        setStatus('Source unavailable — moving to the next program.');
+        s.retryTimer=setTimeout(()=>{if(active(s)){const [ci,vi]=nextSelection();choose(ci,vi,{time:0,automatic:true});}},2000);
+    }
+}
+function resumeCurrent(){if(active())attemptPlay(session);else retryCurrent();}
+function retryCurrent(){const time=active()?(session.ready?validTime(session.media.currentTime):session.resume):undefined;choose(currentCategoryIndex,currentVideoIndex,{time,delay:false});}
+function restartProgram(){choose(currentCategoryIndex,currentVideoIndex,{time:0,delay:false});}
+function tune(dir){playClickSound();const c=categories[currentCategoryIndex];choose(currentCategoryIndex,(currentVideoIndex+dir+c.content.length)%c.content.length);}
+function selectChannel(ci){
+    if(!Number.isInteger(ci)||ci<0||ci>=categories.length)return;
+    playClickSound();const saved=savedChannel(categories[ci]),vi=Math.max(0,programIds[ci].indexOf(saved.id));choose(ci,vi);
+}
+function changeCategory(dir){selectChannel((currentCategoryIndex+dir+categories.length)%categories.length);}
+function enableKnobSwipe(knob,turn){
+    let start=null,suppressClick=false;
+    knob.style.touchAction='none';
+    knob.addEventListener('pointerdown',e=>{
+        if(e.pointerType==='mouse')return;
+        start={id:e.pointerId,x:e.clientX,y:e.clientY};suppressClick=false;
+        if(knob.setPointerCapture)knob.setPointerCapture(e.pointerId);
+    });
+    knob.addEventListener('pointerup',e=>{
+        if(!start||e.pointerId!==start.id)return;
+        const dx=e.clientX-start.x,dy=e.clientY-start.y;start=null;
+        if(Math.max(Math.abs(dx),Math.abs(dy))<24)return;
+        suppressClick=true;e.preventDefault();turn(Math.abs(dy)>=Math.abs(dx)?(dy<0?1:-1):(dx>0?1:-1));
+    });
+    knob.addEventListener('pointercancel',()=>{start=null;suppressClick=false;});
+    knob.addEventListener('click',e=>{if(suppressClick){e.preventDefault();e.stopImmediatePropagation();suppressClick=false;}},true);
+}
+function changeVolume(v){v=Math.min(1,Math.max(0,Number(v)));if(!Number.isFinite(v))return;preferences.volume=v;preferences.muted=false;volumeKnob.value=String(v);if(active()){session.media.volume=v;session.media.muted=false;}persist();}
+function toggleFavorite(){const c=categories[currentCategoryIndex].name;preferences.favorites=preferences.favorites.includes(c)?preferences.favorites.filter(x=>x!==c):[...preferences.favorites,c];persist();updateNow();}
+function openGuide(){renderGuide();document.getElementById('guide').showModal();document.getElementById('guide-search').focus();}
+const GUIDE_BATCH=100;
+let guideMatches=[],guideShown=0;
+function renderGuide(){
+    const q=document.getElementById('guide-search').value.trim().toLowerCase(),filter=document.getElementById('guide-channel').value;
+    document.getElementById('guide-results').replaceChildren();guideMatches=[];guideShown=0;
+    categories.forEach((c,ci)=>{
+        if(filter==='favorites'&&!preferences.favorites.includes(c.name) || filter!=='all'&&filter!=='favorites'&&filter!==c.name)return;
+        c.content.forEach((item,vi)=>{if(!q||`${item.n} ${c.label}`.toLowerCase().includes(q))guideMatches.push({ci,vi});});
+    });
+    showMoreGuide();
+}
+function showMoreGuide(){
+    const results=document.getElementById('guide-results'),fragment=document.createDocumentFragment();
+    const end=Math.min(guideShown+GUIDE_BATCH,guideMatches.length);
+    for(;guideShown<end;guideShown++){
+        const {ci,vi}=guideMatches[guideShown],c=categories[ci],item=c.content[vi],b=document.createElement('button');
+        b.textContent=`CH ${c.name} · ${vi+1}. ${item.n}`;
+        b.setAttribute('aria-current',String(ci===currentCategoryIndex&&vi===currentVideoIndex));
+        b.addEventListener('click',()=>{document.getElementById('guide').close();choose(ci,vi,{delay:false});});fragment.appendChild(b);
+    }
+    results.appendChild(fragment);
+    document.getElementById('guide-more').hidden=guideShown>=guideMatches.length;
+    document.getElementById('guide-count').textContent=guideMatches.length?`${guideMatches.length} programs · Showing ${guideShown} · Choose a title to play`:'No matching programs.';
+}
+function shareSelection(){
+    const hash=new URLSearchParams({ch:categories[currentCategoryIndex].name,program:programIds[currentCategoryIndex][currentVideoIndex],t:String(Math.floor(active()&&session.ready?validTime(session.media.currentTime):active()?session.resume:0))});
+    const url=new URL(location.href);url.hash=hash.toString();
+    document.getElementById('share-url').value=url.href;document.getElementById('share-status').textContent='Copy this link, or select it and copy manually.';
+    document.getElementById('share-dialog').showModal();
+}
+async function copyShareLink(){const input=document.getElementById('share-url');try{await navigator.clipboard.writeText(input.value);document.getElementById('share-status').textContent='Link copied.';}catch{input.focus();input.select();document.getElementById('share-status').textContent='Select and copy the link above.';}}
+function parseSelection(hash){
+    const p=new URLSearchParams(hash.replace(/^#/,''));if(!p.has('ch')&&!p.has('program'))return null;
+    const ci=categories.findIndex(c=>c.name===p.get('ch'));if(ci<0)return false;
+    const vi=programIds[ci].indexOf(p.get('program'));if(vi<0)return false;
+    const t=Number(p.get('t')||0);return{ci,vi,time:validTime(t)};
+}
+let playerOrientationLocked=false;
+function releasePlayerOrientation(){
+    if(!playerOrientationLocked)return;
+    playerOrientationLocked=false;
+    try{window.screen?.orientation?.unlock?.();}catch{/* The browser may already have released it. */}
+}
+async function requestLandscape(){
+    const orientation=window.screen?.orientation;
+    if(!orientation?.lock)return;
+    try{
+        await orientation.lock('landscape');playerOrientationLocked=true;
+        if(!document.fullscreenElement&&!player.webkitDisplayingFullscreen)releasePlayerOrientation();
+    }catch{/* Native video controls and physical rotation remain available. */}
+}
+document.addEventListener('fullscreenchange',()=>{if(!document.fullscreenElement)releasePlayerOrientation();});
+player.addEventListener('webkitendfullscreen',releasePlayerOrientation);
+async function toggleFS(){
+    try{
+        if(document.fullscreenElement){await document.exitFullscreen();releasePlayerOrientation();return;}
+        if(player.webkitDisplayingFullscreen&&player.webkitExitFullscreen){player.webkitExitFullscreen();releasePlayerOrientation();return;}
+        const phone=!!window.matchMedia?.('(pointer: coarse)').matches && !!window.matchMedia?.('(max-width: 900px), (max-height: 600px)').matches;
+        const videoMode=categories[currentCategoryIndex].kind==='video';
+        // Use the same native video view as the in-video enlarge button on phones.
+        // Call the Apple API directly during the tap, before awaiting anything.
+        if(phone&&videoMode&&player.webkitEnterFullscreen){player.webkitEnterFullscreen();void requestLandscape();return;}
+        const target=phone&&videoMode?player:document.getElementById('cabinet');
+        if(target.requestFullscreen){await target.requestFullscreen();if(phone)await requestLandscape();return;}
+        if(videoMode&&player.webkitEnterFullscreen){player.webkitEnterFullscreen();return;}
+        setStatus('Full screen is unavailable in this browser.');
+    }catch{setStatus('Full screen is unavailable. Use the player controls.');}
+}
+function playClickSound() {
+    if(!audioCtx) {
+        const AudioContext = window.AudioContext || window.webkitAudioContext;
+        if(!AudioContext) return;
+        audioCtx = new AudioContext();
+    }
+    if(audioCtx.state === 'suspended') audioCtx.resume().catch(()=>{});
+    const osc = audioCtx.createOscillator();
+    const gain = audioCtx.createGain();
+    osc.type = 'square';
+    osc.frequency.setValueAtTime(150, audioCtx.currentTime);
+    osc.frequency.exponentialRampToValueAtTime(40, audioCtx.currentTime + 0.05);
+    gain.gain.setValueAtTime(Number(volumeKnob.value) * 0.35, audioCtx.currentTime);
+    gain.gain.exponentialRampToValueAtTime(0.01, audioCtx.currentTime + 0.05);
+    osc.connect(gain);
+    gain.connect(audioCtx.destination);
+    osc.start();
+    osc.stop(audioCtx.currentTime + 0.05);
+}
+
+function playStaticSound() {
+    if(!audioCtx) return;
+    const n = audioCtx.sampleRate * 0.35;
+    const b = audioCtx.createBuffer(1, n, audioCtx.sampleRate);
+    const d = b.getChannelData(0);
+    for(let i=0; i<n; i++) d[i] = Math.random() * 2 - 1;
+    const s = audioCtx.createBufferSource();
+    const f = audioCtx.createBiquadFilter();
+    const g = audioCtx.createGain();
+    s.buffer = b; f.type = 'lowpass'; f.frequency.value = 2500;
+    g.gain.value = Number(volumeKnob.value) * 0.2;
+    s.connect(f); f.connect(g); g.connect(audioCtx.destination);
+    s.start();
+}
+
+function makeTicks(id, count) {
+    const r = document.getElementById(id);
+    r.innerHTML = '';
+    const step = 360 / count;
+    for(let i=0; i<count; i++){
+        const t = document.createElement('div');
+        t.className = 'tick';
+        t.style.transform = `translate(-50%,-50%) rotate(${i*step}deg) translateY(calc(-1 * var(--tick-radius,60px)))`;
+        r.appendChild(t);
+    }
+}
+
+const AUDIO_EXTENSIONS = ['.mp3','.m4a','.aac','.ogg','.oga','.wav','.flac','.opus'];
+function isAudio(url) {
+    const p = String(url).split(/[?#]/,1)[0].toLowerCase();
+    return AUDIO_EXTENSIONS.some(x => p.endsWith(x));
+}
+
+function seededRandom(seed){let v=seed>>>0;return()=>{v=(1664525*v+1013904223)>>>0;return v/4294967296}}
+function hashText(t){let h=2166136261;for(let i=0;i<t.length;i++){h^=t.charCodeAt(i);h=Math.imul(h,16777619)}return h>>>0}
+function buildRadioStars(title){const rnd=seededRandom(hashText(title||'CLINE RADIO'));radioStars=[];for(let i=0;i<90;i++)radioStars.push({x:rnd(),y:rnd(),size:.45+rnd()*1.6,phase:rnd()*Math.PI*2,drift:.25+rnd()*.75})}
+function resizeAudioScope(){const r=audioScope.getBoundingClientRect(),d=Math.min(window.devicePixelRatio||1,2),w=Math.max(1,Math.floor(r.width*d)),h=Math.max(1,Math.floor(r.height*d));if(audioScope.width!==w||audioScope.height!==h){audioScope.width=w;audioScope.height=h}return{width:w,height:h,dpr:d}}
+function drawAudioScope(){if(!audioStage.classList.contains('active')){audioScopeFrame=null;return}const c=audioScope.getContext('2d'),{width:w,height:h,dpr:d}=resizeAudioScope(),t=Number.isFinite(audioPlayer.currentTime)?audioPlayer.currentTime:0,m=(!audioPlayer.paused&&!audioPlayer.ended)?1:.08,now=performance.now()/1000;c.clearRect(0,0,w,h);for(const s of radioStars){const tw=.32+.68*Math.abs(Math.sin(now*s.drift+s.phase));c.beginPath();c.fillStyle=`rgba(170,255,220,${.15+tw*.55})`;c.arc(s.x*w,((s.y+now*s.drift*.0015)%1)*h,s.size*d,0,Math.PI*2);c.fill()}const cx=w/2,cy=h*.5,span=w*.37,bars=48,bw=Math.max(1.2*d,span/bars*.55);c.strokeStyle='rgba(0,255,120,.20)';c.lineWidth=Math.max(1,d);c.beginPath();c.moveTo(cx-span,cy);c.lineTo(cx+span,cy);c.stroke();for(let i=0;i<bars;i++){const q=i/(bars-1),voice=Math.abs(Math.sin(t*6.2+i*.73))*.46+Math.abs(Math.sin(t*2.3+i*.31))*.29+Math.abs(Math.sin(t*11.7+i*1.07))*.25,env=.4+.6*Math.abs(Math.sin(t*.91+i*.04)),edge=Math.pow(Math.sin(q*Math.PI),.42),amp=h*.22*edge*(.1+m*voice*env),x=(i+.5)*(span/bars),a=.3+.6*edge;c.fillStyle=`rgba(0,255,120,${a})`;c.fillRect(cx+x,cy-amp,bw,amp*2);c.fillRect(cx-x-bw,cy-amp,bw,amp*2)}const p=(.5+.5*Math.sin(t*3.4))*m;c.strokeStyle=`rgba(0,255,150,${.22+p*.42})`;c.lineWidth=Math.max(1.2*d,2);c.beginPath();c.arc(cx,cy,(24+p*34)*d,0,Math.PI*2);c.stroke();audioScopeFrame=requestAnimationFrame(drawAudioScope)}
+function startAudioScope(item){buildRadioStars(item.n);audioStage.classList.add('active');if(audioScopeFrame===null)audioScopeFrame=requestAnimationFrame(drawAudioScope)}
+function stopAudioScope(){audioStage.classList.remove('active');if(audioScopeFrame!==null){cancelAnimationFrame(audioScopeFrame);audioScopeFrame=null}}
+
+window.addEventListener('resize',()=>{if(audioStage.classList.contains('active'))resizeAudioScope()});
+
+
+window.addEventListener('pagehide',savePosition);
+document.addEventListener('visibilitychange',()=>{if(document.hidden)savePosition();});
+window.addEventListener('hashchange',()=>{const p=parseSelection(location.hash);if(p)choose(p.ci,p.vi,{time:p.time,delay:false});else if(p===false)setStatus('That shared program is not in this catalog. Open Guide to choose one.');});
+window.onload=()=>{
+    makeTicks('t-ring',100);makeTicks('s-ring',categories.length);
+    enableKnobSwipe(document.getElementById('t-knob'),tune);enableKnobSwipe(document.getElementById('s-knob'),changeCategory);
+    const volume=preferences.volume;volumeKnob.value=String(typeof volume==='number'&&Number.isFinite(volume)&&volume>=0&&volume<=1?volume:0.7);
+    categories.forEach(c=>{const o=document.createElement('option');o.value=c.name;o.textContent=`CH ${c.name} · ${c.label}`;document.getElementById('guide-channel').appendChild(o);});
+    const p=parseSelection(location.hash);
+    if(p)choose(p.ci,p.vi,{time:p.time,delay:false});
+    else {const ci=Math.max(0,categories.findIndex(c=>c.name===preferences.lastChannel)),saved=savedChannel(categories[ci]);choose(ci,Math.max(0,programIds[ci].indexOf(saved.id)),{delay:false});if(p===false)setStatus('Shared program not found. Open Guide to choose one.');}
+};
+
 </script>
-</body></html>
+</body>
+</html>
