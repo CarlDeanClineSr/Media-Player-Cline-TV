@@ -1,0 +1,28 @@
+# CH 12 — MONSTER MOVIES
+
+- Godzilla (1998) — https://archive.org/download/My-Favorite-Movies_202503/Godzilla%20%281998%29.mp4
+- Godzilla (2014) — https://archive.org/download/My-Favorite-Movies_202503/Godzilla%20%282014%29.mp4
+- Godzilla King of The Monsters — https://archive.org/download/My-Favorite-Movies_202503/Godzilla%20King%20of%20The%20Monsters.mp4
+- Godzilla Vs Kong (2021) — https://archive.org/download/My-Favorite-Movies_202503/Godzilla%20Vs%20Kong%20%282021%29.mp4
+- Godzilla Vs Kong 2 The New Empire — https://archive.org/download/My-Favorite-Movies_202503/Godzilla%20Vs%20Kong%202%20The%20New%20Empire.mp4
+- The Grim Reaper (1976) — https://archive.org/download/the-grim-reaper-1976/The Grim Reaper (1976).mp4
+- A Ghost Story for Christmas — Lot No. 249 (2023) — https://archive.org/download/a-ghost-story-for-christmas-1971/A Ghost Story for Christmas (1971 - 78, 2005 - 13, 18 -)/17 Lot No. 249 (2023).mp4
+- Santa Claus Conquers The Martians ( 1964) HD VERSION — https://archive.org/download/y-2-mate.is-santa-claus-conquers-the-martians-1964-adventure-comedy-sci-fi-chris/Y2Mate.is - Santa Claus Conquers the Martians (1964) Adventure, Comedy, Sci-Fi, Christmas Movie-L4SZyeUGSM4-1080p-1639926880939.ia.mp4
+- Godzilla vs The Sea Monster (1966) — https://archive.org/download/RecurringDinosaurInfestationFilms/7.GodzillaVsTheSeaMonster1966.mp4
+- Godzilla vs Monster Zero (1965) — https://archive.org/download/RecurringDinosaurInfestationFilms/6.GodzillaVsMonsterZero1965.mp4
+- Mothra vs Godzilla (1964) — https://archive.org/download/RecurringDinosaurInfestationFilms/5.MothraVsGodzilla1964.mp4
+- Ghidorah The Three Headed Monster (1964) — https://archive.org/download/RecurringDinosaurInfestationFilms/4.GhidorahTheThreeHeadedMonster1964.mp4
+- Godzilla 1985 — https://archive.org/download/RecurringDinosaurInfestationFilms/16.Godzilla1985.mp4
+- Godzilla (1956) — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/1.Godzilla-KingOfTheMonsters1956.mp4
+- Godzilla Raids Again (1955) — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/2.GodzillaRaidsAgain1955.mp4
+- King Kong vs Godzilla — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/3.KingKongVs.Godzilla1962.mp4
+- Mothra vs Godzilla — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/4.MothraVs.Godzilla1964.mp4
+- Ghidorah 3-Headed Monster — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/5.GhidorahTheThree-headedMonster1964.mp4
+- Ebirah Horror of Deep — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/7.EbirahHorrorOfTheDeep1966.mp4
+- Son of Godzilla — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/8.SonOfGodzilla1967.mp4
+- Godzilla vs Hedorah — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/11.GodzillaVs.Hedorah1971.mp4
+- Godzilla vs Gigan — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/12.GodzillaVs.Gigan1972.mp4
+- Godzilla vs Megalon — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/13.GodzillaVs.Megalon1973.mp4
+- Godzilla vs Mechagodzilla — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/14.GodzillaVs.Mechagodzilla1974.mp4
+- Terror of Mechagodzilla — https://dn720704.ca.archive.org/0/items/RecurringDinosaurInfestationFilms/15.TerrorOfMechagodzilla1975.mp4
+- Horror Express — https://archive.org/download/Horror_Express/Horror_Express.mp4
