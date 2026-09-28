@@ -1,0 +1,354 @@
+# CH 20 — CARTOONS · ROCKY & BULLWINKLE
+
+- Rocky & Bullwinkle & Friends - Extra 1 - Bullwinkle Puppet Intros — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Extras/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20Extra%201%20-%20Bullwinkle%20Puppet%20Intros.mp4
+- Rocky & Bullwinkle & Friends - Extra 1 - Dear Bullwinkle — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Extras/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20Extra%201%20-%20Dear%20Bullwinkle.mp4
+- Rocky & Bullwinkle & Friends - Extra 1 - Scuba Commercial (with Pencil Test) — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Extras/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20Extra%201%20-%20Scuba%20Commercial%20%28with%20Pencil%20Test%29.mp4
+- Rocky & Bullwinkle & Friends - Extra 2 - Bowling Commercial (with Pencil Test) — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Extras/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20Extra%202%20-%20Bowling%20Commercial%20%28with%20Pencil%20Test%29.mp4
+- Rocky & Bullwinkle & Friends - Extra 2 - Classic TV Promo Spots — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Extras/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20Extra%202%20-%20Classic%20TV%20Promo%20Spots.mp4
+- Rocky & Bullwinkle & Friends - Extra 2 - The Best of Bullwinkle Follies — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Extras/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20Extra%202%20-%20The%20Best%20of%20Bullwinkle%20Follies.mp4
+- Rocky & Bullwinkle & Friends - Extra 3 - Pogo Commercial (with Pencil Test) — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Extras/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20Extra%203%20-%20Pogo%20Commercial%20%28with%20Pencil%20Test%29.mp4
+- Rocky & Bullwinkle & Friends - Extra 3 - Rocky & Bullwinkle Savings Stamp Club — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Extras/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20Extra%203%20-%20Rocky%20%26%20Bullwinkle%20Savings%20Stamp%20Club.mp4
+- Rocky & Bullwinkle & Friends - Extra 3 - Season 4 Sneak Peek — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Extras/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20Extra%203%20-%20Season%204%20Sneak%20Peek.mp4
+- Rocky & Bullwinkle & Friends - Extra 4 - June Foray Interview — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Extras/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20Extra%204%20-%20June%20Foray%20Interview.mp4
+- Rocky & Bullwinkle & Friends - Extra 4 - Sneak Peak Season 2 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Extras/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20Extra%204%20-%20Sneak%20Peak%20Season%202.mp4
+- Rocky & Bullwinkle & Friends - Extra 5 - Boris Badenov, Master of Disguise — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Extras/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20Extra%205%20-%20Boris%20Badenov%2C%20Master%20of%20Disguise.mp4
+- Rocky & Bullwinkle & Friends - Extra 5 - Season 3 Sneak Peak — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Extras/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20Extra%205%20-%20Season%203%20Sneak%20Peak.mp4
+- Rocky & Bullwinkle & Friends - Extra 6 - Moosecalls, The Best of Bullwinkle Sings — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Extras/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20Extra%206%20-%20Moosecalls%2C%20The%20Best%20of%20Bullwinkle%20Sings.mp4
+- Rocky & Bullwinkle & Friends - Extra - Goof Gas Attack Outtake — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Extras/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20Extra%20-%20Goof%20Gas%20Attack%20Outtake.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E49 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/RockyAndBullwinkleAndFriends-S02E49.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S03E02 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/RockyAndBullwinkleAndFriends-S03E02.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S03E03 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/RockyAndBullwinkleAndFriends-S03E03.mp4
+- Rocky & Bullwinkle & Friends - S01E01 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E01.mp4
+- Rocky & Bullwinkle & Friends - S01E02 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E02.mp4
+- Rocky & Bullwinkle & Friends - S01E03 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E03.mp4
+- Rocky & Bullwinkle & Friends - S01E04 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E04.mp4
+- Rocky & Bullwinkle & Friends - S01E05 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E05.mp4
+- Rocky & Bullwinkle & Friends - S01E06 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E06.mp4
+- Rocky & Bullwinkle & Friends - S01E07 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E07.mp4
+- Rocky & Bullwinkle & Friends - S01E08 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E08.mp4
+- Rocky & Bullwinkle & Friends - S01E09 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E09.mp4
+- Rocky & Bullwinkle & Friends - S01E10 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E10.mp4
+- Rocky & Bullwinkle & Friends - S01E11 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E11.mp4
+- Rocky & Bullwinkle & Friends - S01E12 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E12.mp4
+- Rocky & Bullwinkle & Friends - S01E13 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E13.mp4
+- Rocky & Bullwinkle & Friends - S01E14 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E14.mp4
+- Rocky & Bullwinkle & Friends - S01E15 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E15.mp4
+- Rocky & Bullwinkle & Friends - S01E16 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E16.mp4
+- Rocky & Bullwinkle & Friends - S01E17 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E17.mp4
+- Rocky & Bullwinkle & Friends - S01E18 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E18.mp4
+- Rocky & Bullwinkle & Friends - S01E19 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E19.mp4
+- Rocky & Bullwinkle & Friends - S01E20 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E20.mp4
+- Rocky & Bullwinkle & Friends - S01E21 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E21.mp4
+- Rocky & Bullwinkle & Friends - S01E22 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E22.mp4
+- Rocky & Bullwinkle & Friends - S01E23 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E23.mp4
+- Rocky & Bullwinkle & Friends - S01E24 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E24.mp4
+- Rocky & Bullwinkle & Friends - S01E25 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E25.mp4
+- Rocky & Bullwinkle & Friends - S01E26 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-01/Rocky%20%26%20Bullwinkle%20%26%20Friends%20-%20S01E26.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E01 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E01.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E02 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E02.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E03 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E03.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E04 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E04.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E05 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E05.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E06 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E06.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E07 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E07.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E09 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E09.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E10 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E10.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E11 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E11.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E12 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E12.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E13 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E13.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E14 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E14.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E15 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E15.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E16 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E16.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E17 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E17.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E18 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E18.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E19 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E19.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E20 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E20.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E21 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E21.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E22 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E22.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E23 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E23.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E24 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E24.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E25 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E25.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E26 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E26.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E27 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E27.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E28 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E28.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E29 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E29.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E30 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E30.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E31 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E31.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E32 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E32.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E33 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E33.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E34 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E34.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E35 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E35.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E36 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E36.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E37 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E37.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E38 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E38.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E39 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E39.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E40 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E40.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E41 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E41.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E42 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E42.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E43 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E43.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E44 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E44.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E45 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E45.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E46 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E46.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E47 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E47.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E48 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E48.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E50 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E50.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E51 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E51.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S02E52 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S02E52.mp4
+- Rocky & Bullwinkle — RockyAndBullwinkleAndFriends-S03E01 — https://archive.org/download/RockyBullwinkleFriends/RockyAndBullwinkleAndFriends/Season-02/RockyAndBullwinkleAndFriends-S03E01.mp4
+- RockyBullwinkleFriends-S03e04 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e04.mp4
+- RockyBullwinkleFriends-S03e05 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e05.mp4
+- RockyBullwinkleFriends-S03e06 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e06.mp4
+- RockyBullwinkleFriends-S03e07 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e07.mp4
+- RockyBullwinkleFriends-S03e08 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e08.mp4
+- RockyBullwinkleFriends-S03e09 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e09.mp4
+- RockyBullwinkleFriends-S03e10 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e10.mp4
+- RockyBullwinkleFriends-S03e11 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e11.mp4
+- RockyBullwinkleFriends-S03e12 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e12.mp4
+- RockyBullwinkleFriends-S03e13 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e13.mp4
+- RockyBullwinkleFriends-S03e14 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e14.mp4
+- RockyBullwinkleFriends-S03e15 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e15.mp4
+- RockyBullwinkleFriends-S03e16 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e16.mp4
+- RockyBullwinkleFriends-S03e17 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e17.mp4
+- RockyBullwinkleFriends-S03e18 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e18.mp4
+- RockyBullwinkleFriends-S03e19 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e19.mp4
+- RockyBullwinkleFriends-S03e20 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e20.mp4
+- RockyBullwinkleFriends-S03e21 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e21.mp4
+- RockyBullwinkleFriends-S03e22 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e22.mp4
+- RockyBullwinkleFriends-S03e23 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e23.mp4
+- RockyBullwinkleFriends-S03e26 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e26.mp4
+- RockyBullwinkleFriends-S03e27 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e27.mp4
+- RockyBullwinkleFriends-S03e28 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e28.mp4
+- RockyBullwinkleFriends-S03e29 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e29.mp4
+- RockyBullwinkleFriends-S03e30 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e30.mp4
+- RockyBullwinkleFriends-S03e31 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e31.mp4
+- RockyBullwinkleFriends-S03e32 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e32.mp4
+- RockyBullwinkleFriends-S03e33 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S03e33.mp4
+- RockyBullwinkleFriends-S04e01 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S04e01.mp4
+- RockyBullwinkleFriends-S04e02 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S04e02.mp4
+- RockyBullwinkleFriends-S04e03 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S04e03.mp4
+- RockyBullwinkleFriends-S04e04 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S04e04.mp4
+- RockyBullwinkleFriends-S04e05 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S04e05.mp4
+- RockyBullwinkleFriends-S04e06 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S04e06.mp4
+- RockyBullwinkleFriends-S04e07 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S04e07.mp4
+- RockyBullwinkleFriends-S04e08 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S04e08.mp4
+- RockyBullwinkleFriends-S04e10 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S04e10.mp4
+- RockyBullwinkleFriends-S04e11 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S04e11.mp4
+- RockyBullwinkleFriends-S04e12 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S04e12.mp4
+- RockyBullwinkleFriends-S04e13 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S04e13.mp4
+- RockyBullwinkleFriends-S04e14 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S04e14.mp4
+- RockyBullwinkleFriends-S04e15 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S04e15.mp4
+- RockyBullwinkleFriends-S04e16 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S04e16.mp4
+- RockyBullwinkleFriends-S04e17 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S04e17.mp4
+- RockyBullwinkleFriends-S04e18 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S04e18.mp4
+- RockyBullwinkleFriends-S04e19 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S04e19.mp4
+- RockyBullwinkleFriends-S05e01 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e01.mp4
+- RockyBullwinkleFriends-S05e02 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e02.mp4
+- RockyBullwinkleFriends-S05e03 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e03.mp4
+- RockyBullwinkleFriends-S05e04 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e04.mp4
+- RockyBullwinkleFriends-S05e05 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e05.mp4
+- RockyBullwinkleFriends-S05e06 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e06.mp4
+- RockyBullwinkleFriends-S05e07 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e07.mp4
+- RockyBullwinkleFriends-S05e08 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e08.mp4
+- RockyBullwinkleFriends-S05e09 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e09.mp4
+- RockyBullwinkleFriends-S05e10 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e10.mp4
+- RockyBullwinkleFriends-S05e11 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e11.mp4
+- RockyBullwinkleFriends-S05e12 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e12.mp4
+- RockyBullwinkleFriends-S05e13 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e13.mp4
+- RockyBullwinkleFriends-S05e14 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e14.mp4
+- RockyBullwinkleFriends-S05e15 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e15.mp4
+- RockyBullwinkleFriends-S05e16 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e16.mp4
+- RockyBullwinkleFriends-S05e17 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e17.mp4
+- RockyBullwinkleFriends-S05e18 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e18.mp4
+- RockyBullwinkleFriends-S05e19 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e19.mp4
+- RockyBullwinkleFriends-S05e20 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e20.mp4
+- RockyBullwinkleFriends-S05e21 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e21.mp4
+- RockyBullwinkleFriends-S05e22 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e22.mp4
+- RockyBullwinkleFriends-S05e23 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e23.mp4
+- RockyBullwinkleFriends-S05e24 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e24.mp4
+- RockyBullwinkleFriends-S05e25 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e25.mp4
+- RockyBullwinkleFriends-S05e26 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e26.mp4
+- RockyBullwinkleFriends-S05e27 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e27.mp4
+- RockyBullwinkleFriends-S05e28 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e28.mp4
+- RockyBullwinkleFriends-S05e29 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e29.mp4
+- RockyBullwinkleFriends-S05e30 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e30.mp4
+- RockyBullwinkleFriends-S05e31 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e31.mp4
+- RockyBullwinkleFriends-S05e32 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e32.mp4
+- RockyBullwinkleFriends-S05e33 — https://archive.org/download/RockyBullwinkleFriends/RockyBullwinkleFriends-S05e33.mp4
+- Spider-Man (1967) — 1A - The Power Of Dr Octopus — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/1A%20-%20The%20Power%20Of%20Dr.%20Octopus.mp4
+- Spider-Man (1967) — 1B - Sub-Zero For Spidey — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/1B%20-%20Sub-Zero%20For%20Spidey.mp4
+- Spider-Man (1967) — 2A - Where Crawls The Lizard — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/2A%20-%20Where%20Crawls%20The%20Lizard.mp4
+- Spider-Man (1967) — 2B - Electro The Human Lightning Bolt — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/2B%20-%20Electro%20The%20Human%20Lightning%20Bolt.mp4
+- Spider-Man (1967) — 3 - The Menace Of Mysterio — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/3%20-%20The%20Menace%20Of%20Mysterio.mp4
+- Spider-Man (1967) — 4A - The Sky Is Falling — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/4A%20-%20The%20Sky%20Is%20Falling.mp4
+- Spider-Man (1967) — 4B - Captured By J Jonah Jameson — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/4B%20-%20Captured%20By%20J.%20Jonah%20Jameson.mp4
+- Spider-Man (1967) — 5A - Never Step On A Scorpion — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/5A%20-%20Never%20Step%20On%20A%20Scorpion.mp4
+- Spider-Man (1967) — 5B - Sands Of Crime — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/5B%20-%20Sands%20Of%20Crime.mp4
+- Spider-Man (1967) — 6A - Diet Of Destruction — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/6A%20-%20Diet%20Of%20Destruction.mp4
+- Spider-Man (1967) — 6B - The Witching Hour — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/6B%20-%20The%20Witching%20Hour.mp4
+- Spider-Man (1967) — 7A - Kilowatt Kaper — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/7A%20-%20Kilowatt%20Kaper.mp4
+- Spider-Man (1967) — 7B - The Peril Of Parafino — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/7B%20-%20The%20Peril%20Of%20Parafino.mp4
+- Spider-Man (1967) — 8 - Horn Of The Rhino — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/8%20-%20Horn%20Of%20The%20Rhino.mp4
+- Spider-Man (1967) — 9A - The One-Eyed Idol — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/9A%20-%20The%20One-Eyed%20Idol.mp4
+- Spider-Man (1967) — 9B - Fifth Avenue Phantom — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/9B%20-%20Fifth%20Avenue%20Phantom.mp4
+- Spider-Man (1967) — 10A - The Revenge Of Dr Magneto — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/10A%20-%20The%20Revenge%20Of%20Dr.%20Magneto.mp4
+- Spider-Man (1967) — 10B - The Sinister Prime Minister — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/10B%20-%20The%20Sinister%20Prime%20Minister.mp4
+- Spider-Man (1967) — 11A - The Night Of The Villains — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/11A%20-%20The%20Night%20Of%20The%20Villains.mp4
+- Spider-Man (1967) — 11B - Here Comes Trubble — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/11B%20-%20Here%20Comes%20Trubble.mp4
+- Spider-Man (1967) — 12A - Spider-Man Meets Doctor Noah Boddy — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/12A%20-%20Spider-Man%20Meets%20Doctor%20Noah%20Boddy.mp4
+- Spider-Man (1967) — 12B - The Fantastic Fakir — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/12B%20-%20The%20Fantastic%20Fakir.mp4
+- Spider-Man (1967) — 13A - Return Of The Flying Dutchman — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/13A%20-%20Return%20Of%20The%20Flying%20Dutchman.mp4
+- Spider-Man (1967) — 13B - Farewell Performance — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/13B%20-%20Farewell%20Performance.mp4
+- Spider-Man (1967) — 14A - The Golden Rhino — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/14A%20-%20The%20Golden%20Rhino.mp4
+- Spider-Man (1967) — 14B - Blueprint For Crime — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/14B%20-%20Blueprint%20For%20Crime.mp4
+- Spider-Man (1967) — 15A - The Spider And The Fly — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/15A%20-%20The%20Spider%20And%20The%20Fly.mp4
+- Spider-Man (1967) — 15B - The Slippery Doctor Von Schlick — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/15B%20-%20The%20Slippery%20Doctor%20Von%20Schlick.mp4
+- Spider-Man (1967) — 16A - The Vulture's Prey — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/16A%20-%20The%20Vulture%27s%20Prey.mp4
+- Spider-Man (1967) — 16B - The Dark Terrors — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/16B%20-%20The%20Dark%20Terrors.mp4
+- Spider-Man (1967) — 17A - The Terrible Triumph Of Dr Octopus — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/17A%20-%20The%20Terrible%20Triumph%20Of%20Dr.%20Octopus.mp4
+- Spider-Man (1967) — 17B - Magic Malice — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/17B%20-%20Magic%20Malice.mp4
+- Spider-Man (1967) — 18A - Fountain Of Terror — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/18A%20-%20Fountain%20Of%20Terror.mp4
+- Spider-Man (1967) — 18B - Fiddler On The Loose — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/18B%20-%20Fiddler%20On%20The%20Loose.mp4
+- Spider-Man (1967) — 19A - To Catch A Spider — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/19A%20-%20To%20Catch%20A%20Spider.mp4
+- Spider-Man (1967) — 19B - Double Identity — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/19B%20-%20Double%20Identity.mp4
+- Spider-Man (1967) — 20A - Sting Of The Scorpion — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/20A%20-%20Sting%20Of%20The%20Scorpion.mp4
+- Spider-Man (1967) — 20B - Trick Or Treachery — https://archive.org/download/Spider-Man-67-Collection/Season%201%20%281967-1968%29/20B%20-%20Trick%20Or%20Treachery.mp4
+- Spider-Man (1967) — 1 - The Origin Of Spiderman — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/1%20-%20The%20Origin%20Of%20Spiderman.mp4
+- Spider-Man (1967) — 2 - King Pinned — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/2%20-%20King%20Pinned.mp4
+- Spider-Man (1967) — 3 - Swing City — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/3%20-%20Swing%20City.mp4
+- Spider-Man (1967) — 4 - Criminals In The Clouds — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/4%20-%20Criminals%20In%20The%20Clouds.mp4
+- Spider-Man (1967) — 5 - Menace From The Bottom Of The World — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/5%20-%20Menace%20From%20The%20Bottom%20Of%20The%20World.mp4
+- Spider-Man (1967) — 6 - Diamond Dust — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/6%20-%20Diamond%20Dust.mp4
+- Spider-Man (1967) — 7 - Spiderman Battles The Molement — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/7%20-%20Spiderman%20Battles%20The%20Molement.mp4
+- Spider-Man (1967) — 8 - Phantom From The Depths Of Time — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/8%20-%20Phantom%20From%20The%20Depths%20Of%20Time.mp4
+- Spider-Man (1967) — 9 - The Evil Sorcerer — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/9%20-%20The%20Evil%20Sorcerer.mp4
+- Spider-Man (1967) — 10 - Vine — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/10%20-%20Vine.mp4
+- Spider-Man (1967) — 11 - Pardo Presents — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/11%20-%20Pardo%20Presents.mp4
+- Spider-Man (1967) — 12 - Cloud City Of Gold — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/12%20-%20Cloud%20City%20Of%20Gold.mp4
+- Spider-Man (1967) — 13 - Neptune's Nose Cone — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/13%20-%20Neptune%27s%20Nose%20Cone.mp4
+- Spider-Man (1967) — 14 - Home — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/14%20-%20Home.mp4
+- Spider-Man (1967) — 15 - Blotto — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/15%20-%20Blotto.mp4
+- Spider-Man (1967) — 16 - Thunder Rumble — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/16%20-%20Thunder%20Rumble.mp4
+- Spider-Man (1967) — 17 - Spiderman Meets Skyboy — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/17%20-%20Spiderman%20Meets%20Skyboy.mp4
+- Spider-Man (1967) — 18 - Cold Storage — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/18%20-%20Cold%20Storage.mp4
+- Spider-Man (1967) — 19 - To Cage A Spider — https://archive.org/download/Spider-Man-67-Collection/Season%202%20%281968-1969%29/19%20-%20To%20Cage%20A%20Spider.mp4
+- Spider-Man (1967) — 1A - The Winged Thing — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/1A%20-%20The%20Winged%20Thing.mp4
+- Spider-Man (1967) — 1B - Conner's Reptiles — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/1B%20-%20Conner%27s%20Reptiles.mp4
+- Spider-Man (1967) — 2A - Trouble With Snow — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/2A%20-%20Trouble%20With%20Snow.mp4
+- Spider-Man (1967) — 2B - Spiderman Vs Desperado — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/2B%20-%20Spiderman%20Vs.%20Desperado.mp4
+- Spider-Man (1967) — 3A - Sky Harbor — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/3A%20-%20Sky%20Harbor.mp4
+- Spider-Man (1967) — 3B - The Big Brainwasher — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/3B%20-%20The%20Big%20Brainwasher.mp4
+- Spider-Man (1967) — 4A - The Vanishing Doctor Vespasian — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/4A%20-%20The%20Vanishing%20Doctor%20Vespasian.mp4
+- Spider-Man (1967) — 4B - The Scourge Of The Scarf — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/4B%20-%20The%20Scourge%20Of%20The%20Scarf.mp4
+- Spider-Man (1967) — 5A - Super Swami — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/5A%20-%20Super%20Swami.mp4
+- Spider-Man (1967) — 5B - The Birth Of Micro Man — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/5B%20-%20The%20Birth%20Of%20Micro%20Man.mp4
+- Spider-Man (1967) — 6A - Knight Must Fall — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/6A%20-%20Knight%20Must%20Fall.mp4
+- Spider-Man (1967) — 6B - The Devious Dr Dumpty — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/6B%20-%20The%20Devious%20Dr.%20Dumpty.mp4
+- Spider-Man (1967) — 7 - Up From Nowhere — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/7%20-%20Up%20From%20Nowhere.mp4
+- Spider-Man (1967) — 8 - Rollarama — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/8%20-%20Rollarama.mp4
+- Spider-Man (1967) — 9A - Rhino — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/9A%20-%20Rhino.mp4
+- Spider-Man (1967) — 9B - The Madness Of Mysterio — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/9B%20-%20The%20Madness%20Of%20Mysterio.mp4
+- Spider-Man (1967) — 10 - Revolt In The Fifth Dimension — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/10%20-%20Revolt%20In%20The%20Fifth%20Dimension.mp4
+- Spider-Man (1967) — 11 - Specialists And Slaves — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/11%20-%20Specialists%20And%20Slaves.mp4
+- Spider-Man (1967) — 12 - Down To Earth — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/12%20-%20Down%20To%20Earth.mp4
+- Spider-Man (1967) — 13 - Trip To Tomorrow — https://archive.org/download/Spider-Man-67-Collection/Season%203%20%281970%29/13%20-%20Trip%20To%20Tomorrow.mp4
+- Supaidaman — 01 - The Time of Revenge Has Come! Beat Down Iron Cross Group!! — https://archive.org/download/Supaidman/Supaidaman/01%20-%20The%20Time%20of%20Revenge%20Has%20Come%21%20Beat%20Down%20Iron%20Cross%20Group%21%21.mp4
+- Supaidaman — 02 - Mysterious World! The Man Who Follows His Fate — https://archive.org/download/Supaidman/Supaidaman/02%20-%20Mysterious%20World%21%20The%20Man%20Who%20Follows%20His%20Fate.mp4
+- Supaidaman — 03 - Mysterious Thief 001 VS Spider-Man — https://archive.org/download/Supaidman/Supaidaman/03%20-%20Mysterious%20Thief%20001%20VS.%20Spider-Man.mp4
+- Supaidaman — 04 - The Terrifying Half Merman! The Miracle-Calling Silver Thread — https://archive.org/download/Supaidman/Supaidaman/04%20-%20The%20Terrifying%20Half%20Merman%21%20The%20Miracle-Calling%20Silver%20Thread.mp4
+- Supaidaman — 05 - Crash Machine GP-7! The Oath Siblings — https://archive.org/download/Supaidman/Supaidaman/05%20-%20Crash%20Machine%20GP-7%21%20The%20Oath%20Siblings.mp4
+- Supaidaman — 06 - Shuddering Laboratory! Devilish Professor Monster — https://archive.org/download/Supaidman/Supaidaman/06%20-%20Shuddering%20Laboratory%21%20Devilish%20Professor%20Monster.mp4
+- Supaidaman — 07 - Fearful Hit Tune! Song Dancing Murder Rock — https://archive.org/download/Supaidman/Supaidaman/07%20-%20Fearful%20Hit%20Tune%21%20Song%20Dancing%20Murder%20Rock.mp4
+- Supaidaman — 08 - A Very Mysterious Folktale - The Cursed Cat Mound — https://archive.org/download/Supaidman/Supaidaman/08%20-%20A%20Very%20Mysterious%20Folktale%20-%20The%20Cursed%20Cat%20Mound.mp4
+- Supaidaman — 09 - Motion Accessory is a Loveful Beetle Insect Spy — https://archive.org/download/Supaidman/Supaidaman/09%20-%20Motion%20Accessory%20is%20a%20Loveful%20Beetle%20Insect%20Spy.mp4
+- Supaidaman — 10 - To the Flaming Hell - See the Tears of the Snake Woman — https://archive.org/download/Supaidman/Supaidaman/10%20-%20To%20the%20Flaming%20Hell%20-%20See%20the%20Tears%20of%20the%20Snake%20Woman.mp4
+- Supaidaman — 11 - Professor Monster's Ultra Poisoning — https://archive.org/download/Supaidman/Supaidaman/11%20-%20Professor%20Monster%27s%20Ultra%20Poisoning.mp4
+- Supaidaman — 12 - Becoming Splendid - To the Murderous Machine of Transformation — https://archive.org/download/Supaidman/Supaidaman/12%20-%20Becoming%20Splendid%20-%20To%20the%20Murderous%20Machine%20of%20Transformation.mp4
+- Supaidaman — 13 - The Skull Group VS The Devilish Hearse — https://archive.org/download/Supaidman/Supaidaman/13%20-%20The%20Skull%20Group%20VS.%20The%20Devilish%20Hearse.mp4
+- Supaidaman — 14 - Giving Father! Fight to the Song of the Hero — https://archive.org/download/Supaidman/Supaidaman/14%20-%20Giving%20Father%21%20Fight%20to%20the%20Song%20of%20the%20Hero.mp4
+- Supaidaman — 15 - The Life of Our Arrangement — https://archive.org/download/Supaidman/Supaidaman/15%20-%20The%20Life%20of%20Our%20Arrangement.mp4
+- Supaidaman — 16 - Fine Dog! Run to the Under of Father — https://archive.org/download/Supaidman/Supaidaman/16%20-%20Fine%20Dog%21%20Run%20to%20the%20Under%20of%20Father.mp4
+- Supaidaman — 17 - Pro Wrestler Samson's Tears — https://archive.org/download/Supaidman/Supaidaman/17%20-%20Pro%20Wrestler%20Samson%27s%20Tears.mp4
+- Supaidaman — 18 - In the Mother's Chest - Resurrect the Young Boys — https://archive.org/download/Supaidman/Supaidaman/18%20-%20In%20the%20Mother%27s%20Chest%20-%20Resurrect%20the%20Young%20Boys.mp4
+- Supaidaman — 19 - The Boy Phantom - To the Villageless Map — https://archive.org/download/Supaidman/Supaidaman/19%20-%20The%20Boy%20Phantom%20-%20To%20the%20Villageless%20Map.mp4
+- Supaidaman — 20 - Riddle - Calling the Riddle of My Secret Birth — https://archive.org/download/Supaidman/Supaidaman/20%20-%20Riddle%20-%20Calling%20the%20Riddle%20of%20My%20Secret%20Birth.mp4
+- Supaidaman — 21 - Fall to the Great Skies - Father's Love — https://archive.org/download/Supaidman/Supaidaman/21%20-%20Fall%20to%20the%20Great%20Skies%20-%20Father%27s%20Love.mp4
+- Supaidaman — 22 - Shedding Tears to the Dark Fate - Father and Child — https://archive.org/download/Supaidman/Supaidaman/22%20-%20Shedding%20Tears%20to%20the%20Dark%20Fate%20-%20Father%20and%20Child.mp4
+- Supaidaman — 23 - To the Love Academy of the Homeless Children — https://archive.org/download/Supaidman/Supaidaman/23%20-%20To%20the%20Love%20Academy%20of%20the%20Homeless%20Children.mp4
+- Supaidaman — 24 - Cockroach Boy - Great War — https://archive.org/download/Supaidman/Supaidaman/24%20-%20Cockroach%20Boy%20-%20Great%20War.mp4
+- Supaidaman — 25 - Treasure, Dog, and Double Grow Human — https://archive.org/download/Supaidman/Supaidaman/25%20-%20Treasure%2C%20Dog%2C%20and%20Double%20Grow%20Human.mp4
+- Supaidaman — 26 - To the Absolute Crisis - The Imitation Hero — https://archive.org/download/Supaidman/Supaidaman/26%20-%20To%20the%20Absolute%20Crisis%20-%20The%20Imitation%20Hero.mp4
+- Supaidaman — 27 - Farewell War Buddy - Beloved German Shepherd — https://archive.org/download/Supaidman/Supaidaman/27%20-%20Farewell%20War%20Buddy%20-%20Beloved%20German%20Shepherd.mp4
+- Supaidaman — 28 - The Front of the Alley - Boys' Detective Group — https://archive.org/download/Supaidman/Supaidaman/28%20-%20The%20Front%20of%20the%20Alley%20-%20Boys%27%20Detective%20Group.mp4
+- Supaidaman — 29 - Hurry, GP-7 - Time of Stop Sign — https://archive.org/download/Supaidman/Supaidaman/29%20-%20Hurry%2C%20GP-7%20-%20Time%20of%20Stop%20Sign.mp4
+- Supaidaman — 30 - Good Luck, Beautiful Police Officer — https://archive.org/download/Supaidman/Supaidaman/30%20-%20Good%20Luck%2C%20Beautiful%20Police%20Officer.mp4
+- Supaidaman — 31 - There Is No Child-Taking Detective Tomorrow — https://archive.org/download/Supaidman/Supaidaman/31%20-%20There%20Is%20No%20Child-Taking%20Detective%20Tomorrow.mp4
+- Supaidaman — 32 - Sweet Whispering Enchantress — https://archive.org/download/Supaidman/Supaidaman/32%20-%20Sweet%20Whispering%20Enchantress.mp4
+- Supaidaman — 33 - The Boy Teases the Horrible Wild Girl — https://archive.org/download/Supaidman/Supaidaman/33%20-%20The%20Boy%20Teases%20the%20Horrible%20Wild%20Girl.mp4
+- Supaidaman — 34 - Surprising Camera - Murderous Event — https://archive.org/download/Supaidman/Supaidaman/34%20-%20Surprising%20Camera%20-%20Murderous%20Event.mp4
+- Supaidaman — 35 - From the Unexplored Amazon - Here Comes the Mummified Beautiful Woman — https://archive.org/download/Supaidman/Supaidaman/35%20-%20From%20the%20Unexplored%20Amazon%20-%20Here%20Comes%20the%20Mummified%20Beautiful%20Woman.mp4
+- Supaidaman — 36 - The Onion Silver Mask and the Boys' Detective Group — https://archive.org/download/Supaidman/Supaidaman/36%20-%20The%20Onion%20Silver%20Mask%20and%20the%20Boys%27%20Detective%20Group.mp4
+- Supaidaman — 37 - From the Secret Messenger of Hell - Great King Enma — https://archive.org/download/Supaidman/Supaidaman/37%20-%20From%20the%20Secret%20Messenger%20of%20Hell%20-%20Great%20King%20Enma.mp4
+- Supaidaman — 38 - The First Tin Plate Evening Star and the Boys' Detective Group — https://archive.org/download/Supaidman/Supaidaman/38%20-%20The%20First%20Tin%20Plate%20Evening%20Star%20and%20the%20Boys%27%20Detective%20Group.mp4
+- Supaidaman — 39 - Sports World - One Great Meeting — https://archive.org/download/Supaidman/Supaidaman/39%20-%20Sports%20World%20-%20One%20Great%20Meeting.mp4
+- Supaidaman — 40 - Farewell Zero Battle Tricks — https://archive.org/download/Supaidman/Supaidaman/40%20-%20Farewell%20Zero%20Battle%20Tricks.mp4
+- Supaidaman — 41 - The Hero's Shining Hot Blood — https://archive.org/download/Supaidman/Supaidaman/41%20-%20The%20Hero%27s%20Shining%20Hot%20Blood.mp4
+- Supaidaman — Supaidāman - The Movie — https://archive.org/download/Supaidman/Supaidaman/Supaid%C4%81man%20-%20The%20Movie.mp4
+- Tintin and the Blue Lotus — https://archive.org/download/complete-tintin/1.%20TinTin%20and%20the%20Blue%20Lotus.mp4
+- Tintin in America — https://archive.org/download/complete-tintin/2.%20TinTin%20in%20America.mp4
+- Tintin and the Cigars of the Pharaoh — https://archive.org/download/complete-tintin/3.%20TinTin%20and%20the%20Cigars%20of%20the%20Pharaoh.mp4
+- Tintin and the Broken Ear — https://archive.org/download/complete-tintin/4.TinTin%20and%20the%20Broken%20Ear.mp4
+- Tintin and the Black Island — https://archive.org/download/complete-tintin/5.%20TinTin%20and%20the%20Black%20Island.mp4
+- Tintin and the King Ottokar's Sceptre — https://archive.org/download/complete-tintin/6.%20TinTin%20and%20the%20Kinf%20Ottokar%27s%20Sceptre.mp4
+- Tintin and the Crab with the Golden Claws — https://archive.org/download/complete-tintin/7.%20TinTin%20and%20the%20Crab%20with%20the%20Golden%20Claws.mp4
+- Tintin and the Shooting Star — https://archive.org/download/complete-tintin/8.%20TinTin%20and%20the%20Shooting%20Star.mp4
+- Tintin and the Secret of the Unicorn — https://archive.org/download/complete-tintin/9.%20TinTin%20and%20the%20Secret%20of%20the%20Unicorn.mp4
+- Tintin and the Red Rackham Treasure — https://archive.org/download/complete-tintin/10.%20TinTin%20and%20the%20Red%20Rackham%20Treasure.mp4
+- Tintin and the Seven Crystals Balls — https://archive.org/download/complete-tintin/11.%20TinTin%20and%20the%20Seven%20Crystals%20Balls.mp4
+- Tintin and the Prisoners of the Sun — https://archive.org/download/complete-tintin/12.%20TinTin%20and%20the%20Prisoners%20of%20the%20Sun.mp4
+- Tintin and the Land of Black Gold — https://archive.org/download/complete-tintin/13.%20TinTin%20and%20the%20Land%20of%20Black%20Gold.mp4
+- Tintin and Destination Moon — https://archive.org/download/complete-tintin/14.%20TinTin%20and%20Destination%20Moon.mp4
+- Tintin and the Explorers on the Moon — https://archive.org/download/complete-tintin/15.%20TinTin%20and%20the%20Explorers%20on%20the%20Moon.mp4
+- Tintin and the Calculus Affair — https://archive.org/download/complete-tintin/16.%20TinTin%20and%20the%20Calculus%20Affair.mp4
+- Tintin and the Red Sea Sharks — https://archive.org/download/complete-tintin/17.%20TinTin%20and%20the%20Red%20Sea%20Sharks.mp4
+- Tintin in Tibet — https://archive.org/download/complete-tintin/18.%20TinTin%20in%20Tibet.mp4
+- Tintin and the Castafiore Emerald — https://archive.org/download/complete-tintin/19.%20TinTin%20and%20the%20Castafiore%20Emearld.mp4
+- Tintin and Flight 714 — https://archive.org/download/complete-tintin/20.%20TinTin%20and%20Flight%20714.mp4
+- Tintin and the Picaros — https://archive.org/download/complete-tintin/21.%20TinTin%20and%20the%20Picaros.mp4
+- Speed Racer — 03 Challenge of the Masked Racer 1 — https://archive.org/download/speed-racer-tv/03 Challenge of the Masked Racer 1.mp4
+- Popeye for President — https://archive.org/download/Popeye_forPresident/Popeye_forPresident_512kb.mp4
+- Patriotic Popeye — https://archive.org/download/popeye_patriotic_popeye/popeye_patriotic_popeye_512kb.mp4
+- Private Eye Popeye — https://archive.org/download/popeye_private_eye_popeye/popeye_private_eye_popeye_512kb.mp4
+- Shuteye Popeye — https://archive.org/download/popeye_shuteye_popeye/popeye_shuteye_popeye_512kb.mp4
+- Popeye: I Dont Scare — https://archive.org/download/popeye_i_dont_scare/popeye_i_dont_scare_512kb.mp4
+- Popeye the Sailor: Nearlyweds — https://archive.org/download/Popeye_Nearlyweds/Popeye_Nearlyweds_512kb.mp4
+- Popeye: Taxi-Turvy — https://archive.org/download/popeye_taxi-turvey/popeye_taxi-turvey_512kb.mp4
+- Popeye The Sailor: Big Bad Sinbad — https://archive.org/download/popeye_big_bad_sinbad/popeye_big_bad_sinbad_512kb.mp4
+- Alvin & the Chipmunks — Princess and the Pig (S07E11b) — https://archive.org/download/1983-alvin-and-the-chipmunks-complete/Chipmunks S07E11b Princess and the Pig Custom English Restoration with Subtitles.mp4
+- How The Grinch Stole Christmas — https://archive.org/download/HowTheGrinchStoleChristmas_201812/How the Grinch Stole Christmas.mp4
+- Pink Panther — Olympinks! — https://archive.org/download/ThePinkPanther-cartoons/The Pink Panther in -OLYMPINKS!.mp4
+- Popeye the Sailor Meets Aladdin and His Wonderful Lamp — https://archive.org/download/Popeye_the_Sailor_Meets_Aladdin_and_His_Wonderful_Lamp/Popeye_-_Aladdin_and_His_Wonderful_Lamp_512kb.mp4
+- Popeye: Bride and Gloom — https://archive.org/download/Popeye_BrideandGloom/Popeye_BrideandGloom_512kb.mp4
+- Pink Panther — We Give Pink Stamps (1965) — https://archive.org/download/the-pink-panther-cartoon-collection/003 We Give Pink Stamps (Feb 12, 1965).ia.mp4
+- The Beatles — A Hard Day’s Night / I Want to Hold Your Hand — https://archive.org/download/thebeatlescartoon_201910/01-A hard day's night - I want to hold your hand.mp4
+- Nu, Pogodi! — Episode 15 — https://archive.org/download/nu-pogodi-complete/Season 1/Episode 15.ia.mp4
+- Peter Pan (1953) — https://archive.org/download/peterpan1953capturedfromthe1990classicsvhs/Peter Pan (1953) [captured from the 1990 Classics VHS].mp4
+- A Kockásfülű Nyúl (The Rabbit With Checkered Ears) — https://archive.org/download/a-kockasfulu-nyul/A kockásfülű nyúl - Süt a nap (21. rész).mp4
+- Looney Tunes — Horton Hatches the Egg (1942) — https://archive.org/download/the-1000-looney-tunes-merrie-melodies/1942/s1942e11 - Horton Hatches the Egg.mp4
+- A Charlie Brown Christmas 1965 (Original Print) color corrected — https://archive.org/download/you-cut-20231030-080602598/YouCut_20231030_080602598.mp4
+- A Charlie Brown Christmas Original Version — https://archive.org/download/a-charlie-brown-christmas-original-version/A Charlie Brown Christmas Remastered (Sort of).mp4
+- Mister Magoos Christmas Carol (1962) — https://archive.org/download/mister-magoos-christmas-carol-1962/Mister Magoos Christmas Carol 1962.mp4
+- Frosty the Snowman (1969) — https://archive.org/download/1969-frosty-the-snowman-christmas-movies-for-kids-animated-cartoons-for-children/2011 (STEVE AND MAGGIE) Holiday Songs and Stories for Kids - MORE from Steve and Maggie Best Christmas.mp4
+- Fat Albert (2004) — https://archive.org/download/het-hey-hey/The Fat Albert (2004).mp4
+- Disney Cartoon Classics — The Disney Dream Factory — https://archive.org/download/257AS/The Disney Dream Factory.mp4
+- Disney Cartoon Classics — Minnie — https://archive.org/download/wdcc-lge-minnie-vhsrip/WDCC.LGE.Minnie.VHSRip.mp4
+- Disney Cartoon Classics — The World According to Goofy — https://archive.org/download/256AS/The World According to Goofy.mp4
+- Disney Cartoon Classics — How the Best Was Won — https://archive.org/download/259AS/How the Best Was Won.mp4
+- Flower Angel — Harmony Gold English Dub — https://archive.org/download/flowerangel1985_201912/Flower Angel (Harmony Gold) DVD.mp4
+- Disney Cartoon Classics — Donald’s Bee Pictures — https://archive.org/download/255AS/Donald's Bee Pictures (1st pressing).mp4
+- Disney Cartoon Classics — Life with Mickey! — https://archive.org/download/260AS/Life with Mickey!.mp4
+- Disney Cartoon Classics — An Officer and a Duck — https://archive.org/download/258AS/An Officer and a Duck.mp4
+- Disney Cartoon Classics — From Pluto with Love — https://archive.org/download/261AS/From Pluto with Love.mp4
+- Marvel Super Heroes — Avengers Assemble — https://archive.org/download/marvel-super-heroes/Marvel Super Heroes 05.Avengers Assemble.mp4
+- Daffy Duck and Porky Pig Meet the Groovie Goolies — https://archive.org/download/Groovie-Goolies-Collection/UK - Daffy Duck and Porky Pig Meet the Groovie Goolies (VHS Version).ia.mp4
+- The Beatles — All My Loving / Day Tripper (S02E06) — https://archive.org/download/the-beatles-cartoon_2023/The Beatles S02E06 - All My Loving Day Tripper.mp4
+- Popeye meetsSinbadtheSailor 512kb — https://archive.org/download/Popeye_meetsSinbadtheSailor/Popeye_meetsSinbadtheSailor_512kb.mp4
