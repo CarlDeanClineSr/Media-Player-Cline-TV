@@ -1,0 +1,528 @@
+# CH 16 — OLD-TIME RADIO · RICHARD DIAMOND · WHISTLER · SUSPENSE
+
+- Richard Diamond — Diamond in the Rough - Barton Case (AFRS) (49-05-01) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2049-05-01%20%28002%29%20Diamond%20In%20the%20Rough%20%28AFRS%29.mp3
+- Richard Diamond — Ralph Chase Case (49-05-15) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2049-05-15%20%28004%29%20Ralph%20Chase%20Case.mp3
+- Richard Diamond — The Stolen Purse (49-05-22) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2049-05-22%20%28005%29%20The%20Stolen%20Purse.mp3
+- Richard Diamond — The Betty Moran Case (49-05-29) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2049-05-29%20%28006%29%20The%20Betty%20Moran%20Case.mp3
+- Richard Diamond — Fred Sears Murder Case (49-06-19) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2049-06-19%20%28009%29%20Fred%20Sears%20Murder%20Case.mp3
+- Richard Diamond — The Tom Waxman Bombing Case (49-06-26) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2049-06-26%20%28010%29%20The%20Tom%20Waxman%20Bombing%20Case.mp3
+- Richard Diamond — The Bloody Hat Case (49-07-02) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2049-07-02%20%28011%29%20The%20Bloody%20Hat%20Case.mp3
+- Richard Diamond — Charles Walsh and Bob Wells (49-07-09) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2049-07-09%20%28012%29%20Charles%20Walsh%20and%20Bob%20Wells.mp3
+- Richard Diamond — The Man Who Hated Women (49-07-16) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2049-07-16%20%28013%29%20The%20Man%20Who%20Hated%20Women.mp3
+- Richard Diamond — The Martin Hyer Case (49-07-23) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2049-07-23%20%28014%29%20The%20Martin%20Hyer%20Case.mp3
+- Richard Diamond — The Lynn Knight Case (49-08-06) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2049-08-06%20%28016%29%20The%20Lynn%20Knight%20Case.mp3
+- Richard Diamond — The Jean Cooper Murder Case (49-08-20) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2049-08-20%20%28018%29%20The%20Jean%20Cooper%20Murder%20Case.mp3
+- Richard Diamond — The Eddie Garrett Case (49-08-27) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2049-08-27%20%28019%29%20The%20Eddie%20Garrett%20Case.mp3
+- Richard Diamond — The Harry Baker Case (49-09-03) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2049-09-03%20%28020%29%20The%20Harry%20Baker%20Case.mp3
+- Richard Diamond — The Van Dyke Seance Case (49-09-10) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2049-09-10%20%28021%29%20The%20Van%20Dyke%20Seance%20Case.mp3
+- Richard Diamond — The Jerome J Jerome Case (49-09-17) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2049-09-17%20%28022%29%20The%20Jerome%20J%20Jerome%20Case.mp3
+- Richard Diamond — The Two Hundred Thousand Dollar Bundle (49-09-24) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2049-09-24%20%28023%29%20The%20Two%20Hundred%20Thousand%20Dollar%20Bundle.mp3
+- Richard Diamond — Gibson Murder Case (49-10-08) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2049-10-08%20%28024%29%20Gibson%20Murder%20Case.mp3
+- Richard Diamond — The Bogus Bills Case (49-10-15) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2049-10-15%20%28025%29%20The%20Bogus%20Bills%20Case.mp3
+- Richard Diamond — Rene Bennet Protection Case (49-10-22) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2049-10-22%20%28026%29%20Rene%20Bennet%20Protection%20Case.mp3
+- Richard Diamond — Bill Kirby Murder Case (49-10-29) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2049-10-29%20%28027%29%20Bill%20Kirby%20Murder%20Case.mp3
+- Richard Diamond — The Singing Critic (49-11-05) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2049-11-05%20%28028%29%20The%20Singing%20Critic%20%28AFRS%29.mp3
+- Richard Diamond — Fifty Thousand Dollar Diamond Heist (49-11-12) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2049-11-12%20%28029%29%20Fifty%20Thousand%20Dollar%20Diamond%20Heist.mp3
+- Richard Diamond — The Jacoby Case (49-11-19) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2049-11-19%20%28030%29%20The%20Jacoby%20Case.mp3
+- Richard Diamond — William Carter Loses Memory (49-11-26) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2049-11-26%20%28031%29%20William%20Carter%20Loses%20Memory.mp3
+- Richard Diamond — The Ruby Idol Case (49-12-03) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2049-12-03%20%28032%29%20The%20Ruby%20Idol%20Case.mp3
+- Richard Diamond — The House of Mystery Case (49-12-10) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2049-12-10%20%28033%29%20The%20House%20Of%20Mystery%20Case.mp3
+- Richard Diamond — The John Blackwell Case (49-12-17) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2049-12-17%20%28034%29%20The%20John%20Blackwell%20Case.mp3
+- Richard Diamond — A Christmas Carol (49-12-24) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2049-12-24%20%28035%29%20A%20Christmas%20Carol.mp3
+- Richard Diamond — Thomas Jason Case (49-12-31) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2049-12-31%20%28036%29%20Thomas%20Jason%20Case.mp3
+- Richard Diamond — Butchers and Protection Racket (50-01-07) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2050-01-07%20%28037%29%20Butchers%20and%20Protection%20Racket.mp3
+- Richard Diamond — Mr Victor's Daughter (50-01-15) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2050-01-15%20%28038%29%20Mr%20Victor%27s%20Daughter.mp3
+- Richard Diamond — Martin White Sees Dead Men (50-01-22) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2050-01-22%20%28039%29%20Martin%20White%20Sees%20Dead%20Men.mp3
+- Richard Diamond — To Guard A Seal (50-02-05) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2050-02-05%20%28040%29%20To%20Guard%20A%20Seal.mp3
+- Richard Diamond — Elaine Tanner Case (50-02-12) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2050-02-12%20%28041%29%20Elaine%20Tanner%20Case.mp3
+- Richard Diamond — The Jewel Thief (50-02-19) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2050-02-19%20%28042%29%20The%20Jewel%20Thief.mp3
+- Richard Diamond — The Blind Man and The Cop Killer (50-02-26) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2050-02-26%20%28043%29%20The%20Blind%20Man%20And%20The%20Cop%20Killer.mp3
+- Richard Diamond — Louis Spence Case (50-03-05) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2050-03-05%20%28044%29%20Louis%20Spence%20Case.mp3
+- Richard Diamond — Joyce Wallace (50-03-12) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2050-03-12%20%28045%29%20Joyce%20Wallace.mp3
+- Richard Diamond — Private Eye Test (50-03-19) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2050-03-19%20%28046%29%20Private%20Eye%20Test.mp3
+- Richard Diamond — Photographer's Card (50-03-26) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2050-03-26%20%28047%29%20Photographer%27s%20Card.mp3
+- Richard Diamond — William Logan And The Ivory Statue (50-04-05) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2050-04-05%20%28048%29%20William%20Logan%20And%20The%20Ivory%20Statue.mp3
+- Richard Diamond — The Man Who Hated Women (50-04-12) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2050-04-12%20%28049%29%20The%20Man%20Who%20Hated%20Women.mp3
+- Richard Diamond — Messenger Service, Paddy Clark (50-04-19) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2050-04-19%20%28050%29%20Messenger%20Service%2C%20Paddy%20Clark.mp3
+- Richard Diamond — The Ralph Baxter Case (50-04-26) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2050-04-26%20%28051%29%20The%20Ralph%20Baxter%20Case.mp3
+- Richard Diamond — Eight Hundred Thousand Dollars In Jewels (50-06-14) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2050-06-14%20%28052%29%20Eighty%20Thousand%20Dollars%20In%20Jewels.mp3
+- Richard Diamond — Mrs X Can't Find Her Husband (50-06-21) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2050-06-21%20%28053%29%20Mrs%20X%20Can%27t%20Find%20Her%20Husband.mp3
+- Richard Diamond — Mary Bellman Killed (50-06-28) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2050-06-28%20%28054%29%20Mary%20Bellman%20Killed.mp3
+- Richard Diamond — Mike Burton Murder Case (50-07-05) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2050-07-05%20%28055%29%20Mike%20Burton%20Murder%20Case.mp3
+- Richard Diamond — Ice Pick Murder (50-07-12) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2050-07-12%20%28056%29%20Ice%20Pick%20Murder.mp3
+- Richard Diamond — The Martha Campbell Kidnap Case (50-07-26) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2050-07-26%20%28057%29%20The%20Martha%20Campbell%20Kidnap%20Case.mp3
+- Richard Diamond — The Fixed Fight Case (50-08-02) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2050-08-02%20%28058%29%20The%20Fixed%20Fight%20Case.mp3
+- Richard Diamond — Edna Wolfe Case (50-08-09) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2050-08-09%20%28059%29%20Edna%20Wolfe%20Case.mp3
+- Richard Diamond — The Carnival Case (50-08-16) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2050-08-16%20%28060%29%20The%20Carnival%20Case.mp3
+- Richard Diamond — The Evans Farmer Case (50-08-23) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2050-08-23%20%28061%29%20The%20Evans%20Farmer%20Case.mp3
+- Richard Diamond — The Big Foot Grafton Case (50-08-30) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2050-08-30%20%28062%29%20The%20Big%20Foot%20Grafton%20Case.mp3
+- Richard Diamond — The Misplaced Laundry Case (50-09-06) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2050-09-06%20%28063%29%20The%20Misplaced%20Laundry%20Case.mp3
+- Richard Diamond — The George Lexington Murder Case (50-09-13) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2050-09-13%20%28064%29%20The%20George%20Lexington%20Murder%20Case.mp3
+- Richard Diamond — The Bald Head Case (50-09-20) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2050-09-20%20%28065%29%20The%20Bald%20Head%20Case.mp3
+- Richard Diamond — The Oklahoma Cowboy Murder Case (50-09-27) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2050-09-27%20%28066%29%20The%20Oklahoma%20Cowboy%20Murder%20Case.mp3
+- Richard Diamond — The Pete Rocco Case (50-10-04) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2050-10-04%20%28067%29%20The%20Pete%20Rocco%20Case.mp3
+- Richard Diamond — The Homing Pigeon Case (50-10-11) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2050-10-11%20%28068%29%20The%20Homing%20Pigeon%20Case.mp3
+- Richard Diamond — Lt Levinson Kidnapped (50-10-18) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2050-10-18%20%28069%29%20Lt.%20Levinson%20Kidnapped.mp3
+- Richard Diamond — Dead Man's Letter (50-11-08) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2050-11-08%20%28072%29%20Dead%20Man%27s%20Letter%20%28AFRTS%29.mp3
+- Richard Diamond — Mona Lisa Murder (50-11-15) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2050-11-15%20%28073%29%20Mona%20Lisa%20Murder%20%28AFRTS%29.mp3
+- Richard Diamond — The Cover-Up Murders (50-11-22) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2050-11-22%20%28074%29%20The%20Cover-Up%20Murders%20%28AFRTS%29.mp3
+- Richard Diamond — The Chapel Hill Case — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2050-12-xx%20%28xxx%29%20The%20Chapel%20Hill%20Case%20%28AFRTS%29.mp3
+- Richard Diamond — Marilyn Connors Case (51-01-12) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2051-01-12%20%28078%29%20Marilyn%20Connors%20Case.mp3
+- Richard Diamond — The Man With The Scar (51-01-19) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2051-01-19%20%28079%29%20The%20Man%20With%20The%20Scar.mp3
+- Richard Diamond — The Rawlins Case (51-01-26) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2051-01-26%20%28080%29%20The%20Rawlins%20Case.mp3
+- Richard Diamond — The Caspary Case (51-02-02) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2051-02-02%20%28081%29%20The%20Caspary%20Case.mp3
+- Richard Diamond — The Blue Serge Suit (51-02-09) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2051-02-09%20%28082%29%20The%20Blue%20Serge%20Suit.mp3
+- Richard Diamond — The Grey Man (51-02-16) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2051-02-16%20%28083%29%20The%20Grey%20Man.mp3
+- Richard Diamond — The Lady In Distress (51-02-23) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2051-02-23%20%28084%29%20The%20Lady%20In%20Distress.mp3
+- Richard Diamond — The Red Rose (51-03-02) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2051-03-02%20%28085%29%20The%20Red%20Rose.mp3
+- Richard Diamond — The Butcher Shop (51-03-09) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2051-03-09%20%28086%29%20The%20Butcher%20Shop.mp3
+- Richard Diamond — Monsieur Bouchon (51-03-16) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2051-03-16%20%28087%29%20Monsieur%20Bouchon.mp3
+- Richard Diamond — Little Chiva (51-03-23) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2051-03-23%20%28088%29%20Little%20Chiva.mp3
+- Richard Diamond — The Carnival (51-03-30) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2051-03-30%20%28089%29%20The%20Carnival.mp3
+- Richard Diamond — The Brown Envelope Case (51-12-07) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2051-12-07%20%28112%29%20The%20Brown%20Envelope%20Case.mp3
+- Richard Diamond — Christmas Show (51-12-21) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2051-12-21%20%28114%29%20Christmas%20Show.mp3
+- Richard Diamond — The Plaid Overcoat Case (51-12-28) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2051-12-28%20%28115%29%20The%20Plaid%20Overcoat%20Case.mp3
+- Richard Diamond — The Merry-Go-Round Case (52-01-04) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2052-01-04%20%28116%29%20The%20Merry-Go-Round%20Case.mp3
+- Richard Diamond — The White Cow Case (52-01-11) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2052-01-11%20%28117%29%20The%20White%20Cow%20Case.mp3
+- Richard Diamond — The Simpson Case (52-01-18) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2052-01-18%20%28118%29%20The%20Simpson%20Case.mp3
+- Richard Diamond — The Al Brenners Case (52-01-25) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2052-01-25%20%28119%29%20The%20Al%20Brenners%20Case.mp3
+- Richard Diamond — The Garrabaldi Case (52-02-01) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2052-02-01%20%28120%29%20The%20Garrabaldi%20Case.mp3
+- Richard Diamond — The Eddie Burke Case (52-02-08) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2052-02-08%20%28121%29%20The%20Eddie%20Burke%20Case.mp3
+- Richard Diamond — The Dixon Case (52-03-14) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2052-03-14%20%28126%29%20The%20Dixon%20Case.mp3
+- Richard Diamond — The Hank Burton Case (52-03-21) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2052-03-21%20%28127%29%20The%20Hank%20Burton%20Case.mp3
+- Richard Diamond — Mr Walker's Problem (52-03-28) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2052-03-28%20%28128%29%20Mr.%20Walker%27s%20Problem.mp3
+- Richard Diamond — The Enigma Of Big Ed (52-04-04) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2052-04-04%20%28129%29%20The%20Enigma%20Of%20Big%20Ed.mp3
+- Richard Diamond — The William Holland Case (53-05-31) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2053-05-31%20%28142%29%20The%20William%20Holland%20Case.mp3
+- Richard Diamond — The Eight O'Clock Killer(Repeat of 50-11-22) (53-06-07) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2053-06-07%20%28143%29%20The%20Eight%20O%27Clock%20Killer.mp3
+- Richard Diamond — Missing Night Watchman (repeat 50-12-06) (53-06-21) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2053-06-21%20%28144%29%20Missing%20Night%20Watchman.mp3
+- Richard Diamond — Rifle Case (repeat 50-10-25) (53-06-28) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2053-06-28%20%28145%29%20The%20Rifle%20Case.mp3
+- Richard Diamond — Lt Levinson Kidnapped (repeat 50-10-18) (53-08-02) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2053-08-02%20%28150%29%20Lt.%20Levinson%20Kidnapped%20%28AFRTS%29.mp3
+- Richard Diamond — The Ice Pick Murder Case (repeat 50-07-12) (53-08-09) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2053-08-09%20%28151%29%20The%20Ice%20Pick%20Murder%20Case.mp3
+- Richard Diamond — The Oklahoma Cowboy Murder Case (repeat 50-09-27) (53-08-16) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2053-08-16%20%28152%29%20The%20Oklahoma%20Cowboy%20Murder%20Case%20%28AFRTS%29.mp3
+- Richard Diamond — The Hollywood Story (53-08-23) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2053-08-23%20%28153%29%20The%20Hollywood%20Story%20%28AFRTS%29.mp3
+- Richard Diamond — Big Foot Grafton Case (50-08-30) (53-08-30) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2053-08-30%20%28154%29%20The%20Big%20Foot%20Grafton%20Case%20%28AFRTS%29.mp3
+- Richard Diamond — The Wolfe Murder Case (repeat 50-08-09) (53-09-20) — https://archive.org/download/OTRR_Richard_Diamond_Private_Detective_Singles/Richard%20Diamond%2053-09-20%20%28157%29%20The%20Wolfe%20Murder%20Case%20%28AFRTS%29.mp3
+- Suspense — 40-07-21 CBS Forecast-The Lodger-Suspense audition — https://archive.org/download/SUSPENSE/40-07-21_CBS_Forecast-The_Lodger-Suspense_audition.mp3
+- Suspense — 44-06-16 A Friend To Alexander — https://archive.org/download/SUSPENSE/44-06-16_A_Friend_To_Alexander.mp3
+- Suspense — Forecast 400722 The Lodger (audition) (128-44) 28390 29m37s (40-07-22) — https://archive.org/download/OTRR_Suspense_Singles/Forecast%20400722%20The%20Lodger%20%28audition%29%20%28128-44%29%2028390%2029m37s.mp3
+- Suspense 420617 001 The Burning Court (128-44) 28455 30m00s (42-06-17) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20420617%20001%20The%20Burning%20Court%20%28128-44%29%2028455%2030m00s.mp3
+- Suspense 420624 002 Wet Saturday (128-44) 28033 29m10s (42-06-24) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20420624%20002%20Wet%20Saturday%20%28128-44%29%2028033%2029m10s.mp3
+- Suspense 420819 010 The Cave of Ali Baba (128-44) 28270 29m49s (42-08-19) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20420819%20010%20The%20Cave%20of%20Ali%20Baba%20%28128-44%29%2028270%2029m49s.mp3
+- Suspense 420902 011 The Hitch-Hiker (128-44) 28018 29m32s (42-09-02) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20420902%20011%20The%20Hitch-Hiker%20%28128-44%29%2028018%2029m32s.mp3
+- Suspense 420916 012 The Kettler Method (128-44) 28556 30m07s (42-09-16) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20420916%20012%20The%20Kettler%20Method%20%28128-44%29%2028556%2030m07s.mp3
+- Suspense 420923 013 A Passage to Benares (128-44) 28719 30m17s (42-09-23) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20420923%20013%20A%20Passage%20to%20Benares%20%28128-44%29%2028719%2030m17s.mp3
+- Suspense 420930 014 One Hundred in the Dark (128-44) 28208 29m45s (42-09-30) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20420930%20014%20One%20Hundred%20in%20the%20Dark%20%28128-44%29%2028208%2029m45s.mp3
+- Suspense 421027 015 The Lord of the Witch Doctors (128-44) 27808 29m19s (42-10-27) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20421027%20015%20The%20Lord%20of%20the%20Witch%20Doctors%20%28128-44%29%2027808%2029m19s.mp3
+- Suspense 421103 016 The Devil in the Summer House (128-44) 28795 30m22s (42-11-03) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20421103%20016%20The%20Devil%20in%20the%20Summer%20House%20%28128-44%29%2028795%2030m22s.mp3
+- Suspense 421110 017 Will You Make a Bet with Death (133-44) 29039 29m46s (42-11-10) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20421110%20017%20Will%20You%20Make%20a%20Bet%20with%20Death%20%28133-44%29%2029039%2029m46s.mp3
+- Suspense 421117 018 Menace in Wax (128-44) 27709 28m52s (42-11-17) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20421117%20018%20Menace%20in%20Wax%20%28128-44%29%2027709%2028m52s.mp3
+- Suspense 421124 019 The Body Snatchers (128-44) 28260 29m27s (42-11-24) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20421124%20019%20The%20Body%20Snatchers%20%28128-44%29%2028260%2029m27s.mp3
+- Suspense 421201 020 The Bride Vanishes (128-44) 28104 29m17s (42-12-01) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20421201%20020%20The%20Bride%20Vanishes%20%28128-44%29%2028104%2029m17s.mp3
+- Suspense 421215 021 Till Death Do Us Part (128-44) 28352 29m33s (42-12-15) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20421215%20021%20Till%20Death%20Do%20Us%20Part%20%28128-44%29%2028352%2029m33s.mp3
+- Suspense 421222 022 Two Sharp Knives (128-44) 28177 29m22s (42-12-22) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20421222%20022%20Two%20Sharp%20Knives%20%28128-44%29%2028177%2029m22s.mp3
+- Suspense 430105 023 Nothing up My Sleeve (128-44) 28439 29m39s (43-01-05) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430105%20023%20Nothing%20up%20My%20Sleeve%20%28128-44%29%2028439%2029m39s.mp3
+- Suspense 430112 024 The Pit and the Pendulum (128-44) 27533 29m01s (43-01-12) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430112%20024%20The%20Pit%20and%20the%20Pendulum%20%28128-44%29%2027533%2029m01s.mp3
+- Suspense 430119 025 The Devil's Saint (128-44) 28654 30m13s (43-01-19) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430119%20025%20The%20Devil%27s%20Saint%20%28128-44%29%2028654%2030m13s.mp3
+- Suspense 430202 027 The Doctor Prescribed Death (128-44) 28376 29m55s (43-02-02) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430202%20027%20The%20Doctor%20Prescribed%20Death%20%28128-44%29%2028376%2029m55s.mp3
+- Suspense 430209 028 The Hangman Won't Wait (64-48) 7595 14m50s (43-02-09) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430209%20028%20The%20Hangman%20Won%27t%20Wait%20%2864-48%29%207595%2014m50s.mp3
+- Suspense 430216 029 In Fear and Trembling (128-44) 27947 29m05s (43-02-16) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430216%20029%20In%20Fear%20and%20Trembling%20%28128-44%29%2027947%2029m05s.mp3
+- Suspense 430223 030 Will You Walk into My Parlor (64-48) 7504 14m38s (43-02-23) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430223%20030%20Will%20You%20Walk%20into%20My%20Parlor%20%2864-48%29%207504%2014m38s.mp3
+- Suspense 430323 034 The Customers Like Murder (64-44) 14113 28m44s (43-03-23) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430323%20034%20The%20Customers%20Like%20Murder%20%2864-44%29%2014113%2028m44s.mp3
+- Suspense 430330 035 The Dead Sleep Lightly (128-44) 28409 29m34s (43-03-30) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430330%20035%20The%20Dead%20Sleep%20Lightly%20%28128-44%29%2028409%2029m34s.mp3
+- Suspense 430406 036 Fire Burn and Cauldron Bubble (128-44) 28233 29m46s (43-04-06) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430406%20036%20Fire%20Burn%20and%20Cauldron%20Bubble%20%28128-44%29%2028233%2029m46s.mp3
+- Suspense 430413 037 Fear Paints a Picture (128-44) 28380 29m56s (43-04-13) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430413%20037%20Fear%20Paints%20a%20Picture%20%28128-44%29%2028380%2029m56s.mp3
+- Suspense 430420 038 The Moment of Darkness (128-44) 28376 29m55s (43-04-20) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430420%20038%20The%20Moment%20of%20Darkness%20%28128-44%29%2028376%2029m55s.mp3
+- Suspense 430427 039 The Diary of Sophronia Winters (128-44) 27515 29m00s (43-04-27) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430427%20039%20The%20Diary%20of%20Sophronia%20Winters%20%28128-44%29%2027515%2029m00s.mp3
+- Suspense 430504 040 Death Flies Blind (128-44) 28003 29m11s (43-05-04) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430504%20040%20Death%20Flies%20Blind%20%28128-44%29%2028003%2029m11s.mp3
+- Suspense 430511 041 Mr Markham, Antique Dealer (128-44) 27776 28m56s (43-05-11) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430511%20041%20Mr%20Markham%2C%20Antique%20Dealer%20%28128-44%29%2027776%2028m56s.mp3
+- Suspense 430518 042 The ABC Murders (128-44) 27245 28m22s (43-05-18) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430518%20042%20The%20ABC%20Murders%20%28128-44%29%2027245%2028m22s.mp3
+- Suspense 430525 043 Sorry, Wrong Number (128-44) 28100 29m17s (43-05-25) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430525%20043%20Sorry%2C%20Wrong%20Number%20%28128-44%29%2028100%2029m17s.mp3
+- Suspense 430601 044 Banquo's Chair (128-44) 27639 29m08s (43-06-01) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430601%20044%20Banquo%27s%20Chair%20%28128-44%29%2027639%2029m08s.mp3
+- Suspense 430608 045 Five Canaries in the Room (128-44) 28730 30m18s (43-06-08) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430608%20045%20Five%20Canaries%20in%20the%20Room%20%28128-44%29%2028730%2030m18s.mp3
+- Suspense 430615 046 Last Night (128-44) 27985 29m30s (43-06-15) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430615%20046%20Last%20Night%20%28128-44%29%2027985%2029m30s.mp3
+- Suspense 430622 047 The Man Without a Body (128-44) 28584 30m09s (43-06-22) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430622%20047%20The%20Man%20Without%20a%20Body%20%28128-44%29%2028584%2030m09s.mp3
+- Suspense 430629 048 Uncle Henry's Rosebush (131-44) 26911 27m58s (43-06-29) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430629%20048%20Uncle%20Henry%27s%20Rosebush%20%28131-44%29%2026911%2027m58s.mp3
+- Suspense 430706 049 The White Rose Murders (128-44) 28211 29m45s (43-07-06) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430706%20049%20The%20White%20Rose%20Murders%20%28128-44%29%2028211%2029m45s.mp3
+- Suspense 430720 050 Murder Goes for a Swim (128-44) 28663 30m14s (43-07-20) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430720%20050%20Murder%20Goes%20for%20a%20Swim%20%28128-44%29%2028663%2030m14s.mp3
+- Suspense 430727 051 The Last Letter of Dr Bronson (128-44) 28454 29m40s (43-07-27) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430727%20051%20The%20Last%20Letter%20of%20Dr%20Bronson%20%28128-44%29%2028454%2029m40s.mp3
+- Suspense 430803 052 A Friend to Alexander (128-44) 28548 30m06s (43-08-03) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430803%20052%20A%20Friend%20to%20Alexander%20%28128-44%29%2028548%2030m06s.mp3
+- Suspense 430810 053 The Fountain Plays (128-44) 29441 30m43s (43-08-10) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430810%20053%20The%20Fountain%20Plays%20%28128-44%29%2029441%2030m43s.mp3
+- Suspense 430821 054 Sorry, Wrong Number (128-44) 27529 28m41s (43-08-21) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430821%20054%20Sorry%2C%20Wrong%20Number%20%28128-44%29%2027529%2028m41s.mp3
+- Suspense 430828 055 The King's Birthday (128-44) 27258 28m23s (43-08-28) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430828%20055%20The%20King%27s%20Birthday%20%28128-44%29%2027258%2028m23s.mp3
+- Suspense 430902 056 The Singing Walls (128-44) 28548 30m06s (43-09-02) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430902%20056%20The%20Singing%20Walls%20%28128-44%29%2028548%2030m06s.mp3
+- Suspense 430909 057 Marry for Murder (134-44) 28996 29m28s (43-09-09) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430909%20057%20Marry%20for%20Murder%20%28134-44%29%2028996%2029m28s.mp3
+- Suspense 430916 058 The Cross-Eyed Bear (128-44) 28680 30m15s (43-09-16) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430916%20058%20The%20Cross-Eyed%20Bear%20%28128-44%29%2028680%2030m15s.mp3
+- Suspense 430923 059 The Most Dangerous Game (133-44) 29389 29m57s (43-09-23) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430923%20059%20The%20Most%20Dangerous%20Game%20%28133-44%29%2029389%2029m57s.mp3
+- Suspense 430930 060 The Lost Special (129-44) 28915 30m23s AFRS (43-09-30) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20430930%20060%20The%20Lost%20Special%20%28129-44%29%2028915%20%2030m23s%20AFRS.mp3
+- Suspense 431007 061 Philomel Cottage (128-44) 28822 30m24s (43-10-07) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20431007%20061%20Philomel%20Cottage%20%28128-44%29%2028822%2030m24s.mp3
+- Suspense 431019 062 Lazarus Walks (128-44) 27343 28m49s AFRS (43-10-19) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20431019%20062%20Lazarus%20Walks%20%28128-44%29%2027343%20%2028m49s%20AFRS.mp3
+- Suspense 431026 063 The After Dinner Story (128-44) 28111 29m38s (43-10-26) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20431026%20063%20The%20After%20Dinner%20Story%20%28128-44%29%2028111%2029m38s.mp3
+- Suspense 431102 064 Statement of Employee Henry Wilson (128-44) 28431 29m59s (43-11-02) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20431102%20064%20Statement%20of%20Employee%20Henry%20Wilson%20%28128-44%29%2028431%2029m59s.mp3
+- Suspense 431109 065 Cabin B-13 (128-44) 28377 29m35s (43-11-09) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20431109%20065%20Cabin%20B-13%20%28128-44%29%2028377%2029m35s.mp3
+- Suspense 431116 066 Thieves Fall Out (128-44) 27573 28m44s (43-11-16) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20431116%20066%20Thieves%20Fall%20Out%20%28128-44%29%2027573%2028m44s.mp3
+- Suspense 431123 067 The Strange Death of Charles Umberstein (128-44) 28309 29m51s (43-11-23) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20431123%20067%20The%20Strange%20Death%20of%20Charles%20Umberstein%20%28128-44%29%2028309%2029m51s.mp3
+- Suspense 431202 068 The Black Curtain (128-44) 28656 29m50s (43-12-02) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20431202%20068%20The%20Black%20Curtain%20%28128-44%29%2028656%2029m50s.mp3
+- Suspense 431209 069 The Night Reveals (128-44) 28327 29m52s (43-12-09) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20431209%20069%20The%20Night%20Reveals%20%28128-44%29%2028327%2029m52s.mp3
+- Suspense 431216 070 Wet Saturday (128-44) 28606 30m10s (43-12-16) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20431216%20070%20Wet%20Saturday%20%28128-44%29%2028606%2030m10s.mp3
+- Suspense 431223 071 Back for Christmas (128-44) 28057 29m12s (43-12-23) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20431223%20071%20Back%20for%20Christmas%20%28128-44%29%2028057%2029m12s.mp3
+- Suspense 431230 072 Finishing School (128-44) 28472 30m02s (43-12-30) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20431230%20072%20Finishing%20School%20%28128-44%29%2028472%2030m02s.mp3
+- Suspense 440106 073 One-Way Ride to Nowhere (128-44) 28316 29m52s (44-01-06) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440106%20073%20One-Way%20Ride%20to%20Nowhere%20%28128-44%29%2028316%2029m52s.mp3
+- Suspense 440113 074 Dime a Dance (128-44) 28188 29m43s (44-01-13) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440113%20074%20Dime%20a%20Dance%20%28128-44%29%2028188%2029m43s.mp3
+- Suspense 440120 075 A World of Darkness (128-44) 28646 30m13s (44-01-20) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440120%20075%20A%20World%20of%20Darkness%20%28128-44%29%2028646%2030m13s.mp3
+- Suspense 440127 076 The Locked Room (128-44) 28426 29m59s (44-01-27) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440127%20076%20The%20Locked%20Room%20%28128-44%29%2028426%2029m59s.mp3
+- Suspense 440203 077 The Sisters (131-44) 28957 29m57s (44-02-03) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440203%20077%20The%20Sisters%20%28131-44%29%2028957%2029m57s.mp3
+- Suspense 440210 078 Suspicion (128-44) 28425 29m59s (44-02-10) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440210%20078%20Suspicion%20%28128-44%29%2028425%2029m59s.mp3
+- Suspense 440217 079 Life Ends at Midnight (128-44) 28593 30m09s (44-02-17) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440217%20079%20Life%20Ends%20at%20Midnight%20%28128-44%29%2028593%2030m09s.mp3
+- Suspense 440224 080 Sorry, Wrong Number (128-44) 28422 29m58s (44-02-24) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440224%20080%20Sorry%2C%20Wrong%20Number%20%28128-44%29%2028422%2029m58s.mp3
+- Suspense 440302 081 Portrait Without a Face (128-22) 28560 30m07s (44-03-02) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440302%20081%20Portrait%20Without%20a%20Face%20%28128-22%29%2028560%2030m07s.mp3
+- Suspense 440309 082 The Defense Rests (137-44) 30127 29m55s (44-03-09) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440309%20082%20The%20Defense%20Rests%20%28137-44%29%2030127%2029m55s.mp3
+- Suspense 440316 083 Narrative About Clarence (128-44) 28296 29m34s (44-03-16) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440316%20083%20Narrative%20About%20Clarence%20%28128-44%29%2028296%2029m34s.mp3
+- Suspense 440323 084 Sneak Preview (128-44) 28539 30m06s (44-03-23) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440323%20084%20Sneak%20Preview%20%28128-44%29%2028539%2030m06s.mp3
+- Suspense 440330 085 Cat and Mouse (128-44) 28241 29m26s (44-03-30) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440330%20085%20Cat%20and%20Mouse%20%28128-44%29%2028241%2029m26s.mp3
+- Suspense 440406 086 The Woman in Red (128-44) 28137 29m40s (44-04-06) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440406%20086%20The%20Woman%20in%20Red%20%28128-44%29%2028137%2029m40s.mp3
+- Suspense 440413 087 The Marvelous Barastro (128-44) 28477 30m02s (44-04-13) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440413%20087%20The%20Marvelous%20Barastro%20%28128-44%29%2028477%2030m02s.mp3
+- Suspense 440420 088 The Palmer Method (128-44) 28655 30m13s (44-04-20) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440420%20088%20The%20Palmer%20Method%20%28128-44%29%2028655%2030m13s.mp3
+- Suspense 440427 089 Death Went Along for the Ride (128-44) 28425 29m59s (44-04-27) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440427%20089%20Death%20Went%20Along%20for%20the%20Ride%20%28128-44%29%2028425%2029m59s.mp3
+- Suspense 440504 090 The Dark Tower (128-44) 28626 30m11s (44-05-04) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440504%20090%20The%20Dark%20Tower%20%28128-44%29%2028626%2030m11s.mp3
+- Suspense 440511 091 The Visitor (128-44) 28393 29m36s (44-05-11) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440511%20091%20The%20Visitor%20%28128-44%29%2028393%2029m36s.mp3
+- Suspense 440518 092 Donovan's Brain, Part One (128-44) 28258 29m48s (44-05-18) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440518%20092%20Donovan%27s%20Brain%2C%20Part%20One%20%28128-44%29%2028258%2029m48s.mp3
+- Suspense 440525 093 Donovan's Brain, Part Two (128-44) 28118 29m39s (44-05-25) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440525%20093%20Donovan%27s%20Brain%2C%20Part%20Two%20%28128-44%29%2028118%2029m39s.mp3
+- Suspense 440601 094 Fugue in C-Minor (128-44) 28362 29m54s Rehearsal (44-06-01) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440601%20094%20Fugue%20in%20C-Minor%20%28128-44%29%2028362%2029m54s%20Rehearsal.mp3
+- Suspense 440608 095 Case History on Edgar Lowndes (128-44) 28494 30m03s (44-06-08) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440608%20095%20Case%20History%20on%20Edgar%20Lowndes%20%28128-44%29%2028494%2030m03s.mp3
+- Suspense 440615 096 A Friend to Alexander (128-44) 25656 27m01s (44-06-15) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440615%20096%20A%20Friend%20to%20Alexander%20%28128-44%29%2025656%2027m01s.mp3
+- Suspense 440622 097 The Ten Grand (128-44) 28491 30m03s (44-06-22) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440622%20097%20The%20Ten%20Grand%20%28128-44%29%2028491%2030m03s.mp3
+- Suspense 440629 098 The Walls Came Tumbling Down (130-44) 28551 29m51s (44-06-29) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440629%20098%20The%20Walls%20Came%20Tumbling%20Down%20%28130-44%29%2028551%2029m51s.mp3
+- Suspense 440706 099 The Search for Henri LeFevre (128-44) 28816 30m03s (44-07-06) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440706%20099%20The%20Search%20for%20Henri%20LeFevre%20%28128-44%29%2028816%2030m03s.mp3
+- Suspense 440713 100 The Beast Must Die (128-44) 28579 30m08s (44-07-13) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440713%20100%20The%20Beast%20Must%20Die%20%28128-44%29%2028579%2030m08s.mp3
+- Suspense 440720 101 Of Maestro and Man (128-44) 28749 30m19s (44-07-20) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440720%20101%20Of%20Maestro%20and%20Man%20%28128-44%29%2028749%2030m19s.mp3
+- Suspense 440727 102 The Black Shawl (128-44) 28167 29m42s (44-07-27) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440727%20102%20The%20Black%20Shawl%20%28128-44%29%2028167%2029m42s.mp3
+- Suspense 440803 103 Banquo's Chair (128-44) 28427 29m59s (44-08-03) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440803%20103%20Banquo%27s%20Chair%20%28128-44%29%2028427%2029m59s.mp3
+- Suspense 440810 104 The Man Who Knew How (128-44) 28640 29m52s (44-08-10) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440810%20104%20The%20Man%20Who%20Knew%20How%20%28128-44%29%2028640%2029m52s.mp3
+- Suspense 440817 105 The Diary of Sophronia Winters (128-44) 28372 29m55s (44-08-17) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440817%20105%20The%20Diary%20of%20Sophronia%20Winters%20%28128-44%29%2028372%2029m55s.mp3
+- Suspense 440824 106 Actor's Blood (128-44) 28185 29m43s (44-08-24) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440824%20106%20Actor%27s%20Blood%20%28128-44%29%2028185%2029m43s.mp3
+- Suspense 440831 107 Black Path of Fear (128-44) 28432 29m59s (44-08-31) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440831%20107%20Black%20Path%20of%20Fear%20%28128-44%29%2028432%2029m59s.mp3
+- Suspense 440907 108 Voyage Through Darkness (64-44) 14669 29m55s (44-09-07) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440907%20108%20Voyage%20Through%20Darkness%20%2864-44%29%2014669%2029m55s.mp3
+- Suspense 440914 109 You'll Never See Me Again (128-44) 28674 30m14s (44-09-14) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440914%20109%20You%27ll%20Never%20See%20Me%20Again%20%28128-44%29%2028674%2030m14s.mp3
+- Suspense 440921 110 The Bluebeard of Bellac (128-44) 28568 30m08s (44-09-21) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440921%20110%20The%20Bluebeard%20of%20Bellac%20%28128-44%29%2028568%2030m08s.mp3
+- Suspense 440928 111 The Man Who Couldn't Lose (64-48) 14286 29m06s (44-09-28) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20440928%20111%20The%20Man%20Who%20Couldn%27t%20Lose%20%2864-48%29%2014286%2029m06s.mp3
+- Suspense 441005 112 Dateline - Lisbon (128-44) 28573 29m48s (44-10-05) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20441005%20112%20Dateline%20-%20Lisbon%20%28128-44%29%2028573%2029m48s.mp3
+- Suspense 441012 113 The Merry Widower (128-44) 28236 29m23s (44-10-12) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20441012%20113%20The%20Merry%20Widower%20%28128-44%29%2028236%2029m23s.mp3
+- Suspense 441019 114 Eve (128-48) 29169 30m46s AFRS (44-10-19) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20441019%20114%20Eve%20%28128-48%29%2029169%20%2030m46s%20AFRS.mp3
+- Suspense 441026 115 The Night Man (128-44) 28318 29m51s (44-10-26) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20441026%20115%20The%20Night%20Man%20%28128-44%29%2028318%2029m51s.mp3
+- Suspense 441102 116 The Singing Walls (128-48) 29995 31m18s AFRS (44-11-02) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20441102%20116%20The%20Singing%20Walls%20%28128-48%29%2029995%20%2031m18s%20AFRS.mp3
+- Suspense 441109 117 You Were Wonderful (128-44) 28566 30m07s (44-11-09) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20441109%20117%20You%20Were%20Wonderful%20%28128-44%29%2028566%2030m07s.mp3
+- Suspense 441116 118 Dead of the Night (130-44) 28645 29m58s (44-11-16) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20441116%20118%20Dead%20of%20the%20Night%20%28130-44%29%2028645%2029m58s.mp3
+- Suspense 441123 119 The Fountain Plays (128-44) 28548 29m45s (44-11-23) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20441123%20119%20The%20Fountain%20Plays%20%28128-44%29%2028548%2029m45s.mp3
+- Suspense 441130 120 The Black Curtain (128-44) 28514 29m43s (44-11-30) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20441130%20120%20The%20Black%20Curtain%20%28128-44%29%2028514%2029m43s.mp3
+- Suspense 441214 121 The Lodger (128-44) 30152 31m49s (44-12-14) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20441214%20121%20The%20Lodger%20%28128-44%29%2030152%2031m49s.mp3
+- Suspense 441221 122 The Brighton Strangler (128-44) 28009 29m32s (44-12-21) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20441221%20122%20The%20Brighton%20Strangler%20%28128-44%29%2028009%2029m32s.mp3
+- Suspense 441228 123 A Thing of Beauty (131-44) 28848 29m55s (44-12-28) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20441228%20123%20A%20Thing%20of%20Beauty%20%28131-44%29%2028848%2029m55s.mp3
+- Suspense 450104 124 I Had an Alibi (128-44) 28332 29m52s (45-01-04) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20450104%20124%20I%20Had%20an%20Alibi%20%28128-44%29%2028332%2029m52s.mp3
+- Suspense 450111 125 Drive-In (64-44) 14488 29m31s (45-01-11) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20450111%20125%20Drive-In%20%2864-44%29%2014488%2029m31s.mp3
+- Suspense 450118 126 To Find Help (128-44) 23698 24m56s AFRS (45-01-18) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20450118%20126%20To%20Find%20Help%20%28128-44%29%2023698%20%2024m56s%20AFRS.mp3
+- Suspense 450125 127 Drury's Bones (128-44) 27879 29m02s (45-01-25) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20450125%20127%20Drury%27s%20Bones%20%28128-44%29%2027879%2029m02s.mp3
+- Suspense 450201 128 The Most Dangerous Game (128-44) 27980 29m30s (45-02-01) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20450201%20128%20The%20Most%20Dangerous%20Game%20%28128-44%29%2027980%2029m30s.mp3
+- Suspense 450208 129 Tale of Two Sisters (128-44) 28045 29m34s (45-02-08) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20450208%20129%20Tale%20of%20Two%20Sisters%20%28128-44%29%2028045%2029m34s.mp3
+- Suspense 450215 130 Sell Me Your Life (128-44) 28298 29m29s (45-02-15) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20450215%20130%20Sell%20Me%20Your%20Life%20%28128-44%29%2028298%2029m29s.ogg
+- Suspense 450222 131 John Barbie and Son (128-44) 28009 29m32s (45-02-22) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20450222%20131%20John%20Barbie%20and%20Son%20%28128-44%29%2028009%2029m32s.mp3
+- Suspense 450301 132 My Wife Geraldine (128-44) 28270 29m27s (45-03-01) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20450301%20132%20My%20Wife%20Geraldine%20%28128-44%29%2028270%2029m27s.mp3
+- Suspense 450308 133 Love's Lovely Counterfeit (128-44) 28599 29m48s (45-03-08) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20450308%20133%20Love%27s%20Lovely%20Counterfeit%20%28128-44%29%2028599%2029m48s.mp3
+- Suspense 450315 134 Cricket (131-44) 28431 29m30s (45-03-15) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20450315%20134%20Cricket%20%28131-44%29%2028431%2029m30s.mp3
+- Suspense 450322 135 Heart's Desire (64-44) 14505 29m34s (45-03-22) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20450322%20135%20Heart%27s%20Desire%20%2864-44%29%2014505%2029m34s.mp3
+- Suspense 450329 136 The Taming of the Beast (128-44) 28406 29m37s (45-03-29) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20450329%20136%20The%20Taming%20of%20the%20Beast%20%28128-44%29%2028406%2029m37s.mp3
+- Suspense 450405 137 A Guy Gets Lonely (128-44) 28240 29m26s (45-04-05) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20450405%20137%20A%20Guy%20Gets%20Lonely%20%28128-44%29%2028240%2029m26s.mp3
+- Suspense 450419 138 Pearls Are a Nuisance (128-44) 28522 30m05s (45-04-19) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20450419%20138%20Pearls%20Are%20a%20Nuisance%20%28128-44%29%2028522%2030m05s.mp3
+- Suspense 450503 139 Fear Paints a Picture (128-44) 28426 29m38s (45-05-03) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20450503%20139%20Fear%20Paints%20a%20Picture%20%28128-44%29%2028426%2029m38s.mp3
+- Suspense 450510 140 Reprieve (128-48) 24513 25m48s AFRS (45-05-10) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20450510%20140%20Reprieve%20%28128-48%29%2024513%20%2025m48s%20AFRS.mp3
+- Suspense 450517 141 Two Birds with One Stone (128-44) 28368 29m55s (45-05-17) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20450517%20141%20Two%20Birds%20with%20One%20Stone%20%28128-44%29%2028368%2029m55s.mp3
+- Suspense 450524 142 My Own Murderer (128-44) 28095 29m17s (45-05-24) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20450524%20142%20My%20Own%20Murderer%20%28128-44%29%2028095%2029m17s.mp3
+- Suspense 450531 143 August Heat (128-44) 28389 29m36s (45-05-31) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20450531%20143%20August%20Heat%20%28128-44%29%2028389%2029m36s.mp3
+- Suspense 450607 144 Two Sharp Knives (128-44) 28473 30m02s (45-06-07) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20450607%20144%20Two%20Sharp%20Knives%20%28128-44%29%2028473%2030m02s.mp3
+- Suspense 450614 145 The Burning Court (128-44) 28079 29m36s (45-06-14) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20450614%20145%20The%20Burning%20Court%20%28128-44%29%2028079%2029m36s.mp3
+- Suspense 450621 146 The Story of Ivy (128-44) 28666 29m53s (45-06-21) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20450621%20146%20The%20Story%20of%20Ivy%20%28128-44%29%2028666%2029m53s.mp3
+- Suspense 450628 147 The Dealings of Mr Markham (128-44) 28174 29m22s (45-06-28) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20450628%20147%20The%20Dealings%20of%20Mr%20Markham%20%28128-44%29%2028174%2029m22s.mp3
+- Suspense 450705 148 The Last Detail (128-44) 28263 29m28s (45-07-05) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20450705%20148%20The%20Last%20Detail%20%28128-44%29%2028263%2029m28s.mp3
+- Suspense 450712 149 Footfalls (128-44) 28175 29m22s (45-07-12) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20450712%20149%20Footfalls%20%28128-44%29%2028175%2029m22s.mp3
+- Suspense 450719 150 Bank Holiday (128-44) 28279 29m29s (45-07-19) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20450719%20150%20Bank%20Holiday%20%28128-44%29%2028279%2029m29s.mp3
+- Suspense 450802 152 A Man in the House (64-44) 14492 29m33s (45-08-02) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20450802%20152%20A%20Man%20in%20the%20House%20%2864-44%29%2014492%2029m33s.mp3
+- Suspense 450809 153 Murder for Myra (128-44) 28349 29m31s (45-08-09) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20450809%20153%20Murder%20for%20Myra%20%28128-44%29%2028349%2029m31s.mp3
+- Suspense 450816 154 Short Order (128-44) 28291 29m27s (45-08-16) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20450816%20154%20Short%20Order%20%28128-44%29%2028291%2029m27s.mp3
+- Suspense 450823 155 This Will Kill You (128-44) 28374 29m32s (45-08-23) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20450823%20155%20This%20Will%20Kill%20You%20%28128-44%29%2028374%2029m32s.mp3
+- Suspense 450830 156 Nobody Loves Me (128-44) 28292 29m27s (45-08-30) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20450830%20156%20Nobody%20Loves%20Me%20%28128-44%29%2028292%2029m27s.mp3
+- Suspense 450906 157 Sorry, Wrong Number (64-44) 15575 32m32s (45-09-06) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20450906%20157%20Sorry%2C%20Wrong%20Number%20%2864-44%29%2015575%2032m32s.mp3
+- Suspense 450913 158 The Furnished Floor (128-44) 29786 31m26s (45-09-13) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20450913%20158%20The%20Furnished%20Floor%20%28128-44%29%2029786%2031m26s.mp3
+- Suspense 450920 159 Library Book (64-44) 15033 30m42s (45-09-20) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20450920%20159%20Library%20Book%20%2864-44%29%2015033%2030m42s.mp3
+- Suspense 450927 160 The Earth Is Made of Glass (128-44) 28674 30m14s (45-09-27) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20450927%20160%20The%20Earth%20Is%20Made%20of%20Glass%20%28128-44%29%2028674%2030m14s.mp3
+- Suspense 451004 161 Death on Highway 99 (128-44) 23556 24m47s AFRS (45-10-04) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20451004%20161%20Death%20on%20Highway%2099%20%28128-44%29%2023556%20%2024m47s%20AFRS.mp3
+- Suspense 451011 162 Beyond Good and Evil (128-44) 28208 29m22s (45-10-11) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20451011%20162%20Beyond%20Good%20and%20Evil%20%28128-44%29%2028208%2029m22s.mp3
+- Suspense 451018 163 Summer Storm (128-44) 24441 25m44s (45-10-18) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20451018%20163%20Summer%20Storm%20%28128-44%29%2024441%2025m44s.mp3
+- Suspense 451025 164 A Shroud for Sarah (128-44) 28371 29m32s (45-10-25) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20451025%20164%20A%20Shroud%20for%20Sarah%20%28128-44%29%2028371%2029m32s.mp3
+- Suspense 451101 165 The Dunwich Horror (128-44) 25926 27m19s AFRS (45-11-01) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20451101%20165%20The%20Dunwich%20Horror%20%28128-44%29%2025926%20%2027m19s%20AFRS.mp3
+- Suspense 451108 166 The Bet (128-44) 28279 29m26s (45-11-08) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20451108%20166%20The%20Bet%20%28128-44%29%2028279%2029m26s.mp3
+- Suspense 451115 167 Murder off Key (64-44) 14688 29m58s (45-11-15) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20451115%20167%20Murder%20off%20Key%20%2864-44%29%2014688%2029m58s.mp3
+- Suspense 451122 168 Nineteen Deacon Street (64-44) 14528 29m37s (45-11-22) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20451122%20168%20Nineteen%20Deacon%20Street%20%2864-44%29%2014528%2029m37s.mp3
+- Suspense 451129 169 A Week Ago Wednesday (132-44) 28875 29m39s (45-11-29) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20451129%20169%20A%20Week%20Ago%20Wednesday%20%28132-44%29%2028875%2029m39s.mp3
+- Suspense 451206 170 I Won't Take a Minute (64-44) 14189 28m54s (45-12-06) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20451206%20170%20I%20Won%27t%20Take%20a%20Minute%20%2864-44%29%2014189%2028m54s.mp3
+- Suspense 451213 171 The Argyle Album (64-44) 14867 31m01s (45-12-13) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20451213%20171%20The%20Argyle%20Album%20%2864-44%29%2014867%2031m01s.mp3
+- Suspense 451220 172 Double Entry (128-48) 24492 25m47s AFRS (45-12-20) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20451220%20172%20Double%20Entry%20%28128-48%29%2024492%20%2025m47s%20AFRS.mp3
+- Suspense 451227 173 Pink Camellias (128-44) 28646 30m13s (45-12-27) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20451227%20173%20Pink%20Camellias%20%28128-44%29%2028646%2030m13s.mp3
+- Suspense 460103 174 The Angel of Death (128-44) 28700 29m53s (46-01-03) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20460103%20174%20The%20Angel%20of%20Death%20%28128-44%29%2028700%2029m53s.mp3
+- Suspense 460117 176 The Pasteboard Box (130-44) 28437 29m45s (46-01-17) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20460117%20176%20The%20Pasteboard%20Box%20%28130-44%29%2028437%2029m45s.mp3
+- Suspense 460124 177 My Dear Niece (128-44) 28399 29m57s (46-01-24) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20460124%20177%20My%20Dear%20Niece%20%28128-44%29%2028399%2029m57s.mp3
+- Suspense 460131 178 The Long Shot (128-44) 24158 25m05s AFRS (46-01-31) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20460131%20178%20The%20Long%20Shot%20%28128-44%29%2024158%20%2025m05s%20AFRS.mp3
+- Suspense 460207 179 Too Little to Live On (128-44) 23459 24m20s AFRS (46-02-07) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20460207%20179%20Too%20Little%20to%20Live%20On%20%28128-44%29%2023459%20%2024m20s%20AFRS.mp3
+- Suspense 460214 180 The Lucky Lady (80-44) 17838 29m54s EC (46-02-14) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20460214%20180%20The%20Lucky%20Lady%20%2880-44%29%2017838%2029m54s%20EC.mp3
+- Suspense 460221 181 Consequence (64-44) 14431 29m25s (46-02-21) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20460221%20181%20Consequence%20%2864-44%29%2014431%2029m25s.mp3
+- Suspense 460307 183 The Black Path of Fear (128-44) 25771 27m09s AFRS (46-03-07) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20460307%20183%20The%20Black%20Path%20of%20Fear%20%28128-44%29%2025771%20%2027m09s%20AFRS.mp3
+- Suspense 460314 184 No More Alice (64-44) 14461 29m29s (46-03-14) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20460314%20184%20No%20More%20Alice%20%2864-44%29%2014461%2029m29s.mp3
+- Suspense 460321 185 The Lonely Road (128-44) 28762 30m00s (46-03-21) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20460321%20185%20The%20Lonely%20Road%20%28128-44%29%2028762%2030m00s.mp3
+- Suspense 460328 186 Out of Control (128-44) 24557 25m30s AFRS (46-03-28) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20460328%20186%20Out%20of%20Control%20%28128-44%29%2024557%20%2025m30s%20AFRS.mp3
+- Suspense 460404 187 Post Mortem (64-44) 14506 29m34s (46-04-04) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20460404%20187%20Post%20Mortem%20%2864-44%29%2014506%2029m34s.mp3
+- Suspense 460411 188 The Name of the Beast (128-44) 28344 29m53s (46-04-11) — https://archive.org/download/OTRR_Suspense_Singles/Suspense%20460411%20188%20The%20Name%20of%20the%20Beast%20%28128-44%29%2028344%2029m53s.mp3
+- The Whistler — Retribution (42-05-16) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_42-05-16_ep001_Retribution.mp3
+- The Whistler — Shrunken Head (42-06-13) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_42-06-13_ep005_Shrunken_Head.mp3
+- The Whistler — Notes in the Night (42-06-27) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_42-06-27_ep007_Notes_in_the_Night.mp3
+- The Whistler — Death Has a Thirst (42-08-22) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_42-08-22_ep015_Death_Has_a_Thirst.mp3
+- The Whistler — The Letter (42-08-29) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_42-08-29_ep016_The_Letter.mp3
+- The Whistler — House of Greed (42-09-05) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_42-09-05_ep017_House_of_Greed.mp3
+- The Whistler — Mirage (42-09-13) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_42-09-13_ep018_Mirage.mp3
+- The Whistler — Fog (42-09-20) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_42-09-20_ep019_Fog.mp3
+- The Whistler — Jealousy (42-09-27) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_42-09-27_ep020_Jealousy.mp3
+- The Whistler — Urge to Kill (42-10-04) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_42-10-04_ep021_Urge_to_Kill.mp3
+- The Whistler — Malice (42-10-11) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_42-10-11_ep022_Malice.mp3
+- The Whistler — Death Comes at Midnight (42-10-18) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_42-10-18_ep023_Death_Comes_at_Midnight.mp3
+- The Whistler — The Alibi (42-10-25) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_42-10-25_ep024_The_Alibi.mp3
+- The Whistler — Apparition (42-11-15) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_42-11-15_ep027_Apparition.mp3
+- The Whistler — The Other Woman (42-11-22) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_42-11-22_ep028_The_Other_Woman.mp3
+- The Whistler — Avarice (42-11-29) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_42-11-29_ep029_Avarice.mp3
+- The Whistler — The Accounting (42-12-13) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_42-12-13_ep031_The_Accounting.mp3
+- The Whistler — Double-Cross (42-12-27) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_42-12-27_ep033_Double-Cross.mp3
+- The Whistler — The Weakling (43-01-03) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_43-01-03_ep034_The_Weakling.mp3
+- The Whistler — The Nemesis (43-01-10) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_43-01-10_ep035_The_Nemesis.mp3
+- The Whistler — The Thief (43-01-17) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_43-01-17_ep036_The_Thief.mp3
+- The Whistler — Mind over Matter (43-01-24) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_43-01-24_ep037_Mind_over_Matter.mp3
+- The Whistler — The Confession (43-01-31) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_43-01-31_ep038_The_Confession.mp3
+- The Whistler — In the Dark (43-02-07) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_43-02-07_ep039_In_the_Dark.mp3
+- The Whistler — Legacy of Death (43-02-14) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_43-02-14_ep040_Legacy_of_Death.mp3
+- The Whistler — Whistler 43-02-21 ep041 Fool's Gold — https://archive.org/download/OTRR_Whistler_Singles/Whistler_43-02-21_ep041_Fools_Gold.mp3
+- The Whistler — The Penalty (43-03-28) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_43-03-28_ep046_The_Penalty.mp3
+- The Whistler — The Killers (43-05-01) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_43-05-01_ep050_The_Killers.mp3
+- The Whistler — Death Has a Thirst (43-05-08) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_43-05-08_ep051_Death_Has_a_Thirst_.mp3
+- The Whistler — The Man Who Waited (43-05-15) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_43-05-15_ep052_The_Man_Who_Waited.mp3
+- The Whistler — Shadow of a Mind (43-06-05) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_43-06-05_ep055_Shadow_of_a_Mind.mp3
+- The Whistler — Justice (43-06-12) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_43-06-12_ep056_Justice.mp3
+- The Whistler — House of Fear (43-06-19) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_43-06-19_ep057_House_of_Fear.mp3
+- The Whistler — The Blank Wall (43-06-26) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_43-06-26_ep058_The_Blank_Wall.mp3
+- The Whistler — The Avengers (43-07-02) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_43-07-02_ep059_The_Avengers.mp3
+- The Whistler — An Eye for an Eye (43-07-09) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_43-07-09_ep060_An_Eye_for_an_Eye.mp3
+- The Whistler — Death in the Air (43-08-13) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_43-08-13_ep065_Death_in_the_Air.mp3
+- The Whistler — Destiny (43-09-03) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_43-09-03_ep068_Destiny.mp3
+- The Whistler — Tangled Web (43-09-10) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_43-09-10_ep069_Tangled_Web.mp3
+- The Whistler — Blind Alley (43-09-24) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_43-09-24_ep071_Blind_Alley.mp3
+- The Whistler — Mirage (43-10-03) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_43-10-03_ep072_Mirage_.mp3
+- The Whistler — Patients for the Doctor (43-11-21) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_43-11-21_ep079_Patients_for_the_Doctor.mp3
+- The Whistler — Death Demands a Payment (43-12-19) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_43-12-19_ep083_Death_Demands_a_Payment.mp3
+- The Whistler — The Doctor Prescribes Death (44-06-11) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_44-06-11_ep108_The_Doctor_Prescribes_Death.mp3
+- The Whistler — Last of the Devereaux (44-07-23) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_44-07-23_ep114_Last_of_the_Devereaux.mp3
+- The Whistler — Till Death Do Us Part (44-07-30) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_44-07-30_ep115_Till_Death_Do_Us_Part.mp3
+- The Whistler — Practically Foolproof (44-09-03) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_44-09-03_ep120_Practically_Foolproof.mp3
+- The Whistler — Local Storm (44-09-10) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_44-09-10_ep121_Local_Storm.mp3
+- The Whistler — Black Magic (44-09-18) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_44-09-18_ep122_Black_Magic.mp3
+- The Whistler — Married to Murder (44-09-25) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_44-09-25_ep123_Married_to_Murder.mp3
+- The Whistler — Not If I Kill You First (44-10-02) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_44-10-02_ep124_Not_If_I_Kill_You_First.mp3
+- The Whistler — Finders Weepers (44-10-09) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_44-10-09_ep125_Finders_Weepers.mp3
+- The Whistler — The Tale The Dead Man Told (44-10-16) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_44-10-16_ep126_The_Tale_The_Dead_Man_Told.mp3
+- The Whistler — 44-10-23 Death Carries A Lunch Kit — https://archive.org/download/OTRR_Whistler_Singles/Whistler_44-10-23_ep127_Death_Carries_a_Lunch_Kit_epharp_in_opening.mp3
+- The Whistler — The Beloved Fraud (44-10-30) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_44-10-30_ep128_The_Beloved_Fraud.mp3
+- The Whistler — Beware the Bridegroom (44-11-13) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_44-11-13_ep129_Beware_the_Bridegroom.mp3
+- The Whistler — Death Sees Double (44-11-20) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_44-11-20_ep130_Death_Sees_Double.mp3
+- The Whistler — Death Walks a Tightwire (44-11-27) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_44-11-27_ep131_Death_Walks_a_Tightwire.mp3
+- The Whistler — Doctor Operates in Crime (44-12-04) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_44-12-04_ep132_Doctor_Operates_in_Crime.mp3
+- The Whistler — Lie or Consequences (44-12-11) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_44-12-11_ep133_Lie_or_Consequences.mp3
+- The Whistler — Windfall (44-12-18) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_44-12-18_ep134_Windfall.mp3
+- The Whistler — Christmas Bonus (44-12-25) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_44-12-25_ep135_Christmas_Bonus.mp3
+- The Whistler — Two for the Money (45-01-01) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-01-01_ep136_Two_for_the_Money.mp3
+- The Whistler — Whistler 45-01-08 ep137 The Body Wouldn't Stay in the Bay — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-01-08_ep137_The_Body_Wouldnt_Stay_in_the_Bay.mp3
+- The Whistler — Murder Has a Signature (45-01-15) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-01-15_ep138_Murder_Has_a_Signature.mp3
+- The Whistler — Seascape (45-01-22) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-01-22_ep139_Seascape.mp3
+- The Whistler — Murder on Paper (45-01-29) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-01-29_ep140_Murder_on_Paper.mp3
+- The Whistler — Murder Is Legal (45-02-05) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-02-05_ep141_Murder_Is_Legal.mp3
+- The Whistler — The Dead Man Laughed (45-02-19) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-02-19_ep143_The_Dead_Man_Laughed.mp3
+- The Whistler — Murder Opens A Gate aka Gateway To Danger (45-02-26) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-02-26_ep144_Murder_Opens_A_Gate_aka_Gateway_To_Danger.mp3
+- The Whistler — Danger Is a Beautiful Blond (45-03-05) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-03-05_ep145_Danger_Is_a_Beautiful_Blond.mp3
+- The Whistler — Death Marks the Double Cross (Mystery Theater Version) (45-03-12) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-03-12_ep146_Death_Marks_the_Double_Cross_-_Mystery_Theater_Version.mp3
+- The Whistler — Murder Will Shout (45-03-19) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-03-19_ep147_Murder_Will_Shout.mp3
+- The Whistler — Return of the Innocent (45-04-02) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-04-02_ep149_Return_of_the_Innocent.mp3
+- The Whistler — To Rent Danger (45-04-16) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-04-16_ep151_To_Rent_Danger.mp3
+- The Whistler — Meet Mr Death (45-04-23) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-04-23_ep152_Meet_Mr_Death.mp3
+- The Whistler — Whistler 45-04-30 ep153 The Master's Tree — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-04-30_ep153_The_Masters_Tree.mp3
+- The Whistler — Accident-According to Plans (45-05-07) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-05-07_ep154_Accident-According_to_Plans.mp3
+- The Whistler — The Man Who Bought Death (45-05-21) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-05-21_ep156_The_Man_Who_Bought_Death.mp3
+- The Whistler — Escape to Danger (45-05-28) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-05-28_ep157_Escape_to_Danger.mp3
+- The Whistler — Murder Is Blind (45-06-04) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-06-04_ep158_Murder_Is_Blind.mp3
+- The Whistler — Death Pays a Visit (45-06-11) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-06-11_ep159_Death_Pays_a_Visit.mp3
+- The Whistler — Blueprint for Suicide (45-06-18) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-06-18_ep160_Blueprint_for_Suicide.mp3
+- The Whistler — Death Watch (45-06-25) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-06-25_ep161_Death_Watch.mp3
+- The Whistler — Deadly Innocent (45-07-02) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-07-02_ep162_Deadly_Innocent.mp3
+- The Whistler — Highway of Escape (45-07-09) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-07-09_ep163_Highway_of_Escape.mp3
+- The Whistler — Pattern for Terror (45-07-16) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-07-16_ep164_Pattern_for_Terror.mp3
+- The Whistler — Let George Do It (45-07-23) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-07-23_ep165_Let_George_Do_It.mp3
+- The Whistler — Summer Thunder (45-07-30) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-07-30_ep166_Summer_Thunder.mp3
+- The Whistler — The Man Who Came to Murder (45-08-06) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-08-06_ep167_The_Man_Who_Came_to_Murder.mp3
+- The Whistler — What Makes a Murderer (45-08-13) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-08-13_ep168_What_Makes_a_Murderer.mp3
+- The Whistler — X Marks the Murderer (45-08-20) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-08-20_ep169_X_Marks_the_Murderer.mp3
+- The Whistler — Whistler 45-08-27 ep170 I'll Trade You Murder — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-08-27_ep170_Ill_Trade_You_Murder.mp3
+- The Whistler — Ambition Perilous (45-09-03) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-09-03_ep171_Ambition_Perilous.mp3
+- The Whistler — Phone Call from Death (45-09-10) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-09-10_ep172_Phone_Call_from_Death.mp3
+- The Whistler — Sing a Song of Murder (45-09-17) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-09-17_ep173_Sing_a_Song_of_Murder.mp3
+- The Whistler — The Man Who Died Twice (45-09-24) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-09-24_ep174_The_Man_Who_Died_Twice.mp3
+- The Whistler — Death Wears a White Robe (45-10-01) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-10-01_ep175_Death_Wears_a_White_Robe.mp3
+- The Whistler — Death Laughs Last (45-10-08) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-10-08_ep176_Death_Laughs_Last.mp3
+- The Whistler — House on Sycamore Road (45-10-15) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-10-15_ep177_House_on_Sycamore_Road.mp3
+- The Whistler — One Man Jury (45-10-22) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-10-22_ep178_One_Man_Jury.mp3
+- The Whistler — Final Return (45-10-29) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-10-29_ep179_Final_Return.mp3
+- The Whistler — Harvest of Death (45-11-05) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-11-05_ep180_Harvest_of_Death.mp3
+- The Whistler — The Seeing Eye (45-11-12) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-11-12_ep181_The_Seeing_Eye.mp3
+- The Whistler — Coincidence (45-11-19) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-11-19_ep182_Coincidence.mp3
+- The Whistler — The Stray Dream (45-11-26) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-11-26_ep183_The_Stray_Dream.mp3
+- The Whistler — Poison Is Quicker (45-12-03) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-12-03_ep184_Poison_Is_Quicker.mp3
+- The Whistler — The Cistern (45-12-10) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-12-10_ep185_The_Cistern.mp3
+- The Whistler — Lucky Night (45-12-17) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-12-17_ep186_Lucky_Night.mp3
+- The Whistler — Miracle on 49th Street (45-12-31) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_45-12-31_ep188_Miracle_on_49th_Street.mp3
+- The Whistler — The Thin Line (46-01-07) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_46-01-07_ep189_The_Thin_Line.mp3
+- The Whistler — Hit and Run (46-01-14) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_46-01-14_ep190_Hit_and_Run.mp3
+- The Whistler — Treasure Hunt (46-01-21) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_46-01-21_ep191_Treasure_Hunt.mp3
+- The Whistler — The Strange Sisters (46-01-28) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_46-01-28_ep192_The_Strange_Sisters.mp3
+- The Whistler — Panic (46-02-04) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_46-02-04_ep193_Panic.mp3
+- The Whistler — Six Letter Word for Death (46-02-11) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_46-02-11_ep194_Six_Letter_Word_for_Death.mp3
+- The Whistler — Murder in Haste (46-02-25) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_46-02-25_ep196_Murder_in_Haste.mp3
+- The Whistler — Decision (46-03-04) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_46-03-04_ep197_Decision.mp3
+- The Whistler — Boomerang (46-03-11) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_46-03-11_ep198_Boomerang.mp3
+- The Whistler — Whistler 46-03-18 ep199 The Master's Touch — https://archive.org/download/OTRR_Whistler_Singles/Whistler_46-03-18_ep199_The_Masters_Touch.mp3
+- The Whistler — The Trigger Man (46-03-25) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_46-03-25_ep200_The_Trigger_Man.mp3
+- The Whistler — Three Times a Sinner (46-04-01) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_46-04-01_ep201_Three_Times_a_Sinner.mp3
+- The Whistler — Terror Stricken (46-04-08) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_46-04-08_ep202_Terror_Stricken.mp3
+- The Whistler — Smart Boy (46-04-15) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_46-04-15_ep203_Smart_Boy.mp3
+- The Whistler — Waterford Case (46-04-22) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_46-04-22_ep204_Waterford_Case.mp3
+- The Whistler — Bright Horizon (46-05-06) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_46-05-06_ep206_Bright_Horizon.mp3
+- The Whistler — Broken Chain (46-05-20) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_46-05-20_ep208_Broken_Chain.mp3
+- The Whistler — The Judas Face (46-06-03) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_46-06-03_ep210_The_Judas_Face.mp3
+- The Whistler — Quiet Sunday (46-06-10) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_46-06-10_ep211_Quiet_Sunday.mp3
+- The Whistler — Affair at Stoney Ridge (46-06-17) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_46-06-17_ep212_Affair_at_Stoney_Ridge.mp3
+- The Whistler — Blind Bet (46-06-24) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_46-06-24_ep213_Blind_Bet.mp3
+- The Whistler — Solid Citizen (46-07-01) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_46-07-01_ep214_Solid_Citizen.mp3
+- The Whistler — Confession (46-07-08) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_46-07-08_ep215_Confession.mp3
+- The Whistler — Custom Built Blond (46-07-15) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_46-07-15_ep216_Custom_Built_Blond.mp3
+- The Whistler — The Sell-Out (46-07-29) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_46-07-29_ep218_The_Sell-Out.mp3
+- The Whistler — Bullet Proof (46-08-05) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_46-08-05_ep219_Bullet_Proof.mp3
+- The Whistler — Stolen Murder (46-08-12) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_46-08-12_ep220_Stolen_Murder.mp3
+- The Whistler — Delivery Guaranteed (46-08-19) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_46-08-19_ep221_Delivery_Guaranteed.mp3
+- The Whistler — Broken Chain (East Coast Broadcast) (46-08-21) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_46-08-21_epxxx_Broken_Chain_epEast_Coast_Broadcast.mp3
+- The Whistler — Stranger in the House (46-09-02) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_46-09-02_ep223_Stranger_in_the_House.mp3
+- The Whistler — Witness at the Fountain (46-09-09) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_46-09-09_ep224_Witness_at_the_Fountain.mp3
+- The Whistler — A Brief Pause For Murder (East Coast Broadcast) (46-09-11) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_46-09-11_epxxx_A_Brief_Pause_For_Murder_epEast_Coast_Broadcast.mp3
+- The Whistler — The Brass Ring (46-09-16) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_46-09-16_ep225_The_Brass_Ring.mp3
+- The Whistler — A Present for Ricky (46-10-07) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_46-10-07_ep228_A_Present_for_Ricky.mp3
+- The Whistler — Weak Sister (46-10-14) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_46-10-14_ep229_Weak_Sister.mp3
+- The Whistler — Masquerade (46-10-21) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_46-10-21_ep230_Masquerade.mp3
+- The Whistler — Backfire (46-10-28) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_46-10-28_ep231_Backfire.mp3
+- The Whistler — The Deadly Penny (46-11-11) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_46-11-11_ep233_The_Deadly_Penny.mp3
+- The Whistler — Two Year Plan (46-11-25) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_46-11-25_ep235_Two_Year_Plan.mp3
+- The Whistler — With My Own Eyes (46-12-09) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_46-12-09_ep237_With_My_Own_Eyes.mp3
+- The Whistler — Next Year Is Mine (46-12-23) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_46-12-23_ep239_Next_Year_Is_Mine.mp3
+- The Whistler — Murder on Rourke Island (46-12-30) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_46-12-30_ep240_Murder_on_Rourke_Island.mp3
+- The Whistler — Dear Roger (47-01-06) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-01-06_ep241_Dear_Roger.mp3
+- The Whistler — The Choice (47-01-13) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-01-13_ep242_The_Choice.mp3
+- The Whistler — Last Curtain (47-01-20) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-01-20_ep243_Last_Curtain.mp3
+- The Whistler — Night Melody (47-01-27) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-01-27_ep244_Night_Melody.mp3
+- The Whistler — Seven Steps to Murder (47-02-03) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-02-03_ep245_Seven_Steps_to_Murder.mp3
+- The Whistler — Safety in Numbers (47-02-10) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-02-10_ep246_Safety_in_Numbers.mp3
+- The Whistler — Seven Steps To Murder (East Coast Broadcast) (47-02-12) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-02-12_epxxx_Seven_Steps_To_Murder_-_East_Coast_Broadcast.mp3
+- The Whistler — Whistler 47-02-17 ep247 A Woman's Privilege — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-02-17_ep247_A_Womans_Privilege.mp3
+- The Whistler — Eight to Twelve (47-02-24) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-02-24_ep248_Eight_to_Twelve.mp3
+- The Whistler — Blue Legend (47-03-03) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-03-03_ep249_Blue_Legend.mp3
+- The Whistler — Murder of Byron Blake (47-03-10) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-03-10_ep250_Murder_of_Byron_Blake.mp3
+- The Whistler — Mavis Cameron Disappears (47-03-17) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-03-17_ep251_Mavis_Cameron_Disappears.mp3
+- The Whistler — The Lady and the Knife (47-03-24) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-03-24_ep252_The_Lady_and_the_Knife.mp3
+- The Whistler — The Blank Wall (47-03-31) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-03-31_ep253_The_Blank_Wall_.mp3
+- The Whistler — Whistler 47-04-07 ep254 The Sheriff's Assistant — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-04-07_ep254_The_Sheriffs_Assistant.mp3
+- The Whistler — Maid of Honor (47-04-14) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-04-14_ep255_Maid_of_Honor.mp3
+- The Whistler — Backlash (47-04-21) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-04-21_ep256_Backlash.mp3
+- The Whistler — The Black Book (47-04-28) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-04-28_ep257_The_Black_Book.mp3
+- The Whistler — Windfall (47-05-05) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-05-05_ep258_Windfall.mp3
+- The Whistler — 18 Bowden Lane (47-05-12) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-05-12_ep259_18_Bowden_Lane.mp3
+- The Whistler — Hasty Conclusion (47-05-19) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-05-19_ep260_Hasty_Conclusion.mp3
+- The Whistler — Fateful Friday (47-05-26) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-05-26_ep261_Fateful_Friday.mp3
+- The Whistler — Whistler 47-06-02 ep262 Caesar's Wife — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-06-02_ep262_Caesars_Wife.mp3
+- The Whistler — Juggernaut (47-06-09) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-06-09_ep263_Juggernaut.mp3
+- The Whistler — Ambassador of Death (47-06-16) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-06-16_ep264_Ambassador_of_Death.mp3
+- The Whistler — The Gentle Way (47-06-23) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-06-23_ep265_The_Gentle_Way.mp3
+- The Whistler — The Two Lives of Colby Fletcher (47-07-09) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-07-09_ep267_The_Two_Lives_of_Colby_Fletcher.mp3
+- The Whistler — Beyond Reasonable Doubt (47-07-16) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-07-16_ep268_Beyond_Reasonable_Doubt.mp3
+- The Whistler — Borrowed Byline (47-07-30) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-07-30_ep270_Borrowed_Byline.mp3
+- The Whistler — Dark Future (47-08-06) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-08-06_ep271_Dark_Future.mp3
+- The Whistler — Whispered Verdict (47-08-13) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-08-13_ep272_Whispered_Verdict.mp3
+- The Whistler — Girl Next Door (47-08-20) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-08-20_ep273_Girl_Next_Door.mp3
+- The Whistler — Curtain Call (47-08-27) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-08-27_ep274_Curtain_Call.mp3
+- The Whistler — The Eleventh Hour (47-09-03) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-09-03_ep275_The_Eleventh_Hour.mp3
+- The Whistler — Bridge on Black Mountain (47-09-10) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-09-10_ep276_Bridge_on_Black_Mountain.mp3
+- The Whistler — Sleep My Pretty One (47-09-24) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-09-24_ep278_Sleep_My_Pretty_One.mp3
+- The Whistler — Career Man (47-10-08) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-10-08_ep280_Career_Man.mp3
+- The Whistler — Man of Distinction (47-10-15) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-10-15_ep281_Man_of_Distinction.mp3
+- The Whistler — A Case for Mister Carrington (47-10-22) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-10-22_ep282_A_Case_for_Mister_Carrington.mp3
+- The Whistler — The Back Door (47-10-29) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-10-29_ep283_The_Back_Door.mp3
+- The Whistler — The Big Prison (47-11-05) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-11-05_ep284_The_Big_Prison.mp3
+- The Whistler — Dark Moon (47-11-19) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-11-19_ep286_Dark_Moon.mp3
+- The Whistler — The Body Off Billingsgate (47-11-26) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-11-26_ep287_The_Body_Off_Billingsgate.mp3
+- The Whistler — Wedding Gift (47-12-10) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-12-10_ep289_Wedding_Gift.mp3
+- The Whistler — Murder in Haste (47-12-17) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-12-17_ep290_Murder_in_Haste.mp3
+- The Whistler — Decision (47-12-24) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-12-24_ep291_Decision.mp3
+- The Whistler — The First Year (47-12-31) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_47-12-31_ep292_The_First_Year.mp3
+- The Whistler — Comeback (48-01-07) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-01-07_ep293_Comeback.mp3
+- The Whistler — Silent Partner (48-01-14) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-01-14_ep294_Silent_Partner.mp3
+- The Whistler — Twelve Portraits of Marcia (48-01-21) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-01-21_ep295_Twelve_Portraits_of_Marcia.mp3
+- The Whistler — Night Final (48-01-28) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-01-28_ep296_Night_Final.mp3
+- The Whistler — Undertow (48-02-04) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-02-04_ep297_Undertow.mp3
+- The Whistler — Money Is The Root Of All Evil (48-02-11) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-02-11_ep298_Money_Is_The_Root_Of_All_Evil.mp3
+- The Whistler — Quiet Suicide (48-02-18) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-02-18_ep299_Quiet_Suicide.mp3
+- The Whistler — Meeting on Tenth Street (48-02-25) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-02-25_ep300_Meeting_on_Tenth_Street.mp3
+- The Whistler — Boiling Point (48-03-03) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-03-03_ep301_Boiling_Point.mp3
+- The Whistler — Return Engagement (48-03-10) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-03-10_ep302_Return_Engagement.mp3
+- The Whistler — The Human Catalyst (48-03-17) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-03-17_ep303_The_Human_Catalyst.mp3
+- The Whistler — The Dark Room (48-03-24) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-03-24_ep304_The_Dark_Room.mp3
+- The Whistler — Bird of Prey (48-03-31) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-03-31_ep305_Bird_of_Prey.mp3
+- The Whistler — What Makes a Murderer (48-04-07) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-04-07_ep306_What_Makes_a_Murderer.mp3
+- The Whistler — Till Death Do Us Part (48-04-14) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-04-14_ep307_Till_Death_Do_Us_Part.mp3
+- The Whistler — Silent City (48-04-21) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-04-21_ep308_Silent_City.mp3
+- The Whistler — Tough Guy (48-04-28) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-04-28_ep309_Tough_Guy.mp3
+- The Whistler — Chain Reaction (48-05-12) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-05-12_ep311_Chain_Reaction.mp3
+- The Whistler — Murder on Margin (48-05-19) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-05-19_ep312_Murder_on_Margin.mp3
+- The Whistler — Stranger in the House (48-06-02) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-06-02_ep314_Stranger_in_the_House_.mp3
+- The Whistler — Concerto of Death (48-06-16) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-06-16_ep316_Concerto_of_Death.mp3
+- The Whistler — Small Town Girl (48-06-30) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-06-30_ep317_Small_Town_Girl.mp3
+- The Whistler — Fatal Appointment (48-07-07) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-07-07_ep318_Fatal_Appointment.mp3
+- The Whistler — Farewell Party (48-07-21) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-07-21_ep319_Farewell_Party.mp3
+- The Whistler — Lady from the Sea (48-07-28) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-07-28_ep320_Lady_from_the_Sea.mp3
+- The Whistler — Question of Murder (48-08-04) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-08-04_ep321_Question_of_Murder.mp3
+- The Whistler — Enough Rope (48-08-11) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-08-11_ep322_Enough_Rope.mp3
+- The Whistler — Bright Future (48-08-18) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-08-18_ep323_Bright_Future.mp3
+- The Whistler — Trio of Rogues (48-08-25) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-08-25_ep324_Trio_of_Rogues.mp3
+- The Whistler — Payment in Full (48-09-01) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-09-01_ep325_Payment_in_Full.mp3
+- The Whistler — Whistler 48-09-15 ep327 Uncle Ben's Widow — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-09-15_ep327_Uncle_Bens_Widow.mp3
+- The Whistler — Still Death (48-09-22) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-09-22_ep328_Still_Death.mp3
+- The Whistler — Conspiracy (48-09-29) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-09-29_ep329_Conspiracy.mp3
+- The Whistler — Big Gamble (48-10-03) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-10-03_ep330_Big_Gamble.mp3
+- The Whistler — Whirlpool (48-10-10) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-10-10_ep331_Whirlpool.mp3
+- The Whistler — Package for Emily (48-10-17) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-10-17_ep332_Package_for_Emily.mp3
+- The Whistler — Search for an Unknown (48-10-24) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-10-24_ep333_Search_for_an_Unknown.mp3
+- The Whistler — Letter from Yesterday (48-10-31) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-10-31_ep334_Letter_from_Yesterday.mp3
+- The Whistler — Cover Up (48-11-07) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-11-07_ep335_Cover_Up.mp3
+- The Whistler — Nightmare (48-11-14) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-11-14_ep336_Nightmare.mp3
+- The Whistler — The Lovely Look (48-11-21) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-11-21_ep337_The_Lovely_Look.mp3
+- The Whistler — Murder in Paradise (48-11-28) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-11-28_ep338_Murder_in_Paradise.mp3
+- The Whistler — Hired Alibi (48-12-05) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-12-05_ep339_Hired_Alibi.mp3
+- The Whistler — Stormy Weather (48-12-12) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-12-12_ep340_Stormy_Weather.mp3
+- The Whistler — The Hangtree Affair (48-12-19) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-12-19_ep341_The_Hangtree_Affair.mp3
+- The Whistler — Delayed Christmas Present (48-12-26) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_48-12-26_ep342_Delayed_Christmas_Present.mp3
+- The Whistler — Man on the Roof (49-01-02) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_49-01-02_ep343_Man_on_the_Roof.mp3
+- The Whistler — Tell Tale Brand (49-01-09) — https://archive.org/download/OTRR_Whistler_Singles/Whistler_49-01-09_ep344_Tell_Tale_Brand.mp3
