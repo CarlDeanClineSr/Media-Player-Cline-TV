@@ -158,7 +158,7 @@ function parseChannelLibrary(markdown) {
             continue;
         }
         if (!current) continue;
-        const entry = line.match(/^\s*-\s+(.+?)\s+—\s+(https?:\/\/.*)$/);
+        const entry = line.match(/^\s*-\s+(.+)\s+—\s+(https?:\/\/.*)$/);
         if (!entry) continue;
         const title = entry[1].trim();
         const url = entry[2].trim();
