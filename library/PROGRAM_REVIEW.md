@@ -1,7 +1,9 @@
 # PROGRAM REVIEW — RECOVERED BROADCAST CATALOG
 
-The playable layer is rebuilt from the historical 27-channel catalog, preserved backup additions, and selected material from the older Archive.org link ledgers where the program family was clear.
+The player has been rebuilt around the recovered 27-channel organization and a review pass over the historical catalog and backup ledgers.
 
-Recovered families include Star Trek and Star Trek Continues, all nine Star Wars feature entries, Spider-Man 1967 and Supaidaman, the live-action Spider-Man films, Wild Kingdom, Twilight Zone, Godzilla/Mothra/Ghidorah, How the Earth Was Made, NOVA/Cosmos/Connections, and the specialized old-time radio channels.
+Channel 22 cleanup removed duplicate edit copies, Schoolhouse Rock entries that belong on Channel 10, and unexplained technical/test-style records.
 
-The review keeps Captain Nice out of the player and excludes clearly unrelated, personal, test, promotional, and out-of-scope material. Older seven-channel staging files remain preserved as recovery references rather than additional playable sources.
+Known recovery checks include the preserved Star Wars feature set, the Spider-Man/Supaidaman collection, Wild Kingdom recovery, Twilight Zone recovery, Godzilla-family programming, Star Trek, and the large NOVA collection.
+
+The player does not mount the identified Captain Nice material, The Child Molester (1964), explicit/out-of-scope material, personal/test uploads, or obvious promotional/trailer/commercial-only records.
