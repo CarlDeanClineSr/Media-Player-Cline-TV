@@ -1,0 +1,50 @@
+# CH 6 — KOLCHAK & CLASSIC HORROR
+
+- Kolchak S00E01 Night Stalker — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S00E01%20-%20The%20Night%20Stalker.mp4
+- Kolchak S00E02 Night Strangler — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S00E02%20-%20The%20Night%20Strangler.mp4
+- Kolchak S01E01 The Ripper — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E01%20-%20The%20Ripper.mp4
+- Kolchak S01E02 The Zombie — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E02%20-%20The%20Zombie.mp4
+- Kolchak S01E03 They Will Be — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E03%20-%20They%20Have%20Been%20They%20Are%20They%20Will%20Be.mp4
+- Kolchak S01E04 The Vampire — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E04%20-%20The%20Vampire.mp4
+- Kolchak S01E05 The Werewolf — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E05%20-%20The%20Werewolf.mp4
+- Kolchak S01E06 Firefall — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E06%20-%20Firefall.mp4
+- Kolchak S01E07 Devils Platform — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E07%20-%20The%20Devils%20Platform.mp4
+- Kolchak S01E08 Bad Medicine — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E08%20-%20Bad%20Medicine.mp4
+- Kolchak S01E09 Spanish Moss — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E09%20-%20The%20Spanish%20Moss%20Murders.mp4
+- Kolchak S01E10 Energy Eater — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E10%20-%20The%20Energy%20Eater.mp4
+- Kolchak S01E11 Horror Heights — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E11%20-%20Horror%20In%20The%20Heights.mp4
+- Kolchak S01E12 Mr RING — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E12%20-%20Mr%20RING.mp4
+- Kolchak S01E13 Primal Scream — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E13%20-%20Primal%20Scream.mp4
+- Kolchak S01E14 Trevi — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E14%20-%20The%20Trevi%20Collection.mp4
+- Kolchak S01E15 Chopper — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E15%20-%20Chopper.mp4
+- Kolchak S01E16 Demon In Lace — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E16%20-%20Demon%20In%20Lace.mp4
+- Kolchak S01E17 Legacy Terror — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E17%20-%20Legacy%20of%20Terror.mp4
+- Kolchak S01E18 Knightly Murders — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E18%20-%20The%20Knightly%20Murders.mp4
+- Kolchak S01E19 Youth Killer — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E19%20-%20The%20Youth%20Killer.mp4
+- Kolchak S01E20 The Sentry — https://archive.org/download/kolchak-the-night-stalker-complete-series-1972/Kolchak%20The%20Night%20Stalker%20S01E20%20-%20The%20Sentry.mp4
+- Big Ass Spider — https://archive.org/download/My-Favorite-Movies_202503/Big%20Ass%20Spider.mp4
+- Eight Legged Freaks — https://archive.org/download/My-Favorite-Movies_202503/Eight%20Legged%20Freaks.mp4
+- Little Shop Of Horrors — https://archive.org/download/My-Favorite-Movies_202503/Little%20Shop%20Of%20Horrors%20%281986%29.mp4
+- World War Z — https://archive.org/download/My-Favorite-Movies_202503/World%20War%20Z.mp4
+- Atom Age Vampire — https://archive.org/download/AtomAgeVampire/AtomAgeVampire.mp4
+- Bloodlust — https://archive.org/download/Bloodlust.mpeg/Bloodlust.mp4
+- Bloody Pit Of Horror — https://archive.org/download/BloodyPitOfHorror/BloodyPitOfHorror.mp4
+- Colossus - Forbin Project — https://archive.org/download/colossus-the-forbin-project-1970/Colossus%20-%20The%20Forbin%20Project%20%281970%29.mp4
+- Creature Haunted Sea — https://archive.org/download/CreatureFromTheHauntedSea/CreatureFromTheHauntedSea.mp4
+- Daughter of Horror — https://archive.org/download/daughter_of_horror/daughter_of_horror.mp4
+- Giant Gila Monster — https://archive.org/download/giant_gila_monster/giant_gila_monster.mp4
+- Grave Of The Vampire — https://archive.org/download/GraveOfTheVampire/GraveOfTheVampirePresentedByMoviePowder.mp4
+- Horror Express — https://archive.org/download/horror_express_ipod/horror_express.mp4
+- Horror Hotel — https://archive.org/download/Horror_Hotel/Horror_Hotel.mp4
+- Horrors of Spider Island — https://archive.org/download/Horrors_of_Spider_Island/Horrors_of_Spider_Island.mp4
+- House on Haunted Hill — https://archive.org/download/house_on_haunted_hill_ipod/house_on_haunted_hill.mp4
+- In The Year 2889 — https://archive.org/download/In_The_Year_2889/In_The_Year_2889_1967.avi.mp4
+- Indestructible Man — https://archive.org/download/indestructible_man/indestructible_man.mp4
+- Inner Sanctum — https://archive.org/download/Inner_Sanctum_movie/Inner_Sanctum.mp4
+- One Million Years BC — https://archive.org/download/one-million-years-bc-1966_202010/One%20Million%20Years%20BC%20%281966%29.mp4
+- Scream Bloody Murder — https://archive.org/download/ScreamBloodyMurder/ScreamBloodyMurder.mp4
+- Shocker Week3 Frankenstein — https://archive.org/download/ShockerInternetDriveInWeek3-FrankensteinDoubleFeature/shockerWeek3.mp4
+- The Eye Creatures — https://archive.org/download/The_Eye_Creatures/The_Eye_Creatures_1962.avi.mp4
+- The Killer Shrews — https://archive.org/download/The_Killer_Shrews/The_Killer_Shrews.mp4
+- Tormented — https://archive.org/download/tormented/tormented.mp4
+- White Zombie — https://archive.org/download/white_zombie/white_zombie.mp4
