@@ -1,15 +1,12 @@
-# CLINE TV — CONTENT REVIEW HOLD
+# CONTENT REVIEW HOLD
 
-Items placed here are preserved for review but are not broadcast by the player.
+The following classes of material were found during recovery but are not mounted in the broadcast player.
 
-## Explicitly held
+- Captain Nice and its related promos, interviews, and extras.
+- The Child Molester (1964) and other explicitly out-of-scope material.
+- Personal or apparently personal uploads, home movies, tribute files, and the unrelated D@nnyHill/J@ff material.
+- Red vs Blue Restoration and the unrelated Muhammad upload.
+- Identified promos, trailers, teasers, and commercial-only material that does not belong in a programming channel.
+- Unidentified or test-style uploads with bare-number or unexplained personal filenames.
 
-- The Child Molester (1964) — https://archive.org/download/CHILD/CHILD.mp4
-
-This entry was present in the collected Archive.org material, but its subject is not appropriate for automatic inclusion in the Cline TV on-air lineup.
-
-No other program is removed merely because a title contains a sensitive word. Context matters; for example, a documentary title such as "Murder, Rape and DNA" is a scientific subject, not an adult-content classification.
-
-## Rule
-
-Review-hold material is retained so that nothing is lost. It can be restored later only by deliberate placement into an on-air library channel.
+The historical source material is preserved. These are broadcast-layer curation exclusions, not deletion of the historical archive.
