@@ -1,0 +1,127 @@
+# CH 11 — RADIO · X MINUS ONE & SCIENCE FICTION
+
+- X Minus One 55-04-24 (001) No Contact — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-04-24001NoContact.mp3
+- X Minus One 55-05-01 (002) The Parade — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-05-01002TheParade.mp3
+- X Minus One 55-05-08 (003) Mars Is Heaven — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-05-08003MarsIsHeaven.mp3
+- X Minus One 55-05-15 (004) Universe — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-05-15004Universe.mp3
+- X Minus One 55-05-22 (005) Knock — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-05-22005Knock.mp3
+- X Minus One 55-05-29 (006) The Man in the Moon — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-05-29006TheManInTheMoon.mp3
+- X Minus One 55-06-05 (007) Perigi's Wonderful Dolls — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-06-05007PerigisWonderfulDolls.mp3
+- X Minus One 55-07-07 (008) The Green Hills of Earth — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-07-07008TheGreenHillsOfEarth.mp3
+- X Minus One 55-07-14 (009) Dr Grimshaw's Sanitarium — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-07-14009DrGrimshawsSanitarium.mp3
+- X Minus One 55-07-21 (010) Nightmare — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-07-21010Nightmare.mp3
+- X Minus One 55-07-28 (011) The Embassy — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-07-28011TheEmbassy.mp3
+- X Minus One 55-08-04 (012) The Veldt — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-08-04012TheVeldt.mp3
+- X Minus One 55-08-11 (013) Almost Human — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-08-11013AlmostHuman.mp3
+- X Minus One 55-08-18 (014) Courtesy — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-08-18014Courtesy.mp3
+- X Minus One 55-08-25 (015) Cold Equations — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-08-25015ColdEquations.mp3
+- X Minus One 55-09-01 (016) Shanghaied — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-09-01016Shanghaied.mp3
+- X Minus One 55-09-08 (017) The Martian Death March — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-09-08017TheMartianDeathMarch.mp3
+- X Minus One 55-09-15 (018) The Castaways — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-09-15018TheCastaways.mp3
+- X Minus One 55-09-22 (019) And the Moon Be Still as Bright — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-09-22019AndTheMoonBeStillAsBright.mp3
+- X Minus One 55-10-06 (020) First Contact — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-10-06020FirstContact.mp3
+- X Minus One 55-10-20 (021) Child's Play — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-10-20021ChildsPlay.mp3
+- X Minus One 55-10-27 (022) Requiem — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-10-27022Requiem.mp3
+- X Minus One 55-11-03 (023) Hello, Tomorrow — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-11-03023HelloTomorrow.mp3
+- X Minus One 55-11-10 (024) Dwellers in Silence — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-11-10024DwellersInSilence.mp3
+- X Minus One 55-11-16 (025) The Outer Limit — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-11-16025TheOuterLimit.mp3
+- X Minus One 55-11-23 (026) Zero Hour — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-11-23026ZeroHour.mp3
+- X Minus One 55-11-30 (027) The Vital Factor — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-11-30027TheVitalFactor.mp3
+- X Minus One 55-12-07 (028) Nightfall — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-12-07028Nightfall.mp3
+- X Minus One 55-12-14 (029) To the Future — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-12-14029ToTheFuture.mp3
+- X Minus One 55-12-21 (030) Marionettes, Inc — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-12-21030MarionettesInc.mp3
+- X Minus One 55-12-28 (031) A Logic Named Joe — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne55-12-28031ALogicNamedJoe.mp3
+- X Minus One 56-01-04 (032) The Roads Must Roll — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-01-04032TheRoadsMustRoll.mp3
+- X Minus One 56-01-11 (033) Time and Time Again — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-01-11033TimeAndTimeAgain.mp3
+- X Minus One 56-01-18 (034) Perigi's Wonderful Dolls — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-01-18034PerigisWonderfulDolls.mp3
+- X Minus One 56-01-25 (035) The Parade — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-01-25035TheParade.mp3
+- X Minus One 56-02-01 (036) The Cave of Night — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-02-01036TheCaveOfNight.mp3
+- X Minus One 56-02-08 (037) C-Chute — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-02-08037C-chute.mp3
+- X Minus One 56-02-15 (038) Skulking Permit — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-02-15038SkulkingPermit.mp3
+- X Minus One 56-02-22 (039) Junkyard — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-02-22039Junkyard.mp3
+- X Minus One 56-02-29 (040) Hello, Tomorrow — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-02-29040HelloTomorrow.mp3
+- X Minus One 56-03-07 (041) A Gun for Dinosaur — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-03-07041AGunForDinosaur.mp3
+- X Minus One 56-03-14 (042) Tunnel Under the World — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-03-14042TunnelUnderTheWorld.mp3
+- X Minus One 56-03-21 (043) A Thousand Dollars a Plate — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-03-21043AThousandDollarsAPlate.mp3
+- X Minus One 56-03-28 (044) A Pail of Air — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-03-28044APailOfAir.mp3
+- X Minus One 56-04-03 (045) How-2 — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-04-03045How-2.mp3
+- X Minus One 56-04-10 (046) Star, Bright — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-04-10046StarBright.mp3
+- X Minus One 56-04-17 (047) Jaywalker — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-04-17047Jaywalker.mp3
+- X Minus One 56-04-24 (048) The Sense of Wonder — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-04-24048TheSenseOfWonder.mp3
+- X Minus One 56-05-01 (049) Sea Legs — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-05-01049SeaLegs.mp3
+- X Minus One 56-05-08 (050) The Seventh Order — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-05-08050TheSeventhOrder.mp3
+- X Minus One 56-05-15 (051) Hallucination Orbit — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-05-15051HallucinationOrbit.mp3
+- X Minus One 56-05-22 (052) The Defenders — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-05-22052TheDefenders.mp3
+- X Minus One 56-05-29 (053) Lulungomeena — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-05-29053Lulungomeena.mp3
+- X Minus One 56-06-05 (054) Project Mastadon — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-06-05054ProjectMastadon.mp3
+- X Minus One 56-06-12 (055) If You Was a Moklin — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-06-12055IfYouWasAMoklin.mp3
+- X Minus One 56-06-19 (056) Project Trojan — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-06-19056ProjectTrojan.mp3
+- X Minus One 56-06-26 (057) Wherever You May Be — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-06-26057WhereverYouMayBe.mp3
+- X Minus One 56-07-03 (058) Mr Costello, Hero — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-07-03058MrCostelloHero.mp3
+- X Minus One 56-07-10 (059) Bad Medicine — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-07-10059BadMedicine.mp3
+- X Minus One 56-07-17 (060) The Old Die Rich — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-07-17060TheOldDieRich.mp3
+- X Minus One 56-07-24 (061) Stars Are the Styx — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-07-24061StarsAreTheStyx.mp3
+- X Minus One 56-07-31 (062) Student Body — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-07-31062StudentBody.mp3
+- X Minus One 56-08-07 (063) The Last Martian — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-08-07063TheLastMartian.mp3
+- X Minus One 56-08-14 (064) The Snowball Effect — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-08-14064TheSnowballEffect.mp3
+- X Minus One 56-08-28 (065) Surface Tension — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-08-28065SurfaceTension.mp3
+- X Minus One 56-09-04 (066) Tunnel Under the World — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-09-04066TunnelUnderTheWorld.mp3
+- X Minus One 56-09-11 (067) The Lifeboat Mutiny — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-09-11067TheLifeboatMutiny.mp3
+- X Minus One 56-09-26 (068) The Map Makers — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-09-26068TheMapMakers.mp3
+- X Minus One 56-10-03 (069) Protective Mimicry — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-10-03069ProtectiveMimicry.mp3
+- X Minus One 56-10-10 (070) Colony — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-10-10070Colony.mp3
+- X Minus One 56-10-17 (071) Soldier Boy — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-10-17071SoldierBoy.mp3
+- X Minus One 56-10-24 (072) Pictures Don't Lie — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-10-24072PicturesDontLie.mp3
+- X Minus One 56-10-31 (073) Sam, This Is You — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-10-31073SamThisIsYou.mp3
+- X Minus One 56-11-07 (074) Appointment in Tomorrow — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-11-07074AppointmentInTomorrow.mp3
+- X Minus One 56-11-21 (076) Chain of Command — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-11-21076ChainOfCommand.mp3
+- X Minus One 56-12-05 (078) There Will Come Soft Rains - Zero Hour — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-12-05078ThereWillComeSoftRains-ZeroHour.mp3
+- X Minus One 56-12-12 (079) Hostess — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-12-12079Hostess.mp3
+- X Minus One 56-12-19 (080) The Reluctant Heroes — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-12-19080TheReluctantHeroes.mp3
+- X Minus One 56-12-26 (081) Honeymoon in Hell — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne56-12-26081HoneymoonInHell.mp3
+- X Minus One 57-01-02 (082) The Moon Is Green — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-01-02082TheMoonIsGreen.mp3
+- X Minus One 57-01-09 (083) Saucer of Loneliness — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-01-09083SaucerOfLoneliness.mp3
+- X Minus One 57-01-16 (084) The Girls from Earth — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-01-16084TheGirlsFromEarth.mp3
+- X Minus One 57-01-23 (085) Open Warfare — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-01-23085OpenWarfare.mp3
+- X Minus One 57-01-30 (086) Caretaker — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-01-30086Caretaker.mp3
+- X Minus One 57-02-06 (087) Venus Is a Man's World — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-02-06087VenusIsAMansWorld.mp3
+- X Minus One 57-02-13 (088) The Trap — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-02-13088TheTrap.mp3
+- X Minus One 57-02-20 (089) Field Study — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-02-20089FieldStudy.mp3
+- X Minus One 57-02-27 (090) Real Gone — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-02-27090RealGone.mp3
+- X Minus One 57-03-06 (091) The Seventh Victim — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-03-06091TheSeventhVictim.mp3
+- X Minus One 57-03-13 (092) The Lights on Precipice Peak — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-03-13092TheLightsOnPrecipicePeak.mp3
+- X Minus One 57-03-20 (093) Protection — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-03-20093Protection.mp3
+- X Minus One 57-03-27 (094) At the Post — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-03-27094AtThePost.mp3
+- X Minus One 57-04-03 (095) Martian Sam — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-04-03095MartianSam.mp3
+- X Minus One 57-04-10 (096) Something for Nothing — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-04-10096SomethingForNothing.mp3
+- X Minus One 57-04-17 (097) The Discovery of Morniel Mathaway — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-04-17097TheDiscoveryOfMornielMathaway.mp3
+- X Minus One 57-04-24 (098) Man's Best Friend — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-04-24098MansBestFriend.mp3
+- X Minus One 57-06-20 (099) Inside Story — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-06-20099InsideStory.mp3
+- X Minus One 57-06-27 (100) The Category Inventor — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-06-27100TheCategoryInventor.mp3
+- X Minus One 57-07-04 (101) Skulking Permit — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-07-04101SkulkingPermit.mp3
+- X Minus One 57-07-11 (102) Early Model — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-07-11102EarlyModel.mp3
+- X Minus One 57-07-18 (103) The Merchants of Venus — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-07-18103TheMerchantsOfVenus.mp3
+- X Minus One 57-07-25 (104) The Haunted Corpse — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-07-25104TheHauntedCorpse.mp3
+- X Minus One 57-08-01 (105) End as a World — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-08-01105EndAsAWorld.mp3
+- X Minus One 57-08-08 (106) The Scapegoat — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-08-08106TheScapegoat.mp3
+- X Minus One 57-08-15 (107) At the Post — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-08-15107AtThePost.mp3
+- X Minus One 57-08-22 (108) Drop Dead — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-08-22108DropDead.mp3
+- X Minus One 57-08-29 (109) Volpla — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-08-29109Volpla.mp3
+- X Minus One 57-09-19 (112) Tsylana — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-09-19112Tsylana.mp3
+- X Minus One 57-09-26 (113) The Native Problem — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-09-26113TheNativeProblem.mp3
+- X Minus One 57-10-03 (114) A Wind Is Rising — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-10-03114AWindIsRising.mp3
+- X Minus One 57-10-10 (115) Death Wish — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-10-10115DeathWish.mp3
+- X Minus One 57-10-17 (116) Point of Departure — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-10-17116PointOfDeparture.mp3
+- X Minus One 57-10-24 (117) The Light — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-10-24117TheLight.mp3
+- X Minus One 57-10-31 (118) Lulu — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-10-31118Lulu.mp3
+- X Minus One 57-11-21 (119) The Coffin Cure — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-11-21119TheCoffinCure.mp3
+- X Minus One 57-11-28 (120) Shock Troop — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-11-28120ShockTroop.mp3
+- X Minus One 57-12-12 (121) The Haunted Corpse — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-12-12121TheHauntedCorpse.mp3
+- X Minus One 57-12-19 (122) Double Dare — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-12-19122DoubleDare.mp3
+- X Minus One 57-12-26 (123) Target One — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne57-12-26123TargetOne.mp3
+- X Minus One 58-01-02 (124) Prime Difference — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne58-01-02124PrimeDifference.mp3
+- X Minus One 58-01-09 (125) Gray Flannel Armor — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne58-01-09125GrayFlannelArmor.mp3
+- X Minus One 73-01-27 (xxx) The Iron Chancellor — https://archive.org/download/OTRR_X_Minus_One_Singles/XMinusOne73-01-27xxxTheIronChancellor.mp3
+- Mercury Theatre — Dracula (1938) — https://archive.org/download/OrsonWelles-MercuryTheater-1938Recordings/MercuryTheater38-07-11Dracula.mp3
+- Mercury Theatre — The War of the Worlds (1938) — https://archive.org/download/OrsonWelles-MercuryTheater-1938Recordings/MercuryTheater38-10-30WarOfTheWorlds.mp3
+- Mercury Theatre — Treasure Island (1938) — https://archive.org/download/OrsonWelles-MercuryTheater-1938Recordings/MercuryTheater38-07-18TreasureIsland.mp3
