@@ -2,96 +2,91 @@
 
 ## Purpose
 
-Cline TV is treated as a television service, not an Internet Archive browser.
+Cline TV is a television service, not an Internet Archive browser.
 
-The Archive is the source warehouse. The Cline catalog is the station library. The channels are programming streams. The Guide is the station's program guide.
+The Archive is the source warehouse. The repository library is the station inventory. The channel sections in `library/CHANNEL_LIBRARY.md` are the programming streams. The Guide is the viewer catalog.
 
-The player should feel like turning on a television and finding programming already arranged for viewing.
+## Source of truth
 
-## The rule
+`library/CHANNEL_LIBRARY.md` is the authoritative on-air catalog.
 
-**Do not create a channel merely because more files exist.**
+`index.html` reads that file at runtime. It no longer carries a separate hard-coded list of programs.
 
-A channel earns its place when there is a recognizable programming identity and enough verified material to make that identity interesting.
+This keeps the parts separate:
 
-A program can belong to a broad programming stream while still carrying a more precise genre/format classification in the catalog.
+**Archive research → repository library → channel organization → player**
 
-## Current streams
+## Current lineup
 
-| Ch | On-air identity | Programming role |
-|---:|---|---|
-| 1 | STAR TREK | Series |
-| 2 | SCIENCE & COSMOS | Science |
-| 3 | GODZILLA & MONSTERS | Creature Feature |
-| 4 | MOVIE HOUSE · FAMILY & COMEDY | Matinee |
-| 5 | MOVIE HOUSE · SCI-FI | Science Fiction |
-| 6 | MOVIE HOUSE · ADVENTURE | Adventure |
-| 7 | MOVIE HOUSE · ACTION | Action |
-| 8 | MOVIE HOUSE · ANIMATION | Family |
-| 9 | MOVIE HOUSE · MONSTERS | Creature Feature |
-| 10 | MOVIE HOUSE · CLASSICS | Classic Feature |
-| 11 | MOVIE HOUSE · WAR & THRILLER | Action Feature |
-| 12 | MOVIE HOUSE · FEATURE PRESENTATION | Prime Feature |
+The organized library currently supplies 18 broadcast channels and 5,433 on-air programs.
 
-These are the first show-system streams, not the final catalog.
+The library also contains a 35-program REVIEW HOLD section. Those entries remain in the repository but are not put on-air automatically.
 
-## Programming behavior
+| Ch | On-air identity |
+|---:|---|
+| 1 | FEATURE FILMS |
+| 2 | SCI-FI & SPACE FILMS |
+| 3 | HORROR & MONSTERS |
+| 4 | FAMILY, COMEDY & WESTERNS |
+| 5 | CLASSIC TV |
+| 6 | SCI-FI TV |
+| 7 | CRIME & MYSTERY TV |
+| 8 | FAMILY & CHILDREN TV |
+| 9 | DOCUMENTARIES |
+| 10 | SCIENCE & COSMOS |
+| 11 | HISTORY & WAR |
+| 12 | SPACE & NASA |
+| 13 | SPORTS |
+| 14 | OLD-TIME RADIO |
+| 15 | RADIO DRAMA & MYSTERY |
+| 16 | MUSIC & JAZZ |
+| 17 | NEWS & PUBLIC AFFAIRS |
+| 18 | EDUCATION & TECHNOLOGY |
 
-The existing player mechanics remain intact:
+## Player behavior
 
-- Program dial advances within a stream.
-- At the end of a stream, automatic playback rolls to the next stream.
-- Channel dial changes streams.
-- Guide searches the complete catalog.
-- Favorites operate on streams.
-- Shared links identify the stream and program.
-- Playback recovery, retry, resume, fullscreen, audio/video handling, and mobile controls remain player functions.
+The existing television controls remain the playback system.
 
-This is deliberate. The show system changes the **programming structure**, not the playback machinery.
+Program dial: moves through programs in the current channel.
 
-## Broadcast logic
+Channel dial: changes channels.
 
-The model is based on the way independent television stations commonly mixed movies, syndicated reruns, cartoons, westerns, dramas, documentaries, sports, and other acquired programming rather than presenting viewers with a database taxonomy.
+End of stream: advances to the next channel.
 
-Cline TV therefore uses:
+Guide: searches the complete on-air catalog.
+
+Favorites: save channels.
+
+Share: identifies the selected channel and program.
+
+Recovery, retry, resume, fullscreen, mobile controls, and playback checks remain player functions.
+
+Media mode is determined from the individual program URL, so a channel can contain both audio and video records without forcing the whole channel into one mode.
+
+## Organization rule
 
 **STREAM → PROGRAM → GENRE/FORMAT**
 
-not:
+Channel organization is for television-style viewing. More detailed classification can remain in the library without becoming a separate channel.
 
-**GENRE → giant archive dump**
+## Catalog rule
 
-A future catalog can use the user's full Movies / TV / Radio genre and format system for classification without forcing every classification to become its own channel.
+When new programs are collected:
 
-## What gets added later
+1. Keep the original title.
+2. Keep the actual direct media URL.
+3. Place the entry in the appropriate channel section of `CHANNEL_LIBRARY.md`.
+4. Review held material before putting it on-air.
+5. Do not replace the full catalog with a small sample list.
 
-When verified material is added:
+The player should read the library. The library should not be reduced to fit the player.
 
-1. Keep the original program title.
-2. Keep the actual Archive.org media URL.
-3. Put the program into the most appropriate existing stream.
-4. Add a new stream only when the material supports a distinct programming identity.
-5. Do not add filler simply to make a channel look full.
-6. Do not treat recovered/harvested Archive link ledgers as automatically approved programming.
-7. Holiday material is programming material, not an automatic permanent channel.
-8. Special programming can be used as blocks or events without restructuring the entire station.
+## Stable architecture
 
-## Why this is different
+- Archive: acquisition and public media source.
+- `library/CHANNEL_LIBRARY.md`: organized on-air inventory.
+- `index.html`: television interface and library reader.
+- Guide: viewer navigation.
+- SHOW_SYSTEM.md: organization rules.
 
-Previous attempts repeatedly changed the channel taxonomy, which made the catalog itself unstable.
-
-This system separates the stable parts:
-
-- **Player:** stays stable.
-- **Show system:** defines how the station is organized.
-- **Catalog:** grows as verified programs are collected.
-- **Guide:** exposes the catalog to the viewer.
-- **Archive research:** supplies candidates; it does not decide what belongs on Cline TV.
-
-That gives the catalog somewhere to grow without requiring another complete channel rebuild every time new material is found.
-
-## Current state
-
-Show System 1 is intentionally a framework.
-
-It should now be left running long enough to judge the actual viewing experience before another structural rewrite is attempted.
+Keep the television stable and let the library grow.
