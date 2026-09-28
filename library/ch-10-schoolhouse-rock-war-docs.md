@@ -1,0 +1,186 @@
+# CH 10 — SCHOOLHOUSE ROCK & WAR DOCS
+
+- Jonny Quest E01 - The Mystery of the Lizard Men — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E01%20-%20The%20Mystery%20of%20the%20Lizard%20Men.mp4
+- Jonny Quest E02 - Arctic Splashdown — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E02%20-%20Arctic%20Splashdown.mp4
+- Jonny Quest E03 - The Curse of Anubis — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E03%20-%20The%20Curse%20of%20Anubis.mp4
+- Jonny Quest E04 - The Curse of Anubis — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E04%20-%20The%20Curse%20of%20Anubis.mp4
+- Jonny Quest E05 - Riddle of the Gold — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E05%20-%20Riddle%20of%20the%20Gold.mp4
+- Jonny Quest E06 - Treasure of the Temple — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E06%20-%20Treasure%20of%20the%20Temple.mp4
+- Jonny Quest E07 - Calcutta Adventure — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E07%20-%20Calcutta%20Adventure.mp4
+- Jonny Quest E08 - The Robot Spy — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E08%20-%20The%20Robot%20Spy.mp4
+- Jonny Quest E09 - Double Danger — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E09%20-%20Double%20Danger.mp4
+- Jonny Quest E10 - Shadow of the Condor — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E10%20-%20Shadow%20of%20the%20Condor.mp4
+- Jonny Quest E11 - Skull and Double Crossbones — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E11%20-%20Skull%20and%20Double%20Crossbones.mp4
+- Jonny Quest E12 - The Dreadful Doll — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E12%20-%20The%20Dreadful%20Doll.mp4
+- Jonny Quest E13 - A Small Matter of Pygmies — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E13%20-%20A%20Small%20Matter%20of%20Pygmies.mp4
+- Jonny Quest E14 - Dragons of Ashida — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E14%20-%20Dragons%20of%20Ashida.mp4
+- Jonny Quest E15 - Turu the Terrible — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E15%20-%20Turu%20the%20Terrible.mp4
+- Jonny Quest E16 - The Fraudulent Volcano — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E16%20-%20The%20Fraudulent%20Volcano.mp4
+- Jonny Quest E17 - Werewolf of the Timberland — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E17%20-%20Werewolf%20of%20the%20Timberland.mp4
+- Jonny Quest E18 - Pirates from Below — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E18%20-%20Pirates%20from%20Below.mp4
+- Jonny Quest E19 - Attack of the Tree People — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E19%20-%20Attack%20of%20the%20Tree%20People.mp4
+- Jonny Quest E20 - The Invisible Monster — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E20%20-%20The%20Invisible%20Monster.mp4
+- Jonny Quest E21 - The Devils Tower — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E21%20-%20The%20Devils%20Tower.mp4
+- Jonny Quest E22 - The Quetong Missile Mystery — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E22%20-%20The%20Quetong%20Missile%20Mystery.mp4
+- Jonny Quest E23 - The House of Seven Gargoyles — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E23%20-%20The%20House%20of%20Seven%20Gargoyles.mp4
+- Jonny Quest E24 - Terror Island — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E24%20-%20Terror%20Island.mp4
+- Jonny Quest E25 - Monster in the Monastery — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E25%20-%20Monster%20in%20the%20Monastery.mp4
+- Jonny Quest E26 - The Sea Haunt — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E26%20-%20The%20Sea%20Haunt.mp4
+- Jonny Quest E01 - The Mystery of the Lizard Men [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E01%20-%20The%20Mystery%20of%20the%20Lizard%20Men.ia.mp4
+- Jonny Quest E02 - Arctic Splashdown [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E02%20-%20Arctic%20Splashdown.ia.mp4
+- Jonny Quest E03 - The Curse of Anubis [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E03%20-%20The%20Curse%20of%20Anubis.ia.mp4
+- Jonny Quest E04 - The Curse of Anubis [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E04%20-%20The%20Curse%20of%20Anubis.ia.mp4
+- Jonny Quest E05 - Riddle of the Gold [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E05%20-%20Riddle%20of%20the%20Gold.ia.mp4
+- Jonny Quest E06 - Treasure of the Temple [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E06%20-%20Treasure%20of%20the%20Temple.ia.mp4
+- Jonny Quest E07 - Calcutta Adventure [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E07%20-%20Calcutta%20Adventure.ia.mp4
+- Jonny Quest E08 - The Robot Spy [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E08%20-%20The%20Robot%20Spy.ia.mp4
+- Jonny Quest E09 - Double Danger [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E09%20-%20Double%20Danger.ia.mp4
+- Jonny Quest E10 - Shadow of the Condor [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E10%20-%20Shadow%20of%20the%20Condor.ia.mp4
+- Jonny Quest E11 - Skull and Double Crossbones [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E11%20-%20Skull%20and%20Double%20Crossbones.ia.mp4
+- Jonny Quest E12 - The Dreadful Doll [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E12%20-%20The%20Dreadful%20Doll.ia.mp4
+- Jonny Quest E13 - A Small Matter of Pygmies [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E13%20-%20A%20Small%20Matter%20of%20Pygmies.ia.mp4
+- Jonny Quest E14 - Dragons of Ashida [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E14%20-%20Dragons%20of%20Ashida.ia.mp4
+- Jonny Quest E15 - Turu the Terrible [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E15%20-%20Turu%20the%20Terrible.ia.mp4
+- Jonny Quest E16 - The Fraudulent Volcano [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E16%20-%20The%20Fraudulent%20Volcano.ia.mp4
+- Jonny Quest E17 - Werewolf of the Timberland [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E17%20-%20Werewolf%20of%20the%20Timberland.ia.mp4
+- Jonny Quest E18 - Pirates from Below [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E18%20-%20Pirates%20from%20Below.ia.mp4
+- Jonny Quest E19 - Attack of the Tree People [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E19%20-%20Attack%20of%20the%20Tree%20People.ia.mp4
+- Jonny Quest E20 - The Invisible Monster [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E20%20-%20The%20Invisible%20Monster.ia.mp4
+- Jonny Quest E21 - The Devils Tower [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E21%20-%20The%20Devils%20Tower.ia.mp4
+- Jonny Quest E22 - The Quetong Missile Mystery [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E22%20-%20The%20Quetong%20Missile%20Mystery.ia.mp4
+- Jonny Quest E23 - The House of Seven Gargoyles [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E23%20-%20The%20House%20of%20Seven%20Gargoyles.ia.mp4
+- Jonny Quest E24 - Terror Island [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E24%20-%20Terror%20Island.ia.mp4
+- Jonny Quest E25 - Monster in the Monastery [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E25%20-%20Monster%20in%20the%20Monastery.ia.mp4
+- Jonny Quest E26 - The Sea Haunt [alternate MP4] — https://archive.org/download/jonny-quest-e-07-calcutta-adventure/Jonny%20Quest%20E26%20-%20The%20Sea%20Haunt.ia.mp4
+- H.R. Pufnstuf 01 the magic path — https://archive.org/download/h_r_pufnstuf/pufnstuf_01_the_magic_path.mp4
+- H.R. Pufnstuf 02 The wheely bird — https://archive.org/download/h_r_pufnstuf/pufnstuf_02_The_wheely_bird.mp4
+- H.R. Pufnstuf 03 show biz witch — https://archive.org/download/h_r_pufnstuf/pufnstuf_03_show_biz_witch.mp4
+- H.R. Pufnstuf 04 the mechanical boy — https://archive.org/download/h_r_pufnstuf/pufnstuf_04_the_mechanical_boy.mp4
+- H.R. Pufnstuf 05 the stand in — https://archive.org/download/h_r_pufnstuf/pufnstuf_05_the_stand_in.mp4
+- H.R. Pufnstuf 06 the golden key — https://archive.org/download/h_r_pufnstuf/pufnstuf_06_the_golden_key.mp4
+- H.R. Pufnstuf 07 the birthday party — https://archive.org/download/h_r_pufnstuf/pufnstuf_07_the_birthday_party.mp4
+- H.R. Pufnstuf 08 the box kite kaper — https://archive.org/download/h_r_pufnstuf/pufnstuf_08_the_box_kite_kaper.mp4
+- H.R. Pufnstuf 09 you cant have your cake — https://archive.org/download/h_r_pufnstuf/pufnstuf_09_you_cant_have_your_cake.mp4
+- H.R. Pufnstuf 10 the horse with the golden throat — https://archive.org/download/h_r_pufnstuf/pufnstuf_10_the_horse_with_the_golden_throat.mp4
+- H.R. Pufnstuf 11 dinner for two — https://archive.org/download/h_r_pufnstuf/pufnstuf_11_dinner_for_two.mp4
+- H.R. Pufnstuf 12 flute book and candle — https://archive.org/download/h_r_pufnstuf/pufnstuf_12_flute_book_and_candle.mp4
+- H.R. Pufnstuf 13 tooth for a tooth — https://archive.org/download/h_r_pufnstuf/pufnstuf_13_tooth_for_a_tooth.mp4
+- H.R. Pufnstuf 14 the visiting witch — https://archive.org/download/h_r_pufnstuf/pufnstuf_14_the_visiting_witch.mp4
+- H.R. Pufnstuf 15 the almost election of witchiepoo — https://archive.org/download/h_r_pufnstuf/pufnstuf_15_the_almost_election_of_witchiepoo.mp4
+- H.R. Pufnstuf 16 whaddya mean the horse gets the girl — https://archive.org/download/h_r_pufnstuf/pufnstuf_16_whaddya_mean_the_horse_gets_the_girl.mp4
+- H.R. Pufnstuf 17 jimmy who — https://archive.org/download/h_r_pufnstuf/pufnstuf_17_jimmy_who.mp4
+- H.R. Pufnstuf — Movie — https://archive.org/download/h_r_pufnstuf/pufnstuf_movie.mp4
+- H.R. Pufnstuf — Drugachusettes (satire) — https://archive.org/download/h_r_pufnstuf/pufnstuf_satire_sam_and_criminy_craffft_present_drugachusettes.mp4
+- H.R. Pufnstuf — Drugachusettes (satire) [alternate MP4] — https://archive.org/download/h_r_pufnstuf/pufnstuf_satire_sam_and_criminy_craffft_present_drugachusettes.ia.mp4
+- CommandP1942 — https://archive.org/download/CommandP1942/CommandP1942.mp4
+- CommandP1942 edit — https://archive.org/download/CommandP1942/CommandP1942_edit.mp4
+- DuckandC1951 edit — https://archive.org/download/DuckandC1951/DuckandC1951_edit.mp4
+- DuckandC1951.ia — https://archive.org/download/DuckandC1951/DuckandC1951.ia.mp4
+- 01 Three Is A Magic Number — https://archive.org/download/schoolhouse-rock-30th/01%20Three%20Is%20A%20Magic%20Number.mp4
+- 02 My Hero Zero — https://archive.org/download/schoolhouse-rock-30th/02%20My%20Hero%20Zero.mp4
+- 03 Elementary My Dear — https://archive.org/download/schoolhouse-rock-30th/03%20Elementary%20My%20Dear.mp4
+- 04 The Four Legged Zoo — https://archive.org/download/schoolhouse-rock-30th/04%20The%20Four%20Legged%20Zoo.mp4
+- 05 Ready Or Not — https://archive.org/download/schoolhouse-rock-30th/05%20Ready%20Or%20Not%20Here%20I%20Come.mp4
+- 06 I Got Six — https://archive.org/download/schoolhouse-rock-30th/06%20I%20Got%20Six.mp4
+- 07 Lucky Seven Sampson — https://archive.org/download/schoolhouse-rock-30th/07%20Lucky%20Seven%20Sampson.mp4
+- 08 Figure Eight — https://archive.org/download/schoolhouse-rock-30th/08%20Figure%20Eight.mp4
+- 09 Naughty Number Nine — https://archive.org/download/schoolhouse-rock-30th/09%20Naughty%20Number%20Nine.mp4
+- 10 The Good Eleven — https://archive.org/download/schoolhouse-rock-30th/10%20The%20Good%20Eleven.mp4
+- 11 Little Twelvetoes — https://archive.org/download/schoolhouse-rock-30th/11%20Little%20Twelvetoes.mp4
+- 12 Noun Person Place Thing — https://archive.org/download/schoolhouse-rock-30th/12%20A%20Noun%20Is%20A%20Person%20Place%20Or%20Thing.mp4
+- 13 Verb Whats Happening — https://archive.org/download/schoolhouse-rock-30th/13%20Verb%20Thats%20Whats%20Happening.mp4
+- 14 Conjunction Junction — https://archive.org/download/schoolhouse-rock-30th/14%20Conjunction%20Junction.mp4
+- 15 Interjections — https://archive.org/download/schoolhouse-rock-30th/15%20Interjections.mp4
+- 16 Unpack Your Adjectives — https://archive.org/download/schoolhouse-rock-30th/16%20Unpack%20Your%20Adjectives.mp4
+- 17 Lolly Lolly Lolly Adverbs — https://archive.org/download/schoolhouse-rock-30th/17%20Lolly%20Lolly%20Lolly%20Get%20Your%20Adverbs%20Here.mp4
+- 18 Rufus Xavier Sasparilla — https://archive.org/download/schoolhouse-rock-30th/18%20Rufus%20Xavier%20Sasparilla.mp4
+- 19 Busy Prepositions — https://archive.org/download/schoolhouse-rock-30th/19%20Busy%20Prepositions.mp4
+- 20 The Tale Of Mr Morton — https://archive.org/download/schoolhouse-rock-30th/20%20The%20Tale%20Of%20Mr%20Morton.mp4
+- 21 No More Kings — https://archive.org/download/schoolhouse-rock-30th/21%20No%20More%20Kings.mp4
+- 22 Shot Heard Round World — https://archive.org/download/schoolhouse-rock-30th/22%20The%20Shot%20Heard%20Round%20the%20World.mp4
+- 23 The Preamble — https://archive.org/download/schoolhouse-rock-30th/23%20The%20Preamble.mp4
+- 24 Sufferin Till Suffrage — https://archive.org/download/schoolhouse-rock-30th/24%20Sufferin%20Till%20Suffrage.mp4
+- 25 Im Just A Bill — https://archive.org/download/schoolhouse-rock-30th/25%20Im%20Just%20A%20Bill.mp4
+- 26 American Melting Pot — https://archive.org/download/schoolhouse-rock-30th/26%20The%20Great%20American%20Melting%20Pot.mp4
+- 27 Elbow Room — https://archive.org/download/schoolhouse-rock-30th/27%20Elbow%20Room.mp4
+- 28 Fireworks — https://archive.org/download/schoolhouse-rock-30th/28%20Fireworks.mp4
+- 29 Mother Necessity — https://archive.org/download/schoolhouse-rock-30th/29%20Mother%20Necessity.mp4
+- 30 Three Ring Government — https://archive.org/download/schoolhouse-rock-30th/30%20Three%20Ring%20Government.mp4
+- 31 Vote To College — https://archive.org/download/schoolhouse-rock-30th/31%20Im%20Gonna%20Send%20Your%20Vote%20To%20College%20In%20Surround.mp4
+- 32 You Earned Your Diploma — https://archive.org/download/schoolhouse-rock-30th/32%20You%20Earned%20Your%20Diploma%20and%20Presidential%20Minute.mp4
+- 33 A Victim Of Gravity — https://archive.org/download/schoolhouse-rock-30th/33%20A%20Victim%20Of%20Gravity.mp4
+- 34 Interplanet Janet — https://archive.org/download/schoolhouse-rock-30th/34%20Interplanet%20Janet.mp4
+- 35 The Body Machine — https://archive.org/download/schoolhouse-rock-30th/35%20The%20Body%20Machine.mp4
+- 36 Do The Circulation — https://archive.org/download/schoolhouse-rock-30th/36%20Do%20The%20Circulation.mp4
+- 37 The Energy Blues — https://archive.org/download/schoolhouse-rock-30th/37%20The%20Energy%20Blues.mp4
+- 38 Them Not So Dry Bones — https://archive.org/download/schoolhouse-rock-30th/38%20Them%20Not%20So%20Dry%20Bones.mp4
+- 39 Electricity Electricity — https://archive.org/download/schoolhouse-rock-30th/39%20Electricity%20Electricity.mp4
+- 40 Telegraph Line — https://archive.org/download/schoolhouse-rock-30th/40%20Telegraph%20Line.mp4
+- 41 The Weather Show — https://archive.org/download/schoolhouse-rock-30th/41%20The%20Weather%20Show.mp4
+- 42 Scooter Computer Intro — https://archive.org/download/schoolhouse-rock-30th/42%20Scooter%20Computer%20Introduction.mp4
+- 43 Scooter Comp Hardware — https://archive.org/download/schoolhouse-rock-30th/43%20Scooter%20Computer%20Hardware.mp4
+- 44 Scooter Comp Software — https://archive.org/download/schoolhouse-rock-30th/44%20Scooter%20Computer%20Software.mp4
+- 45 Number Cruncher — https://archive.org/download/schoolhouse-rock-30th/45%20Scooter%20Computer%20Number%20Cruncher.mp4
+- 46 Dollars And Sense — https://archive.org/download/schoolhouse-rock-30th/46%20Dollars%20And%20Sense.mp4
+- 47 Tax Man Max — https://archive.org/download/schoolhouse-rock-30th/47%20Tax%20Man%20Max.mp4
+- 48 Where The Money Goes — https://archive.org/download/schoolhouse-rock-30th/48%20Where%20The%20Money%20Goes.mp4
+- 49 Seven Dollars 50 Cents — https://archive.org/download/schoolhouse-rock-30th/49%20Seven%20Dollars%20Fifty%20Cents%20Once%20A%20Week.mp4
+- 50 Tyrannosaurus Debt — https://archive.org/download/schoolhouse-rock-30th/50%20Tyrannosaurus%20Debt.mp4
+- 51 This For That — https://archive.org/download/schoolhouse-rock-30th/51%20This%20For%20That.mp4
+- 52 Walkin On Wall Street — https://archive.org/download/schoolhouse-rock-30th/52%20Walkin%20On%20The%20Wall%20Street.mp4
+- 53 The Checks In The Mail — https://archive.org/download/schoolhouse-rock-30th/53%20The%20Checks%20In%20The%20Mail.mp4
+- 54 Report from North Pole — https://archive.org/download/schoolhouse-rock-30th/54%20Report%20from%20the%20North%20Pole.mp4
+- 55 Little Things We Do — https://archive.org/download/schoolhouse-rock-30th/55%20The%20Little%20Things%20We%20Do.mp4
+- 56 The Trash Can Band — https://archive.org/download/schoolhouse-rock-30th/56%20The%20Trash%20Can%20Band.mp4
+- 57 You Oughta Savin Water — https://archive.org/download/schoolhouse-rock-30th/57%20You%20Oughta%20Be%20Savin%20Water.mp4
+- 58 The Rainforest — https://archive.org/download/schoolhouse-rock-30th/58%20The%20Rainforest.mp4
+- 59 Save the Ocean — https://archive.org/download/schoolhouse-rock-30th/59%20Save%20the%20Ocean.mp4
+- 60 Clean Rivers Song — https://archive.org/download/schoolhouse-rock-30th/60%20Fat%20Cat%20Blue%20-%20The%20Clean%20Rivers%20Song.mp4
+- 61 A Tiny Urban Zoo — https://archive.org/download/schoolhouse-rock-30th/61%20A%20Tiny%20Urban%20Zoo.mp4
+- 62 Solar Power to People — https://archive.org/download/schoolhouse-rock-30th/62%20Solar%20Power%20to%20the%20People.mp4
+- 63 Windy and Windmills — https://archive.org/download/schoolhouse-rock-30th/63%20Windy%20and%20the%20Windmills.mp4
+- 64 Don't Be Carbon Sasquatch — https://archive.org/download/schoolhouse-rock-30th/64%20Don%27t%20Be%20a%20Carbon%20Sasquatch.mp4
+- 65 The Three Rs — https://archive.org/download/schoolhouse-rock-30th/65%20The%20Three%20Rs.mp4
+- 66 MV Conjunction Junction — https://archive.org/download/schoolhouse-rock-30th/66%20Music%20Video%20-%20Conjunction%20Junction%20-%20Better%20Than%20Ezra.mp4
+- 67 MV Electricity Goodness — https://archive.org/download/schoolhouse-rock-30th/67%20Music%20Video%20-%20Electricity%20Electricity%20-%20Goodness.mp4
+- 68 MV Im Just a Bill — https://archive.org/download/schoolhouse-rock-30th/68%20Music%20Video%20-%20Im%20Just%20a%20Bill%20-%20Deluxe%20Folk%20Implosion.mp4
+- 69 MV My Hero Zero — https://archive.org/download/schoolhouse-rock-30th/69%20Music%20Video%20-%20My%20Hero%20Zero%20-%20Lemonheads.mp4
+- 70 Making Of Vote To College — https://archive.org/download/schoolhouse-rock-30th/70%20The%20Making%20Of%20Im%20Gonna%20Send%20Your%20Vote%20To%20College.mp4
+- 71 Directors Commentaries — https://archive.org/download/schoolhouse-rock-30th/71%20Directors%20Commentaries.mp4
+- 72 Emmy Awards Featurette — https://archive.org/download/schoolhouse-rock-30th/72%20Emmy%20Awards%20Featurette.mp4
+- 73 Nike Commercial Magic No — https://archive.org/download/schoolhouse-rock-30th/73%20Nike%20Commercial%20Three%20is%20A%20Magic%20Number.mp4
+- Modern Guide to Health — https://archive.org/download/modern_guide_to_health_TNA/modern_guide_to_health_TNA_512kb.mp4
+- Casper — There's Good Boos Tonight — https://archive.org/download/noveltoon_casper_tfg_theres_good_boos_tonight/noveltoon_casper_tfg_theres_good_boos_tonight_512kb.mp4
+- Noveltoon: Tarts and Flowers — https://archive.org/download/noveltoon_tarts_and_flowers/noveltoon_tarts_and_flowers_512kb.mp4
+- Gulliver's Travels — https://archive.org/download/GulliversTravels720p_652/GulliversTravels.mp4
+- Gabby: Alls Well — https://archive.org/download/gabby_alls_well/gabby_alls_well_512kb.mp4
+- Hectors Hectic Life — https://archive.org/download/hectors_hectic_life/hectors_hectic_life_512kb.mp4
+- Reading Rainbow — The Gift of the Sacred Dog (S01E10) — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S01E10.The.Gift.of.the.Sacred.Dog.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Snow Foolin — https://archive.org/download/SnowFoolin/ClaCinOnl_an_SnowFoolin_512kb.mp4
+- Noveltoon: The Stupidstitious Cat — https://archive.org/download/noveltoon_the_stupidstitious_cat/noveltoon_the_stupidstitious_cat_512kb.mp4
+- The Friendly Ghost — https://archive.org/download/TheFriendlyGhost/TheFriendlyGhost_512kb.mp4
+- Cheese Burglar featuring Herman — https://archive.org/download/Herman_CheeseBurglar/Herman_CheeseBurglar_512kb.mp4
+- Hep Cat Symphony — https://archive.org/download/HepCatSymphony/HepCatSymphony_512kb.mp4
+- Superman The Magnetic Telescope — https://archive.org/download/Superman_The_Magnetic_Telescope/Superman_The_Magnetic_Telescope_512kb.mp4
+- Betty Boop: Musical Mountaineers — https://archive.org/download/bb_musical_mountaineers/bb_musical_mountaineers_512kb.mp4
+- Little Lulu: Bargain Counter Attack — https://archive.org/download/little_lulu_bargain_counter_attack/little_lulu_bargain_counter_attack_512kb.mp4
+- Little Audrey In Butterscotch and Soda — https://archive.org/download/LittleAudreyInbutterscotchAndSoda1948/ButterscotchAndSoda_512kb.mp4
+- Scrub Me Mama With A Boogie Beat — https://archive.org/download/ScrubMeMamaWithABoogieBeat/ScrubMeMamaWithABoogieBeat.mp4
+- The Snow Queen (Animation) — https://archive.org/download/the_snow_queen_1959_animation/snow_queen_us_version.mp4
+- Date with the Angels - 1950s Family Sitcom - Christmas Episode — https://archive.org/download/DateWithTheAngels-1950sFamilySitcom-ChristmasEpisode/DateWithTheAngels-Christmas.mp4
+- The Year Without A Santa Claus (1974) — https://archive.org/download/the-year-without-a-santa-claus-1974_202203/The Year Without a Santa Claus (1974).mp4
+- Twas the Night Before Christmas — https://archive.org/download/twas-the-night-before-christmas-1974-full-movie-freedownloadvideo.net/twas-the-night-before-christmas-1974-full-movie-freedownloadvideo.net.mp4
+- The Candle Maker — https://archive.org/download/TheCandleMaker/ClaCinOnl_an_TheCandleMaker.mp4
+- Your Hit Parade - Christmas Eve Show 1955 — https://archive.org/download/YourHitParade-ChristmasEveShow1955/YourHitParade-ChristmasEveShow1955.mp4
+- Santa Claus (1959) — https://archive.org/download/santa-claus-1959/SantaClaus1959.mp4
+- The Bob Hope Show, Christmas In Vietnam — https://archive.org/download/ChristmasInVietnam/1968-12-22 - 1968-12-28 Operation Holly Bob Hope USO Christmas Show color no sound.mp4
+- Captain Gallant of the Foreign Legion: S1E36, The Boy Who Found Christmas (DVD Quality) — https://archive.org/download/Captain-Gallant_S1E36_The-Boy-Who-Found-Christmas/Captain-Gallant_S1E36_The-Boy-Who-Found-Christmas.mp4
+- A Very Merry Cricket (1973) — https://archive.org/download/a-very-merry-cricket/a very merry cricket.mp4
+- The Bear Who Slept Through Christmas (1973) — https://archive.org/download/the-bear-who-slept-who-christmas-1973-family-home-entertainment-1984/The Bear Who Slept Who Christmas (1973) - FAMILY HOME ENTERTAINMENT (1984).mp4
+- A Charles Dickens Christmas (Mr Pickwicks Christmas) — https://archive.org/download/MrPickwicksChristmas/MrPickwicksChristmas.mp4
+- The Christmas Visitor — https://archive.org/download/TheChristmasVisitor/ClaCinOnl_an_TheChristmasVisitor.mp4
+- Ozzie and Harriet - Christmas Tree Lot in 3D — https://archive.org/download/Ozzie-Harriet_Christmas-Tree-Lot_3D/OZZIEANDHARRIET_3D.mp4
+- Lassie — A Christmas Story (1958) — https://archive.org/download/lassie-a-christmas-story-1959-film-noir-christmas-special/Lassie A Christmas Story (1959 Film Noir Christmas Special).mp4
+- Silly Symphonies - The Skeleton Dance (1929) — https://archive.org/download/walt-disneys-silly-symphonies-the-complete-collection-1929-39/01%20-%20The%20Skeleton%20Dance%20%281929%29.mp4
+- Silly Symphonies - King Neptune — https://archive.org/download/videoplayback-3_202106-walt-disney-king-neptune/videoplayback%20%283%29.mp4
+- The Leprechauns Christmas Gold (1981) — https://archive.org/download/1981theleprechaunschristmasgold/1981 - The Leprechaun's Christmas Gold.mp4
