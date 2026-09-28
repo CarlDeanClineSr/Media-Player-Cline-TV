@@ -1,0 +1,184 @@
+# CH 7 — DRAGNET & HITCHCOCK
+
+- 1x01 The Human Bomb — https://archive.org/download/Dragnet1951/Dragnet/Season%201/Dragnet%20%281951%29%20-%20S01E01%20-%20The%20Human%20Bomb.mp4
+- 1x02 The Big Actor — https://archive.org/download/Dragnet1951/Dragnet/Season%201/Dragnet%20%281951%29%20-%20S01E02%20-%20The%20Big%20Actor.mp4
+- 1x05 The Big Cast — https://archive.org/download/Dragnet1951/Dragnet/Season%201/Dragnet%20%281951%29%20-%20S01E05%20-%20The%20Big%20Cast.mp4
+- 1x11 Big September Man — https://archive.org/download/Dragnet1951/Dragnet/Season%201/Dragnet%20%281951%29%20-%20S01E11%20-%20The%20Big%20September%20Man.mp4
+- 1x12 The Big Phone Call — https://archive.org/download/Dragnet1951/Dragnet/Season%201/Dragnet%20%281951%29%20-%20S01E12%20-%20The%20Big%20Phone%20Call.mp4
+- 1x13 The Big Chasing — https://archive.org/download/Dragnet1951/Dragnet/Season%201/Dragnet%20%281951%29%20-%20S01E13%20-%20The%20Big%20Chasing.mp4
+- 1x14 The Big Lamp — https://archive.org/download/Dragnet1951/Dragnet/Season%201/Dragnet%20%281951%29%20-%20S01E14%20-%20The%20Big%20Lamp.mp4
+- 2x01 The Big Jump — https://archive.org/download/Dragnet1951/Dragnet/Season%202/Dragnet%20%281951%29%20-%20S02E01%20-%20The%20Big%20Jump.mp4
+- 2x02 The Big Sorrow — https://archive.org/download/Dragnet1951/Dragnet/Season%202/Dragnet%20%281951%29%20-%20S02E02%20-%20The%20Big%20Sorrow.mp4
+- 2x04 The Big Seventeen — https://archive.org/download/Dragnet1951/Dragnet/Season%202/Dragnet%20%281951%29%20-%20S02E04%20-%20The%20Big%20Seventeen.mp4
+- 2x09 The Big Grandma — https://archive.org/download/Dragnet1951/Dragnet/Season%202/Dragnet%20%281951%29%20-%20S02E09%20-%20The%20Big%20Grandma.mp4
+- 2x11 The Big Show — https://archive.org/download/Dragnet1951/Dragnet/Season%202/Dragnet%20%281951%29%20-%20S02E11%20-%20The%20Big%20Show.mp4
+- 2x14 The Big Hate — https://archive.org/download/Dragnet1951/Dragnet/Season%202/Dragnet%20%281951%29%20-%20S02E14%20-%20The%20Big%20Hate.mp4
+- 2x18 The Big Run — https://archive.org/download/Dragnet1951/Dragnet/Season%202/Dragnet%20%281951%29%20-%20S02E18%20-%20The%20Big%20Run.mp4
+- 2x19 The Big Break — https://archive.org/download/Dragnet1951/Dragnet/Season%202/Dragnet%20%281951%29%20-%20S02E19%20-%20The%20Big%20Break.mp4
+- 2x20 The Big Light — https://archive.org/download/Dragnet1951/Dragnet/Season%202/Dragnet%20%281951%29%20-%20S02E20%20-%20The%20Big%20Light.mp4
+- 2x22 The Big Test — https://archive.org/download/Dragnet1951/Dragnet/Season%202/Dragnet%20%281951%29%20-%20S02E22%20-%20The%20Big%20Test.mp4
+- 2x26 The Big Frank — https://archive.org/download/Dragnet1951/Dragnet/Season%202/Dragnet%20%281951%29%20-%20S02E26%20-%20The%20Big%20Frank.mp4
+- 2x27 The Big Lease — https://archive.org/download/Dragnet1951/Dragnet/Season%202/Dragnet%20%281951%29%20-%20S02E27%20-%20The%20Big%20Lease.mp4
+- 2x28 The Big Hands — https://archive.org/download/Dragnet1951/Dragnet/Season%202/Dragnet%20%281951%29%20-%20S02E28%20-%20The%20Big%20Hands.mp4
+- 2x32 The Big Barrette — https://archive.org/download/Dragnet1951/Dragnet/Season%202/Dragnet%20%281951%29%20-%20S02E32%20-%20The%20Big%20Barrette.mp4
+- 2x33 The Big Dance — https://archive.org/download/Dragnet1951/Dragnet/Season%202/Dragnet%20%281951%29%20-%20S02E33%20-%20The%20Big%20Dance.mp4
+- 3x04 The Big Betty — https://archive.org/download/Dragnet1951/Dragnet/Season%203/Dragnet%20%281951%29%20-%20S03E04%20-%20The%20Big%20Betty.mp4
+- 3x16 The Big Thief — https://archive.org/download/Dragnet1951/Dragnet/Season%203/Dragnet%20%281951%29%20-%20S03E16%20-%20The%20Big%20Thief.mp4
+- 3x19 The Big Trunk — https://archive.org/download/Dragnet1951/Dragnet/Season%203/Dragnet%20%281951%29%20-%20S03E19%20-%20The%20Big%20Trunk.mp4
+- 3x22 The Big Ham — https://archive.org/download/Dragnet1951/Dragnet/Season%203/Dragnet%20%281951%29%20-%20S03E22%20-%20The%20Big%20Ham.mp4
+- 3x24 The Big Children — https://archive.org/download/Dragnet1951/Dragnet/Season%203/Dragnet%20%281951%29%20-%20S03E24%20-%20The%20Big%20Children.mp4
+- 3x27 The Big Winchester — https://archive.org/download/Dragnet1951/Dragnet/Season%203/Dragnet%20%281951%29%20-%20S03E27%20-%20The%20Big%20Winchester.mp4
+- 3x28 The Big Shoplift — https://archive.org/download/Dragnet1951/Dragnet/Season%203/Dragnet%20%281951%29%20-%20S03E28%20-%20The%20Big%20Shoplift.mp4
+- 3x29 Big Hit-Run Killer — https://archive.org/download/Dragnet1951/Dragnet/Season%203/Dragnet%20%281951%29%20-%20S03E29%20-%20The%20Big%20Hit-Run%20Killer.mp4
+- 3x31 The Big Girl — https://archive.org/download/Dragnet1951/Dragnet/Season%203/Dragnet%20%281951%29%20-%20S03E31%20-%20The%20Big%20Girl.mp4
+- 3x34 The Big Frame — https://archive.org/download/Dragnet1951/Dragnet/Season%203/Dragnet%20%281951%29%20-%20S03E34%20-%20The%20Big%20Frame.mp4
+- 3x35 The Big Plant — https://archive.org/download/Dragnet1951/Dragnet/Season%203/Dragnet%20%281951%29%20-%20S03E35%20-%20The%20Big%20Plant.mp4
+- 4x01 The Big Producer — https://archive.org/download/Dragnet1951/Dragnet/Season%204/Dragnet%20%281951%29%20-%20S04E01%20-%20The%20Big%20Producer.mp4
+- 4x02 The Big Fraud — https://archive.org/download/Dragnet1951/Dragnet/Season%204/Dragnet%20%281951%29%20-%20S04E02%20-%20The%20Big%20Fraud.mp4
+- 4x03 The Big Crime — https://archive.org/download/Dragnet1951/Dragnet/Season%204/Dragnet%20%281951%29%20-%20S04E03%20-%20The%20Big%20Crime.mp4
+- 4x04 The Big Pair — https://archive.org/download/Dragnet1951/Dragnet/Season%204/Dragnet%20%281951%29%20-%20S04E04%20-%20The%20Big%20Pair.mp4
+- 4x08 The Big Bar — https://archive.org/download/Dragnet1951/Dragnet/Season%204/Dragnet%20%281951%29%20-%20S04E08%20-%20The%20Big%20Bar.mp4
+- 4x09 The Big Present — https://archive.org/download/Dragnet1951/Dragnet/Season%204/Dragnet%20%281951%29%20-%20S04E09%20-%20The%20Big%20Present.mp4
+- 4x18 The Big Rod — https://archive.org/download/Dragnet1951/Dragnet/Season%204/Dragnet%20%281951%29%20-%20S04E18%20-%20The%20Big%20Rod.mp4
+- 5x03 The Big No Rain — https://archive.org/download/Dragnet1951/Dragnet/Season%205/Dragnet%20%281951%29%20-%20S05E03%20-%20The%20Big%20No%20Rain.mp4
+- 5x04 The Big Lift — https://archive.org/download/Dragnet1951/Dragnet/Season%205/Dragnet%20%281951%29%20-%20S05E04%20-%20The%20Big%20Lift.ogv
+- 5x06 The Big Gap — https://archive.org/download/Dragnet1951/Dragnet/Season%205/Dragnet%20%281951%29%20-%20S05E06%20-%20The%20Big%20Gap.mp4
+- 5x07 The Big Look — https://archive.org/download/Dragnet1951/Dragnet/Season%205/Dragnet%20%281951%29%20-%20S05E07%20-%20The%20Big%20Look.mp4
+- 5x09 The Big Bird — https://archive.org/download/Dragnet1951/Dragnet/Season%205/Dragnet%20%281951%29%20-%20S05E09%20-%20The%20Big%20Bird.mp4
+- 5x11 The Big Smoke — https://archive.org/download/Dragnet1951/Dragnet/Season%205/Dragnet%20%281951%29%20-%20S05E11%20-%20The%20Big%20Smoke.mp4
+- 5x12 The Big Bounce — https://archive.org/download/Dragnet1951/Dragnet/Season%205/Dragnet%20%281951%29%20-%20S05E12%20-%20The%20Big%20Bounce.mp4
+- 5x13 The Big Shot — https://archive.org/download/Dragnet1951/Dragnet/Season%205/Dragnet%20%281951%29%20-%20S05E13%20-%20The%20Big%20Shot.mp4
+- 5x23 The Big Child — https://archive.org/download/Dragnet1951/Dragnet/Season%205/Dragnet%20%281951%29%20-%20S05E23%20-%20The%20Big%20Child.mp4
+- 5x34 The Big Deal — https://archive.org/download/Dragnet1951/Dragnet/Season%205/Dragnet%20%281951%29%20-%20S05E34%20-%20The%20Big%20Deal.mp4
+- 5x35 The Big Wish — https://archive.org/download/Dragnet1951/Dragnet/Season%205/Dragnet%20%281951%29%20-%20S05E35%20-%20The%20Big%20Wish.mp4
+- 6x12 Big Doting Mother — https://archive.org/download/Dragnet1951/Dragnet/Season%206/Dragnet%20%281951%29%20-%20S06E12%20-%20The%20Big%20Doting%20Mother.mp4
+- 7x28 The Big War — https://archive.org/download/Dragnet1951/Dragnet/Season%207/Dragnet%20%281951%29%20-%20S07E28%20-%20The%20Big%20War.mp4
+- 8x04 The Big Oskar — https://archive.org/download/Dragnet1951/Dragnet/Season%208/Dragnet%20%281951%29%20-%20S08E04%20-%20The%20Big%20Oskar.mp4
+- Hitchcock 1x01 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e1-colorized-720p-hd.mp4
+- Hitchcock 1x02 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e2-colorized-720p-hd.mp4
+- Hitchcock 1x03 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e3-colorized-720p-hd.mp4
+- Hitchcock 1x04 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e4-colorized-720p-hd.mp4
+- Hitchcock 1x05 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e5-colorized-720p-hd.mp4
+- Hitchcock 1x06 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e6-colorized-720p-hd.mp4
+- Hitchcock 1x07 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e7-colorized-720p-hd.mp4
+- Hitchcock 1x08 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e8-colorized-720p-hd.mp4
+- Hitchcock 1x10 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e10-colorized-720p-hd.mp4
+- Hitchcock 1x11 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e11-colorized-720p-hd.mp4
+- Hitchcock 1x12 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e12-colorized-720p-hd.mp4
+- Hitchcock 1x13 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e13-colorized-720p-hd.mp4
+- Hitchcock 1x14 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e14-colorized-720p-hd.mp4
+- Hitchcock 1x15 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e15-colorized-576p-sd.mp4
+- Hitchcock 1x16 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e16-colorized-720p-hd.mp4
+- Hitchcock 1x17 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e17-colorized-720p-hd.mp4
+- Hitchcock 1x18 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e18-colorized-720p-hd.mp4
+- Hitchcock 1x19 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e19-colorized-720p-hd.mp4
+- Hitchcock 1x20 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e20-colorized-720p-hd.mp4
+- Hitchcock 1x21 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e21-colorized-576p-sd.mp4
+- Hitchcock 1x22 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e22-colorized-576p-sd.mp4
+- Hitchcock 1x23 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e23-colorized-720p-hd.mp4
+- Hitchcock 1x24 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e24-colorized-720p-hd.mp4
+- Hitchcock 1x25 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e25-colorized-720p-hd.mp4
+- Hitchcock 1x26 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e26-colorized-720p-hd.mp4
+- Hitchcock 1x27 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e27-colorized-720p-hd.mp4
+- Hitchcock 1x28 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e28-colorized-576p-sd.mp4
+- Hitchcock 1x29 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e29-colorized-576p-sd.mp4
+- Hitchcock 1x30 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e30-colorized-576p-sd.mp4
+- Hitchcock 1x31 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e31-colorized-576p-sd.mp4
+- Hitchcock 1x32 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e32-colorized-576p-sd.mp4
+- Hitchcock 1x33 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e33-colorized-576p-sd.mp4
+- Hitchcock 1x34 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e34-colorized-576p-sd.mp4
+- Hitchcock 1x35 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e35-colorized-576p-sd.mp4
+- Hitchcock 1x36 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e36-colorized-576p-sd.mp4
+- Hitchcock 1x37 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e37-colorized-576p-sd.mp4
+- Hitchcock 1x38 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e38-colorized-576p-sd.mp4
+- Hitchcock 1x39 — https://archive.org/download/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd/alfred%20hitchcock%20presents-s1e39-colorized-576p-sd.mp4
+- Hitchcock 2x01 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e1-colorized-576p-sd.mp4
+- Hitchcock 2x02 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e2-colorized-576p-sd.mp4
+- Hitchcock 2x03 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e3-colorized-576p-sd.mp4
+- Hitchcock 2x04 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e4-colorized-576p-sd.mp4
+- Hitchcock 2x05 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e5-colorized-576p-sd.mp4
+- Hitchcock 2x06 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e6-colorized-sd.mp4
+- Hitchcock 2x07 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e7-colorized-576p-sd.mp4
+- Hitchcock 2x08 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e8-colorized-720p-hd.mp4
+- Hitchcock 2x09 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e9-colorized-576p-sd.mp4
+- Hitchcock 2x10 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e10-colorized-576p-sd.mp4
+- Hitchcock 2x11 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e11-colorized-576p-sd.mp4
+- Hitchcock 2x12 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e12-colorized-sd.mp4
+- Hitchcock 2x13 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e13-colorized-sd.mp4
+- Hitchcock 2x14 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e14-colorized-sd.mp4
+- Hitchcock 2x15 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e15-colorized-576p-sd.mp4
+- Hitchcock 2x16 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e16-colorized-576p-sd.mp4
+- Hitchcock 2x17 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e17-colorized-sd.mp4
+- Hitchcock 2x18 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e18-colorized-sd.mp4
+- Hitchcock 2x19 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e19-colorized-576p-sd.mp4
+- Hitchcock 2x20 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e20-colorized-576p-sd.mp4
+- Hitchcock 2x21 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e21-colorized-576p-sd.mp4
+- Hitchcock 2x22 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e22-colorized-sd.mp4
+- Hitchcock 2x23 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e23-colorized-sd.mp4
+- Hitchcock 2x24 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e24-colorized-576p-sd.mp4
+- Hitchcock 2x25 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e25-colorized-576p-sd.mp4
+- Hitchcock 2x26 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e26-colorized-sd.mp4
+- Hitchcock 2x27 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e27-colorized-576p-sd.mp4
+- Hitchcock 2x28 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e28-colorized-sd.mp4
+- Hitchcock 2x29 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e29-colorized-576p-sd.mp4
+- Hitchcock 2x30 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e30-colorized-sd.mp4
+- Hitchcock 2x31 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e31-colorized-576p-sd.mp4
+- Hitchcock 2x32 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e32-colorized-sd.mp4
+- Hitchcock 2x33 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e33-colorized-sd.mp4
+- Hitchcock 2x34 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e34-colorized-sd.mp4
+- Hitchcock 2x35 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e35-colorized-sd.mp4
+- Hitchcock 2x36 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e36-colorized-576p-sd.mp4
+- Hitchcock 2x37 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e37-colorized-sd.mp4
+- Hitchcock 2x38 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e38-colorized-720p-hd.mp4
+- Hitchcock 2x39 — https://archive.org/download/alfred-hitchcock-presents-s-2e-13-colorized-sd/alfred%20hitchcock%20presents-s2e39-colorized-576p-sd.mp4
+- Hitchcock 3x01 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e1-colorized-sd.mp4
+- Hitchcock 3x02 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e2-colorized-sd.mp4
+- Hitchcock 3x03 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e3-colorized-sd.mp4
+- Hitchcock 3x04 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e4-colorized-sd.mp4
+- Hitchcock 3x05 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e5-colorized-sd.mp4
+- Hitchcock 3x06 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e6-colorized-sd.mp4
+- Hitchcock 3x07 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e7-colorized-sd.mp4
+- Hitchcock 3x08 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e8-colorized-sd.mp4
+- Hitchcock 3x09 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e9-colorized-sd.mp4
+- Hitchcock 3x10 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e10-colorized-sd.mp4
+- Hitchcock 3x11 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e11-colorized-sd.mp4
+- Hitchcock 3x12 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e12-colorized-576p-sd.mp4
+- Hitchcock 3x13 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e13-colorized-sd.mp4
+- Hitchcock 3x14 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e14-colorized-sd.mp4
+- Hitchcock 3x15 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e15-colorized-sd.mp4
+- Hitchcock 3x16 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e16-colorized-sd.mp4
+- Hitchcock 3x17 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e17-colorized-sd.mp4
+- Hitchcock 3x18 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e18-colorized-sd.mp4
+- Hitchcock 3x19 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e19-colorized-sd.mp4
+- Hitchcock 3x20 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e20-colorized-sd.mp4
+- Hitchcock 3x21 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e21-colorized-sd.mp4
+- Hitchcock 3x22 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e22-colorized-576p-sd.mp4
+- Hitchcock 3x23 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e23-colorized-sd.mp4
+- Hitchcock 3x24 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e24-colorized-sd.mp4
+- Hitchcock 3x25 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e25-colorized-sd.mp4
+- Hitchcock 3x26 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e26-colorized-576p-sd.mp4
+- Hitchcock 3x27 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e27-colorized-sd.mp4
+- Hitchcock 3x28 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e28-colorized-sd.mp4
+- Hitchcock 3x29 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e29-colorized-576p-sd.mp4
+- Hitchcock 3x30 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e30-colorized-sd.mp4
+- Hitchcock 3x31 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e31-colorized-sd.mp4
+- Hitchcock 3x32 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e32-colorized-sd.mp4
+- Hitchcock 3x33 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e33-colorized-sd.mp4
+- Hitchcock 3x34 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e34-colorized-sd.mp4
+- Hitchcock 3x35 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e35-colorized-sd.mp4
+- Hitchcock 3x36 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e36-colorized-576p-sd.mp4
+- Hitchcock 3x37 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e37-colorized-sd.mp4
+- Hitchcock 3x38 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e38-colorized-720p-hd.mp4
+- Hitchcock 3x39 — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e39-colorized-576p-sd.mp4
+- The Saint (2017) — https://archive.org/download/2017-the-saint-movie-1080p-spanish-or-english/(2017) -------- The Saint -- movie  (1080p, Spanish or English).mp4
+- Monty Python - Whither Canada? — https://archive.org/download/mpfc-remastered_20210305_1553/01.%20Whither%20Canada%3F.mp4
+- Colonel March - Silver Curtain — https://archive.org/download/Colonel_March_Silver_Curtain/Colonel_March_Silver_Curtain.mp4
+- The Adventures of Long John Silver - Episode 1: The Necklace — https://archive.org/download/TheAdventuresOfLongJohnSilver-Episode1theNecklace/TheAdventuresOfLongJohnSilver-TheNecklace-limou3okxka.mp4
+- Are You Being Served? — His & Hers (S01E05) — https://archive.org/download/are-you-being-served-season1/AYBS Season 1/Are You Being Served s01e05 - His & Hers.mp4
+- The Emperor Norton (1966) — Season 7, Episode 23, of Bonanza — https://archive.org/download/TheEmperorNortonBonanza1966/The_Emperor_Norton_Bonanza_1966.mp4
+- 1967 TV Soap: Love is a Many Splendored Thing - 1st of December 1967 — https://archive.org/download/1967_PD_Soapie/LoveisaManySplenderedThing1967.mp4
+- Dragnet TV — Dragnet (1951) - S02E07 - The Big 22 Rifle for Christmas — https://archive.org/download/Dragnet1951/Dragnet/Season%202/Dragnet%20%281951%29%20-%20S02E07%20-%20The%20Big%20.22%20Rifle%20for%20Christmas.mp4
+- Dragnet TV — Dragnet (1951) - S04E12 - The Big New Year — https://archive.org/download/Dragnet1951/Dragnet/Season%204/Dragnet%20%281951%29%20-%20S04E12%20-%20The%20Big%20New%20Year.mp4
+- Alfred Hitchcock Presents — alfred hitchcock presents-s3e36-colorized-sd — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e36-colorized-sd.mp4
+- Alfred Hitchcock Presents — alfred hitchcock presents-s3e38-colorized-sd — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e38-colorized-sd.mp4
+- Alfred Hitchcock Presents — alfred hitchcock presents-s3e39-colorized-sd — https://archive.org/download/alfred-hitchcock-presents-s-3e-1-colorized-sd/alfred%20hitchcock%20presents-s3e39-colorized-sd.mp4
