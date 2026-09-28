@@ -3,7 +3,6 @@
 - 43: The Richard Petty Story — https://archive.org/download/43TheRichardPettyStory_201301/43TheRichardPettyStory.mp4
 - Scenes from the Altamont Speedway Free Festival 1969 — https://archive.org/download/KCRASP025ALTAMONT/KCRA Daily Reel December 6 1969 ALTAMONT.mp4
 - Ghost of Dragstrip Hollow [1959] - Trailer — https://archive.org/download/sinema-trailer_ghost-of-dragstrip-hollow/Ghost of Dragstrip Hollow 1959 trailer (480p_30fps_H264-128kbit_AAC).mp4
-- Speedway — Trailer — https://archive.org/download/trailer-for-speedway/Trailer for Speedway.mp4
 - CAN AM Racing 1971 LIVE From Watkins Glen — https://archive.org/download/can-am-racing-1971-live-from-watkins-glen/CAN-AM Racing 1971 - LIVE from Watkins Glen.mp4
 - 1970 Southern 500 — https://archive.org/download/1970-southern-500/1970 Southern 500.mp4
 - The Racing Cyclist — https://archive.org/download/TheRacingCyclist/The Racing Cyclist.mp4
