@@ -128,243 +128,80 @@ dialog{background:#101610;color:#eee;border:1px solid #47845b;border-radius:12px
 const mk = (p, a) => { let r=[]; for(let i=0;i<a.length;i+=2) r.push({n:a[i], u:p+a[i+1]}); return r; };
 const mks = (a) => { let r=[]; for(let i=0;i<a.length;i+=2) r.push({n:a[i], u:a[i+1]}); return r; };
 
-// CLINE TV — SOURCE POOLS FOR SHOW SYSTEM
-// Channel count is the new lineup. Player/cabinet/screen/control structure remains from the archived 4:3 master.
+// CLINE TV — LIBRARY-DRIVEN SHOW SYSTEM
+// The repository's organized CHANNEL_LIBRARY is the authoritative programming source.
+// This page reads the channel sections at runtime; it does not maintain a second 178-item catalog.
+const SHOW_SYSTEM_VERSION = "LIBRARY-18";
+const CHANNEL_LIBRARY_PATH = "library/CHANNEL_LIBRARY.md";
+let categories = [];
+let programIds = [];
 
-const ch1 = [
-    {n:"1x01 The Cage",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x01%20-%20The%20Cage.mp4"},
-    {n:"1x02 Where No Man Has Gone",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x02%20-%20Where%20No%20Man%20Has%20Gone%20Before.mp4"},
-    {n:"1x03 Corbomite Maneuver",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x03%20-%20The%20Corbomite%20Maneuver.mp4"},
-    {n:"1x04 Mudd's Women",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x04%20-%20Mudd%27s%20Women.mp4"},
-    {n:"1x05 The Enemy Within",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x05%20-%20The%20Enemy%20Within.mp4"},
-    {n:"1x06 The Man Trap",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x06%20-%20The%20Man%20Trap.mp4"},
-    {n:"1x07 The Naked Time",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x07%20-%20The%20Naked%20Time.mp4"},
-    {n:"1x08 Charlie X",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x08%20-%20Charlie%20X.mp4"},
-    {n:"1x09 Balance of Terror",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x09%20-%20Balance%20of%20Terror.mp4"},
-    {n:"1x10 Little Girls Made of",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x10%20-%20What%20are%20Little%20Girls%20Made%20of.mp4"},
-    {n:"1x11 Dagger of the Mind",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x11%20-%20Dagger%20of%20the%20Mind.mp4"},
-    {n:"1x12 Miri",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x12%20-%20Miri.mp4"},
-    {n:"1x13 Conscience of King",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x13%20-%20The%20Conscience%20of%20the%20King.mp4"},
-    {n:"1x14 The Galileo Seven",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x14%20-%20The%20Galileo%20Seven.mp4"},
-    {n:"1x15 Court Martial",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x15%20-%20Court%20Martial.mp4"},
-    {n:"1x16 The Menagerie Pt I",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x16%20-%20The%20Menagerie%20-%20Part%20I.mp4"},
-    {n:"1x17 The Menagerie Pt II",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x17%20-%20The%20Menagerie%20-%20Part%20II.mp4"},
-    {n:"1x18 Shore Leave",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x18%20-%20Shore%20Leave.mp4"},
-    {n:"1x19 Squire of Gothos",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x19%20-%20The%20Squire%20of%20Gothos.mp4"},
-    {n:"1x20 Arena",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x20%20-%20Arena.mp4"},
-    {n:"1x21 Alternative Factor",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x21%20-%20The%20Alternative%20Factor.mp4"},
-    {n:"1x22 Tomorrow is Yesterday",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x22%20-%20Tomorrow%20is%20Yesterday.mp4"},
-    {n:"1x23 Return of Archons",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x23%20-%20The%20Return%20of%20the%20Archons.mp4"},
-    {n:"1x24 Taste of Armageddon",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x24%20-%20A%20Taste%20of%20Armageddon.mp4"},
-    {n:"1x25 Space Seed",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x25%20-%20Space%20Seed.mp4"},
-    {n:"1x26 This Side of Paradise",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x26%20-%20This%20Side%20of%20Paradise.mp4"},
-    {n:"1x27 Devil in the Dark",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x27%20-%20The%20Devil%20in%20the%20Dark.mp4"},
-    {n:"1x28 Errand of Mercy",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x28%20-%20Errand%20of%20Mercy.mp4"},
-    {n:"1x29 City on the Edge",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x29%20-%20The%20City%20on%20the%20Edge%20of%20Forever.mp4"},
-    {n:"1x30 Operation Annihilate!",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%201x30%20-%20Operation%20Annihilate%21.mp4"},
-    {n:"2x01 Catspaw",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x01%20-%20Catspaw.mp4"},
-    {n:"2x02 Metamorphosis",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x02%20-%20Metamorphosis.mp4"},
-    {n:"2x03 Friday's Child",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x03%20-%20Friday%27s%20Child.mp4"},
-    {n:"2x04 Who Mourns for Adonais",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x04%20-%20Who%20Mourns%20for%20Adonais.mp4"},
-    {n:"2x05 Amok Time",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x05%20-%20Amok%20Time.mp4"},
-    {n:"2x06 Doomsday Machine",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x06%20-%20The%20Doomsday%20Machine.mp4"},
-    {n:"2x07 Wolf in the Fold",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x07%20-%20Wolf%20in%20the%20Fold.mp4"},
-    {n:"2x08 The Changeling",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x08%20-%20The%20Changeling.mp4"},
-    {n:"2x09 The Apple",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x09%20-%20The%20Apple.mp4"},
-    {n:"2x10 Mirror, Mirror",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x10%20-%20Mirror%2C%20Mirror.mp4"},
-    {n:"2x11 The Deadly Years",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x11%20-%20The%20Deadly%20Years.mp4"},
-    {n:"2x12 I, Mudd",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x12%20-%20I%2C%20Mudd.mp4"},
-    {n:"2x13 Trouble With Tribbles",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x13%20-%20The%20Trouble%20With%20Tribbles.mp4"},
-    {n:"2x14 Bread and Circuses",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x14%20-%20Bread%20and%20Circuses.mp4"},
-    {n:"2x15 Journey to Babel",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x15%20-%20Journey%20to%20Babel.mp4"},
-    {n:"2x16 Private Little War",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x16%20-%20A%20Private%20Little%20War.mp4"},
-    {n:"2x17 Gamesters of Triskelion",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x17%20-%20The%20Gamesters%20of%20Triskelion.mp4"},
-    {n:"2x18 Obsession",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x18%20-%20Obsession.mp4"},
-    {n:"2x19 Immunity Syndrome",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x19%20-%20The%20Immunity%20Syndrome.mp4"},
-    {n:"2x20 Piece of the Action",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x20%20-%20A%20Piece%20of%20the%20Action.mp4"},
-    {n:"2x21 By Any Other Name",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x21%20-%20By%20Any%20Other%20Name.mp4"},
-    {n:"2x22 Return to Tomorrow",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x22%20-%20Return%20to%20Tomorrow.mp4"},
-    {n:"2x23 Patterns of Force",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x23%20-%20Patterns%20of%20Force%20%281%29.mp4"},
-    {n:"2x24 The Ultimate Computer",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x24%20-%20The%20Ultimate%20Computer.mp4"},
-    {n:"2x25 The Omega Glory",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x25%20-%20The%20Omega%20Glory.mp4"},
-    {n:"2x26 Assignment Earth",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%202x26%20-%20Assignment%20Earth.mp4"},
-    {n:"3x01 Spectre of the Gun",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x01%20-%20Spectre%20of%20the%20Gun.mp4"},
-    {n:"3x02 Elaan of Troyius",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x02%20-%20Elaan%20of%20Troyius.mp4"},
-    {n:"3x03 The Paradise Syndrome",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x03%20-%20The%20Paradise%20Syndrome.mp4"},
-    {n:"3x04 Enterprise Incident",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x04%20-%20The%20Enterprise%20Incident.mp4"},
-    {n:"3x05 Children Shall Lead",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x05%20-%20And%20the%20Children%20Shall%20Lead.mp4"},
-    {n:"3x06 Spock's Brain",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x06%20-%20Spock%27s%20Brain.mp4"},
-    {n:"3x07 Truth no Beauty",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x07%20-%20Is%20There%20in%20Truth%20no%20Beauty.mp4"},
-    {n:"3x08 The Empath",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x08%20-%20The%20Empath.mp4"},
-    {n:"3x09 The Tholian Web",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x09%20-%20The%20Tholian%20Web.mp4"},
-    {n:"3x10 For the World Is Hollow",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x10%20-%20For%20the%20World%20Is%20Hollow%20and%20I%20Have%20Touched%20the%20Sky.mp4"},
-    {n:"3x11 Day of the Dove",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x11%20-%20day%20of%20the%20Dove.mp4"},
-    {n:"3x12 Plato's Stepchildren",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x12%20-%20Plato%27s%20Stepchildren.mp4"},
-    {n:"3x13 Wink of an Eye",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x13%20-%20Wink%20of%20an%20Eye.mp4"},
-    {n:"3x14 That Which Survives",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x14%20-%20That%20Which%20Survives.mp4"},
-    {n:"3x15 Your Last Battlefield",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x15%20-%20Let%20That%20Be%20Your%20Last%20Battlefield.mp4"},
-    {n:"3x16 Whom Gods Destroy",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x16%20-%20Whom%20Gods%20Destroy.mp4"},
-    {n:"3x17 The Mark of Gideon",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x17%20-%20The%20Mark%20of%20Gideon.mp4"},
-    {n:"3x18 The Lights of Zetar",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x18%20-%20The%20Lights%20of%20Zetar.mp4"},
-    {n:"3x19 The Cloud Minders",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x19%20-%20The%20Cloud%20Minders.mp4"},
-    {n:"3x20 The Way to Eden",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x20%20-%20The%20Way%20to%20Eden.mp4"},
-    {n:"3x21 Requiem for Methuselah",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x21%20-%20Requiem%20for%20Methuselah.mp4"},
-    {n:"3x22 The Savage Curtain",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x22%20-%20The%20Savage%20Curtain.mp4"},
-    {n:"3x23 All Our Yesterdays",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x23%20-%20All%20Our%20Yesterdays.mp4"},
-    {n:"3x24 Turnabout Intruder",u:"https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x24%20-%20Turnabout%20Intruder.mp4"}
-];
+function parseChannelLibrary(markdown) {
+    const channels = [];
+    let current = null;
+    for (const rawLine of String(markdown).split(/\r?\n/)) {
+        const line = rawLine.trimEnd();
+        const heading = line.match(/^##\s+CH\s+(\d+)\s+—\s+(.+)$/);
+        if (heading) {
+            current = {
+                name: String(Number(heading[1])),
+                label: heading[2].trim(),
+                kind: "mixed",
+                content: []
+            };
+            channels.push(current);
+            continue;
+        }
+        // The review-hold section is deliberately not broadcast until reviewed.
+        if (/^##\s+REVIEW HOLD\b/i.test(line)) {
+            current = null;
+            continue;
+        }
+        if (!current) continue;
+        const entry = line.match(/^\s*-\s+(.+?)\s+—\s+(https?:\/\/.*)$/);
+        if (!entry) continue;
+        const title = entry[1].trim();
+        const url = entry[2].trim();
+        if (!title || !url) continue;
+        current.content.push({n:title,u:url});
+    }
+    return channels
+        .filter(c => c.content.length)
+        .sort((a,b) => Number(a.name)-Number(b.name));
+}
 
-const ch2 = [
-    {n:"Cosmos - Shores of the Cosmic Ocean",u:"https://archive.org/download/cosmos_1980/COSMOS_01.mp4"},
-    {n:"Nova 1994-02-28 In Search of Human Origins, The Story of Lucy",u:"https://archive.org/download/nova_collection/Nova%201994-02-28%20In%20Search%20of%20Human%20Origins%2C%20The%20Story%20of%20Lucy.ia.mp4"},
-    {n:"Nova 1994-03-01 In Search of Human Origins, Surviving in Africa",u:"https://archive.org/download/nova_collection/Nova%201994-03-01%20In%20Search%20of%20Human%20Origins%2C%20Surviving%20in%20Africa.ia.mp4"},
-    {n:"Nova 1994-03-02 In Search of Human Origins, The Creative Revolution",u:"https://archive.org/download/nova_collection/Nova%201994-03-02%20In%20Search%20of%20Human%20Origins%2C%20The%20Creative%20Revolution.ia.mp4"},
-    {n:"Nova 1994-12-27 In Search of the First Language",u:"https://archive.org/download/nova_collection/Nova%201994-12-27%20In%20Search%20of%20the%20First%20Language.ia.mp4"},
-    {n:"Nova 2011-11-02 The Fabric of the Cosmos What is Space",u:"https://archive.org/download/nova_collection/Nova%202011-11-02%20The%20Fabric%20of%20the%20Cosmos%20What%20is%20Space.ia.mp4"},
-    {n:"Nova 2011-11-09 The Fabric of the Cosmos The Illusion of Time",u:"https://archive.org/download/nova_collection/Nova%202011-11-09%20The%20Fabric%20of%20the%20Cosmos%20The%20Illusion%20of%20Time.ia.mp4"},
-    {n:"Nova 2011-11-16 The Fabric of the Cosmos Quantum Leap",u:"https://archive.org/download/nova_collection/Nova%202011-11-16%20The%20Fabric%20of%20the%20Cosmos%20Quantum%20Leap.ia.mp4"},
-    {n:"Nova 2011-11-23 The Fabric of the Cosmos Universe or Multiverse",u:"https://archive.org/download/nova_collection/Nova%202011-11-23%20The%20Fabric%20of%20the%20Cosmos%20Universe%20or%20Multiverse.ia.mp4"},
-    {n:"Cosmos — 01 — The Shores of the Cosmic Ocean (Carl Sagan, 1980)",u:"https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2001%20The%20Shores%20of%20the%20Cosmic%20Ocean.ia.mp4"},
-    {n:"Cosmos — 02 — One Voice in the Cosmic Fugue (Carl Sagan, 1980)",u:"https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2002%20One%20Voice%20in%20the%20Cosmic%20Fugue.ia.mp4"},
-    {n:"Cosmos — 03 — Harmony of the Worlds (Carl Sagan, 1980)",u:"https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2003%20Harmony%20of%20the%20Worlds.ia.mp4"},
-    {n:"Cosmos — 04 — Heaven and Hell (Carl Sagan, 1980)",u:"https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2004%20Heaven%20and%20Hell.ia.mp4"},
-    {n:"Cosmos — 05 — Blues for a Red Planet (Carl Sagan, 1980)",u:"https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2005%20Blues%20for%20a%20Red%20Planet.ia.mp4"},
-    {n:"Cosmos — 06 — Travellers' Tales (Carl Sagan, 1980)",u:"https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2006%20Travellers%27%20Tales.ia.mp4"},
-    {n:"Cosmos — 07 — The Backbone of Night (Carl Sagan, 1980)",u:"https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2007%20The%20Backbone%20of%20Night.ia.mp4"},
-    {n:"Cosmos — 08 — Journeys in Space and Time (Carl Sagan, 1980)",u:"https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2008%20Journeys%20in%20Space%20and%20Time.ia.mp4"},
-    {n:"Cosmos — 09 — The Lives of the Stars (Carl Sagan, 1980)",u:"https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2009%20The%20Lives%20of%20the%20Stars.ia.mp4"},
-    {n:"Cosmos — 10 — The Edge of Forever (Carl Sagan, 1980)",u:"https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2010%20The%20Edge%20of%20Forever.ia.mp4"},
-    {n:"Cosmos — 11 — The Persistence of Memory (Carl Sagan, 1980)",u:"https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2011%20The%20Persistence%20of%20Memory.ia.mp4"},
-    {n:"Cosmos — 12 — Encyclopaedia Galactica (Carl Sagan, 1980)",u:"https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2012%20Encyclopaedia%20Galactica.ia.mp4"},
-    {n:"Cosmos — 13 — Who Speaks for Earth (Carl Sagan, 1980)",u:"https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2013%20Who%20Speaks%20for%20Earth.ia.mp4"}
-];
-
-const ch3 = [
-    {n:"Godzilla (1998)",u:"https://archive.org/download/My-Favorite-Movies_202503/Godzilla%20%281998%29.mp4"},
-    {n:"Godzilla (2014)",u:"https://archive.org/download/My-Favorite-Movies_202503/Godzilla%20%282014%29.mp4"},
-    {n:"Godzilla King of The Monsters",u:"https://archive.org/download/My-Favorite-Movies_202503/Godzilla%20King%20of%20The%20Monsters.mp4"},
-    {n:"Godzilla Vs Kong (2021)",u:"https://archive.org/download/My-Favorite-Movies_202503/Godzilla%20Vs%20Kong%20%282021%29.mp4"},
-    {n:"Godzilla Vs Kong 2 The New Empire",u:"https://archive.org/download/My-Favorite-Movies_202503/Godzilla%20Vs%20Kong%202%20The%20New%20Empire.mp4"},
-    {n:"Godzilla vs The Sea Monster (1966)",u:"https://archive.org/download/RecurringDinosaurInfestationFilms/7.GodzillaVsTheSeaMonster1966.mp4"},
-    {n:"Godzilla vs Monster Zero (1965)",u:"https://archive.org/download/RecurringDinosaurInfestationFilms/6.GodzillaVsMonsterZero1965.mp4"},
-    {n:"Mothra vs Godzilla (1964)",u:"https://archive.org/download/RecurringDinosaurInfestationFilms/5.MothraVsGodzilla1964.mp4"},
-    {n:"Godzilla 1985",u:"https://archive.org/download/RecurringDinosaurInfestationFilms/16.Godzilla1985.mp4"}
-];
-
-const ch4 = [
-    {n:"The Love Bug (1968)",u:"https://archive.org/download/My-Favorite-Movies_202503/%281968%29%20The%20Love%20Bug.mp4"},
-    {n:"Rush Hour 3",u:"https://archive.org/download/My-Favorite-Movies_202503/Rush%20Hour%203.mp4"},
-    {n:"Star Wars Ep 1",u:"https://archive.org/download/My-Favorite-Movies_202503/Star%20Wars%20Episode%201%20The%20Phantom%20Menace.mp4"},
-    {n:"Tron (1982)",u:"https://archive.org/download/My-Favorite-Movies_202503/Tron%20%281982%29.mp4"},
-    {n:"The Amazing Spider-man",u:"https://archive.org/download/My-Favorite-Movies_202503/Spider-man%204%20The%20Amazing%20Spider-man.mp4"},
-    {n:"Jurassic Park Lost World",u:"https://archive.org/download/My-Favorite-Movies_202503/Jurassic%20Park%202%20The%20Lost%20World.mp4"},
-    {n:"Twister",u:"https://archive.org/download/My-Favorite-Movies_202503/Twister.mp4"},
-    {n:"Godzilla (2014)",u:"https://archive.org/download/My-Favorite-Movies_202503/Godzilla%20%282014%29.mp4"}
-];
-
-const ch5 = [
-    {n:"Herbie Rides Again",u:"https://archive.org/download/My-Favorite-Movies_202503/%281974%29%20Herbie%20Rides%20Again.mp4"},
-    {n:"Christmas Vacation",u:"https://archive.org/download/My-Favorite-Movies_202503/National%20Lampoon%27s%20Christmas%20Vacation.mp4"},
-    {n:"Star Wars Ep 2",u:"https://archive.org/download/My-Favorite-Movies_202503/Star%20Wars%20Episode%202%20Attack%20Of%20The%20Clones.mp4"},
-    {n:"Tron Legacy",u:"https://archive.org/download/My-Favorite-Movies_202503/Tron%20%282010%29%20Tron%20Legacy.mp4"},
-    {n:"Amazing Spider-man 2",u:"https://archive.org/download/My-Favorite-Movies_202503/Spider-man%205%20The%20Amazing%20Spider-man%202.mp4"},
-    {n:"Jurassic Park 3",u:"https://archive.org/download/My-Favorite-Movies_202503/Jurassic%20Park%203.mp4"},
-    {n:"Atlantis Lost Empire",u:"https://archive.org/download/My-Favorite-Movies_202503/Atlantis%20%282001%29%20The%20Lost%20Empire.mp4"},
-    {n:"Godzilla King of The Monsters",u:"https://archive.org/download/My-Favorite-Movies_202503/Godzilla%20King%20of%20The%20Monsters.mp4"}
-];
-
-const ch6 = [
-    {n:"Herbie Monte Carlo",u:"https://archive.org/download/My-Favorite-Movies_202503/%281977%29%20Herbie%20Goes%20To%20Monte%20Carlo.mp4"},
-    {n:"E.T. The Extra Terrestrial",u:"https://archive.org/download/My-Favorite-Movies_202503/E.T%20The%20Extra%20Terrestrial.mp4"},
-    {n:"Star Wars Ep 3",u:"https://archive.org/download/My-Favorite-Movies_202503/Star%20Wars%20Episode%203%20Revenge%20Of%20The%20Sith.mp4"},
-    {n:"Tron Ares",u:"https://archive.org/download/My-Favorite-Movies_202503/Tron%20%282025%29%20Tron%20Ares.mp4"},
-    {n:"Spider-man Homecoming",u:"https://archive.org/download/My-Favorite-Movies_202503/Spider-man%206%20Homecoming.mp4"},
-    {n:"Jurassic World (2015)",u:"https://archive.org/download/My-Favorite-Movies_202503/Jurassic%20World%20%282015%29.mp4"},
-    {n:"Atlantis 2 Milo's Return",u:"https://archive.org/download/My-Favorite-Movies_202503/Atlantis%202%20Milo%27s%20Return.mp4"},
-    {n:"Godzilla Vs Kong (2021)",u:"https://archive.org/download/My-Favorite-Movies_202503/Godzilla%20Vs%20Kong%20%282021%29.mp4"}
-];
-
-const ch7 = [
-    {n:"Herbie Goes Bananas",u:"https://archive.org/download/My-Favorite-Movies_202503/%281980%29%20Herbie%20Goes%20Bananas.mp4"},
-    {n:"Mars Needs Moms",u:"https://archive.org/download/My-Favorite-Movies_202503/Mars%20Needs%20Moms.mp4"},
-    {n:"Star Wars Ep 4",u:"https://archive.org/download/My-Favorite-Movies_202503/Star%20Wars%20Episode%204%20A%20New%20Hope.mp4"},
-    {n:"Iron Man (2008)",u:"https://archive.org/download/My-Favorite-Movies_202503/Iron%20Man%20%282008%29.mp4"},
-    {n:"Spider-man Far From Home",u:"https://archive.org/download/My-Favorite-Movies_202503/Spider-man%207%20Far%20From%20Home.mp4"},
-    {n:"Jurassic World Fallen Kingdom",u:"https://archive.org/download/My-Favorite-Movies_202503/Jurassic%20World%202%20Fallen%20Kingdom.mp4"},
-    {n:"Red vs Blue Restoration",u:"https://archive.org/download/My-Favorite-Movies_202503/Red%20vs%20Blue%20Restoration.mp4"},
-    {n:"Godzilla Vs Kong 2 The New Empire",u:"https://archive.org/download/My-Favorite-Movies_202503/Godzilla%20Vs%20Kong%202%20The%20New%20Empire.mp4"}
-];
-
-const ch8 = [
-    {n:"The Love Bug (1997)",u:"https://archive.org/download/My-Favorite-Movies_202503/%281997%29%20The%20Love%20Bug.mp4"},
-    {n:"Robots",u:"https://archive.org/download/My-Favorite-Movies_202503/Robots.mp4"},
-    {n:"Star Wars Ep 5",u:"https://archive.org/download/My-Favorite-Movies_202503/Star%20Wars%20Episode%205%20The%20Empire%20Strikes%20Back.mp4"},
-    {n:"Iron Man 2",u:"https://archive.org/download/My-Favorite-Movies_202503/Iron%20Man%202.mp4"},
-    {n:"Spider-man No Way Home",u:"https://archive.org/download/My-Favorite-Movies_202503/Spider-man%208%20No%20Way%20Home.mp4"},
-    {n:"Jurassic World Dominion",u:"https://archive.org/download/My-Favorite-Movies_202503/Jurassic%20World%203%20Dominion.mp4"},
-    {n:"Big Ass Spider",u:"https://archive.org/download/My-Favorite-Movies_202503/Big%20Ass%20Spider.mp4"}
-];
-
-const ch9 = [
-    {n:"Herbie Fully Loaded",u:"https://archive.org/download/My-Favorite-Movies_202503/%282005%29%20Herbie%20Fully%20Loaded.mp4"},
-    {n:"Princess and the Frog",u:"https://archive.org/download/My-Favorite-Movies_202503/The%20Princess%20and%20the%20Frog.mp4"},
-    {n:"Star Wars Ep 6",u:"https://archive.org/download/My-Favorite-Movies_202503/Star%20Wars%20Episode%206%20Return%20of%20the%20Jedi.mp4"},
-    {n:"Iron Man 3",u:"https://archive.org/download/My-Favorite-Movies_202503/Iron%20Man%203.mp4"},
-    {n:"Venom (2018)",u:"https://archive.org/download/My-Favorite-Movies_202503/Venom%20%282018%29.mp4"},
-    {n:"Jurassic World Rebirth",u:"https://archive.org/download/My-Favorite-Movies_202503/Jurassic%20World%204%20Rebirth.mp4"},
-    {n:"Eight Legged Freaks",u:"https://archive.org/download/My-Favorite-Movies_202503/Eight%20Legged%20Freaks.mp4"}
-];
-
-const ch10 = [
-    {n:"The Wizard of Oz",u:"https://archive.org/download/My-Favorite-Movies_202503/The%20Wizard%20of%20Oz.mp4"},
-    {n:"Road To El Dorado",u:"https://archive.org/download/My-Favorite-Movies_202503/The%20Road%20To%20El%20Dorado.mp4"},
-    {n:"Star Wars Ep 7",u:"https://archive.org/download/My-Favorite-Movies_202503/Star%20Wars%20Episode%207%20The%20Force%20Awakens.mp4"},
-    {n:"Spider-man (2002)",u:"https://archive.org/download/My-Favorite-Movies_202503/Spider-man%20%282002%29.mp4"},
-    {n:"Venom Let There Be Carnage",u:"https://archive.org/download/My-Favorite-Movies_202503/Venom%20Let%20There%20Be%20Carnage.mp4"},
-    {n:"Into The Storm",u:"https://archive.org/download/My-Favorite-Movies_202503/Into%20The%20Storm.mp4"},
-    {n:"Little Shop Of Horrors",u:"https://archive.org/download/My-Favorite-Movies_202503/Little%20Shop%20Of%20Horrors%20%281986%29.mp4"}
-];
-
-const ch11 = [
-    {n:"Rush Hour 1",u:"https://archive.org/download/My-Favorite-Movies_202503/Rush%20Hour%201.mp4"},
-    {n:"Halo 4 Forward Unto Dawn",u:"https://archive.org/download/My-Favorite-Movies_202503/Halo%204%20Forward%20Unto%20Dawn.mp4"},
-    {n:"Star Wars Ep 8",u:"https://archive.org/download/My-Favorite-Movies_202503/Star%20Wars%20Episode%208%20The%20Last%20Jedi.mp4"},
-    {n:"Spider-man 2",u:"https://archive.org/download/My-Favorite-Movies_202503/Spider-man%202.mp4"},
-    {n:"Venom The Last Dance",u:"https://archive.org/download/My-Favorite-Movies_202503/Venom%20The%20Last%20Dance.mp4"},
-    {n:"Day After Tomorrow",u:"https://archive.org/download/My-Favorite-Movies_202503/The%20Day%20After%20Tomarrow.mp4"},
-    {n:"World War Z",u:"https://archive.org/download/My-Favorite-Movies_202503/World%20War%20Z.mp4"}
-];
-
-const ch12 = [
-    {n:"Rush Hour 2",u:"https://archive.org/download/My-Favorite-Movies_202503/Rush%20Hour%202.mp4"},
-    {n:"Ready Player One",u:"https://archive.org/download/My-Favorite-Movies_202503/Ready%20Player%20One.mp4"},
-    {n:"Star Wars Ep 9",u:"https://archive.org/download/My-Favorite-Movies_202503/Star%20Wars%20Episode%209%20The%20Rise%20of%20Skywalker.mp4"},
-    {n:"Spider-man 3",u:"https://archive.org/download/My-Favorite-Movies_202503/Spider-man%203.mp4"},
-    {n:"Jurassic Park (1993)",u:"https://archive.org/download/My-Favorite-Movies_202503/Jurassic%20Park%20%281993%29.mp4"},
-    {n:"Titanic (1997)",u:"https://archive.org/download/My-Favorite-Movies_202503/Titanic%20%281997%29.mp4"},
-    {n:"Godzilla (1998)",u:"https://archive.org/download/My-Favorite-Movies_202503/Godzilla%20%281998%29.mp4"}
-];
-
-// CLINE TV SHOW SYSTEM
-// Channels are programming streams, not database categories.
-// The existing media pools stay intact; the show system controls how they are presented.
-// When new verified programs are added, they belong in the appropriate stream rather than
-// creating another temporary channel just to hold a pile of links.
-const SHOW_SYSTEM_VERSION = "SHOW-SYSTEM-1";
-const categories = [
-    {name:"1",label:"STAR TREK",kind:"video",role:"SERIES",content:ch1},
-    {name:"2",label:"SCIENCE & COSMOS",kind:"video",role:"SCIENCE",content:ch2},
-    {name:"3",label:"GODZILLA & MONSTERS",kind:"video",role:"CREATURE FEATURE",content:ch3},
-    {name:"4",label:"MOVIE HOUSE · FAMILY & COMEDY",kind:"video",role:"MATINEE",content:ch4},
-    {name:"5",label:"MOVIE HOUSE · SCI-FI",kind:"video",role:"SCIENCE FICTION",content:ch5},
-    {name:"6",label:"MOVIE HOUSE · ADVENTURE",kind:"video",role:"ADVENTURE",content:ch6},
-    {name:"7",label:"MOVIE HOUSE · ACTION",kind:"video",role:"ACTION",content:ch7},
-    {name:"8",label:"MOVIE HOUSE · ANIMATION",kind:"video",role:"FAMILY",content:ch8},
-    {name:"9",label:"MOVIE HOUSE · MONSTERS",kind:"video",role:"CREATURE FEATURE",content:ch9},
-    {name:"10",label:"MOVIE HOUSE · CLASSICS",kind:"video",role:"CLASSIC FEATURE",content:ch10},
-    {name:"11",label:"MOVIE HOUSE · WAR & THRILLER",kind:"video",role:"ACTION FEATURE",content:ch11},
-    {name:"12",label:"MOVIE HOUSE · FEATURE PRESENTATION",kind:"video",role:"PRIME FEATURE",content:ch12}
-];
+async function loadChannelLibrary() {
+    const response = await fetch(CHANNEL_LIBRARY_PATH, {cache:"default"});
+    if (!response.ok) throw new Error(`Channel library request failed (${response.status})`);
+    const markdown = await response.text();
+    const loaded = parseChannelLibrary(markdown);
+    const seen = new Set();
+    let total = 0;
+    for (const channel of loaded) {
+        const unique = [];
+        for (const item of channel.content) {
+            if (seen.has(item.u)) continue;
+            seen.add(item.u);
+            unique.push(item);
+        }
+        channel.content = unique;
+        channel.kind = "mixed";
+        total += unique.length;
+    }
+    categories = loaded;
+    programIds = categories.map(c => {
+        const occurrences = new Map();
+        return c.content.map(item => {
+            const base = item.id || itemId(item.u);
+            const n = (occurrences.get(base) || 0) + 1;
+            occurrences.set(base, n);
+            return base + "-" + n;
+        });
+    });
+    if (!categories.length) throw new Error("Channel library contains no broadcast channels.");
+    console.info(`CLINE TV catalog loaded: ${total} programs across ${categories.length} channels.`);
+    return total;
+}
 // ==========================================
 // SHOW SYSTEM ENGINE & AUDIO SYNTHESIS
 // ==========================================
@@ -386,7 +223,7 @@ function persist(){try{localStorage.setItem(STORAGE_KEY,JSON.stringify(preferenc
 function savedChannel(c){const p=preferences.channels[c.name];return p && typeof p==='object'?p:{};}
 function validTime(t){return typeof t==='number' && Number.isFinite(t) && t>=0 ? t : 0;}
 function itemId(url){return hashText(url).toString(36)+'-'+hashText([...url].reverse().join('')).toString(36);}
-const programIds=categories.map(c=>{const occurrences=new Map();return c.content.map(item=>{const base=item.id || itemId(item.u),n=(occurrences.get(base)||0)+1;occurrences.set(base,n);return base+'-'+n;});});
+/* programIds are built by loadChannelLibrary(). */
 function selectionKey(ci,vi){return categories[ci].name+':'+programIds[ci][vi];}
 function currentItem(){return categories[currentCategoryIndex].content[currentVideoIndex];}
 function active(s=session){return s && session===s && s.generation===generation;}
@@ -541,7 +378,7 @@ function loadAndPlay(time=0,retries=0){
         return;
     }
     document.getElementById('internal-show').classList.remove('active');
-    const audioMode=categories[currentCategoryIndex].kind==='audio';
+    const audioMode=isAudio(item.u);
     const media=audioMode?audioPlayer:player;
     player.style.display=audioMode?'none':'block';audioPlayer.style.display=audioMode?'block':'none';
     if(audioMode)startAudioScope(item);else stopAudioScope();
@@ -700,7 +537,7 @@ async function toggleFS(){
         if(document.fullscreenElement){await document.exitFullscreen();releasePlayerOrientation();return;}
         if(player.webkitDisplayingFullscreen&&player.webkitExitFullscreen){player.webkitExitFullscreen();releasePlayerOrientation();return;}
         const phone=!!window.matchMedia?.('(pointer: coarse)').matches && !!window.matchMedia?.('(max-width: 900px), (max-height: 600px)').matches;
-        const videoMode=categories[currentCategoryIndex].kind==='video';
+        const videoMode=!isAudio(currentItem().u);
         // Use the same native video view as the in-video enlarge button on phones.
         // Call the Apple API directly during the tap, before awaiting anything.
         if(phone&&videoMode&&player.webkitEnterFullscreen){player.webkitEnterFullscreen();void requestLandscape();return;}
@@ -777,14 +614,33 @@ window.addEventListener('resize',()=>{if(audioStage.classList.contains('active')
 window.addEventListener('pagehide',savePosition);
 document.addEventListener('visibilitychange',()=>{if(document.hidden)savePosition();});
 window.addEventListener('hashchange',()=>{const p=parseSelection(location.hash);if(p)choose(p.ci,p.vi,{time:p.time,delay:false});else if(p===false)setStatus('That shared program is not in this catalog. Open Guide to choose one.');});
-window.onload=()=>{
-    makeTicks('t-ring',100);makeTicks('s-ring',categories.length);
-    enableKnobSwipe(document.getElementById('t-knob'),tune);enableKnobSwipe(document.getElementById('s-knob'),changeCategory);
-    const volume=preferences.volume;volumeKnob.value=String(typeof volume==='number'&&Number.isFinite(volume)&&volume>=0&&volume<=1?volume:0.7);
-    categories.forEach(c=>{const o=document.createElement('option');o.value=c.name;o.textContent=`CH ${c.name} · ${c.label}`;document.getElementById('guide-channel').appendChild(o);});
-    const p=parseSelection(location.hash);
-    if(p)choose(p.ci,p.vi,{time:p.time,delay:false});
-    else {const ci=Math.max(0,categories.findIndex(c=>c.name===preferences.lastChannel)),saved=savedChannel(categories[ci]);choose(ci,Math.max(0,programIds[ci].indexOf(saved.id)),{delay:false});if(p===false)setStatus('Shared program not found. Open Guide to choose one.');}
+window.onload=async()=>{
+    try{
+        await loadChannelLibrary();
+        makeTicks('t-ring',100);makeTicks('s-ring',categories.length);
+        enableKnobSwipe(document.getElementById('t-knob'),tune);enableKnobSwipe(document.getElementById('s-knob'),changeCategory);
+        const volume=preferences.volume;
+        volumeKnob.value=String(typeof volume==='number'&&Number.isFinite(volume)&&volume>=0&&volume<=1?volume:0.7);
+        categories.forEach(c=>{
+            const o=document.createElement('option');
+            o.value=c.name;o.textContent=`CH ${c.name} · ${c.label}`;
+            document.getElementById('guide-channel').appendChild(o);
+        });
+        const p=parseSelection(location.hash);
+        if(p) choose(p.ci,p.vi,{time:p.time,delay:false});
+        else {
+            const fallback=categories.findIndex(c=>c.name===preferences.lastChannel);
+            const ci=fallback>=0?fallback:0;
+            const saved=savedChannel(categories[ci]);
+            const vi=Math.max(0,programIds[ci].indexOf(saved.id));
+            choose(ci,vi,{delay:false});
+            if(p===false)setStatus('Shared program not found. Open Guide to choose one.');
+        }
+    }catch(error){
+        console.error("CLINE TV catalog load failed:",error);
+        document.getElementById('osd').textContent="CATALOG OFFLINE\\nCHANNEL LIBRARY COULD NOT BE LOADED";
+        document.getElementById('osd').style.opacity='1';
+    }
 };
 
 </script>
