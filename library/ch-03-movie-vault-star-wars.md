@@ -1,0 +1,88 @@
+# CH 3 — MOVIE VAULT & STAR WARS
+
+- The Love Bug (1968) — https://archive.org/download/My-Favorite-Movies_202503/%281968%29%20The%20Love%20Bug.mp4
+- Herbie Rides Again — https://archive.org/download/My-Favorite-Movies_202503/%281974%29%20Herbie%20Rides%20Again.mp4
+- Herbie Monte Carlo — https://archive.org/download/My-Favorite-Movies_202503/%281977%29%20Herbie%20Goes%20To%20Monte%20Carlo.mp4
+- Herbie Goes Bananas — https://archive.org/download/My-Favorite-Movies_202503/%281980%29%20Herbie%20Goes%20Bananas.mp4
+- The Love Bug (1997) — https://archive.org/download/My-Favorite-Movies_202503/%281997%29%20The%20Love%20Bug.mp4
+- Herbie Fully Loaded — https://archive.org/download/My-Favorite-Movies_202503/%282005%29%20Herbie%20Fully%20Loaded.mp4
+- The Wizard of Oz — https://archive.org/download/My-Favorite-Movies_202503/The%20Wizard%20of%20Oz.mp4
+- Rush Hour 1 — https://archive.org/download/My-Favorite-Movies_202503/Rush%20Hour%201.mp4
+- Rush Hour 2 — https://archive.org/download/My-Favorite-Movies_202503/Rush%20Hour%202.mp4
+- Rush Hour 3 — https://archive.org/download/My-Favorite-Movies_202503/Rush%20Hour%203.mp4
+- Christmas Vacation — https://archive.org/download/My-Favorite-Movies_202503/National%20Lampoon%27s%20Christmas%20Vacation.mp4
+- E.T. The Extra Terrestrial — https://archive.org/download/My-Favorite-Movies_202503/E.T%20The%20Extra%20Terrestrial.mp4
+- Mars Needs Moms — https://archive.org/download/My-Favorite-Movies_202503/Mars%20Needs%20Moms.mp4
+- Robots — https://archive.org/download/My-Favorite-Movies_202503/Robots.mp4
+- Princess and the Frog — https://archive.org/download/My-Favorite-Movies_202503/The%20Princess%20and%20the%20Frog.mp4
+- Road To El Dorado — https://archive.org/download/My-Favorite-Movies_202503/The%20Road%20To%20El%20Dorado.mp4
+- Halo 4 Forward Unto Dawn — https://archive.org/download/My-Favorite-Movies_202503/Halo%204%20Forward%20Unto%20Dawn.mp4
+- Ready Player One — https://archive.org/download/My-Favorite-Movies_202503/Ready%20Player%20One.mp4
+- Star Wars Ep 1 — https://archive.org/download/My-Favorite-Movies_202503/Star%20Wars%20Episode%201%20The%20Phantom%20Menace.mp4
+- Star Wars Ep 2 — https://archive.org/download/My-Favorite-Movies_202503/Star%20Wars%20Episode%202%20Attack%20Of%20The%20Clones.mp4
+- Star Wars Ep 3 — https://archive.org/download/My-Favorite-Movies_202503/Star%20Wars%20Episode%203%20Revenge%20Of%20The%20Sith.mp4
+- Star Wars Ep 4 — https://archive.org/download/My-Favorite-Movies_202503/Star%20Wars%20Episode%204%20A%20New%20Hope.mp4
+- Star Wars Ep 5 — https://archive.org/download/My-Favorite-Movies_202503/Star%20Wars%20Episode%205%20The%20Empire%20Strikes%20Back.mp4
+- Star Wars Ep 6 — https://archive.org/download/My-Favorite-Movies_202503/Star%20Wars%20Episode%206%20Return%20of%20the%20Jedi.mp4
+- Star Wars Ep 7 — https://archive.org/download/My-Favorite-Movies_202503/Star%20Wars%20Episode%207%20The%20Force%20Awakens.mp4
+- Star Wars Ep 8 — https://archive.org/download/My-Favorite-Movies_202503/Star%20Wars%20Episode%208%20The%20Last%20Jedi.mp4
+- Star Wars Ep 9 — https://archive.org/download/My-Favorite-Movies_202503/Star%20Wars%20Episode%209%20The%20Rise%20of%20Skywalker.mp4
+- Tron (1982) — https://archive.org/download/My-Favorite-Movies_202503/Tron%20%281982%29.mp4
+- Tron Legacy — https://archive.org/download/My-Favorite-Movies_202503/Tron%20%282010%29%20Tron%20Legacy.mp4
+- Tron Ares — https://archive.org/download/My-Favorite-Movies_202503/Tron%20%282025%29%20Tron%20Ares.mp4
+- Iron Man (2008) — https://archive.org/download/My-Favorite-Movies_202503/Iron%20Man%20%282008%29.mp4
+- Iron Man 2 — https://archive.org/download/My-Favorite-Movies_202503/Iron%20Man%202.mp4
+- Iron Man 3 — https://archive.org/download/My-Favorite-Movies_202503/Iron%20Man%203.mp4
+- Spider-man (2002) — https://archive.org/download/My-Favorite-Movies_202503/Spider-man%20%282002%29.mp4
+- Spider-man 2 — https://archive.org/download/My-Favorite-Movies_202503/Spider-man%202.mp4
+- Spider-man 3 — https://archive.org/download/My-Favorite-Movies_202503/Spider-man%203.mp4
+- The Amazing Spider-man — https://archive.org/download/My-Favorite-Movies_202503/Spider-man%204%20The%20Amazing%20Spider-man.mp4
+- Amazing Spider-man 2 — https://archive.org/download/My-Favorite-Movies_202503/Spider-man%205%20The%20Amazing%20Spider-man%202.mp4
+- Spider-man Homecoming — https://archive.org/download/My-Favorite-Movies_202503/Spider-man%206%20Homecoming.mp4
+- Spider-man Far From Home — https://archive.org/download/My-Favorite-Movies_202503/Spider-man%207%20Far%20From%20Home.mp4
+- Spider-man No Way Home — https://archive.org/download/My-Favorite-Movies_202503/Spider-man%208%20No%20Way%20Home.mp4
+- Venom (2018) — https://archive.org/download/My-Favorite-Movies_202503/Venom%20%282018%29.mp4
+- Venom Let There Be Carnage — https://archive.org/download/My-Favorite-Movies_202503/Venom%20Let%20There%20Be%20Carnage.mp4
+- Venom The Last Dance — https://archive.org/download/My-Favorite-Movies_202503/Venom%20The%20Last%20Dance.mp4
+- Jurassic Park (1993) — https://archive.org/download/My-Favorite-Movies_202503/Jurassic%20Park%20%281993%29.mp4
+- Jurassic Park Lost World — https://archive.org/download/My-Favorite-Movies_202503/Jurassic%20Park%202%20The%20Lost%20World.mp4
+- Jurassic Park 3 — https://archive.org/download/My-Favorite-Movies_202503/Jurassic%20Park%203.mp4
+- Jurassic World (2015) — https://archive.org/download/My-Favorite-Movies_202503/Jurassic%20World%20%282015%29.mp4
+- Jurassic World Fallen Kingdom — https://archive.org/download/My-Favorite-Movies_202503/Jurassic%20World%202%20Fallen%20Kingdom.mp4
+- Jurassic World Dominion — https://archive.org/download/My-Favorite-Movies_202503/Jurassic%20World%203%20Dominion.mp4
+- Jurassic World Rebirth — https://archive.org/download/My-Favorite-Movies_202503/Jurassic%20World%204%20Rebirth.mp4
+- Into The Storm — https://archive.org/download/My-Favorite-Movies_202503/Into%20The%20Storm.mp4
+- Day After Tomorrow — https://archive.org/download/My-Favorite-Movies_202503/The%20Day%20After%20Tomarrow.mp4
+- Titanic (1997) — https://archive.org/download/My-Favorite-Movies_202503/Titanic%20%281997%29.mp4
+- Twister — https://archive.org/download/My-Favorite-Movies_202503/Twister.mp4
+- Atlantis Lost Empire — https://archive.org/download/My-Favorite-Movies_202503/Atlantis%20%282001%29%20The%20Lost%20Empire.mp4
+- Atlantis 2 Milo's Return — https://archive.org/download/My-Favorite-Movies_202503/Atlantis%202%20Milo%27s%20Return.mp4
+- Good Bad & Ugly — https://archive.org/download/TheGoodTheBadAndTheUgly1966/The%20Good%2C%20the%20Bad%20and%20the%20Ugly%20%5B1966%5D.mp4
+- A Dolls House (1973 Christmas, Drama, Romance) — https://archive.org/download/a-dolls-house-1973-christmas-drama-romance/A Doll's House (1973 Christmas, Drama, Romance).mp4
+- The Homecoming: A Christmas Story (1971) — https://archive.org/download/the-waltons-christmas-movie-the-homecoming-ty-for-sharing-morris-pattison-this-is-a-classic/The Walton's Christmas Movie ''The Homecoming'' (Ty for sharing, Morris Pattison - this is a CLASSIC!!).mp4
+- Carol For Another Christmas — https://archive.org/download/carol-for-another-christmas-1964/Carol for Another Christmas.mp4
+- The Time Machine (1978) — https://archive.org/download/the-time-machine-1978-time-travel-sci-fi/The%20Time%20Machine%20%281978%20Time%20Travel%20SciFi%29.mp4
+- Gangster Story — https://archive.org/download/GangsterStory/GangsterStoryPresentedByMoviePowder.mp4
+- Help! - The Beatles Movie — https://archive.org/download/help_20201109/Help!.mp4
+- Seconds (1966) — https://archive.org/download/seconds.-1966.1080p.-blu-ray.-h-264.-aac-rarbg/Seconds.1966.1080p.BluRay.H264.AAC-RARBG.ia.mp4
+- Woman of the Lake (1966) — https://archive.org/download/woman.of.the.-lake.-1966.-dvdrip.-onna.no.-mizuumi.-yoshishige.-yoshida/Woman.of.the.Lake.1966.DVDRip.Onna.no.Mizuumi.Yoshishige.Yoshida.mp4
+- A Hard Day’s Night (1964) — https://archive.org/download/aharddaysnightmovie/1964.8.11 A Hard Day's Night.mp4
+- Silver Trail, The — https://archive.org/download/the_silver_trail/the_silver_trail.mp4
+- Pot o Gold — https://archive.org/download/pot_o_gold/pot_o_gold.mp4
+- Ghost-Town Gold — https://archive.org/download/three_mesquiteers/three_mesquiteers.mp4
+- Silver Spurs — https://archive.org/download/silver_spurs/silver_spurs.mp4
+- Black Gold — https://archive.org/download/Black_Gold/BlackGold.mp4
+- Silver_Fleet_The — https://archive.org/download/Silver_Fleet_The/Silver_Fleet_The_.mp4
+- Long John Silver (1954) — https://archive.org/download/LongJohnSilver1954/Long John Silver (1954).mp4
+- Gold — https://archive.org/download/Gold-1932/Gold.mp4
+- Desert Gold — https://archive.org/download/DesertGold/DesertGold.mp4
+- The Silver Horde — https://archive.org/download/SilverHorde1930/The_Silver_Horde_1930.mp4
+- Island of the sunken gold / De brandende vulkaan — https://archive.org/download/Island_of_the-sunken_gold/De_brandende_vulkaan_episode_1_to_5_512kb.mp4
+- Acapulco Gold(1976) — https://archive.org/download/acapulco.-gold.-1976.1080p.-blu-ray.-h-264.-aac-rarbg/Acapulco.Gold.1976.1080p.BluRay.H264.AAC-RARBG.ia.mp4
+- How Green Was My Valley (1941) — https://archive.org/download/HowGreenWasMyValley1941_201812/How Green was My Valley (1941).mp4
+- Sweet Sweetback’s Badass Song - Full Movie — https://archive.org/download/1566981383/1566981383.mp4
+- The Graduate (1967) — https://archive.org/download/the-graduate-1967_202301/The Graduate (1967).mp4
+- Fiddler On The Roof — https://archive.org/download/fiddler-on-the-roof/Fiddler on the Roof.mp4
+- Rio Lobo (1970 John Wayne Western Civil War) — https://archive.org/download/rio-lobo-1970-john-wayne-western-civil-war/Rio Lobo (1970 John Wayne Western Civil War).mp4
+- Murder à la Mod (1968 Film Noir, Crime, Murder, Mystery, Dramady) — https://archive.org/download/murder-a-la-mod-1968-film-noir-dramady-crime-murcer-mystery/Murder à la Mod (1968 Film Noir, Dramady, Crime, Murcer, Mystery).mp4
+- Le Tatoué (1968) — https://archive.org/download/le-tatoue-1968/Le Tatoué - 1968.mp4
