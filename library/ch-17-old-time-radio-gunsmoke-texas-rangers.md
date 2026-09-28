@@ -1,0 +1,275 @@
+# CH 17 — OLD-TIME RADIO · GUNSMOKE & TEXAS RANGERS
+
+- Gunsmoke — Billy the Kid (52-04-26) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2052-04-26%20%28001%29%20Billy%20the%20Kid.mp3
+- Gunsmoke — Ben Thompson (52-05-03) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2052-05-03%20%28002%29%20Ben%20Thompson%20%28act%201%29.mp3
+- Gunsmoke — Jaliscoe (52-05-10) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2052-05-10%20%28003%29%20Jaliscoe.mp3
+- Gunsmoke — Ben Slade's Saloon (52-05-24) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2052-05-24%20%28005%29%20Ben%20Slade%27s%20Saloon.mp3
+- Gunsmoke — Carmen (52-05-31) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2052-05-31%20%28006%29%20Carmen.mp3
+- Gunsmoke — Buffalo Killers (52-06-07) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2052-06-07%20%28007%29%20Buffalo%20Killers.mp3
+- Gunsmoke — Never Pester Chester (Paul Dubov) (52-07-05) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2052-07-05%20%28011%29%20Never%20Pester%20Chester.mp3
+- Gunsmoke — The Boughten Bride (52-07-12) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2052-07-12%20%28012%29%20The%20Boughten%20Bride.mp3
+- Gunsmoke — Doc Holiday (52-07-19) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2052-07-19%20%28013%29%20Doc%20Holiday.mp3
+- Gunsmoke — Gentleman's Disagreement (52-07-26) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2052-07-26%20%28014%29%20Gentleman%27s%20Disagreement.mp3
+- Gunsmoke — Renegade White (52-08-02) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2052-08-02%20%28015%29%20Renegade%20White.mp3
+- Gunsmoke — The Kentucky Tolmans (52-08-09) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2052-08-09%20%28016%29%20The%20Kentucky%20Tolmans.mp3
+- Gunsmoke — The Lynching (52-08-16) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2052-08-16%20%28017%29%20The%20Lynching.mp3
+- Gunsmoke — Shakespeare (52-08-23) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2052-08-23%20%28018%29%20Shakespeare.mp3
+- Gunsmoke — The Juniper Tree (52-08-30) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2052-08-30%20%28019%29%20The%20Juniper%20Tree.mp3
+- Gunsmoke — The Brothers (52-09-06) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2052-09-06%20%28020%29%20The%20Brothers.mp3
+- Gunsmoke — Home Surgery (52-09-13) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2052-09-13%20%28021%29%20Home%20Surgery.mp3
+- Gunsmoke — Drop Dead (52-09-20) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2052-09-20%20%28022%29%20Drop%20Dead.mp3
+- Gunsmoke — The Railroad (pre-cut, not final version) (52-09-26) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2052-09-26%20%28xxx%29%20The%20Railroad%20%28pre-cut%2C%20not%20final%20version%29.mp3
+- Gunsmoke — Cain (52-10-03) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2052-10-03%20%28024%29%20Cain.mp3
+- Gunsmoke — Hinka-Do (52-10-10) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2052-10-10%20%28025%29%20Hinka-Do.mp3
+- Gunsmoke — Lochinvar (52-10-17) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2052-10-17%20%28026%29%20Lochinvar.mp3
+- Gunsmoke — The Mortgage (52-10-24) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2052-10-24%20%28027%29%20The%20Mortgage.mp3
+- Gunsmoke — Overland Express (52-10-31) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2052-10-31%20%28028%29%20Overland%20Express.mp3
+- Gunsmoke — Tara (52-11-07) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2052-11-07%20%28029%29%20Tara.mp3
+- Gunsmoke — The Square Triangle (52-11-14) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2052-11-14%20%28030%29%20The%20Square%20Triangle.mp3
+- Gunsmoke — Fingered (52-11-21) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2052-11-21%20%28031%29%20Fingered.mp3
+- Gunsmoke — Kitty (52-11-29) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2052-11-29%20%28032%29%20Kitty.mp3
+- Gunsmoke — I Don't Know (52-12-06) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2052-12-06%20%28033%29%20I%20Don%27t%20Know.mp3
+- Gunsmoke — Post Martin (52-12-13) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2052-12-13%20%28034%29%20Post%20Martin.mp3
+- Gunsmoke — Xmas Story (52-12-20) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2052-12-20%20%28035%29%20Xmas%20Story.mp3
+- Gunsmoke — The Cabin (52-12-27) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2052-12-27%20%28036%29%20The%20Cabin.mp3
+- Gunsmoke — Westbound (53-01-03) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-01-03%20%28037%29%20Westbound.mp3
+- Gunsmoke — Word of Honor (53-01-10) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-01-10%20%28038%29%20Word%20of%20Honor.mp3
+- Gunsmoke — Paid Killer (53-01-17) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-01-17%20%28039%29%20Paid%20Killer.mp3
+- Gunsmoke — The Old Lady (53-01-24) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-01-24%20%28040%29%20The%20Old%20Lady.mp3
+- Gunsmoke — Cavalcade (53-01-31) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-01-31%20%28041%29%20Cavalcade.mp3
+- Gunsmoke — Cain (reused script) (53-02-07) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-02-07%20%28042%29%20Cain.mp3
+- Gunsmoke — The Round-Up (53-02-14) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-02-14%20%28043%29%20The%20Round-Up.mp3
+- Gunsmoke — Meshougah (53-02-21) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-02-21%20%28044%29%20Meshougah.mp3
+- Gunsmoke — Trojan War (53-02-28) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-02-28%20%28045%29%20Trojan%20War.mp3
+- Gunsmoke — Absalom (53-03-07) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-03-07%20%28046%29%20Absalom.mp3
+- Gunsmoke — Cyclone (53-03-14) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-03-14%20%28047%29%20Cyclone.MP3
+- Gunsmoke — Pussy Cats (53-03-21) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-03-21%20%28048%29%20Pussy%20Cats.mp3
+- Gunsmoke — Quarter Horse (53-03-28) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-03-28%20%28049%29%20Quarter%20Horse.mp3
+- Gunsmoke — Jayhawkers (53-04-04) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-04-04%20%28050%29%20Jayhawkers.mp3
+- Gunsmoke — Gonif (53-04-11) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-04-11%20%28051%29%20Gonif.mp3
+- Gunsmoke — Bum's Rush (53-04-18) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-04-18%20%28052%29%20Bum%27s%20Rush.mp3
+- Gunsmoke — The Soldier (53-04-25) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-04-25%20%28053%29%20The%20Soldier.mp3
+- Gunsmoke — Tacetta (53-05-02) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-05-02%20%28054%29%20Tacetta.mp3
+- Gunsmoke — The Buffalo Hunter (53-05-09) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-05-09%20%28055%29%20The%20Buffalo%20Hunter.mp3
+- Gunsmoke — The Big Con (53-05-16) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-05-16%20%28056%29%20The%20Big%20Con.mp3
+- Gunsmoke — Print Asper (53-05-23) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-05-23%20%28057%29%20Print%20Asper.mp3
+- Gunsmoke — Fall Semester (53-05-30) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-05-30%20%28058%29%20Fall%20Semester.mp3
+- Gunsmoke — Sundown (53-06-06) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-06-06%20%28059%29%20Sundown.mp3
+- Gunsmoke — Spring Term (53-06-13) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-06-13%20%28060%29%20Spring%20Term.mp3
+- Gunsmoke — Wind (53-06-20) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-06-20%20%28061%29%20Wind.mp3
+- Gunsmoke — Flashback (53-06-27) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-06-27%20%28062%29%20Flashback.mp3
+- Gunsmoke — Dirt (53-07-04) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-07-04%20%28063%29%20Dirt.mp3
+- Gunsmoke — Grass (53-07-11) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-07-11%20%28064%29%20Grass.mp3
+- Gunsmoke — Wild West (53-07-18) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-07-18%20%28065%29%20Wild%20West.mp3
+- Gunsmoke — Hickock (53-07-25) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-07-25%20%28066%29%20Hickock.mp3
+- Gunsmoke — Boy (53-08-01) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-08-01%20%28067%29%20Boy.mp3
+- Gunsmoke — Sky (53-08-08) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-08-08%20%28068%29%20Sky.mp3
+- Gunsmoke — Moon (53-08-15) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-08-15%20%28069%29%20Moon.mp3
+- Gunsmoke — Gone Straight (53-08-22) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-08-22%20%28070%29%20Gone%20Straight.mp3
+- Gunsmoke — Jesse (53-08-29) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-08-29%20%28071%29%20Jesse.mp3
+- Gunsmoke — The Sutler (53-09-05) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-09-05%20%28072%29%20The%20Sutler.mp3
+- Gunsmoke — Prairie Happy (53-09-12) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-09-12%20%28073%29%20Prairie%20Happy.mp3
+- Gunsmoke — There Was Never a Horse (53-09-19) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-09-19%20%28074%29%20There%20Was%20Never%20a%20Horse.mp3
+- Gunsmoke — Fawn (53-09-26) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-09-26%20%28075%29%20Fawn.mp3
+- Gunsmoke — How to Kill a Friend (53-10-03) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-10-03%20%28076%29%20How%20to%20Kill%20a%20Friend.mp3
+- Gunsmoke — How to Die for Nothing (53-10-10) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-10-10%20%28077%29%20How%20to%20Die%20for%20Nothing.mp3
+- Gunsmoke — Yorky (53-10-17) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-10-17%20%28078%29%20Yorky.mp3
+- Gunsmoke — The Buffalo Hunter (reused script) (53-10-24) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-10-24%20%28079%29%20The%20Buffalo%20Hunter.mp3
+- Gunsmoke — How to Kill a Woman (53-10-31) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-10-31%20%28080%29%20How%20to%20Kill%20a%20Woman.mp3
+- Gunsmoke — Stolen Horses (53-11-07) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-11-07%20%28081%29%20Stolen%20Horses.mp3
+- Gunsmoke — Professor Lute Bone (53-11-14) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-11-14%20%28082%29%20Professor%20Lute%20Bone.mp3
+- Gunsmoke — Custer (53-11-21) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-11-21%20%28083%29%20Custer.mp3
+- Gunsmoke — Kick Me (53-11-28) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-11-28%20%28084%29%20Kick%20Me.mp3
+- Gunsmoke — The Lamb (53-12-05) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-12-05%20%28085%29%20The%20Lamb.mp3
+- Gunsmoke — The Cast (53-12-12) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-12-12%20%28086%29%20The%20Cast.mp3
+- Gunsmoke — Big Girl Lost (53-12-19) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-12-19%20%28087%29%20Big%20Girl%20Lost.mp3
+- Gunsmoke — The Guitar (53-12-26) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2053-12-26%20%28088%29%20The%20Guitar.mp3
+- Gunsmoke — Stage Holdup (54-01-02) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-01-02%20%28089%29%20Stage%20Holdup.mp3
+- Gunsmoke — Joke's on Us (54-01-09) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-01-09%20%28090%29%20Joke%27s%20on%20Us.mp3
+- Gunsmoke — The Bear (54-01-16) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-01-16%20%28091%29%20The%20Bear.mp3
+- Gunsmoke — Nina (54-01-23) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-01-23%20%28092%29%20Nina.mp3
+- Gunsmoke — Gunsmuggler (54-01-30) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-01-30%20%28093%29%20Gunsmuggler.mp3
+- Gunsmoke — Big Broad (54-02-06) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-02-06%20%28094%29%20Big%20Broad.mp3
+- Gunsmoke — The Killer (54-02-13) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-02-13%20%28095%29%20The%20Killer.mp3
+- Gunsmoke — Last Fling (54-02-20) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-02-20%20%28096%29%20Last%20Fling.mp3
+- Gunsmoke — Bad Boy (54-02-27) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-02-27%20%28097%29%20Bad%20Boy.mp3
+- Gunsmoke — The Gentleman (54-03-06) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-03-06%20%28098%29%20The%20Gentleman.mp3
+- Gunsmoke — Confederate Money (54-03-13) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-03-13%20%28099%29%20Confederate%20Money.mp3
+- Gunsmoke — Old Friend (54-03-20) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-03-20%20%28100%29%20Old%20Friend.mp3
+- Gunsmoke — Blood Money (Sam Edwards) (54-03-27) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-03-27%20%28101%29%20Blood%20Money.mp3
+- Gunsmoke — Mr and Mrs Amber (Helen Kleeb) (54-04-03) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-04-03%20%28102%29%20Mr.%20and%20Mrs.%20Amber.mp3
+- Gunsmoke — Greater Love (John Dehner) (54-04-10) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-04-10%20%28103%29%20Greater%20Love.mp3
+- Gunsmoke — What the Whisky Drummer Heard (54-04-17) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-04-17%20%28104%29%20What%20the%20Whiskey%20Drummer%20Heard.mp3
+- Gunsmoke — Murder Warrant (54-04-24) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-04-24%20%28105%29%20Murder%20Warrant.mp3
+- Gunsmoke — Cara (54-05-01) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-05-01%20%28106%29%20Cara.mp3
+- Gunsmoke — The Constable (54-05-08) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-05-08%20%28107%29%20The%20Constable.mp3
+- Gunsmoke — The Indian Horse (54-05-15) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-05-15%20%28108%29%20The%20Indian%20Horse.mp3
+- Gunsmoke — Monopoly (54-05-22) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-05-22%20%28109%29%20Monopoly.mp3
+- Gunsmoke — Feud (54-05-29) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-05-29%20%28110%29%20Feud.mp3
+- Gunsmoke — The Blacksmith (54-06-05) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-06-05%20%28111%29%20Blacksmith.mp3
+- Gunsmoke — The Cover Up (54-06-12) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-06-12%20%28112%29%20The%20Cover%20Up.mp3
+- Gunsmoke — Going Bad (54-06-19) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-06-19%20%28113%29%20Going%20Bad.mp3
+- Gunsmoke — Claustrophobia (54-06-26) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-06-26%20%28114%29%20Claustrophobia.mp3
+- Gunsmoke — Word of Honor (54-07-03) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-07-03%20%28115%29%20Word%20of%20Honor.mp3
+- Gunsmoke — Hack Prine (54-07-05) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-07-05%20%28116%29%20Hack%20Prine.mp3
+- Gunsmoke — Texas Cowboys (54-07-12) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-07-12%20%28117%29%20Texas%20Cowboys.mp3
+- Gunsmoke — The Queue (54-07-19) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-07-19%20%28118%29%20The%20Queue.mp3
+- Gunsmoke — Matt for Murder (54-07-26) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-07-26%20%28119%29%20Matt%20for%20Murder.mp3
+- Gunsmoke — No Indians (54-08-02) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-08-02%20%28120%29%20No%20Indians.mp3
+- Gunsmoke — Joe Phy (54-08-09) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-08-09%20%28121%29%20Joe%20Phy.mp3
+- Gunsmoke — Mavis McCloud (Eleanor Tannin) (54-08-16) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-08-16%20%28122%29%20Mavis%20McCloud.mp3
+- Gunsmoke — Young Man with a Gun (54-08-23) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-08-23%20%28123%29%20Young%20Man%20with%20a%20Gun.mp3
+- Gunsmoke — Obie Tater (54-08-30) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-08-30%20%28124%29%20Obie%20Tater.mp3
+- Gunsmoke — The Promise aka The Handcuffs (54-09-06) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-09-06%20%28125%29%20The%20Promise%20aka%20The%20Handcuffs.mp3
+- Gunsmoke — Dooley Surrenders (54-09-13) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-09-13%20%28126%29%20Dooley%20Surrenders.mp3
+- Gunsmoke — The F U (54-09-20) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-09-20%20%28127%29%20The%20F.U..mp3
+- Gunsmoke — Helping Hand (54-09-27) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-09-27%20%28128%29%20Helping%20Hand.mp3
+- Gunsmoke — Matt Gets It (54-10-02) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-10-02%20%28129%29%20Matt%20Gets%20It.mp3
+- Gunsmoke — Love of a Good Woman (54-10-09) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-10-09%20%28130%29%20Love%20of%20a%20Good%20Woman.mp3
+- Gunsmoke — Kitty Caught (Lawrence Dobkin) (54-10-16) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-10-16%20%28131%29%20Kitty%20Caught.mp3
+- Gunsmoke — Ma Tennis (54-10-23) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-10-23%20%28132%29%20Ma%20Tennis.mp3
+- Gunsmoke — The Patsy (54-10-30) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-10-30%20%28133%29%20The%20Patsy.mp3
+- Gunsmoke — Smoking Out the Beedles (54-11-06) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-11-06%20%28134%29%20Smoking%20Out%20the%20Beedles.MP3
+- Gunsmoke — Wrong Man (54-11-13) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-11-13%20%28135%29%20Wrong%20Man.mp3
+- Gunsmoke — How to Kill a Woman (54-11-20) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-11-20%20%28136%29%20How%20To%20Kill%20a%20Woman.mp3
+- Gunsmoke — Cooter (John Dehner) (54-11-27) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-11-27%20%28137%29%20Cooter.mp3
+- Gunsmoke — Cholera (54-12-04) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-12-04%20%28138%29%20Cholera.mp3
+- Gunsmoke — Bone Hunters (54-12-11) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-12-11%20%28139%29%20Bone%20Hunters.mp3
+- Gunsmoke — Magnus (54-12-18) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-12-18%20%28140%29%20Magnus.mp3
+- Gunsmoke — Kitty Lost (54-12-25) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2054-12-25%20%28141%29%20Kitty%20Lost.mp3
+- Gunsmoke — The Bottle Man (55-01-01) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-01-01%20%28142%29%20The%20Bottle%20Man.mp3
+- Gunsmoke — Robin Hood (55-01-08) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-01-08%20%28143%29%20Robin%20Hood.mp3
+- Gunsmoke — Chester's Murder (55-01-15) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-01-15%20%28144%29%20Chester%27s%20Murder.mp3
+- Gunsmoke — Sins Of The Fathers (55-01-22) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-01-22%20%28145%29%20Sins%20Of%20The%20Fathers.mp3
+- Gunsmoke — Young Love (55-01-29) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-01-29%20%28146%29%20Young%20Love.mp3
+- Gunsmoke — Cheyennes (55-02-05) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-02-05%20%28147%29%20Cheyennes.mp3
+- Gunsmoke — Chester's Hanging (55-02-12) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-02-12%20%28148%29%20Chester%27s%20Hanging.mp3
+- Gunsmoke — Poor Pearl (55-02-19) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-02-19%20%28149%29%20Poor%20Pearl.mp3
+- Gunsmoke — Crack-Up (John Dehner) (55-02-26) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-02-26%20%28150%29%20Crack-Up.mp3
+- Gunsmoke — Kite's Reward (55-03-05) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-03-05%20%28151%29%20Kite%27s%20Reward.mp3
+- Gunsmoke — The Trial (55-03-12) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-03-12%20%28152%29%20The%20Trial.mp3
+- Gunsmoke — The Mistake (55-03-19) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-03-19%20%28153%29%20The%20Mistake.mp3
+- Gunsmoke — Horse Deal (55-03-26) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-03-26%20%28154%29%20Horse%20Deal.mp3
+- Gunsmoke — Bloody Hands (Alafraganza) (55-04-02) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-04-02%20%28155%29%20Bloody%20Hands.mp3
+- Gunsmoke — Skid Row (55-04-09) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-04-09%20%28156%29%20Skid%20Row.mp3
+- Gunsmoke — Gypsum Hills Feud (55-04-16) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-04-16%20%28157%29%20Gypsum%20Hills%20Feud.mp3
+- Gunsmoke — Born to Hang (Joseph Kearns) (55-04-23) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-04-23%20%28158%29%20Born%20to%20Hang.mp3
+- Gunsmoke — Reward for Matt (55-04-30) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-04-30%20%28159%29%20Reward%20for%20Matt.mp3
+- Gunsmoke — Potato Road (55-05-07) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-05-07%20%28160%29%20Potato%20Road.mp3
+- Gunsmoke — Robber Bridegroom (55-05-14) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-05-14%20%28161%29%20Robber%20Bridegroom.mp3
+- Gunsmoke — The Liar from Blackhawk (55-05-21) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-05-21%20%28162%29%20The%20Liar%20from%20Blackhawk.mp3
+- Gunsmoke — Cow Doctor (Tom Hanley) (55-05-28) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-05-28%20%28163%29%20Cow%20Doctor.mp3
+- Gunsmoke — Jealousy (55-06-04) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-06-04%20%28164%29%20Jealousy.mp3
+- Gunsmoke — Trust (55-06-11) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-06-11%20%28165%29%20Trust.mp3
+- Gunsmoke — The Reed Survives (Michael Ann Barrett) (55-06-18) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-06-18%20%28166%29%20The%20Reed%20Survives.mp3
+- Gunsmoke — The Army Trial (55-06-25) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-06-25%20%28167%29%20The%20Army%20Trial.mp3
+- Gunsmoke — General Parsley Smith (55-07-02) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-07-02%20%28168%29%20General%20Parsley%20Smith.mp3
+- Gunsmoke — Uncle Oliver (55-07-09) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-07-09%20%28169%29%20Uncle%20Oliver.mp3
+- Gunsmoke — 20 (55-07-16) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-07-16%20%28170%29%2020-20.mp3
+- Gunsmoke — Ben Tolliver's Stud (Norman Macdonnell) (55-07-23) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-07-23%20%28171%29%20Ben%20Tolliver%27s%20Stud.mp3
+- Gunsmoke — Tap Day for Kitty (55-07-30) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-07-30%20%28172%29%20Tap%20Day%20for%20Kitty.mp3
+- Gunsmoke — Innocent Broad (55-08-06) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-08-06%20%28173%29%20Innocent%20Broad.mp3
+- Gunsmoke — Johnny Red (Virginia Gregg) (55-08-13) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-08-13%20%28174%29%20Johnny%20Red.mp3
+- Gunsmoke — Indian Scout (55-08-20) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-08-20%20%28175%29%20Indian%20Scout.mp3
+- Gunsmoke — Doc Quits (55-08-27) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-08-27%20%28176%29%20Doc%20Quits.mp3
+- Gunsmoke — Change of Heart (55-09-03) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-09-03%20%28177%29%20Change%20of%20Heart.mp3
+- Gunsmoke — Alarm at Pleasant Valley (55-09-10) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-09-10%20%28178%29%20Alarm%20at%20Pleasant%20Valley.mp3
+- Gunsmoke — Thoroughbreds (55-09-17) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-09-17%20%28179%29%20Thoroughbreds.mp3
+- Gunsmoke — Indian White (55-09-24) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-09-24%20%28180%29%20Indian%20White.mp3
+- Gunsmoke — Barton Boy (55-10-01) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-10-01%20%28181%29%20Barton%20Boy.mp3
+- Gunsmoke — Good Girl - Bad Company (55-10-08) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-10-08%20%28182%29%20Good%20Girl%20-%20Bad%20Company.mp3
+- Gunsmoke — The Coward (Vic Perrin) (55-10-09) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-10-09%20%28183%29%20The%20Coward.mp3
+- Gunsmoke — Trouble in Kansas (55-10-16) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-10-16%20%28184%29%20Trouble%20in%20Kansas.mp3
+- Gunsmoke — Brush at Elkader (James Nusser) (55-10-23) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-10-23%20%28185%29%20Brush%20at%20Elkader.mp3
+- Gunsmoke — The Choice (Lawrence Dobkin) (55-10-30) — https://archive.org/download/OTRR_Gunsmoke_Singles/Gunsmoke%2055-10-30%20%28186%29%20The%20Choice.mp3
+- Tales of the Texas Rangers — Just a Number (audition) (1950-04-19) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_04_19_00_Just_A_Number_AUDITION.MP3
+- Tales of the Texas Rangers — The White Elephant (1950-07-15) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_07_15_02_The_White_Elephant.mp3
+- Tales of the Texas Rangers — Apache Peak (1950-07-22) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_07_22_03_Apache_Peak.mp3
+- Tales of the Texas Rangers — The Trigger Men (1950-07-29) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_07_29_04_The_Trigger_Man.mp3
+- Tales of the Texas Rangers — Quick Silver (1950-08-05) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_08_05_05_Quick_Silver.mp3
+- Tales of the Texas Rangers — The Broken Spur (1950-08-12) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_08_12_06_The_Broken_Spur.mp3
+- Tales of the Texas Rangers — Fool's Gold (1950-08-19) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_08_19_07_Fools_Gold.mp3
+- Tales of the Texas Rangers — The Open Range (1950-08-26) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_08_26_08_The_Open_Range.mp3
+- Tales of the Texas Rangers — Play for Keeps (1950-09-02) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_09_02_09_Play_For_Keeps.mp3
+- Tales of the Texas Rangers — Dead or Alive (1950-09-09) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_09_09_10_Dead_Or_Alive.mp3
+- Tales of the Texas Rangers — Candy Man (1950-09-16) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_09_16_11_Candy_Man.mp3
+- Tales of the Texas Rangers — Open and Shut (1950-09-23) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_09_23_12_Open_And_Shut.mp3
+- Tales of the Texas Rangers — Clean Up (1950-09-30) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_09_30_13_Clean_Up.mp3
+- Tales of the Texas Rangers — Living Death (1950-10-08) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_10_08_14_Living_Death.mp3
+- Tales of the Texas Rangers — Dead Give-Away (1950-10-15) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_10_15_15_Dead_Give_Away.mp3
+- Tales of the Texas Rangers — Soft Touch (1950-10-29) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_10_29_17_Soft_Touch.mp3
+- Tales of the Texas Rangers — The White Suit (1950-11-05) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_11_05_18_The_White_Suit.mp3
+- Tales of the Texas Rangers — Blood Relative (1950-11-12) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_11_12_19_Blood_Relative.mp3
+- Tales of the Texas Rangers — Hanging by a Thread (1950-11-26) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_11_26_20_Hanging_By_A_Thread.mp3
+- Tales of the Texas Rangers — Room 114 (1950-12-03) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_12_03_21_Room_114.mp3
+- Tales of the Texas Rangers — The Lucky Dollar (1950-12-10) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_12_10_22_The_Lucky_Dollar.mp3
+- Tales of the Texas Rangers — The Cactus Pear (1950-12-17) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_12_17_23_The_Cactus_Pear.mp3
+- Tales of the Texas Rangers — Christmas Present (1950-12-24) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_12_24_24_Christmas_Present.mp3
+- Tales of the Texas Rangers — The Devil's Share (1950-12-31) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1950_12_31_25_The_Devils_Share.mp3
+- Tales of the Texas Rangers — Deadhead Freight (1951-01-07) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_01_07_26_Deadhead_Freight.mp3
+- Tales of the Texas Rangers — Dead in the Cards (1951-01-14) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_01_14_27_Death_In_The_Cards.mp3
+- Tales of the Texas Rangers — Blood Harvest (1951-01-21) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_01_21_28_Blood_Harvest.mp3
+- Tales of the Texas Rangers — Loggers Larceny (1951-02-04) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_02_04_30_Loggers_Larceny.mp3
+- Tales of the Texas Rangers — The Hatchet (1951-02-11) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_02_11_31_The_Hatchet.mp3
+- Tales of the Texas Rangers — TheTrap (1951-02-25) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_02_25_33_The_Trap.mp3
+- Tales of the Texas Rangers — Blind Justice (1951-03-11) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_03_11_34_Blind_Justice.mp3
+- Tales of the Texas Rangers — Death By Adoption (1951-03-18) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_03_18_35_Death_By_Adoption.mp3
+- Tales of the Texas Rangers — Beakdown (1951-03-25) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_03_25_36_Breakdown.mp3
+- Tales of the Texas Rangers — Pressure (1951-04-01) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_04_01_37_Pressure.mp3
+- Tales of the Texas Rangers — Bad Blood (1951-04-08) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_04_08_38_Bad_Blood.mp3
+- Tales of the Texas Rangers — Conspiracy (1951-04-15) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_04_15_39_Conspiracy.mp3
+- Tales of the Texas Rangers — Canned Death (1951-04-22) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_04_22_40_Canned_Death.mp3
+- Tales of the Texas Rangers — No Living Witnesses (1951-05-06) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_05_06_42_No_Living_Witnesses.mp3
+- Tales of the Texas Rangers — Paid In Full (1951-05-13) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_05_13_43_Paid_In_Full.mp3
+- Tales of the Texas Rangers — Square Dance (1951-05-20) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_05_20_44_Squaredance.mp3
+- Tales of the Texas Rangers — Joy Ride (1951-05-27) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_05_27_45_Joy_Ride.mp3
+- Tales of the Texas Rangers — Death Shaft (1951-09-30) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_09_30_46_Death_Shaft.mp3
+- Tales of the Texas Rangers — Wheel Chair Killings (1951-10-07) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_10_07_47_The_Wheelchair_Killer.mp3
+- Tales of the Texas Rangers — Play For Keeps (1951-10-14) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_10_14_48_Play_For_Keeps.mp3
+- Tales of the Texas Rangers — Fugitive Trail (1951-10-21) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_10_21_49_Fugitive_Trail.mp3
+- Tales of the Texas Rangers — The White Elephant (1951-10-28) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_10_28_50_The_White_Elephant.mp3
+- Tales of the Texas Rangers — Helping Hand (1951-11-04) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_11_04_51_Helping_Hand.mp3
+- Tales of the Texas Rangers — Open And Shut (1951-11-11) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_11_11_52_Open_And_Shut.mp3
+- Tales of the Texas Rangers — Wild Crop (1951-11-18) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_11_18_53_Wild_Crop.mp3
+- Tales of the Texas Rangers — Blow Off (1951-11-25) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_11_25_54_The_Blow_Off.mp3
+- Tales of the Texas Rangers — Dead Give Away (1951-12-02) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_12_02_55_The_Dead_Give_Away.mp3
+- Tales of the Texas Rangers — Death Plant (1951-12-09) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_12_09_56_Death_Plant.mp3
+- Tales of the Texas Rangers — Pick-Up (1951-12-16) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_12_16_57_Pick_Up.mp3
+- Tales of the Texas Rangers — Christmas Payoff (1951-12-23) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_12_23_58_Christmas_Payoff.mp3
+- Tales of the Texas Rangers — Killer's Crop (1951-12-30) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1951_12_30_59_Killers_Crop.mp3
+- Tales of the Texas Rangers — Birds Of A Feather (1952-01-06) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_01_06_60_Birds_Of_A_Feather.mp3
+- Tales of the Texas Rangers — Clip Job (1952-01-13) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_01_13_61_Clip_Job.mp3
+- Tales of the Texas Rangers — Blood Trail (1952-01-20) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_01_20_62_Blood_Trail.mp3
+- Tales of the Texas Rangers — Night Chase (1952-01-27) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_01_27_63_Night_Chase.mp3
+- Tales of the Texas Rangers — The Rub Out (1952-02-03) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_02_03_64_The_Rub_Out.mp3
+- Tales of the Texas Rangers — The Hitch-Hiker (1952-02-10) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_02_10_65_Hitchhiker.mp3
+- Tales of the Texas Rangers — Cold Blood (1952-02-17) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_02_17_66_Cold_Blood.mp3
+- Tales of the Texas Rangers — Bright Boy (1952-02-24) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_02_24_67_Bright_Boy.mp3
+- Tales of the Texas Rangers — Ice Man (1952-03-02) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_03_02_68_The_Ice_Man.mp3
+- Tales of the Texas Rangers — Dream Farm (1952-03-09) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_03_09_69_Dream_Farm.mp3
+- Tales of the Texas Rangers — Prelude To Felony (1952-03-16) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_03_16_70_Prelude_To_Felony.mp3
+- Tales of the Texas Rangers — Night Hawk (1952-03-30) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_03_30_71_Nighthawk.mp3
+- Tales of the Texas Rangers — Troop Train (1952-04-06) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_04_06_72_Troop_Train.mp3
+- Tales of the Texas Rangers — Uncertain Death (1952-04-13) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_04_13_73_Uncertain_Death.mp3
+- Tales of the Texas Rangers — Illusion (1952-04-20) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_04_20_74_Illusion.mp3
+- Tales of the Texas Rangers — Address Uknown (1952-04-27) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_04_27_75_Address_Unknown.mp3
+- Tales of the Texas Rangers — Little Sister (1952-05-04) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_05_04_76_Little_Sister.mp3
+- Tales of the Texas Rangers — Unleashed Fury (1952-05-11) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_05_11_77_Unleashed_Fury.mp3
+- Tales of the Texas Rangers — Smart Kill (1952-05-18) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_05_18_78_Smart_Kill.mp3
+- Tales of the Texas Rangers — Jailbird (1952-05-25) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_05_25_79_Jailbird.mp3
+- Tales of the Texas Rangers — Sellout (1952-06-01) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_06_01_80_Sell_Out.mp3
+- Tales of the Texas Rangers — Illegal Entry (1952-06-08) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_06_08_81_Illegal_Entry.mp3
+- Tales of the Texas Rangers — Travesty (1952-06-15) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_06_15_82_Travesty.mp3
+- Tales of the Texas Rangers — Knock-Out (1952-06-22) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_06_22_83_Knockout.MP3
+- Tales of the Texas Rangers — Ex-Con (1952-06-29) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_06_29_84_Ex_Con.MP3
+- Tales of the Texas Rangers — The Boomerang (1952-07-06) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_07_06_85_The_Boomerang.mp3
+- Tales of the Texas Rangers — Finger Man (1952-07-13) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_07_13_86_Finger_Man.mp3
+- Tales of the Texas Rangers — Round Trip (1952-07-20) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_07_20_87_Round_Trip.mp3
+- Tales of the Texas Rangers — Stick-Up (1952-07-27) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_07_27_88_Stick_Up.mp3
+- Tales of the Texas Rangers — Double Edge (1952-08-03) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_08_03_89_Double_Edge.MP3
+- Tales of the Texas Rangers — Last Stop (1952-08-10) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_08_10_90_Last_Stop.mp3
+- Tales of the Texas Rangers — Cover-Up (1952-08-17) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_08_17_91_Cover_Up.mp3
+- Tales of the Texas Rangers — Three Victims (1952-08-24) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_08_24_92_Three_Victims.mp3
+- Tales of the Texas Rangers — Misplaced Person (1952-08-31) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_08_31_93_Misplaced_Person.mp3
+- Tales of the Texas Rangers — Alibi (1952-09-07) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_09_07_94_Alibi.mp3
+- Tales of the Texas Rangers — Drive-In (last Show) (1952-09-14) — https://archive.org/download/TalesOfTheTexasRangers/Texas_Rangers_1952_09_14_95_Drive_In.mp3
