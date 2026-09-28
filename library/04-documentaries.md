@@ -1284,7 +1284,6 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - Terrible1951 — https://archive.org/download/Terrible1951/Terrible1951.mp4
 - Terrible1951 edit — https://archive.org/download/Terrible1951/Terrible1951_edit.mp4
 - Test Tube Babies — https://archive.org/download/Test_Tube_Babies_1948/Test_Tube_Babies_1948.mp4
-- The Child Molester (1964) — https://archive.org/download/CHILD/CHILD.mp4
 - The Holy Ghost People, part 1 — https://archive.org/download/HolyGhostPeople/HolyGhost1.mp4
 - The Holy Ghost People, part 2 — https://archive.org/download/HolyGhostPeople/HolyGhost2.mp4
 - theater hd splice — https://archive.org/download/gov.ntis.ava15996vnb1/theater.hd.splice.mp4
