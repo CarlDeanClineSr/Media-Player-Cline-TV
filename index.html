@@ -133,13 +133,33 @@ const mks = (a) => { let r=[]; for(let i=0;i<a.length;i+=2) r.push({n:a[i], u:a[
 // index.html does not contain a second catalog or a hand-built list of shows.
 const SHOW_SYSTEM_VERSION = "LIBRARY-7";
 const LIBRARY_SOURCES = [
-    {name:"1",label:"TV CLASSICS",file:"library/01-tv-classics.md",kind:"video"},
-    {name:"2",label:"MOVIES",file:"library/02-movies.md",kind:"video"},
-    {name:"3",label:"FAMILY & CARTOONS",file:"library/03-family-cartoons.md",kind:"video"},
-    {name:"4",label:"DOCUMENTARIES",file:"library/04-documentaries.md",kind:"video"},
-    {name:"5",label:"RADIO",file:"library/05-radio.md",kind:"audio"},
-    {name:"6",label:"SPORTS",file:"library/06-sports.md",kind:"video"},
-    {name:"7",label:"TV SERIES",file:"library/07-tv-series.md",kind:"video"}
+    {name:"1",label:"STAR TREK & CLOSE ENCOUNTERS",file:"library/ch-01-star-trek-close-encounters.md",kind:"video"},
+    {name:"2",label:"FEATURE MOVIES",file:"library/ch-02-feature-movies.md",kind:"video"},
+    {name:"3",label:"MOVIE VAULT & STAR WARS",file:"library/ch-03-movie-vault-star-wars.md",kind:"video"},
+    {name:"4",label:"SCI-FI SERIES",file:"library/ch-04-sci-fi-series.md",kind:"video"},
+    {name:"5",label:"SPACE 1999 · UFO · CAPTAIN SCARLET",file:"library/ch-05-space-1999-ufo-captain-scarlet.md",kind:"video"},
+    {name:"6",label:"KOLCHAK & CLASSIC HORROR",file:"library/ch-06-kolchak-classic-horror.md",kind:"video"},
+    {name:"7",label:"DRAGNET & HITCHCOCK",file:"library/ch-07-dragnet-hitchcock.md",kind:"video"},
+    {name:"8",label:"OUTER LIMITS & CAR ADS",file:"library/ch-08-outer-limits-car-ads.md",kind:"video"},
+    {name:"9",label:"SCIENCE · COSMOS · CONNECTIONS",file:"library/ch-09-science-cosmos-connections.md",kind:"video"},
+    {name:"10",label:"SCHOOLHOUSE ROCK & WAR DOCS",file:"library/ch-10-schoolhouse-rock-war-docs.md",kind:"video"},
+    {name:"11",label:"RADIO · X MINUS ONE & SCIENCE FICTION",file:"library/ch-11-radio-x-minus-one-science-fiction.md",kind:"audio"},
+    {name:"12",label:"MONSTER MOVIES",file:"library/ch-12-monster-movies.md",kind:"video"},
+    {name:"13",label:"SPORTS & RACING",file:"library/ch-13-sports-racing.md",kind:"video"},
+    {name:"14",label:"OLD-TIME RADIO · JOHNNY DOLLAR",file:"library/ch-14-old-time-radio-johnny-dollar.md",kind:"audio"},
+    {name:"15",label:"OLD-TIME RADIO · 21ST PRECINCT & DRAGNET",file:"library/ch-15-old-time-radio-21st-precinct-dragnet.md",kind:"audio"},
+    {name:"16",label:"OLD-TIME RADIO · RICHARD DIAMOND · WHISTLER · SUSPENSE",file:"library/ch-16-old-time-radio-richard-diamond-whistler-suspense.md",kind:"audio"},
+    {name:"17",label:"OLD-TIME RADIO · GUNSMOKE & TEXAS RANGERS",file:"library/ch-17-old-time-radio-gunsmoke-texas-rangers.md",kind:"audio"},
+    {name:"18",label:"RADIO · CHURCHILL & CLASSIC BROADCASTS",file:"library/ch-18-radio-churchill-classic-broadcasts.md",kind:"audio"},
+    {name:"19",label:"CLASSIC TV · COMEDY · TWILIGHT ZONE",file:"library/ch-19-classic-tv-comedy-twilight-zone.md",kind:"video"},
+    {name:"20",label:"CARTOONS · ROCKY & BULLWINKLE",file:"library/ch-20-cartoons-rocky-bullwinkle.md",kind:"video"},
+    {name:"21",label:"FAMILY · READING RAINBOW",file:"library/ch-21-family-reading-rainbow.md",kind:"video"},
+    {name:"22",label:"EDUCATION & CLASSIC FILMS",file:"library/ch-22-education-classic-films.md",kind:"video"},
+    {name:"23",label:"SPACE · APOLLO & MERCURY",file:"library/ch-23-space-apollo-mercury.md",kind:"video"},
+    {name:"24",label:"DOCUMENTARIES · WILD KINGDOM & NOVA",file:"library/ch-24-documentaries-wild-kingdom-nova.md",kind:"video"},
+    {name:"25",label:"RADIO · JAZZ & MUSIC",file:"library/ch-25-radio-jazz-music.md",kind:"audio"},
+    {name:"26",label:"SPORTS · WIDE WORLD OF SPORTS",file:"library/ch-26-sports-wide-world-of-sports.md",kind:"video"},
+    {name:"27",label:"IN SEARCH OF",file:"library/ch-27-in-search-of.md",kind:"video"}
 ];
 
 let categories = [];
@@ -196,7 +216,7 @@ async function loadProgramLibraries() {
 // ==========================================
 // SHOW SYSTEM ENGINE & AUDIO SYNTHESIS
 // ==========================================
-// V188 groups preserved source arrays by content type. IDs derive from URLs within each public channel.
+// Reviewed 27-channel broadcast libraries are the player source of truth. The channel files contain the catalog; index.html contains player mechanics only.
 let currentCategoryIndex=0, currentVideoIndex=0, tunerDeg=0, categoryDeg=0;
 let audioCtx=null, audioScopeFrame=null, radioStars=[], osdTimeout;
 const player=document.getElementById('player'), audioPlayer=document.getElementById('audio-player');
