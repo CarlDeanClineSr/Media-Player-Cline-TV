@@ -125,6 +125,7 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - 4x09 The Big Present — https://archive.org/download/Dragnet1951/Dragnet/Season%204/Dragnet%20%281951%29%20-%20S04E09%20-%20The%20Big%20Present.mp4
 - 4x18 The Big Rod — https://archive.org/download/Dragnet1951/Dragnet/Season%204/Dragnet%20%281951%29%20-%20S04E18%20-%20The%20Big%20Rod.mp4
 - 5x03 The Big No Rain — https://archive.org/download/Dragnet1951/Dragnet/Season%205/Dragnet%20%281951%29%20-%20S05E03%20-%20The%20Big%20No%20Rain.mp4
+- 5x04 The Big Lift — https://archive.org/download/Dragnet1951/Dragnet/Season%205/Dragnet%20%281951%29%20-%20S05E04%20-%20The%20Big%20Lift.ogv
 - 5x06 The Big Gap — https://archive.org/download/Dragnet1951/Dragnet/Season%205/Dragnet%20%281951%29%20-%20S05E06%20-%20The%20Big%20Gap.mp4
 - 5x07 The Big Look — https://archive.org/download/Dragnet1951/Dragnet/Season%205/Dragnet%20%281951%29%20-%20S05E07%20-%20The%20Big%20Look.mp4
 - 5x09 The Big Bird — https://archive.org/download/Dragnet1951/Dragnet/Season%205/Dragnet%20%281951%29%20-%20S05E09%20-%20The%20Big%20Bird.mp4
