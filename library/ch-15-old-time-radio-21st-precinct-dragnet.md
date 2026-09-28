@@ -1,0 +1,415 @@
+# CH 15 — OLD-TIME RADIO · 21ST PRECINCT & DRAGNET
+
+- 21st Precinct — The Nolen Brothers (53-07-07) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2053-07-07%20%28001%29%20The%20Nolen%20Brothers.mp3
+- 21st Precinct — Case of the Young Incorrigible (53-07-14) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2053-07-14%20%28002%29%20Case%20of%20the%20Young%20Incorrigible.mp3
+- 21st Precinct — The Bartender (53-07-21) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2053-07-21%20%28003%29%20The%20Bartender.mp3
+- 21st Precinct — The Twins (53-07-28) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2053-07-28%20%28004%29%20The%20Twins.mp3
+- 21st Precinct — Case of the Sailor's Family (53-08-04) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2053-08-04%20%28005%29%20Case%20of%20the%20Sailor%27s%20Family.mp3
+- 21st Precinct — Post Number Seven (53-08-11) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2053-08-11%20%28006%29%20Post%20Number%20Seven.mp3
+- 21st Precinct — The Mainliner (53-08-18) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2053-08-18%20%28007%29%20The%20Mainliner.mp3
+- 21st Precinct — The Bookkeeper (53-08-25) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2053-08-25%20%28008%29%20The%20Bookkeeper.mp3
+- 21st Precinct — The Friend (53-09-01) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2053-09-01%20%28009%29%20The%20Friend.mp3
+- 21st Precinct — The Certified 600 (53-09-08) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2053-09-08%20%28010%29%20The%20Certified%20600.mp3
+- 21st Precinct — The Dog Day (53-09-15) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2053-09-15%20%28011%29%20The%20Dog%20Day.mp3
+- 21st Precinct — The Homecoming (53-09-22) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2053-09-22%20%28012%29%20The%20Homecoming.mp3
+- 21st Precinct — The Shooting Gallery (53-09-29) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2053-09-29%20%28013%29%20The%20Shooting%20Gallery.mp3
+- 21st Precinct — The Bird (53-10-06) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2053-10-06%20%28014%29%20The%20Bird.mp3
+- 21st Precinct — Case of the Picture (53-10-13) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2053-10-13%20%28015%29%20Case%20of%20the%20Picture.mp3
+- 21st Precinct — Case of the Foundling (53-10-20) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2053-10-20%20%28016%29%20Case%20of%20the%20Foundling.mp3
+- 21st Precinct — Case of the Fall (53-10-27) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2053-10-27%20%28017%29%20Case%20of%20the%20Fall.mp3
+- 21st Precinct — Case of the Patient (53-11-03) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2053-11-03%20%28018%29%20Case%20of%20the%20Patient.mp3
+- 21st Precinct — Case of the Basket (53-11-17) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2053-11-17%20%28020%29%20Case%20of%20the%20Basket.mp3
+- 21st Precinct — Case of the Ditch (53-11-24) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2053-11-24%20%28021%29%20Case%20of%20the%20Ditch.mp3
+- 21st Precinct — Case of the L D 80 (53-12-04) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2053-12-04%20%28022%29%20Case%20of%20the%20L.D.%2080.mp3
+- 21st Precinct — The Plant (53-12-25) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2053-12-25%20%28025%29%20The%20Plant.mp3
+- 21st Precinct — Case of the Stairs (54-01-01) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2054-01-01%20%28026%29%20Case%20of%20the%20Stairs.mp3
+- 21st Precinct — The Platform (54-01-13) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2054-01-13%20%28027%29%20The%20Platform.mp3
+- 21st Precinct — The Visitors (54-01-20) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2054-01-20%20%28028%29%20The%20Visitors.mp3
+- 21st Precinct — The Kid (54-01-27) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2054-01-27%20%28029%29%20The%20Kid.mp3
+- 21st Precinct — The Baker (54-02-03) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2054-02-03%20%28030%29%20The%20Baker.mp3
+- 21st Precinct — Case of the Drive (54-02-10) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2054-02-10%20%28031%29%20Case%20of%20the%20Drive.mp3
+- 21st Precinct — The Cure (54-02-24) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2054-02-24%20%28033%29%20The%20Cure.mp3
+- 21st Precinct — The Door (54-03-03) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2054-03-03%20%28034%29%20The%20Door.mp3
+- 21st Precinct — The Package (54-03-24) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2054-03-24%20%28037%29%20The%20Package.mp3
+- 21st Precinct — The Collar (54-04-07) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2054-04-07%20%28039%29%20The%20Collar.mp3
+- 21st Precinct — The Brother (54-04-14) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2054-04-14%20%28040%29%20The%20Brother.mp3
+- 21st Precinct — The Story (54-04-28) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2054-04-28%20%28042%29%20The%20Story.mp3
+- 21st Precinct — The Cabinet (54-05-05) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2054-05-05%20%28043%29%20The%20Cabinet.mp3
+- 21st Precinct — The Dollar (54-05-12) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2054-05-12%20%28044%29%20The%20Dollar.mp3
+- 21st Precinct — The Day (54-05-19) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2054-05-19%20%28045%29%20The%20Day.mp3
+- 21st Precinct — The Father (54-05-26) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2054-05-26%20%28046%29%20The%20Father.mp3
+- 21st Precinct — The Needle (54-06-02) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2054-06-02%20%28047%29%20The%20Needle.mp3
+- 21st Precinct — The Book (54-06-09) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2054-06-09%20%28048%29%20The%20Book.mp3
+- 21st Precinct — The Sprinter (54-06-16) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2054-06-16%20%28049%29%20The%20Sprinter.mp3
+- 21st Precinct — The Will (54-06-23) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2054-06-23%20%28050%29%20The%20Will.mp3
+- 21st Precinct — The Red Tiger (54-06-30) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2054-06-30%20%28051%29%20The%20Red%20Tiger.mp3
+- 21st Precinct — The Mover (54-07-07) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2054-07-07%20%28052%29%20The%20Mover.mp3
+- 21st Precinct — The Shotgun (54-07-14) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2054-07-14%20%28053%29%20The%20Shotgun.mp3
+- 21st Precinct — The Ledge (54-07-21) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2054-07-21%20%28054%29%20The%20Ledge.mp3
+- 21st Precinct — The DOA (54-07-28) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2054-07-28%20%28055%29%20The%20DOA.mp3
+- 21st Precinct — The Job (54-08-04) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2054-08-04%20%28056%29%20The%20Job.mp3
+- 21st Precinct — The Iron (54-08-18) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2054-08-18%20%28058%29%20The%20Iron.mp3
+- 21st Precinct — The Wreck (54-08-25) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2054-08-25%20%28059%29%20The%20Wreck.mp3
+- 21st Precinct — The Copperhead (54-09-01) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2054-09-01%20%28060%29%20The%20Copperhead.mp3
+- 21st Precinct — The Trip (54-09-08) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2054-09-08%20%28061%29%20The%20Trip.mp3
+- 21st Precinct — The Suit (54-09-22) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2054-09-22%20%28063%29%20The%20Suit.mp3
+- 21st Precinct — The Walker (54-09-29) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2054-09-29%20%28064%29%20The%20Walker.mp3
+- 21st Precinct — The Jet (54-10-06) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2054-10-06%20%28065%29%20The%20Jet.mp3
+- 21st Precinct — The Number (54-10-13) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2054-10-13%20%28066%29%20The%20Number.mp3
+- 21st Precinct — The Virtuoso (54-10-20) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2054-10-20%20%28067%29%20The%20Virtuoso.mp3
+- 21st Precinct — The Mark (54-10-27) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2054-10-27%20%28068%29%20The%20Mark.mp3
+- 21st Precinct — The Glass (54-11-03) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2054-11-03%20%28069%29%20The%20Glass.mp3
+- 21st Precinct — The Sticks (54-11-10) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2054-11-10%20%28070%29%20The%20Sticks.mp3
+- 21st Precinct — The Bottle (54-11-17) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2054-11-17%20%28071%29%20The%20Bottle.mp3
+- 21st Precinct — The Beaver (54-11-24) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2054-11-24%20%28072%29%20The%20Beaver.mp3
+- 21st Precinct — The Purse (54-12-01) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2054-12-01%20%28073%29%20The%20Purse.mp3
+- 21st Precinct — The Jump (54-12-08) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2054-12-08%20%28074%29%20The%20Jump.mp3
+- 21st Precinct — The Loser (54-12-15) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2054-12-15%20%28075%29%20The%20Loser.mp3
+- 21st Precinct — The Giver (54-12-22) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2054-12-22%20%28076%29%20The%20Giver.mp3
+- 21st Precinct — The Wife (54-12-29) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2054-12-29%20%28077%29%20The%20Wife.mp3
+- 21st Precinct — The Trade (55-01-05) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2055-01-05%20%28078%29%20The%20Trade.mp3
+- 21st Precinct — The Notes (55-01-19) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2055-01-19%20%28080%29%20The%20Notes.mp3
+- 21st Precinct — The Fire Escape (55-01-26) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2055-01-26%20%28081%29%20The%20Fire%20Escape.mp3
+- 21st Precinct — The Daughter (55-02-02) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2055-02-02%20%28082%29%20The%20Daughter.mp3
+- 21st Precinct — The Surety (55-02-09) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2055-02-09%20%28083%29%20The%20Surety.mp3
+- 21st Precinct — The Lender (55-02-16) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2055-02-16%20%28084%29%20The%20Lender.mp3
+- 21st Precinct — The Museum (55-02-23) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2055-02-23%20%28085%29%20The%20Museum.mp3
+- 21st Precinct — The Dowager (55-03-02) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2055-03-02%20%28086%29%20The%20Dowager.mp3
+- 21st Precinct — The Declaration (55-03-16) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2055-03-16%20%28088%29%20The%20Declaration.mp3
+- 21st Precinct — The Communication (55-04-13) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2055-04-13%20%28092%29%20The%20Communication.mp3
+- 21st Precinct — The Doctor (55-04-20) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2055-04-20%20%28093%29%20The%20Doctor.mp3
+- 21st Precinct — The Artery (55-07-02) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2055-07-02%20%28094%29%20The%20Artery.mp3
+- 21st Precinct — The Pair (55-07-30) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2055-07-30%20%28095%29%20The%20Pair.mp3
+- 21st Precinct — The Summons (55-08-06) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2055-08-06%20%28096%29%20The%20Summons.mp3
+- 21st Precinct — The Tree (55-08-13) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2055-08-13%20%28097%29%20The%20Tree.mp3
+- 21st Precinct — The Special Orders (55-11-04) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2055-11-04%20%28109%29%20The%20Special%20Orders.mp3
+- 21st Precinct — The Friend (55-11-11) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2055-11-11%20%28110%29%20The%20Friend.mp3
+- 21st Precinct — The Son (55-11-25) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2055-11-25%20%28112%29%20The%20Son.mp3
+- 21st Precinct — The Heirs (55-12-16) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2055-12-16%20%28115%29%20The%20Heirs.mp3
+- 21st Precinct — The Beard (55-12-23) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2055-12-23%20%28116%29%20The%20Beard.mp3
+- 21st Precinct — The Slugger (55-12-30) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2055-12-30%20%28117%29%20The%20Slugger.mp3
+- 21st Precinct — The Platform (56-01-13) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2056-01-13%20%28119%29%20The%20Platform.mp3
+- 21st Precinct — The Baker (56-01-26) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2056-01-26%20%28121%29%20The%20Baker.mp3
+- 21st Precinct — The Homecoming (56-03-29) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2056-03-29%20%28130%29%20The%20Homecoming.mp3
+- 21st Precinct — The Six Hundred (56-04-05) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2056-04-05%20%28131%29%20The%20Six%20Hundred.mp3
+- 21st Precinct — The Shopping Bag (56-04-12) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2056-04-12%20%28132%29%20The%20Shopping%20Bag.mp3
+- 21st Precinct — The Poodle (56-04-19) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2056-04-19%20%28133%29%20The%20Poodle.mp3
+- 21st Precinct — The Gorilla (56-04-26) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2056-04-26%20%28134%29%20The%20Gorilla.mp3
+- 21st Precinct — The Basket (56-05-10) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2056-05-10%20%28136%29%20The%20Basket.mp3
+- 21st Precinct — The Partners (56-05-17) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2056-05-17%20%28137%29%20The%20Partners.mp3
+- 21st Precinct — The Paperhanger (56-05-24) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2056-05-24%20%28138%29%20The%20Paperhanger.mp3
+- 21st Precinct — The Neighbor (56-05-31) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2056-05-31%20%28139%29%20The%20Neighbor.mp3
+- 21st Precinct — The Books (56-06-14) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2056-06-14%20%28141%29%20The%20Books.mp3
+- 21st Precinct — The Brother (56-06-21) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2056-06-21%20%28142%29%20The%20Brother.mp3
+- 21st Precinct — The Foundling (56-06-28) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2056-06-28%20%28143%29%20The%20Foundling%20%28aka%20Abandoned%20Baby%29.mp3
+- 21st Precinct — The Fall (56-07-12) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2056-07-12%20%28145%29%20The%20Fall.mp3
+- 21st Precinct — The Bottle (56-08-09) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2056-08-09%20%28149%29%20The%20Bottle.mp3
+- 21st Precinct — The Glass (56-08-16) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2056-08-16%20%28150%29%20The%20Glass.mp3
+- 21st Precinct — The Ledge (56-08-30) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2056-08-30%20%28151%29%20The%20Ledge.mp3
+- 21st Precinct — The Red Tiger (56-09-06) — https://archive.org/download/OTRR_21st_Precinct_Singles/21st%20Precinct%2056-09-06%20%28152%29%20The%20Red%20Tiger.mp3
+- Dragnet Radio — Production 2 aka Homicide aka The Nickel Plated Gun (49-06-10) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_49-06-10_002_Production_2_aka_Homicide_aka_The_Nickel_Plated_Gun.mp3
+- Dragnet Radio — Production 3 aka The Werewolf (49-06-17) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_49-06-17_003_Production_3_aka_The_Werewolf.mp3
+- Dragnet Radio — Production 4 aka Homicide aka Quick Trigger Gun Men (49-06-24) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_49-06-24_004_Production_4_aka_Homicide_aka_Quick_Trigger_Gun_Men.mp3
+- Dragnet Radio — The Helen Corday Murder (49-07-07) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_49-07-07_005_The_Helen_Corday_Murder.mp3
+- Dragnet Radio — Red Light Bandit (49-07-14) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_49-07-14_006_Red_Light_Bandit.mp3
+- Dragnet Radio — Attempted City Hall Bombing (49-07-21) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_49-07-21_007_Attempted_City_Hall_Bombing.mp3
+- Dragnet Radio — Missing Persons - Juanita Lasky (49-07-28) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_49-07-28_008_Missing_Persons_-_Juanita_Lasky.mp3
+- Dragnet Radio — Benny Trounsel - Narcotics (49-08-04) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_49-08-04_009_Benny_Trounsel_-_Narcotics.mp3
+- Dragnet Radio — Production 10 aka Homicide aka Maniac Murderer aka Mad Killer At Large (49-08-11) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_49-08-11_010_Production_10_aka_Homicide_aka_Maniac_Murderer_aka_Mad_Killer_At_Large.mp3
+- Dragnet Radio — Production 11 aka Sixteen Jewel Thieves (49-08-18) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_49-08-18_011_Production_11_aka_Sixteen_Jewel_Thieves.mp3
+- Dragnet Radio — Police Academy - Mario Koski (49-08-25) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_49-08-25_012_Police_Academy_-_Mario_Koski.mp3
+- Dragnet Radio — Dragnet 49-09-01 013 Auto Burglaries - Myra, the Redhead — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_49-09-01_013_Auto_Burglaries_-_Myra_the_Redhead.mp3
+- Dragnet Radio — Eric Kelby - Body Buried In Nursery (49-09-03) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_49-09-03_014_Eric_Kelby_-_Body_Buried_In_Nursery.mp3
+- Dragnet Radio — Sullivan Kidnapping (49-09-10) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_49-09-10_015_Sullivan_Kidnapping.mp3
+- Dragnet Radio — James Vickers - Cop Killing - Tunnel Chase (49-09-17) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_49-09-17_016_James_Vickers_-_Cop_Killing_-_Tunnel_Chase.mp3
+- Dragnet Radio — Brick-Bat Slayer (49-09-24) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_49-09-24_017_Brick-Bat_Slayer.mp3
+- Dragnet Radio — Truck Hi-jackers - Tom Laval (49-10-01) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_49-10-01_018_Truck_Hi-jackers_-_Tom_Laval.mp3
+- Dragnet Radio — Dragnet 49-10-06 ep019 Second Hand Killer — https://archive.org/download/Dragnet_OTR/Dragnet_49-10-06_ep019_Second_Hand_Killer.mp3
+- Dragnet Radio — Dragnet 49-11-24 026 Mrs Rinard, Albert Barry - Mother-In-Law Murder — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_49-11-24_026_Mrs._Rinard_Albert_Barry_-_Mother-In-Law_Murder.mp3
+- Dragnet Radio — Spring Street Gang - Juveniles (49-12-01) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_49-12-01_027_Spring_Street_Gang_-_Juveniles.mp3
+- Dragnet Radio — George Quan - The Jade Thumb Rings (49-12-08) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_49-12-08_028_George_Quan_-_The_Jade_Thumb_Rings.mp3
+- Dragnet Radio — Dragnet 49-12-15 ep029 Garbage Chute — https://archive.org/download/Dragnet_OTR/Dragnet_49-12-15_ep029_Garbage_Chute.mp3
+- Dragnet Radio — 22 Rifle for Christmas (49-12-22) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_49-12-22_030_22_Rifle_for_Christmas.mp3
+- Dragnet Radio — The Roseland Roof Murders (49-12-29) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_49-12-29_031_The_Roseland_Roof_Murders.mp3
+- Dragnet Radio — Max Tyler - Escaped Convict (50-01-05) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_50-01-05_032_Max_Tyler_-_Escaped_Convict.mp3
+- Dragnet Radio — The Big Man Part 1 (Narcotics) (50-01-12) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_50-01-12_033_The_Big_Man_Part_1_Narcotics.mp3
+- Dragnet Radio — The Big Man Part 2 (Narcotics) (50-01-19) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_50-01-19_034_The_Big_Man_Part_2_Narcotics.mp3
+- Dragnet Radio — Dragnet 50-02-02 035 Claude Jimmerson, Child Killer — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_50-02-02_035_Claude_Jimmerson_Child_Killer.mp3
+- Dragnet Radio — The Big Girl (50-02-09) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_50-02-09_036_The_Big_Girl.mp3
+- Dragnet Radio — The Big Grifter (50-02-23) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_50-02-23_037_The_Big_Grifter.mp3
+- Dragnet Radio — The Big Kill (50-03-02) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_50-03-02_038_The_Big_Kill.mp3
+- Dragnet Radio — The Big Thank You (50-03-09) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_50-03-09_039_The_Big_Thank_You.mp3
+- Dragnet Radio — The Big Boys (50-03-16) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_50-03-16_040_The_Big_Boys.mp3
+- Dragnet Radio — The Big Gangster Part 1 (50-03-23) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_50-03-23_041_The_Big_Gangster_Part_1.mp3
+- Dragnet Radio — The Big Gangster Part 2 (50-03-30) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_50-03-30_042_The_Big_Gangster_Part_2.mp3
+- Dragnet Radio — The Big Book (50-04-06) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_50-04-06_043_The_Big_Book.mp3
+- Dragnet Radio — The Big Watch (50-04-13) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_50-04-13_044_The_Big_Watch.mp3
+- Dragnet Radio — The Big Trial (50-04-20) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_50-04-20_045_The_Big_Trial.mp3
+- Dragnet Radio — The Big Job (50-04-27) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_50-04-27_046_The_Big_Job.mp3
+- Dragnet Radio — The Big Badge (50-05-04) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_50-05-04_047_The_Big_Badge.mp3
+- Dragnet Radio — The Big Knife (50-05-11) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_50-05-11_048_The_Big_Knife.mp3
+- Dragnet Radio — The Big Pug (50-05-18) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_50-05-18_049_The_Big_Pug.mp3
+- Dragnet Radio — The Big Key (50-05-25) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_50-05-25_050_The_Big_Key.mp3
+- Dragnet Radio — The Big Fake (50-06-01) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_50-06-01_051_The_Big_Fake.mp3
+- Dragnet Radio — Dragnet 50-06-08 052 Big Smart Guy AFRS#46 — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_50-06-08_052_Big_Smart_Guy_AFRS46.mp3
+- Dragnet Radio — The Big Press (50-06-15) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_50-06-15_053_The_Big_Press.mp3
+- Dragnet Radio — Dragnet 50-06-22 054 Big Mink AFRS#48 — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_50-06-22_054_Big_Mink_AFRS48.mp3
+- Dragnet Radio — The Big Grab (50-06-29) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_50-06-29_055_The_Big_Grab.mp3
+- Dragnet Radio — The Big Frame (50-07-06) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_50-07-06_056_The_Big_Frame.mp3
+- Dragnet Radio — The Big Bomb (50-07-13) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_50-07-13_057_The_Big_Bomb.mp3
+- Dragnet Radio — The Big Gent Part 1 (50-07-20) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_50-07-20_058_The_Big_Gent_Part_1.mp3
+- Dragnet Radio — The Big Gent Part 2 (50-07-27) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_50-07-27_059_The_Big_Gent_Part_2.mp3
+- Dragnet Radio — The Big Dare (50-08-03) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_50-08-03_060_The_Big_Dare.mp3
+- Dragnet Radio — The Big Actor (50-08-10) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_50-08-10_061_The_Big_Actor.mp3
+- Dragnet Radio — The Big Youngster (50-08-17) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_50-08-17_062_The_Big_Youngster.mp3
+- Dragnet Radio — The Big Chance (50-08-24) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_50-08-24_063_The_Big_Chance.mp3
+- Dragnet Radio — The Big Check (50-08-31) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_50-08-31_064_The_Big_Check.mp3
+- Dragnet Radio — The Big Poison (50-09-07) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_50-09-07_065_The_Big_Poison.mp3
+- Dragnet Radio — The Big Make (50-09-14) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_50-09-14_066_The_Big_Make.mp3
+- Dragnet Radio — The Big Pair (50-09-21) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_50-09-21_067_The_Big_Pair.mp3
+- Dragnet Radio — The Big Death (50-09-28) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_50-09-28_068_The_Big_Death.mp3
+- Dragnet Radio — The Big 38 (50-10-05) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_50-10-05_069_The_Big_38.mp3
+- Dragnet Radio — The Big Quack (50-10-12) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_50-10-12_070_The_Big_Quack.mp3
+- Dragnet Radio — The Big Grandma (50-10-19) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_50-10-19_071_The_Big_Grandma.mp3
+- Dragnet Radio — The Big Meet (50-10-26) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_50-10-26_072_The_Big_Meet.mp3
+- Dragnet Radio — The Big Church (50-11-02) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_50-11-02_073_The_Big_Church.mp3
+- Dragnet Radio — The Big Mother (50-11-09) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_50-11-09_074_The_Big_Mother.mp3
+- Dragnet Radio — The Big Parrot (50-11-16) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_50-11-16_075_The_Big_Parrot.mp3
+- Dragnet Radio — The Big Betty (50-11-23) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_50-11-23_076_The_Big_Betty.mp3
+- Dragnet Radio — The Big Car (50-11-30) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_50-11-30_077_The_Big_Car.mp3
+- Dragnet Radio — The Big Picture (50-12-07) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_50-12-07_078_The_Big_Picture.mp3
+- Dragnet Radio — The Big Break (50-12-14) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_50-12-14_079_The_Big_Break.mp3
+- Dragnet Radio — 22 Rifle for Christmas (50-12-21) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_50-12-21_080_22_Rifle_for_Christmas.mp3
+- Dragnet Radio — The Big Family (50-12-28) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_50-12-28_081_The_Big_Family.mp3
+- Dragnet Radio — The Big Holdup (51-01-04) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-01-04_082_The_Big_Holdup.mp3
+- Dragnet Radio — The Big Jump (51-01-11) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-01-11_083_The_Big_Jump.mp3
+- Dragnet Radio — The Big Dance (51-01-18) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-01-18_084_The_Big_Dance.mp3
+- Dragnet Radio — The Big Tomato (51-01-25) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-01-25_085_The_Big_Tomato.mp3
+- Dragnet Radio — The Big Children (51-02-01) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-02-01_086_The_Big_Children.mp3
+- Dragnet Radio — The Big Cast (51-02-08) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-02-08_087_The_Big_Cast.mp3
+- Dragnet Radio — The Big Crime (51-02-15) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-02-15_088_The_Big_Crime.mp3
+- Dragnet Radio — The Big Couple (51-02-22) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-02-22_089_The_Big_Couple.mp3
+- Dragnet Radio — The Big Partner (51-03-01) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-03-01_090_The_Big_Partner.mp3
+- Dragnet Radio — The Big New Years (51-03-08) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-03-08_091_The_Big_New_Years.mp3
+- Dragnet Radio — The Big Ben (51-03-15) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-03-15_092_The_Big_Ben.mp3
+- Dragnet Radio — The Big Friend (51-04-05) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-04-05_095_The_Big_Friend.mp3
+- Dragnet Radio — The Big Threat (51-04-12) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-04-12_096_The_Big_Threat.mp3
+- Dragnet Radio — The Big Speech (51-04-19) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-04-19_097_The_Big_Speech.mp3
+- Dragnet Radio — The Big Saint (51-04-26) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-04-26_098_The_Big_Saint.mp3
+- Dragnet Radio — The Big Casing (51-05-03) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-05-03_099_The_Big_Casing.mp3
+- Dragnet Radio — The Big Drills (51-05-10) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-05-10_100_The_Big_Drills.mp3
+- Dragnet Radio — The Big Blast (51-05-17) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-05-17_101_The_Big_Blast.mp3
+- Dragnet Radio — The Big Mailman (51-05-24) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-05-24_102_The_Big_Mailman.mp3
+- Dragnet Radio — The Big Bindle (51-05-31) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-05-31_103_The_Big_Bindle.mp3
+- Dragnet Radio — The Big Imposter (51-06-07) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-06-07_104_The_Big_Imposter.mp3
+- Dragnet Radio — The Big Building (51-06-14) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-06-14_105_The_Big_Building.mp3
+- Dragnet Radio — The Big Run (51-06-21) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-06-21_106_The_Big_Run.mp3
+- Dragnet Radio — The Big Cliff (51-06-28) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-06-28_107_The_Big_Cliff.mp3
+- Dragnet Radio — The Big Love (51-07-05) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-07-05_108_The_Big_Love.mp3
+- Dragnet Radio — The Big Set-Up (51-07-12) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-07-12_109_The_Big_Set-Up.mp3
+- Dragnet Radio — The Big Sophomore (51-07-19) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-07-19_110_The_Big_Sophomore.mp3
+- Dragnet Radio — The Big Late Script (51-07-26) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-07-26_111_The_Big_Late_Script.mp3
+- Dragnet Radio — The Big Screen (51-08-09) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-08-09_113_The_Big_Screen.mp3
+- Dragnet Radio — The Big Winchester (51-08-16) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-08-16_114_The_Big_Winchester.mp3
+- Dragnet Radio — The Big In-Laws (51-08-23) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-08-23_115_The_Big_In-Laws.mp3
+- Dragnet Radio — The Big Crazy (51-08-30) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-08-30_116_The_Big_Crazy.mp3
+- Dragnet Radio — The Big 17 (51-09-06) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-09-06_117_The_Big_17.mp3
+- Dragnet Radio — The Big Waiter (51-09-13) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-09-13_118_The_Big_Waiter.mp3
+- Dragnet Radio — The Big Sour (51-09-20) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-09-20_119_The_Big_Sour.mp3
+- Dragnet Radio — The Big September Man (51-09-27) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-09-27_120_The_Big_September_Man.mp3
+- Dragnet Radio — The Big Want Ad (51-10-04) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-10-04_121_The_Big_Want_Ad.mp3
+- Dragnet Radio — The Big Shoplift (51-10-11) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-10-11_122_The_Big_Shoplift.mp3
+- Dragnet Radio — The Big Story Man (51-10-18) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-10-18_123_The_Big_Story_Man.mp3
+- Dragnet Radio — The Big Market (51-10-25) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-10-25_124_The_Big_Market.mp3
+- Dragnet Radio — The Big Lease (51-11-01) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-11-01_125_The_Big_Lease.mp3
+- Dragnet Radio — The Big Hit and Run Killer (51-11-08) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-11-08_126_The_Big_Hit_and_Run_Killer.mp3
+- Dragnet Radio — The Big Bungalow (51-11-15) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-11-15_127_The_Big_Bungalow.mp3
+- Dragnet Radio — The Big Hands (51-11-22) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-11-22_128_The_Big_Hands.mp3
+- Dragnet Radio — The Big Affair (51-11-29) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-11-29_129_The_Big_Affair.mp3
+- Dragnet Radio — The Big Canaries (51-12-06) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-12-06_130_The_Big_Canaries.mp3
+- Dragnet Radio — The Big Overtime (51-12-13) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-12-13_131_The_Big_Overtime.mp3
+- Dragnet Radio — 22 Rifle for Christmas (51-12-20) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-12-20_132_22_Rifle_for_Christmas.mp3
+- Dragnet Radio — The Big Sorrow (51-12-27) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_51-12-27_133_The_Big_Sorrow.mp3
+- Dragnet Radio — The Big Red Part 1 (52-01-03) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_52-01-03_134_The_Big_Red_Part_1.mp3
+- Dragnet Radio — The Big Red Part 2 (52-01-10) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_52-01-10_135_The_Big_Red_Part_2.mp3
+- Dragnet Radio — The Big Juvenile Division (52-01-17) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_52-01-17_136_The_Big_Juvenile_Division.mp3
+- Dragnet Radio — Dragnet 52-01-24 ep137 Big Court — https://archive.org/download/Dragnet_OTR/Dragnet_52-01-24_ep137_Big_Court.mp3
+- Dragnet Radio — The Big Almost No Show (52-01-31) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_52-01-31_138_The_Big_Almost_No_Show.mp3
+- Dragnet Radio — The Big Honeymoon (52-02-07) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_52-02-07_139_The_Big_Honeymoon.mp3
+- Dragnet Radio — The Big Phone Call (52-02-14) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_52-02-14_140_The_Big_Phone_Call.mp3
+- Dragnet Radio — The Big Producer (52-02-21) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_52-02-21_141_The_Big_Producer.mp3
+- Dragnet Radio — The Big Plant (52-02-28) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_52-02-28_142_The_Big_Plant.mp3
+- Dragnet Radio — The Big Evans (52-03-06) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_52-03-06_143_The_Big_Evans.mp3
+- Dragnet Radio — The Big Fire (52-03-13) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_52-03-13_144_The_Big_Fire.mp3
+- Dragnet Radio — The Big Border (52-03-20) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_52-03-20_145_The_Big_Border.mp3
+- Dragnet Radio — The Big Rose (52-03-27) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_52-03-27_146_The_Big_Rose.mp3
+- Dragnet Radio — The Big Streetcar (52-04-03) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_52-04-03_147_The_Big_Streetcar.mp3
+- Dragnet Radio — The Big Show (52-04-10) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_52-04-10_148_The_Big_Show.mp3
+- Dragnet Radio — The Big Bunco (52-04-17) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_52-04-17_149_The_Big_Bunco.mp3
+- Dragnet Radio — The Big Elevator (52-04-24) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_52-04-24_150_The_Big_Elevator.mp3
+- Dragnet Radio — The Big Safe (52-05-01) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_52-05-01_151_The_Big_Safe.mp3
+- Dragnet Radio — The Big Gamble (52-05-08) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_52-05-08_152_The_Big_Gamble.mp3
+- Dragnet Radio — The Big Mail (52-05-15) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_52-05-15_153_The_Big_Mail.mp3
+- Dragnet Radio — The Big Shakedown (52-05-22) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_52-05-22_154_The_Big_Shakedown.mp3
+- Dragnet Radio — The Big Fourth (52-05-29) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_52-05-29_155_The_Big_Fourth.mp3
+- Dragnet Radio — The Big Whiff (52-06-05) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_52-06-05_156_The_Big_Whiff.mp3
+- Dragnet Radio — Dragnet 52-06-12 ep157 Big Donation — https://archive.org/download/Dragnet_OTR/Dragnet_52-06-12_ep157_Big_Donation.mp3
+- Dragnet Radio — The Big Jules (52-06-19) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_52-06-19_158_The_Big_Jules.mp3
+- Dragnet Radio — The Big Roll (52-06-26) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_52-06-26_159_The_Big_Roll.mp3
+- Dragnet Radio — The Big Trio (52-07-03) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_52-07-03_160_The_Big_Trio.mp3
+- Dragnet Radio — The Big Hate (52-07-10) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_52-07-10_161_The_Big_Hate.mp3
+- Dragnet Radio — The Big Signet (52-07-31) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_52-07-31_162_The_Big_Signet.mp3
+- Dragnet Radio — The Big Impression (52-08-07) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_52-08-07_163_The_Big_Impression.mp3
+- Dragnet Radio — The Big Drive (52-08-14) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_52-08-14_164_The_Big_Drive.mp3
+- Dragnet Radio — The Big Paper (52-08-21) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_52-08-21_165_The_Big_Paper.mp3
+- Dragnet Radio — The Big Test (52-08-28) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_52-08-28_166_The_Big_Test.mp3
+- Dragnet Radio — The Big Ray (52-09-04) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_52-09-04_167_The_Big_Ray.mp3
+- Dragnet Radio — The Big Tear (52-09-11) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_52-09-11_168_The_Big_Tear.mp3
+- Dragnet Radio — The Big Bull (52-09-14) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_52-09-14_169_The_Big_Bull.mp3
+- Dragnet Radio — The Big Shot (52-09-21) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_52-09-21_170_The_Big_Shot.mp3
+- Dragnet Radio — The Big Brain (52-09-28) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_52-09-28_171_The_Big_Brain.mp3
+- Dragnet Radio — The Big Jolt (52-10-05) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_52-10-05_172_The_Big_Jolt.mp3
+- Dragnet Radio — The Big Lie (52-10-12) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_52-10-12_173_The_Big_Lie.mp3
+- Dragnet Radio — The Big Pill (52-10-19) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_52-10-19_174_The_Big_Pill.mp3
+- Dragnet Radio — The Big Number (52-10-26) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_52-10-26_175_The_Big_Number.mp3
+- Dragnet Radio — The Big Light (52-11-02) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_52-11-02_176_The_Big_Light.mp3
+- Dragnet Radio — The Big Dive (52-11-09) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_52-11-09_177_The_Big_Dive.mp3
+- Dragnet Radio — The Big Walk (52-11-16) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_52-11-16_178_The_Big_Walk.mp3
+- Dragnet Radio — The Big Guilt (52-11-23) — https://archive.org/download/OTRR_Dragnet_Singles/Dragnet_52-11-23_179_The_Big_Guilt.mp3
+- Dragnet Radio — Dragnet 52-11-30 ep180 Big Shirt — https://archive.org/download/Dragnet_OTR/Dragnet_52-11-30_ep180_Big_Shirt.mp3
+- Dragnet Radio — Dragnet 52-12-07 ep181 Big Mole — https://archive.org/download/Dragnet_OTR/Dragnet_52-12-07_ep181_Big_Mole.mp3
+- Dragnet Radio — Dragnet 52-12-14 ep182 Big Eavesdrop — https://archive.org/download/Dragnet_OTR/Dragnet_52-12-14_ep182_Big_Eavesdrop.mp3
+- Dragnet Radio — Dragnet 52-12-21 ep183 Twenty-Two Rifle for Christmas — https://archive.org/download/Dragnet_OTR/Dragnet_52-12-21_ep183_Twenty-Two_Rifle_for_Christmas.mp3
+- Dragnet Radio — Dragnet 52-12-28 ep184 Big Mask Part 1 — https://archive.org/download/Dragnet_OTR/Dragnet_52-12-28_ep184_Big_Mask_Part_1.mp3
+- Dragnet Radio — Dragnet 53-01-04 ep185 Big Mask Part 2 — https://archive.org/download/Dragnet_OTR/Dragnet_53-01-04_ep185_Big_Mask_Part_2.mp3
+- Dragnet Radio — Dragnet 53-01-11 ep186 Big Small — https://archive.org/download/Dragnet_OTR/Dragnet_53-01-11_ep186_Big_Small.mp3
+- Dragnet Radio — Dragnet 53-01-18 ep187 Big String — https://archive.org/download/Dragnet_OTR/Dragnet_53-01-18_ep187_Big_String.mp3
+- Dragnet Radio — Dragnet 53-01-25 ep188 Big Lay-Out — https://archive.org/download/Dragnet_OTR/Dragnet_53-01-25_ep188_Big_Lay-Out.mp3
+- Dragnet Radio — Dragnet 53-02-01 ep189 Big Strip — https://archive.org/download/Dragnet_OTR/Dragnet_53-02-01_ep189_Big_Strip.mp3
+- Dragnet Radio — Dragnet 53-02-08 ep190 Big Press — https://archive.org/download/Dragnet_OTR/Dragnet_53-02-08_ep190_Big_Press.mp3
+- Dragnet Radio — Dragnet 53-02-15 ep191 Big Tooth — https://archive.org/download/Dragnet_OTR/Dragnet_53-02-15_ep191_Big_Tooth.mp3
+- Dragnet Radio — Dragnet 53-02-22 ep192 Big Smoke — https://archive.org/download/Dragnet_OTR/Dragnet_53-02-22_ep192_Big_Smoke.mp3
+- Dragnet Radio — Dragnet 53-03-01 ep193 Big Want — https://archive.org/download/Dragnet_OTR/Dragnet_53-03-01_ep193_Big_Want.mp3
+- Dragnet Radio — Dragnet 53-03-08 ep194 Big Laugh — https://archive.org/download/Dragnet_OTR/Dragnet_53-03-08_ep194_Big_Laugh.mp3
+- Dragnet Radio — Dragnet 53-03-15 ep195 Big Impossible — https://archive.org/download/Dragnet_OTR/Dragnet_53-03-15_ep195_Big_Impossible.mp3
+- Dragnet Radio — Dragnet 53-03-22 ep196 Big Informant — https://archive.org/download/Dragnet_OTR/Dragnet_53-03-22_ep196_Big_Informant.mp3
+- Dragnet Radio — Dragnet 53-03-29 ep197 Big Dream — https://archive.org/download/Dragnet_OTR/Dragnet_53-03-29_ep197_Big_Dream.mp3
+- Dragnet Radio — Dragnet 53-04-05 ep198 Big Chet — https://archive.org/download/Dragnet_OTR/Dragnet_53-04-05_ep198_Big_Chet.mp3
+- Dragnet Radio — Dragnet 53-04-12 ep199 Big Compulsion — https://archive.org/download/Dragnet_OTR/Dragnet_53-04-12_ep199_Big_Compulsion.mp3
+- Dragnet Radio — Dragnet 53-04-19 ep200 Big Rip — https://archive.org/download/Dragnet_OTR/Dragnet_53-04-19_ep200_Big_Rip.mp3
+- Dragnet Radio — Dragnet 53-04-26 ep201 Big Scrapbook — https://archive.org/download/Dragnet_OTR/Dragnet_53-04-26_ep201_Big_Scrapbook.mp3
+- Dragnet Radio — Dragnet 53-05-03 ep202 Big Carney — https://archive.org/download/Dragnet_OTR/Dragnet_53-05-03_ep202_Big_Carney.mp3
+- Dragnet Radio — Dragnet 53-05-10 ep203 Big Joke — https://archive.org/download/Dragnet_OTR/Dragnet_53-05-10_ep203_Big_Joke.mp3
+- Dragnet Radio — Dragnet 53-05-17 ep204 Big False Move — https://archive.org/download/Dragnet_OTR/Dragnet_53-05-17_ep204_Big_False_Move.mp3
+- Dragnet Radio — Dragnet 53-05-24 ep205 Big Gun Part 1 — https://archive.org/download/Dragnet_OTR/Dragnet_53-05-24_ep205_Big_Gun_Part_1.mp3
+- Dragnet Radio — Dragnet 53-05-31 ep206 Big Gun Part 2 — https://archive.org/download/Dragnet_OTR/Dragnet_53-05-31_ep206_Big_Gun_Part_2.mp3
+- Dragnet Radio — Dragnet 53-06-07 ep207 Big Will — https://archive.org/download/Dragnet_OTR/Dragnet_53-06-07_ep207_Big_Will.mp3
+- Dragnet Radio — Dragnet 53-06-14 ep208 Big Lilly — https://archive.org/download/Dragnet_OTR/Dragnet_53-06-14_ep208_Big_Lilly.mp3
+- Dragnet Radio — Dragnet 53-06-21 ep209 Big Revolt — https://archive.org/download/Dragnet_OTR/Dragnet_53-06-21_ep209_Big_Revolt.mp3
+- Dragnet Radio — Dragnet 53-06-28 ep210 Big Ham — https://archive.org/download/Dragnet_OTR/Dragnet_53-06-28_ep210_Big_Ham.mp3
+- Dragnet Radio — Dragnet 53-09-01 ep211 Big Bop — https://archive.org/download/Dragnet_OTR/Dragnet_53-09-01_ep211_Big_Bop.mp3
+- Dragnet Radio — Dragnet 53-09-08 ep212 Big Lift — https://archive.org/download/Dragnet_OTR/Dragnet_53-09-08_ep212_Big_Lift.mp3
+- Dragnet Radio — Dragnet 53-09-15 ep213 Big Cab — https://archive.org/download/Dragnet_OTR/Dragnet_53-09-15_ep213_Big_Cab.mp3
+- Dragnet Radio — Dragnet 53-09-22 ep214 Big Slip — https://archive.org/download/Dragnet_OTR/Dragnet_53-09-22_ep214_Big_Slip.mp3
+- Dragnet Radio — Dragnet 53-09-29 ep215 Big Try — https://archive.org/download/Dragnet_OTR/Dragnet_53-09-29_ep215_Big_Try.mp3
+- Dragnet Radio — Dragnet 53-10-06 ep216 Big Little Mother — https://archive.org/download/Dragnet_OTR/Dragnet_53-10-06_ep216_Big_Little_Mother.mp3
+- Dragnet Radio — Dragnet 53-10-13 ep217 Big Plea — https://archive.org/download/Dragnet_OTR/Dragnet_53-10-13_ep217_Big_Plea.mp3
+- Dragnet Radio — Dragnet 53-10-20 ep218 Big Paint — https://archive.org/download/Dragnet_OTR/Dragnet_53-10-20_ep218_Big_Paint.mp3
+- Dragnet Radio — Dragnet 53-10-27 ep219 Big Fraud — https://archive.org/download/Dragnet_OTR/Dragnet_53-10-27_ep219_Big_Fraud.mp3
+- Dragnet Radio — Dragnet 53-11-03 ep220 Big Rain — https://archive.org/download/Dragnet_OTR/Dragnet_53-11-03_ep220_Big_Rain.mp3
+- Dragnet Radio — Dragnet 53-11-10 ep221 Big Kid — https://archive.org/download/Dragnet_OTR/Dragnet_53-11-10_ep221_Big_Kid.mp3
+- Dragnet Radio — Dragnet 53-11-17 ep222 Big Flight — https://archive.org/download/Dragnet_OTR/Dragnet_53-11-17_ep222_Big_Flight.mp3
+- Dragnet Radio — Dragnet 53-11-24 ep223 Big Present — https://archive.org/download/Dragnet_OTR/Dragnet_53-11-24_ep223_Big_Present.mp3
+- Dragnet Radio — Dragnet 53-12-01 ep224 Big Odd — https://archive.org/download/Dragnet_OTR/Dragnet_53-12-01_ep224_Big_Odd.mp3
+- Dragnet Radio — Dragnet 53-12-08 ep225 Big Pick — https://archive.org/download/Dragnet_OTR/Dragnet_53-12-08_ep225_Big_Pick.mp3
+- Dragnet Radio — Dragnet 53-12-15 ep226 Big Brink — https://archive.org/download/Dragnet_OTR/Dragnet_53-12-15_ep226_Big_Brink.mp3
+- Dragnet Radio — Dragnet 53-12-22 ep227 Big Little Jesus — https://archive.org/download/Dragnet_OTR/Dragnet_53-12-22_ep227_Big_Little_Jesus.mp3
+- Dragnet Radio — Dragnet 53-12-29 ep228 Big Steal — https://archive.org/download/Dragnet_OTR/Dragnet_53-12-29_ep228_Big_Steal.mp3
+- Dragnet Radio — Dragnet 54-01-05 ep229 Big Listen — https://archive.org/download/Dragnet_OTR/Dragnet_54-01-05_ep229_Big_Listen.mp3
+- Dragnet Radio — Dragnet 54-01-12 ep230 Big Switch — https://archive.org/download/Dragnet_OTR/Dragnet_54-01-12_ep230_Big_Switch.mp3
+- Dragnet Radio — Dragnet 54-01-19 ep231 Big Bill — https://archive.org/download/Dragnet_OTR/Dragnet_54-01-19_ep231_Big_Bill.mp3
+- Dragnet Radio — Dragnet 54-01-26 ep232 Big Bid — https://archive.org/download/Dragnet_OTR/Dragnet_54-01-26_ep232_Big_Bid.mp3
+- Dragnet Radio — Dragnet 54-02-02 ep233 Big Filth — https://archive.org/download/Dragnet_OTR/Dragnet_54-02-02_ep233_Big_Filth.mp3
+- Dragnet Radio — Dragnet 54-02-09 ep234 Big Broad — https://archive.org/download/Dragnet_OTR/Dragnet_54-02-09_ep234_Big_Broad.mp3
+- Dragnet Radio — Dragnet 54-02-16 ep235 Big Sucker — https://archive.org/download/Dragnet_OTR/Dragnet_54-02-16_ep235_Big_Sucker.mp3
+- Dragnet Radio — Dragnet 54-02-23 ep236 Big Pipe — https://archive.org/download/Dragnet_OTR/Dragnet_54-02-23_ep236_Big_Pipe.mp3
+- Dragnet Radio — Dragnet 54-03-02 ep237 Big TV — https://archive.org/download/Dragnet_OTR/Dragnet_54-03-02_ep237_Big_TV.mp3
+- Dragnet Radio — Dragnet 54-03-09 ep238 Big Cup — https://archive.org/download/Dragnet_OTR/Dragnet_54-03-09_ep238_Big_Cup.mp3
+- Dragnet Radio — Dragnet 54-03-16 ep239 Big Rod — https://archive.org/download/Dragnet_OTR/Dragnet_54-03-16_ep239_Big_Rod.mp3
+- Dragnet Radio — Dragnet 54-03-23 ep240 Big Mustache — https://archive.org/download/Dragnet_OTR/Dragnet_54-03-23_ep240_Big_Mustache.mp3
+- Dragnet Radio — Dragnet 54-03-30 ep241 Big Confession — https://archive.org/download/Dragnet_OTR/Dragnet_54-03-30_ep241_Big_Confession.mp3
+- Dragnet Radio — Dragnet 54-04-06 ep242 Big Saw — https://archive.org/download/Dragnet_OTR/Dragnet_54-04-06_ep242_Big_Saw.mp3
+- Dragnet Radio — Dragnet 54-04-13 ep243 Big Note — https://archive.org/download/Dragnet_OTR/Dragnet_54-04-13_ep243_Big_Note.mp3
+- Dragnet Radio — Dragnet 54-04-20 ep244 Big Net — https://archive.org/download/Dragnet_OTR/Dragnet_54-04-20_ep244_Big_Net.mp3
+- Dragnet Radio — Dragnet 54-04-27 ep245 Big Lift — https://archive.org/download/Dragnet_OTR/Dragnet_54-04-27_ep245_Big_Lift.mp3
+- Dragnet Radio — Dragnet 54-05-04 ep246 Big Stop — https://archive.org/download/Dragnet_OTR/Dragnet_54-05-04_ep246_Big_Stop.mp3
+- Dragnet Radio — Dragnet 54-05-11 ep247 Big Look — https://archive.org/download/Dragnet_OTR/Dragnet_54-05-11_ep247_Big_Look.mp3
+- Dragnet Radio — Dragnet 54-05-18 ep248 Big Help — https://archive.org/download/Dragnet_OTR/Dragnet_54-05-18_ep248_Big_Help.mp3
+- Dragnet Radio — Dragnet 54-05-25 ep249 Big Watch — https://archive.org/download/Dragnet_OTR/Dragnet_54-05-25_ep249_Big_Watch.mp3
+- Dragnet Radio — Dragnet 54-06-01 ep250 Big Cowboy — https://archive.org/download/Dragnet_OTR/Dragnet_54-06-01_ep250_Big_Cowboy.mp3
+- Dragnet Radio — Dragnet 54-06-08 ep251 Big Student — https://archive.org/download/Dragnet_OTR/Dragnet_54-06-08_ep251_Big_Student.mp3
+- Dragnet Radio — Dragnet 54-06-15 ep252 Big Cat — https://archive.org/download/Dragnet_OTR/Dragnet_54-06-15_ep252_Big_Cat.mp3
+- Dragnet Radio — Dragnet 54-06-29 ep254 Big Chick — https://archive.org/download/Dragnet_OTR/Dragnet_54-06-29_ep254_Big_Chick.mp3
+- Dragnet Radio — Dragnet 54-07-06 ep255 Big Search — https://archive.org/download/Dragnet_OTR/Dragnet_54-07-06_ep255_Big_Search.mp3
+- Dragnet Radio — Dragnet 54-07-13 ep256 Big Rescue — https://archive.org/download/Dragnet_OTR/Dragnet_54-07-13_ep256_Big_Rescue.mp3
+- Dragnet Radio — Dragnet 54-07-20 ep257 Big Heel — https://archive.org/download/Dragnet_OTR/Dragnet_54-07-20_ep257_Big_Heel.mp3
+- Dragnet Radio — Dragnet 54-07-27 ep258 Big Match — https://archive.org/download/Dragnet_OTR/Dragnet_54-07-27_ep258_Big_Match.mp3
+- Dragnet Radio — Dragnet 54-08-03 ep259 Big Stand — https://archive.org/download/Dragnet_OTR/Dragnet_54-08-03_ep259_Big_Stand.mp3
+- Dragnet Radio — Dragnet 54-08-10 ep260 Big Wish — https://archive.org/download/Dragnet_OTR/Dragnet_54-08-10_ep260_Big_Wish.mp3
+- Dragnet Radio — Dragnet 54-08-17 ep261 Big Cad — https://archive.org/download/Dragnet_OTR/Dragnet_54-08-17_ep261_Big_Cad.mp3
+- Dragnet Radio — Dragnet 54-08-24 ep262 Big Shock — https://archive.org/download/Dragnet_OTR/Dragnet_54-08-24_ep262_Big_Shock.mp3
+- Dragnet Radio — Dragnet 54-08-31 ep263 Big Office — https://archive.org/download/Dragnet_OTR/Dragnet_54-08-31_ep263_Big_Office.mp3
+- Dragnet Radio — Dragnet 54-09-07 ep264 Big Trunk — https://archive.org/download/Dragnet_OTR/Dragnet_54-09-07_ep264_Big_Trunk.mp3
+- Dragnet Radio — Dragnet 54-09-14 ep265 Big Cut — https://archive.org/download/Dragnet_OTR/Dragnet_54-09-14_ep265_Big_Cut.mp3
+- Dragnet Radio — Dragnet 54-09-21 ep266 Big Try — https://archive.org/download/Dragnet_OTR/Dragnet_54-09-21_ep266_Big_Try.mp3
+- Dragnet Radio — Dragnet 54-09-28 ep267 Big Bible — https://archive.org/download/Dragnet_OTR/Dragnet_54-09-28_ep267_Big_Bible.mp3
+- Dragnet Radio — Dragnet 54-10-05 ep268 Big Handsome Bandit — https://archive.org/download/Dragnet_OTR/Dragnet_54-10-05_ep268_Big_Handsome_Bandit.mp3
+- Dragnet Radio — Dragnet 54-10-12 ep269 Big Tar Baby — https://archive.org/download/Dragnet_OTR/Dragnet_54-10-12_ep269_Big_Tar_Baby.mp3
+- Dragnet Radio — Dragnet 54-10-19 ep270 Big Manikin — https://archive.org/download/Dragnet_OTR/Dragnet_54-10-19_ep270_Big_Manikin.mp3
+- Dragnet Radio — Dragnet 54-10-26 ep271 Big Key — https://archive.org/download/Dragnet_OTR/Dragnet_54-10-26_ep271_Big_Key.mp3
+- Dragnet Radio — Dragnet 54-11-02 ep272 Big Locker — https://archive.org/download/Dragnet_OTR/Dragnet_54-11-02_ep272_Big_Locker.mp3
+- Dragnet Radio — Dragnet 54-11-09 ep273 Big Coins — https://archive.org/download/Dragnet_OTR/Dragnet_54-11-09_ep273_Big_Coins.mp3
+- Dragnet Radio — Dragnet 54-11-16 ep274 Big Dog — https://archive.org/download/Dragnet_OTR/Dragnet_54-11-16_ep274_Big_Dog.mp3
+- Dragnet Radio — Dragnet 54-11-23 ep275 Big Switch — https://archive.org/download/Dragnet_OTR/Dragnet_54-11-23_ep275_Big_Switch.mp3
+- Dragnet Radio — Dragnet 54-11-30 ep276 Big Gone — https://archive.org/download/Dragnet_OTR/Dragnet_54-11-30_ep276_Big_Gone.mp3
+- Dragnet Radio — Dragnet 54-12-07 ep277 Big Dig — https://archive.org/download/Dragnet_OTR/Dragnet_54-12-07_ep277_Big_Dig.mp3
+- Dragnet Radio — Dragnet 54-12-14 ep278 Big Lens — https://archive.org/download/Dragnet_OTR/Dragnet_54-12-14_ep278_Big_Lens.mp3
+- Dragnet Radio — Dragnet 54-12-21 ep279 Big Little Jesus — https://archive.org/download/Dragnet_OTR/Dragnet_54-12-21_ep279_Big_Little_Jesus.mp3
+- Dragnet Radio — Dragnet 54-12-28 ep280 Big Underground — https://archive.org/download/Dragnet_OTR/Dragnet_54-12-28_ep280_Big_Underground.mp3
+- Dragnet Radio — Dragnet 55-01-04 ep281 Big Mug — https://archive.org/download/Dragnet_OTR/Dragnet_55-01-04_ep281_Big_Mug.mp3
+- Dragnet Radio — Dragnet 55-01-11 ep282 Big Complex — https://archive.org/download/Dragnet_OTR/Dragnet_55-01-11_ep282_Big_Complex.mp3
+- Dragnet Radio — Dragnet 55-01-18 ep283 Big Token — https://archive.org/download/Dragnet_OTR/Dragnet_55-01-18_ep283_Big_Token.mp3
+- Dragnet Radio — Dragnet 55-01-25 ep284 Big Bounce — https://archive.org/download/Dragnet_OTR/Dragnet_55-01-25_ep284_Big_Bounce.mp3
+- Dragnet Radio — Dragnet 55-02-01 ep285 Big Bird — https://archive.org/download/Dragnet_OTR/Dragnet_55-02-01_ep285_Big_Bird.mp3
+- Dragnet Radio — Dragnet 55-02-08 ep286 Big Gap — https://archive.org/download/Dragnet_OTR/Dragnet_55-02-08_ep286_Big_Gap.mp3
+- Dragnet Radio — Dragnet 55-02-15 ep287 Big Hat — https://archive.org/download/Dragnet_OTR/Dragnet_55-02-15_ep287_Big_Hat.mp3
+- Dragnet Radio — Dragnet 55-02-22 ep288 Big Slug — https://archive.org/download/Dragnet_OTR/Dragnet_55-02-22_ep288_Big_Slug.mp3
+- Dragnet Radio — Dragnet 55-03-01 ep289 Big Set-Up — https://archive.org/download/Dragnet_OTR/Dragnet_55-03-01_ep289_Big_Set-Up.mp3
+- Dragnet Radio — Dragnet 55-03-08 ep290 Big Father — https://archive.org/download/Dragnet_OTR/Dragnet_55-03-08_ep290_Big_Father.mp3
+- Dragnet Radio — Dragnet 55-03-15 ep291 Big Set — https://archive.org/download/Dragnet_OTR/Dragnet_55-03-15_ep291_Big_Set.mp3
+- Dragnet Radio — Dragnet 55-03-22 ep292 Big Talk — https://archive.org/download/Dragnet_OTR/Dragnet_55-03-22_ep292_Big_Talk.mp3
+- Dragnet Radio — Dragnet 55-03-29 ep293 Big Death — https://archive.org/download/Dragnet_OTR/Dragnet_55-03-29_ep293_Big_Death.mp3
+- Dragnet Radio — Dragnet 55-04-05 ep294 Big No Tooth — https://archive.org/download/Dragnet_OTR/Dragnet_55-04-05_ep294_Big_No_Tooth.mp3
+- Dragnet Radio — Dragnet 55-04-12 ep295 Big Tie — https://archive.org/download/Dragnet_OTR/Dragnet_55-04-12_ep295_Big_Tie.mp3
+- Dragnet Radio — Dragnet 55-04-19 ep296 Big Deal — https://archive.org/download/Dragnet_OTR/Dragnet_55-04-19_ep296_Big_Deal.mp3
+- Dragnet Radio — Dragnet 55-04-26 ep297 Big Child — https://archive.org/download/Dragnet_OTR/Dragnet_55-04-26_ep297_Big_Child.mp3
+- Dragnet Radio — Dragnet 55-05-03 ep298 Big Momma — https://archive.org/download/Dragnet_OTR/Dragnet_55-05-03_ep298_Big_Momma.mp3
+- Dragnet Radio — Dragnet 55-05-10 ep299 Big Revision — https://archive.org/download/Dragnet_OTR/Dragnet_55-05-10_ep299_Big_Revision.mp3
+- Dragnet Radio — Dragnet 55-05-17 ep300 Big Squealer — https://archive.org/download/Dragnet_OTR/Dragnet_55-05-17_ep300_Big_Squealer.mp3
+- Dragnet Radio — Dragnet 55-05-24 ep301 Big Siege — https://archive.org/download/Dragnet_OTR/Dragnet_55-05-24_ep301_Big_Siege.mp3
+- Dragnet Radio — Dragnet 55-05-31 ep302 Big Sisters — https://archive.org/download/Dragnet_OTR/Dragnet_55-05-31_ep302_Big_Sisters.mp3
+- Dragnet Radio — Dragnet 55-06-07 ep303 Big Limp — https://archive.org/download/Dragnet_OTR/Dragnet_55-06-07_ep303_Big_Limp.mp3
+- Dragnet Radio — Dragnet 55-06-14 ep304 Big Fall Guy — https://archive.org/download/Dragnet_OTR/Dragnet_55-06-14_ep304_Big_Fall_Guy.mp3
+- Dragnet Radio — Dragnet 55-06-21 ep305 Big Grab — https://archive.org/download/Dragnet_OTR/Dragnet_55-06-21_ep305_Big_Grab.mp3
+- Dragnet Radio — Dragnet 55-06-28 ep306 Big Convertible — https://archive.org/download/Dragnet_OTR/Dragnet_55-06-28_ep306_Big_Convertible.mp3
+- Dragnet Radio — Dragnet 55-07-05 ep307 Big Rush — https://archive.org/download/Dragnet_OTR/Dragnet_55-07-05_ep307_Big_Rush.mp3
+- Dragnet Radio — Dragnet 55-07-12 ep308 Big Genius — https://archive.org/download/Dragnet_OTR/Dragnet_55-07-12_ep308_Big_Genius.mp3
+- Dragnet Radio — Dragnet 55-07-19 ep309 Big Bobo — https://archive.org/download/Dragnet_OTR/Dragnet_55-07-19_ep309_Big_Bobo.mp3
+- Dragnet Radio — Dragnet 55-07-26 ep310 Big Housemaid — https://archive.org/download/Dragnet_OTR/Dragnet_55-07-26_ep310_Big_Housemaid.mp3
+- Dragnet Radio — Dragnet 55-08-02 ep311 Big Sheet — https://archive.org/download/Dragnet_OTR/Dragnet_55-08-02_ep311_Big_Sheet.mp3
+- Dragnet Radio — Dragnet 55-08-09 ep312 Big Missus — https://archive.org/download/Dragnet_OTR/Dragnet_55-08-09_ep312_Big_Missus.mp3
+- Dragnet Radio — Dragnet 55-08-16 ep313 Big Beer — https://archive.org/download/Dragnet_OTR/Dragnet_55-08-16_ep313_Big_Beer.mp3
+- Dragnet Radio — Dragnet 55-08-23 ep314 Big Blonde — https://archive.org/download/Dragnet_OTR/Dragnet_55-08-23_ep314_Big_Blonde.mp3
+- Dragnet Radio — Dragnet 55-08-30 ep315 Big Fellow — https://archive.org/download/Dragnet_OTR/Dragnet_55-08-30_ep315_Big_Fellow.mp3
+- Dragnet Radio — Dragnet 55-09-13 ep317 Big Daughter — https://archive.org/download/Dragnet_OTR/Dragnet_55-09-13_ep317_Big_Daughter.mp3
+- Dragnet Radio — Dragnet 55-09-20 ep318 Big Close — https://archive.org/download/Dragnet_OTR/Dragnet_55-09-20_ep318_Big_Close.mp3
