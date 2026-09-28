@@ -1,0 +1,25 @@
+# CH 27 — IN SEARCH OF
+
+- In Search of: Martians — https://dn711005.ca.archive.org/0/items/InSearchOf16mm/In%20Search%20of...%20Martians%20%28480p_30fps_H264-128kbit_AAC%29.mp4
+- In Search of: Call From Space — https://archive.org/download/InSearchOf16mm/In%20Search%20of...A%20Call%20From%20Space%20%28480p_30fps_H264-128kbit_AAC%29.mp4
+- In Search of: Amelia Earhart — https://archive.org/download/InSearchOf16mm/In%20Search%20of...Amelia%20Earhart%20%28480p_30fps_H264-128kbit_AAC%29.mp4
+- In Search of: Ancient Aviators — https://archive.org/download/InSearchOf16mm/In%20Search%20of...Ancient%20Aviators%20%28480p_30fps_H264-128kbit_AAC%29.mp4
+- In Search of: Atlantis — https://archive.org/download/InSearchOf16mm/In%20Search%20of...Atlantis%20%28480p_30fps_H264-128kbit_AAC%29.mp4
+- In Search of: Bigfoot — https://archive.org/download/InSearchOf16mm/In%20Search%20of...Bigfoot%20%28480p_30fps_H264-128kbit_AAC%29.mp4
+- In Search of: Earthquakes — https://archive.org/download/InSearchOf16mm/In%20Search%20of...Earthquakes%20%28480p_30fps_H264-128kbit_AAC%29.mp4
+- In Search of: Inca Treasure — https://archive.org/download/InSearchOf16mm/In%20Search%20of...Inca%20Treasure%20%28480p_30fps_H264-128kbit_AAC%29.mp4
+- In Search of: Strange Visitors — https://archive.org/download/InSearchOf16mm/In%20Search%20of...Strange%20Visitors%20%28480p_30fps_H264-128kbit_AAC%29.mp4
+- In Search of: UFOs — https://archive.org/download/InSearchOf16mm/In%20Search%20of...UFOs%20%28480p_30fps_H264-128kbit_AAC%29.mp4
+- In Search of A Call From Space (480p 30fps H264-128kbit AAC) — https://dn711005.ca.archive.org/0/items/InSearchOf16mm/In%20Search%20of...A%20Call%20From%20Space%20%28480p_30fps_H264-128kbit_AAC%29.mp4
+- In Search of Amelia Earhart (480p 30fps H264-128kbit AAC) — https://dn711005.ca.archive.org/0/items/InSearchOf16mm/In%20Search%20of...Amelia%20Earhart%20%28480p_30fps_H264-128kbit_AAC%29.mp4
+- In Search of Ancient Aviators (480p 30fps H264-128kbit AAC) — https://dn711005.ca.archive.org/0/items/InSearchOf16mm/In%20Search%20of...Ancient%20Aviators%20%28480p_30fps_H264-128kbit_AAC%29.mp4
+- In Search of Atlantis (480p 30fps H264-128kbit AAC) — https://dn711005.ca.archive.org/0/items/InSearchOf16mm/In%20Search%20of...Atlantis%20%28480p_30fps_H264-128kbit_AAC%29.mp4
+- In Search of Bigfoot (480p 30fps H264-128kbit AAC) — https://dn711005.ca.archive.org/0/items/InSearchOf16mm/In%20Search%20of...Bigfoot%20%28480p_30fps_H264-128kbit_AAC%29.mp4
+- In Search of Earthquakes (480p 30fps H264-128kbit AAC) — https://dn711005.ca.archive.org/0/items/InSearchOf16mm/In%20Search%20of...Earthquakes%20%28480p_30fps_H264-128kbit_AAC%29.mp4
+- In Search of Strange Visitors (480p 30fps H264-128kbit AAC) — https://dn711005.ca.archive.org/0/items/InSearchOf16mm/In%20Search%20of...Strange%20Visitors%20%28480p_30fps_H264-128kbit_AAC%29.mp4
+- In Search of UFOs (480p 30fps H264-128kbit AAC) — https://dn711005.ca.archive.org/0/items/InSearchOf16mm/In%20Search%20of...UFOs%20%28480p_30fps_H264-128kbit_AAC%29.mp4
+- In Search of Inca Treasure (480p 30fps H264-128kbit AAC) — https://dn711005.ca.archive.org/0/items/InSearchOf16mm/In%20Search%20of...Inca%20Treasure%20%28480p_30fps_H264-128kbit_AAC%29.mp4
+- In Search of a Giant Armadillo WEBRip x264-tdt — https://dn710602.ca.archive.org/0/items/Mutual.of.Omahas.Wild.Kingdom/Mutual.of.Omahas.Wild.Kingdom.%281963-1984%29.PART.10.WEBRip.x264-tdt/In.Search.of.a.Giant.Armadillo.WEBRip.x264-tdt.mp4
+- In Search of a Porpoise WEBRip x264-tdt — https://dn710602.ca.archive.org/0/items/Mutual.of.Omahas.Wild.Kingdom/Mutual.of.Omahas.Wild.Kingdom.%281963-1984%29.PART.10.WEBRip.x264-tdt/In.Search.of.a.Porpoise.WEBRip.x264-tdt.mp4
+- In Search of a Whale WEBRip x264-tdt — https://dn710602.ca.archive.org/0/items/Mutual.of.Omahas.Wild.Kingdom/Mutual.of.Omahas.Wild.Kingdom.%281963-1984%29.PART.10.WEBRip.x264-tdt/In.Search.of.a.Whale.WEBRip.x264-tdt.mp4
+- In Search of the Great White Shark WEBRip x264-tdt — https://dn710602.ca.archive.org/0/items/Mutual.of.Omahas.Wild.Kingdom/Mutual.of.Omahas.Wild.Kingdom.%281963-1984%29.PART.10.WEBRip.x264-tdt/In.Search.of.the.Great.White.Shark.WEBRip.x264-tdt.mp4
