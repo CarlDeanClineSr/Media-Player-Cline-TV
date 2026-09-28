@@ -1,7 +1,9 @@
 # CHANNEL LIBRARY — 27 CHANNELS
 
-The player mounts the reviewed 27-channel files in this directory. Those files are the broadcast source of truth.
+The player mounts the 27 `library/ch-*.md` files listed in index.html.
 
-Older seven-channel libraries, backup ledgers, and review piles remain preserved as recovery references. They are not player sources.
+Older seven-category files and backup/review files remain preserved as reference material and are not separately mounted.
 
-The 27-channel arrangement keeps specific families together: Star Trek, movies, science fiction, horror, Dragnet/Hitchcock, Outer Limits and car ads, science, Schoolhouse Rock and war documentaries, specialized old-time radio, classic TV, cartoons, family programming, space, documentaries/Wild Kingdom/NOVA, jazz/music, sports, and In Search Of.
+The channel files are the catalog. index.html is the playback machine.
+
+Do not add a second master catalog to index.html. Hold uncertain, personal, test, promotional, explicit, or user-excluded material rather than mixing it into broadcast programming.
