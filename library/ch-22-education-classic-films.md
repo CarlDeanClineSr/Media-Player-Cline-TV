@@ -1,0 +1,155 @@
+# CH 22 — EDUCATION & CLASSIC FILMS
+
+- AboutBan1935 — https://archive.org/download/AboutBan1935/AboutBan1935.mp4
+- AboutBan1935 edit — https://archive.org/download/AboutBan1935/AboutBan1935_edit.mp4
+- aloneathome — https://archive.org/download/aloneathome/aloneathome/aloneathome.mp4
+- ArrangingThe — https://archive.org/download/ArrangingThe/ArrangingThe.mp4
+- ArrangingThe edit — https://archive.org/download/ArrangingThe/ArrangingThe_edit.mp4
+- AsBoysGr1957 — https://archive.org/download/AsBoysGr1957/AsBoysGr1957.mp4
+- AsBoysGr1957 edit — https://archive.org/download/AsBoysGr1957/AsBoysGr1957_edit.mp4
+- AtomicAl1951 — https://archive.org/download/AtomicAl1951/AtomicAl1951.mp4
+- boys beware — https://archive.org/download/boys_beware/boys_beware.mp4
+- BuildYou1948 — https://archive.org/download/BuildYou1948/BuildYou1948.mp4
+- BuildYou1948 edit — https://archive.org/download/BuildYou1948/BuildYou1948_edit.mp4
+- Careofth1951 — https://archive.org/download/Careofth1951/Careofth1951.mp4
+- CaseofSp1940 — https://archive.org/download/CaseofSp1940/CaseofSp1940.mp4
+- CaseofSp1940 edit — https://archive.org/download/CaseofSp1940/CaseofSp1940_edit.mp4
+- ccoPublicDomainSword of Lancelot — https://archive.org/download/cco_swordoflancelot/ccoPublicDomainSword_of_Lancelot.mp4
+- CindyGoe1955 — https://archive.org/download/CindyGoe1955/CindyGoe1955.mp4
+- CindyGoe1955 edit — https://archive.org/download/CindyGoe1955/CindyGoe1955_edit.mp4
+- ClassicT1948 — https://archive.org/download/ClassicT1948/ClassicT1948.mp4
+- ClassicT1948 edit — https://archive.org/download/ClassicT1948/ClassicT1948_edit.mp4
+- communications primer — https://archive.org/download/communications_primer/communications_primer.mp4
+- communications primer edit — https://archive.org/download/communications_primer/communications_primer_edit.mp4
+- Communis1952 — https://archive.org/download/Communis1952/Communis1952.mp4
+- Communis1952 edit — https://archive.org/download/Communis1952/Communis1952_edit.mp4
+- DatingDo1949 — https://archive.org/download/DatingDo1949/DatingDo1949.mp4
+- DatingDo1949 edit — https://archive.org/download/DatingDo1949/DatingDo1949_edit.mp4
+- EatforHe1954 — https://archive.org/download/EatforHe1954/EatforHe1954.mp4
+- EatforHe1954 edit — https://archive.org/download/EatforHe1954/EatforHe1954_edit.mp4
+- First Spaceship on Venus — https://archive.org/download/FirstSpaceshipOnVenusMPEG/First_Spaceship_On_Venus.mp4
+- FromtheG1954 — https://archive.org/download/FromtheG1954/FromtheG1954.mp4
+- FromtheG1954 edit — https://archive.org/download/FromtheG1954/FromtheG1954_edit.mp4
+- GoodEati1951 — https://archive.org/download/GoodEati1951/GoodEati1951.mp4
+- GoodEati1951 edit — https://archive.org/download/GoodEati1951/GoodEati1951_edit.mp4
+- 3 79-hfc-287-r1 — https://archive.org/download/gov.ntis.ava15996vnb1/3.79-hfc-287-r1.mp4
+- 4 79-hfc-287-r2 — https://archive.org/download/gov.ntis.ava15996vnb1/4.79-hfc-287-r2.mp4
+- 5 79-hfc-287-r3 — https://archive.org/download/gov.ntis.ava15996vnb1/5.79-hfc-287-r3.mp4
+- 79-hfc-287-r1 — https://archive.org/download/gov.ntis.ava15996vnb1/79-hfc-287-r1.mp4
+- 79-hfc-287-r1 tp 8bit — https://archive.org/download/gov.ntis.ava15996vnb1/79-hfc-287-r1_tp_8bit.mp4
+- 79-hfc-287-r2 — https://archive.org/download/gov.ntis.ava15996vnb1/79-hfc-287-r2.mp4
+- 79-hfc-287-r2 tp 8bit — https://archive.org/download/gov.ntis.ava15996vnb1/79-hfc-287-r2_tp_8bit.mp4
+- 79-hfc-287-r3 — https://archive.org/download/gov.ntis.ava15996vnb1/79-hfc-287-r3.mp4
+- 79-hfc-287-r3 tp 8bit — https://archive.org/download/gov.ntis.ava15996vnb1/79-hfc-287-r3_tp_8bit.mp4
+- ava15996vnb1 — https://archive.org/download/gov.ntis.ava15996vnb1/ava15996vnb1.mp4
+- Island of Hope — https://archive.org/download/gov.ntis.ava15996vnb1/Island_of_Hope.mp4
+- theater hd splice — https://archive.org/download/gov.ntis.ava15996vnb1/theater.hd.splice.mp4
+- He Walked By Night — https://archive.org/download/He_Walked_By_Night.avi/He_Walked_By_Night.mp4
+- HealthYo1953 — https://archive.org/download/HealthYo1953/HealthYo1953.mp4
+- HealthYo1953 edit — https://archive.org/download/HealthYo1953/HealthYo1953_edit.mp4
+- The Holy Ghost People, part 1 — https://archive.org/download/HolyGhostPeople/HolyGhost1.mp4
+- The Holy Ghost People, part 2 — https://archive.org/download/HolyGhostPeople/HolyGhost2.mp4
+- humanbirthvertexbreechandcaesarean — https://archive.org/download/humanbirthvertexbreechandcaesarean/humanbirthvertexbreechandcaesarean.mp4
+- HumanRep1947 — https://archive.org/download/HumanRep1947/HumanRep1947.mp4
+- HumanRep1947 edit — https://archive.org/download/HumanRep1947/HumanRep1947_edit.mp4
+- impact — https://archive.org/download/impact/impact.mp4
+- isforAto1953 — https://archive.org/download/isforAto1953/isforAto1953.mp4
+- isforAto1953 edit — https://archive.org/download/isforAto1953/isforAto1953_edit.mp4
+- lunchroom manners 512kb — https://archive.org/download/lunchroom_manners/lunchroom_manners_512kb.mp4
+- naturally a girl — https://archive.org/download/naturally_a_girl/naturally_a_girl.mp4
+- naturally a girl edit — https://archive.org/download/naturally_a_girl/naturally_a_girl_edit.mp4
+- OneGotFa1963 — https://archive.org/download/OneGotFa1963/OneGotFa1963.mp4
+- OneGotFa1963 edit — https://archive.org/download/OneGotFa1963/OneGotFa1963_edit.mp4
+- Physical1953 — https://archive.org/download/Physical1953/Physical1953.mp4
+- Physical1953 edit — https://archive.org/download/Physical1953/Physical1953_edit.mp4
+- Signal301959 — https://archive.org/download/Signal301959/Signal301959.mp4
+- Signal301959 edit — https://archive.org/download/Signal301959/Signal301959_edit.mp4
+- Sudden Birth — https://archive.org/download/sudden_birth/sudden_birth.mp4
+- superman eleventh hour 512kb — https://archive.org/download/superman_eleventh_hour/superman_eleventh_hour_512kb.mp4
+- superman the mechanical monsters 512kb — https://archive.org/download/superman_the_mechanical_monsters/superman_the_mechanical_monsters_512kb.mp4
+- Symptoms1940 — https://archive.org/download/Symptoms1940/Symptoms1940.mp4
+- Symptoms1940 edit — https://archive.org/download/Symptoms1940/Symptoms1940_edit.mp4
+- Terrible1951 — https://archive.org/download/Terrible1951/Terrible1951.mp4
+- Terrible1951 edit — https://archive.org/download/Terrible1951/Terrible1951_edit.mp4
+- Test Tube Babies — https://archive.org/download/Test_Tube_Babies_1948/Test_Tube_Babies_1948.mp4
+- theesxuallymatureadult — https://archive.org/download/theesxuallymatureadult/theesxuallymatureadult.mp4
+- TheMagicSword — https://archive.org/download/TheMagicSword/TheMagicSword.mp4
+- ThisChar1950 — https://archive.org/download/ThisChar1950/ThisChar1950.mp4
+- ThisChar1950 edit — https://archive.org/download/ThisChar1950/ThisChar1950_edit.mp4
+- tsunami patong beach 512kb — https://archive.org/download/tsunami_patong_beach/tsunami_patong_beach_512kb.mp4
+- MPEG 4 Hi-Res — https://archive.org/download/UnderseaWords-TheLetterA/UnderseaWords1.mp4
+- Utopia 512kb — https://archive.org/download/utopia/Utopia_512kb.mp4
+- Zeitgeist Addendum — https://archive.org/download/Zeitgeist.Addendum/Zeitgeist.Addendum.mp4
+- 01 Three Is A Magic Number — https://archive.org/download/schoolhouse-rock-30th/01%20Three%20Is%20A%20Magic%20Number.mp4
+- 02 My Hero Zero — https://archive.org/download/schoolhouse-rock-30th/02%20My%20Hero%20Zero.mp4
+- 03 Elementary My Dear — https://archive.org/download/schoolhouse-rock-30th/03%20Elementary%20My%20Dear.mp4
+- 04 The Four Legged Zoo — https://archive.org/download/schoolhouse-rock-30th/04%20The%20Four%20Legged%20Zoo.mp4
+- 05 Ready Or Not Here I Come — https://archive.org/download/schoolhouse-rock-30th/05%20Ready%20Or%20Not%20Here%20I%20Come.mp4
+- 06 I Got Six — https://archive.org/download/schoolhouse-rock-30th/06%20I%20Got%20Six.mp4
+- 07 Lucky Seven Sampson — https://archive.org/download/schoolhouse-rock-30th/07%20Lucky%20Seven%20Sampson.mp4
+- 08 Figure Eight — https://archive.org/download/schoolhouse-rock-30th/08%20Figure%20Eight.mp4
+- 09 Naughty Number Nine — https://archive.org/download/schoolhouse-rock-30th/09%20Naughty%20Number%20Nine.mp4
+- 10 The Good Eleven — https://archive.org/download/schoolhouse-rock-30th/10%20The%20Good%20Eleven.mp4
+- 11 Little Twelvetoes — https://archive.org/download/schoolhouse-rock-30th/11%20Little%20Twelvetoes.mp4
+- 12 A Noun Is A Person Place Or Thing — https://archive.org/download/schoolhouse-rock-30th/12%20A%20Noun%20Is%20A%20Person%20Place%20Or%20Thing.mp4
+- 13 Verb Thats Whats Happening — https://archive.org/download/schoolhouse-rock-30th/13%20Verb%20Thats%20Whats%20Happening.mp4
+- 14 Conjunction Junction — https://archive.org/download/schoolhouse-rock-30th/14%20Conjunction%20Junction.mp4
+- 15 Interjections — https://archive.org/download/schoolhouse-rock-30th/15%20Interjections.mp4
+- 16 Unpack Your Adjectives — https://archive.org/download/schoolhouse-rock-30th/16%20Unpack%20Your%20Adjectives.mp4
+- 17 Lolly Lolly Lolly Get Your Adverbs Here — https://archive.org/download/schoolhouse-rock-30th/17%20Lolly%20Lolly%20Lolly%20Get%20Your%20Adverbs%20Here.mp4
+- 18 Rufus Xavier Sasparilla — https://archive.org/download/schoolhouse-rock-30th/18%20Rufus%20Xavier%20Sasparilla.mp4
+- 19 Busy Prepositions — https://archive.org/download/schoolhouse-rock-30th/19%20Busy%20Prepositions.mp4
+- 20 The Tale Of Mr Morton — https://archive.org/download/schoolhouse-rock-30th/20%20The%20Tale%20Of%20Mr%20Morton.mp4
+- 21 No More Kings — https://archive.org/download/schoolhouse-rock-30th/21%20No%20More%20Kings.mp4
+- 22 The Shot Heard Round the World — https://archive.org/download/schoolhouse-rock-30th/22%20The%20Shot%20Heard%20Round%20the%20World.mp4
+- 23 The Preamble — https://archive.org/download/schoolhouse-rock-30th/23%20The%20Preamble.mp4
+- 24 Sufferin Till Suffrage — https://archive.org/download/schoolhouse-rock-30th/24%20Sufferin%20Till%20Suffrage.mp4
+- 25 Im Just A Bill — https://archive.org/download/schoolhouse-rock-30th/25%20Im%20Just%20A%20Bill.mp4
+- 26 The Great American Melting Pot — https://archive.org/download/schoolhouse-rock-30th/26%20The%20Great%20American%20Melting%20Pot.mp4
+- 27 Elbow Room — https://archive.org/download/schoolhouse-rock-30th/27%20Elbow%20Room.mp4
+- 28 Fireworks — https://archive.org/download/schoolhouse-rock-30th/28%20Fireworks.mp4
+- 29 Mother Necessity — https://archive.org/download/schoolhouse-rock-30th/29%20Mother%20Necessity.mp4
+- 30 Three Ring Government — https://archive.org/download/schoolhouse-rock-30th/30%20Three%20Ring%20Government.mp4
+- 31 Im Gonna Send Your Vote To College In Surround — https://archive.org/download/schoolhouse-rock-30th/31%20Im%20Gonna%20Send%20Your%20Vote%20To%20College%20In%20Surround.mp4
+- 32 You Earned Your Diploma and Presidential Minute — https://archive.org/download/schoolhouse-rock-30th/32%20You%20Earned%20Your%20Diploma%20and%20Presidential%20Minute.mp4
+- 33 A Victim Of Gravity — https://archive.org/download/schoolhouse-rock-30th/33%20A%20Victim%20Of%20Gravity.mp4
+- 34 Interplanet Janet — https://archive.org/download/schoolhouse-rock-30th/34%20Interplanet%20Janet.mp4
+- 35 The Body Machine — https://archive.org/download/schoolhouse-rock-30th/35%20The%20Body%20Machine.mp4
+- 36 Do The Circulation — https://archive.org/download/schoolhouse-rock-30th/36%20Do%20The%20Circulation.mp4
+- 37 The Energy Blues — https://archive.org/download/schoolhouse-rock-30th/37%20The%20Energy%20Blues.mp4
+- 38 Them Not So Dry Bones — https://archive.org/download/schoolhouse-rock-30th/38%20Them%20Not%20So%20Dry%20Bones.mp4
+- 39 Electricity Electricity — https://archive.org/download/schoolhouse-rock-30th/39%20Electricity%20Electricity.mp4
+- 40 Telegraph Line — https://archive.org/download/schoolhouse-rock-30th/40%20Telegraph%20Line.mp4
+- 41 The Weather Show — https://archive.org/download/schoolhouse-rock-30th/41%20The%20Weather%20Show.mp4
+- 42 Scooter Computer Introduction — https://archive.org/download/schoolhouse-rock-30th/42%20Scooter%20Computer%20Introduction.mp4
+- 43 Scooter Computer Hardware — https://archive.org/download/schoolhouse-rock-30th/43%20Scooter%20Computer%20Hardware.mp4
+- 44 Scooter Computer Software — https://archive.org/download/schoolhouse-rock-30th/44%20Scooter%20Computer%20Software.mp4
+- 45 Scooter Computer Number Cruncher — https://archive.org/download/schoolhouse-rock-30th/45%20Scooter%20Computer%20Number%20Cruncher.mp4
+- 46 Dollars And Sense — https://archive.org/download/schoolhouse-rock-30th/46%20Dollars%20And%20Sense.mp4
+- 47 Tax Man Max — https://archive.org/download/schoolhouse-rock-30th/47%20Tax%20Man%20Max.mp4
+- 48 Where The Money Goes — https://archive.org/download/schoolhouse-rock-30th/48%20Where%20The%20Money%20Goes.mp4
+- 49 Seven Dollars Fifty Cents Once A Week — https://archive.org/download/schoolhouse-rock-30th/49%20Seven%20Dollars%20Fifty%20Cents%20Once%20A%20Week.mp4
+- 50 Tyrannosaurus Debt — https://archive.org/download/schoolhouse-rock-30th/50%20Tyrannosaurus%20Debt.mp4
+- 51 This For That — https://archive.org/download/schoolhouse-rock-30th/51%20This%20For%20That.mp4
+- 52 Walkin On The Wall Street — https://archive.org/download/schoolhouse-rock-30th/52%20Walkin%20On%20The%20Wall%20Street.mp4
+- 53 The Checks In The Mail — https://archive.org/download/schoolhouse-rock-30th/53%20The%20Checks%20In%20The%20Mail.mp4
+- 54 Report from the North Pole — https://archive.org/download/schoolhouse-rock-30th/54%20Report%20from%20the%20North%20Pole.mp4
+- 55 The Little Things We Do — https://archive.org/download/schoolhouse-rock-30th/55%20The%20Little%20Things%20We%20Do.mp4
+- 56 The Trash Can Band — https://archive.org/download/schoolhouse-rock-30th/56%20The%20Trash%20Can%20Band.mp4
+- 57 You Oughta Be Savin Water — https://archive.org/download/schoolhouse-rock-30th/57%20You%20Oughta%20Be%20Savin%20Water.mp4
+- 58 The Rainforest — https://archive.org/download/schoolhouse-rock-30th/58%20The%20Rainforest.mp4
+- 59 Save the Ocean — https://archive.org/download/schoolhouse-rock-30th/59%20Save%20the%20Ocean.mp4
+- 60 Fat Cat Blue - The Clean Rivers Song — https://archive.org/download/schoolhouse-rock-30th/60%20Fat%20Cat%20Blue%20-%20The%20Clean%20Rivers%20Song.mp4
+- 61 A Tiny Urban Zoo — https://archive.org/download/schoolhouse-rock-30th/61%20A%20Tiny%20Urban%20Zoo.mp4
+- 62 Solar Power to the People — https://archive.org/download/schoolhouse-rock-30th/62%20Solar%20Power%20to%20the%20People.mp4
+- 63 Windy and the Windmills — https://archive.org/download/schoolhouse-rock-30th/63%20Windy%20and%20the%20Windmills.mp4
+- 64 Don't Be a Carbon Sasquatch — https://archive.org/download/schoolhouse-rock-30th/64%20Don%27t%20Be%20a%20Carbon%20Sasquatch.mp4
+- 65 The Three Rs — https://archive.org/download/schoolhouse-rock-30th/65%20The%20Three%20Rs.mp4
+- 66 Music Video - Conjunction Junction - Better Than Ezra — https://archive.org/download/schoolhouse-rock-30th/66%20Music%20Video%20-%20Conjunction%20Junction%20-%20Better%20Than%20Ezra.mp4
+- 67 Music Video - Electricity Electricity - Goodness — https://archive.org/download/schoolhouse-rock-30th/67%20Music%20Video%20-%20Electricity%20Electricity%20-%20Goodness.mp4
+- 68 Music Video - Im Just a Bill - Deluxe Folk Implosion — https://archive.org/download/schoolhouse-rock-30th/68%20Music%20Video%20-%20Im%20Just%20a%20Bill%20-%20Deluxe%20Folk%20Implosion.mp4
+- 69 Music Video - My Hero Zero - Lemonheads — https://archive.org/download/schoolhouse-rock-30th/69%20Music%20Video%20-%20My%20Hero%20Zero%20-%20Lemonheads.mp4
+- 70 The Making Of Im Gonna Send Your Vote To College — https://archive.org/download/schoolhouse-rock-30th/70%20The%20Making%20Of%20Im%20Gonna%20Send%20Your%20Vote%20To%20College.mp4
+- 71 Directors Commentaries — https://archive.org/download/schoolhouse-rock-30th/71%20Directors%20Commentaries.mp4
+- 72 Emmy Awards Featurette — https://archive.org/download/schoolhouse-rock-30th/72%20Emmy%20Awards%20Featurette.mp4
+- 73 Nike Commercial Three is A Magic Number — https://archive.org/download/schoolhouse-rock-30th/73%20Nike%20Commercial%20Three%20is%20A%20Magic%20Number.mp4
