@@ -128,66 +128,55 @@ dialog{background:#101610;color:#eee;border:1px solid #47845b;border-radius:12px
 const mk = (p, a) => { let r=[]; for(let i=0;i<a.length;i+=2) r.push({n:a[i], u:p+a[i+1]}); return r; };
 const mks = (a) => { let r=[]; for(let i=0;i<a.length;i+=2) r.push({n:a[i], u:a[i+1]}); return r; };
 
-// CLINE TV — LIBRARY-DRIVEN SHOW SYSTEM
-// The repository's organized CHANNEL_LIBRARY is the authoritative programming source.
-// This page reads the channel sections at runtime; it does not maintain a second 178-item catalog.
-const SHOW_SYSTEM_VERSION = "LIBRARY-18";
-const CHANNEL_LIBRARY_PATH = "library/CHANNEL_LIBRARY.md";
+// CLINE TV — SEVEN PROGRAMMING LIBRARIES
+// These seven Markdown files are the editable station library.
+// index.html does not contain a second catalog or a hand-built list of shows.
+const SHOW_SYSTEM_VERSION = "LIBRARY-7";
+const LIBRARY_SOURCES = [
+    {name:"1",label:"TV CLASSICS",file:"library/01-tv-classics.md",kind:"video"},
+    {name:"2",label:"MOVIES",file:"library/02-movies.md",kind:"video"},
+    {name:"3",label:"FAMILY & CARTOONS",file:"library/03-family-cartoons.md",kind:"video"},
+    {name:"4",label:"DOCUMENTARIES",file:"library/04-documentaries.md",kind:"video"},
+    {name:"5",label:"RADIO",file:"library/05-radio.md",kind:"audio"},
+    {name:"6",label:"SPORTS",file:"library/06-sports.md",kind:"video"},
+    {name:"7",label:"TV SERIES",file:"library/07-tv-series.md",kind:"video"}
+];
+
 let categories = [];
 let programIds = [];
 
-function parseChannelLibrary(markdown) {
-    const channels = [];
-    let current = null;
+function parseProgramLibrary(markdown) {
+    const items = [];
     for (const rawLine of String(markdown).split(/\r?\n/)) {
         const line = rawLine.trimEnd();
-        const heading = line.match(/^##\s+CH\s+(\d+)\s+—\s+(.+)$/);
-        if (heading) {
-            current = {
-                name: String(Number(heading[1])),
-                label: heading[2].trim(),
-                kind: "mixed",
-                content: []
-            };
-            channels.push(current);
-            continue;
-        }
-        // The review-hold section is deliberately not broadcast until reviewed.
-        if (/^##\s+REVIEW HOLD\b/i.test(line)) {
-            current = null;
-            continue;
-        }
-        if (!current) continue;
-        const entry = line.match(/^\s*-\s+(.+)\s+—\s+(https?:\/\/.*)$/);
+        const entry = line.match(/^\s*-\s+(.+?)\s+—\s+(https?:\/\/.*)$/);
         if (!entry) continue;
         const title = entry[1].trim();
         const url = entry[2].trim();
-        if (!title || !url) continue;
-        current.content.push({n:title,u:url});
+        if (title && url) items.push({n:title,u:url});
     }
-    return channels
-        .filter(c => c.content.length)
-        .sort((a,b) => Number(a.name)-Number(b.name));
+    return items;
 }
 
-async function loadChannelLibrary() {
-    const response = await fetch(CHANNEL_LIBRARY_PATH, {cache:"default"});
-    if (!response.ok) throw new Error(`Channel library request failed (${response.status})`);
-    const markdown = await response.text();
-    const loaded = parseChannelLibrary(markdown);
+async function loadProgramLibraries() {
     const seen = new Set();
     let total = 0;
-    for (const channel of loaded) {
+    const loaded = [];
+
+    for (const source of LIBRARY_SOURCES) {
+        const response = await fetch(source.file, {cache:"default"});
+        if (!response.ok) throw new Error(`Library request failed for ${source.file} (${response.status})`);
+        const items = parseProgramLibrary(await response.text());
         const unique = [];
-        for (const item of channel.content) {
+        for (const item of items) {
             if (seen.has(item.u)) continue;
             seen.add(item.u);
             unique.push(item);
         }
-        channel.content = unique;
-        channel.kind = "mixed";
+        loaded.push({...source,content:unique});
         total += unique.length;
     }
+
     categories = loaded;
     programIds = categories.map(c => {
         const occurrences = new Map();
@@ -198,7 +187,9 @@ async function loadChannelLibrary() {
             return base + "-" + n;
         });
     });
-    if (!categories.length) throw new Error("Channel library contains no broadcast channels.");
+
+    if (categories.length !== LIBRARY_SOURCES.length) throw new Error("Not all station libraries loaded.");
+    if (!total) throw new Error("Station libraries contain no programs.");
     console.info(`CLINE TV catalog loaded: ${total} programs across ${categories.length} channels.`);
     return total;
 }
@@ -223,7 +214,7 @@ function persist(){try{localStorage.setItem(STORAGE_KEY,JSON.stringify(preferenc
 function savedChannel(c){const p=preferences.channels[c.name];return p && typeof p==='object'?p:{};}
 function validTime(t){return typeof t==='number' && Number.isFinite(t) && t>=0 ? t : 0;}
 function itemId(url){return hashText(url).toString(36)+'-'+hashText([...url].reverse().join('')).toString(36);}
-/* programIds are built by loadChannelLibrary(). */
+/* programIds are built by loadProgramLibraries(). */
 function selectionKey(ci,vi){return categories[ci].name+':'+programIds[ci][vi];}
 function currentItem(){return categories[currentCategoryIndex].content[currentVideoIndex];}
 function active(s=session){return s && session===s && s.generation===generation;}
@@ -616,7 +607,7 @@ document.addEventListener('visibilitychange',()=>{if(document.hidden)savePositio
 window.addEventListener('hashchange',()=>{const p=parseSelection(location.hash);if(p)choose(p.ci,p.vi,{time:p.time,delay:false});else if(p===false)setStatus('That shared program is not in this catalog. Open Guide to choose one.');});
 window.onload=async()=>{
     try{
-        await loadChannelLibrary();
+        await loadProgramLibraries();
         makeTicks('t-ring',100);makeTicks('s-ring',categories.length);
         enableKnobSwipe(document.getElementById('t-knob'),tune);enableKnobSwipe(document.getElementById('s-knob'),changeCategory);
         const volume=preferences.volume;
