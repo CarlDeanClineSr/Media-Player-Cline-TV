@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=5.0,user-scalable=yes">
-<title>CLINE CLASSIC TV | MASTER REBUILD (4:3 EDITION)</title>
+<title>CLINE CLASSIC TV | SHOW SYSTEM</title>
 <style>
 :root{--green:#00ff66}*{box-sizing:border-box}body{background:#0a0a0a;margin:0;overflow:hidden;height:100vh;width:100vw;display:flex;flex-direction:column;align-items:center;justify-content:center;font-family:"Courier New",Courier,monospace}
 #cabinet{width:min(96vw,1200px);height:min(92vh,900px);max-width:100%;max-height:100%;background:#0f0f0f;border:clamp(18px,4vw,28px) solid #0a0a0a;border-radius:28px;box-shadow:0 60px 100px #000,inset 0 0 140px #000;display:flex;flex-direction:column;padding:clamp(20px,5vw,50px) clamp(30px,6vw,80px);position:relative;overflow:hidden;align-items:center}
@@ -123,12 +123,12 @@ dialog{background:#101610;color:#eee;border:1px solid #47845b;border-radius:12px
 </main>
 <script>
 // ==========================================
-// V188 MASTER CATALOG DATA COMPRESSION
+// CLINE TV SHOW SYSTEM · SOURCE CATALOG
 // ==========================================
 const mk = (p, a) => { let r=[]; for(let i=0;i<a.length;i+=2) r.push({n:a[i], u:p+a[i+1]}); return r; };
 const mks = (a) => { let r=[]; for(let i=0;i<a.length;i+=2) r.push({n:a[i], u:a[i+1]}); return r; };
 
-// CLINE TV — 12 CHANNEL DATA
+// CLINE TV — SOURCE POOLS FOR SHOW SYSTEM
 // Channel count is the new lineup. Player/cabinet/screen/control structure remains from the archived 4:3 master.
 
 const ch1 = [
@@ -345,29 +345,35 @@ const ch12 = [
     {n:"Godzilla (1998)",u:"https://archive.org/download/My-Favorite-Movies_202503/Godzilla%20%281998%29.mp4"}
 ];
 
+// CLINE TV SHOW SYSTEM
+// Channels are programming streams, not database categories.
+// The existing media pools stay intact; the show system controls how they are presented.
+// When new verified programs are added, they belong in the appropriate stream rather than
+// creating another temporary channel just to hold a pile of links.
+const SHOW_SYSTEM_VERSION = "SHOW-SYSTEM-1";
 const categories = [
-    {name:"1",label:"STAR TREK",kind:"video",content:ch1},
-    {name:"2",label:"SCIENCE",kind:"video",content:ch2},
-    {name:"3",label:"GODZILLA & MONSTERS",kind:"video",content:ch3},
-    {name:"4",label:"FEATURE FILMS 1",kind:"video",content:ch4},
-    {name:"5",label:"FEATURE FILMS 2",kind:"video",content:ch5},
-    {name:"6",label:"FEATURE FILMS 3",kind:"video",content:ch6},
-    {name:"7",label:"FEATURE FILMS 4",kind:"video",content:ch7},
-    {name:"8",label:"FEATURE FILMS 5",kind:"video",content:ch8},
-    {name:"9",label:"FEATURE FILMS 6",kind:"video",content:ch9},
-    {name:"10",label:"FEATURE FILMS 7",kind:"video",content:ch10},
-    {name:"11",label:"FEATURE FILMS 8",kind:"video",content:ch11},
-    {name:"12",label:"FEATURE FILMS 9",kind:"video",content:ch12}
+    {name:"1",label:"STAR TREK",kind:"video",role:"SERIES",content:ch1},
+    {name:"2",label:"SCIENCE & COSMOS",kind:"video",role:"SCIENCE",content:ch2},
+    {name:"3",label:"GODZILLA & MONSTERS",kind:"video",role:"CREATURE FEATURE",content:ch3},
+    {name:"4",label:"MOVIE HOUSE · FAMILY & COMEDY",kind:"video",role:"MATINEE",content:ch4},
+    {name:"5",label:"MOVIE HOUSE · SCI-FI",kind:"video",role:"SCIENCE FICTION",content:ch5},
+    {name:"6",label:"MOVIE HOUSE · ADVENTURE",kind:"video",role:"ADVENTURE",content:ch6},
+    {name:"7",label:"MOVIE HOUSE · ACTION",kind:"video",role:"ACTION",content:ch7},
+    {name:"8",label:"MOVIE HOUSE · ANIMATION",kind:"video",role:"FAMILY",content:ch8},
+    {name:"9",label:"MOVIE HOUSE · MONSTERS",kind:"video",role:"CREATURE FEATURE",content:ch9},
+    {name:"10",label:"MOVIE HOUSE · CLASSICS",kind:"video",role:"CLASSIC FEATURE",content:ch10},
+    {name:"11",label:"MOVIE HOUSE · WAR & THRILLER",kind:"video",role:"ACTION FEATURE",content:ch11},
+    {name:"12",label:"MOVIE HOUSE · FEATURE PRESENTATION",kind:"video",role:"PRIME FEATURE",content:ch12}
 ];
 // ==========================================
-// V188 TV ENGINE LOGIC & AUDIO SYNTHESIS
+// SHOW SYSTEM ENGINE & AUDIO SYNTHESIS
 // ==========================================
 // V188 groups preserved source arrays by content type. IDs derive from URLs within each public channel.
 let currentCategoryIndex=0, currentVideoIndex=0, tunerDeg=0, categoryDeg=0;
 let audioCtx=null, audioScopeFrame=null, radioStars=[], osdTimeout;
 const player=document.getElementById('player'), audioPlayer=document.getElementById('audio-player');
 const volumeKnob=document.getElementById('volume-knob'), audioStage=document.getElementById('audio-stage'), audioScope=document.getElementById('audio-scope');
-const MAX_RETRIES=4, STORAGE_KEY='cline-tv-v188';
+const MAX_RETRIES=4, STORAGE_KEY='cline-tv-show-system-1';
 let session=null, generation=0, transitionTimer=null, lastSave=0;
 const failedSelections=new Set();
 function readPreferences(){
