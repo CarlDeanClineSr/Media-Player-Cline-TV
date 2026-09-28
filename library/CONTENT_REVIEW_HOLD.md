@@ -10,3 +10,9 @@ The following classes of material were found during recovery but are not mounted
 - Unidentified or test-style uploads with bare-number or unexplained personal filenames.
 
 The historical source material is preserved. These are broadcast-layer curation exclusions, not deletion of the historical archive.
+
+
+## Current review notes
+
+- Channel 22 was cleaned of duplicate edit copies, Schoolhouse Rock items that belong on Channel 10, and unexplained technical/test filenames.
+- The broadcast player reads only the 27 reviewed channel files.
