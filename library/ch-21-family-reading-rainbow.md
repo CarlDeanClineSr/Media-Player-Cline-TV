@@ -1,0 +1,158 @@
+# CH 21 — FAMILY · READING RAINBOW
+
+- Reading Rainbow S01E01 Tight Times — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S01E01.Tight.Times.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S01E02 Miss Nelson is Back — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S01E02.Miss.Nelson.is.Back.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S01E03 Bea and Mr Jones — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S01E03.Bea.and.Mr.Jones.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S01E04 Bringing the Rain to Kapiti Plain — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S01E04.Bringing.the.Rain.to.Kapiti.Plain.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S01E05 Louis the Fish — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S01E05.Louis.the.Fish.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S01E06 Digging Up Dinosaurs — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S01E06.Digging.Up.Dinosaurs.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S01E07 Liang and the Magic Paintbrush — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S01E07.Liang.and.the.Magic.Paintbrush.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S01E08 Gila Monsters Meet You at the Airport — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S01E08.Gila.Monsters.Meet.You.at.the.Airport.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S01E09 Three Days on a River in a Red Canoe — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S01E09.Three.Days.on.a.River.in.a.Red.Canoe.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S01E11 Gregory the Terrible Eater — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S01E11.Gregory.the.Terrible.Eater.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S01E12 Three By the Sea — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S01E12.Three.By.the.Sea.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S01E13 Arthurs Eyes — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S01E13.Arthurs.Eyes.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S01E14 The Day Jimmys Boa Ate the Wash — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S01E14.The.Day.Jimmys.Boa.Ate.the.Wash.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S01E15 Tys One-Man Band — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S01E15.Tys.One-Man.Band.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S02E01 Hot-Air Henry — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S02E01.Hot-Air.Henry.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S02E02 Simons Book — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S02E02.Simons.Book.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S02E03 Ox-Cart Man — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S02E03.Ox-Cart.Man.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S02E04 Mystery on the Docks — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S02E04.Mystery.on.the.Docks.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S02E05 A Chair for My Mother — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S02E05.A.Chair.for.My.Mother.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S03E01 Paul Bunyan — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S03E01.Paul.Bunyan.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S03E02 The Patchwork Quilt — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S03E02.The.Patchwork.Quilt.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S03E03 Hill of Fire — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S03E03.Hill.of.Fire.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S03E04 The Tortoise and the Hare — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S03E04.The.Tortoise.and.the.Hare.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S03E05 Perfect the Pig — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S03E05.Perfect.the.Pig.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S04E01 Animal Cafe — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S04E01.Animal.Cafe.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S04E02 Alistair in Outer Space — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S04E02.Alistair.in.Outer.Space.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S04E03 Feelings — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S04E03.Feelings.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S04E04 Watch the Stars Come Out — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S04E04.Watch.the.Stars.Come.Out.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S04E05 Mama Dont Allow — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S04E05.Mama.Dont.Allow.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S04E06 Space Case — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S04E06.Space.Case.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S04E07 The Milk Makers — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S04E07.The.Milk.Makers.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S04E08 Imogenes Antlers — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S04E08.Imogenes.Antlers.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S04E09 Germs Make Me Sick — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S04E09.Germs.Make.Me.Sick.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S04E10 Abiyoyo — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S04E10.Abiyoyo.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S05E01 The Life Cycle of the Honey Bee — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S05E01.The.Life.Cycle.of.the.Honey.Bee.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S05E02 Keep the Lights Burning Abbie — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S05E02.Keep.the.Lights.Burning.Abbie.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S05E03 Chickens Arent the Only Ones — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S05E03.Chickens.Arent.the.Only.Ones.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S05E04 The Paper Crane — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S05E04.The.Paper.Crane.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S05E05 The Runaway Duck — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S05E05.The.Runaway.Duck.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S05E06 A Three Hat Day — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S05E06.A.Three.Hat.Day.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S05E07 Rumpelstiltskin — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S05E07.Rumpelstiltskin.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S05E08 Best Friends — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S05E08.Best.Friends.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S05E09 Meanwhile Back at the Ranch — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S05E09.Meanwhile.Back.at.the.Ranch.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S05E10 My Little Island — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S05E10.My.Little.Island.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S06E01 The Bionic Bunny Show — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S06E01.The.Bionic.Bunny.Show.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S06E02 Bugs — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S06E02.Bugs.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S06E03 The Robbery at the Diamond Dog Diner — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S06E03.The.Robbery.at.the.Diamond.Dog.Diner.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S06E04 Brush — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S06E04.Brush.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S06E05 The Purple Coat — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S06E05.The.Purple.Coat.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S06E06 Barn Dance — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S06E06.Barn.Dance.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S06E07 Duncan and Dolores — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S06E07.Duncan.and.Dolores.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S06E08 Knots on a Counting Rope — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S06E08.Knots.on.a.Counting.Rope.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S06E09 Mummies Made in Egypt — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S06E09.Mummies.Made.in.Egypt.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S06E10 Mufaros Beautiful Daughters — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S06E10.Mufaros.Beautiful.Daughters.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S07E01 Humphrey the Lost Whale A True Story — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S07E01.Humphrey.the.Lost.Whale.A.True.Story.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S07E02 Stay Away from the Junkyard — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S07E02.Stay.Away.from.the.Junkyard.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S07E03 Little Ninos Pizzeria — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S07E03.Little.Ninos.Pizzeria.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S07E04 Ludlow Laughs — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S07E04.Ludlow.Laughs.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S07E05 Dinosaur Bob and His Adventures with the Family Lazardo — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S07E05.Dinosaur.Bob.and.His.Adventures.with.the.Family.Lazardo.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S07E06 Dive to the Coral Reefs — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S07E06.Dive.to.the.Coral.Reefs.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S07E07 Desert Giant — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S07E07.Desert.Giant.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S07E08 Tooth-Gnasher Superflash — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S07E08.Tooth-Gnasher.Superflash.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S07E09 Bored- Nothing to Do — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S07E09.Bored-.Nothing.to.Do.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S07E10 Sports Pages — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S07E10.Sports.Pages.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S08E01 The Magic School Bus Inside the Earth — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S08E01.The.Magic.School.Bus.Inside.the.Earth.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S08E02 Jack the Seal and the Sea — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S08E02.Jack.the.Seal.and.the.Sea.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S08E03 The Bicycle Man — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S08E03.The.Bicycle.Man.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S08E04 Florence and Eric Take the Cake — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S08E04.Florence.and.Eric.Take.the.Cake.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S08E05 Sunken Treasure — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S08E05.Sunken.Treasure.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S09E01 Alistairs Time Machine — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S09E01.Alistairs.Time.Machine.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S09E02 The Adventures of Taxi Dog — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S09E02.The.Adventures.of.Taxi.Dog.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S09E03 The Legend of the Indian Paintbrush — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S09E03.The.Legend.of.the.Indian.Paintbrush.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S09E04 Galimoto — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S09E04.Galimoto.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S09E05 Fox on the Job — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S09E05.Fox.on.the.Job.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S09E06 Opt An Illusionary Tale — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S09E06.Opt.An.Illusionary.Tale.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S09E07 Raccoons and Ripe Corn — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S09E07.Raccoons.and.Ripe.Corn.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S09E08 The Lady with the Ship on Her Head — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S09E08.The.Lady.with.the.Ship.on.Her.Head.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S09E09 Kate Shelley and the Midnight Express — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S09E09.Kate.Shelley.and.the.Midnight.Express.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S09E10 Snowy Day Stories and Poems — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S09E10.Snowy.Day.Stories.and.Poems.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S10E01 Tar Beach — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S10E01.Tar.Beach.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S10E02 The Wall — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S10E02.The.Wall.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S10E03 Sam the Sea Cow — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S10E03.Sam.the.Sea.Cow.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S10E04 Rechenkas Eggs — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S10E04.Rechenkas.Eggs.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S10E05 Sophie and Lou — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S10E05.Sophie.and.Lou.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S10E06 Come a Tide — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S10E06.Come.a.Tide.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S10E07 The Piggy in the Puddle — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S10E07.The.Piggy.in.the.Puddle.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S10E08 Seashore Surprises — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S10E08.Seashore.Surprises.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S10E09 Through Moon and Stars and Night Skies — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S10E09.Through.Moon.and.Stars.and.Night.Skies.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S10E10 Berlioz the Bear — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S10E10.Berlioz.the.Bear.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S11E01 Amazing Grace — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S11E01.Amazing.Grace.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S11E02 The Furry News — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S11E02.The.Furry.News.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S11E03 Mrs Katz and Tush — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S11E03.Mrs.Katz.and.Tush.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S11E04 The Salamander Room — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S11E04.The.Salamander.Room.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S11E05 Silent Lotus — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S11E05.Silent.Lotus.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S11E06 Follow the Drinking Gourd — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S11E06.Follow.the.Drinking.Gourd.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S11E07 If You Give a Mouse a Cookie — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S11E07.If.You.Give.a.Mouse.a.Cookie.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S11E08 Is This a House for a Hermit Crab — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S11E08.Is.This.a.House.for.a.Hermit.Crab.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S11E09 And Still the Turtle Watched — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S11E09.And.Still.the.Turtle.Watched.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S11E10 29-Jun-99 — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S11E10.29-Jun-99.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S12E01 Nosey Mrs Rat — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S12E01.Nosey.Mrs.Rat.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S12E02 Borreguita and the Coyote — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S12E02.Borreguita.and.the.Coyote.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S12E03 Summer — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S12E03.Summer.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S12E04 Once There Was a Tree — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S12E04.Once.There.Was.a.Tree.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S12E05 Appelemondos Dreams — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S12E05.Appelemondos.Dreams.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S12E06 The Lotus Seed — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S12E06.The.Lotus.Seed.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S12E07 Hail to Mail — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S12E07.Hail.to.Mail.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S12E08 Stellaluna — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S12E08.Stellaluna.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S12E09 My Shadow — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S12E09.My.Shadow.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S12E10 Ruth Law Thrills a Nation — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S12E10.Ruth.Law.Thrills.a.Nation.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S13E01 The Wonderful Tower of Watts — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S13E01.The.Wonderful.Tower.of.Watts.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S13E02 Martha Speaks — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S13E02.Martha.Speaks.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S13E03 Alejandros Gift — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S13E03.Alejandros.Gift.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S13E04 The Sign Painters Dream — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S13E04.The.Sign.Painters.Dream.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S13E05 Archibald Frisby — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S13E05.Archibald.Frisby.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S14E01 Fly Away Home — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S14E01.Fly.Away.Home.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S14E02 Uncle Jeds Barbershop — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S14E02.Uncle.Jeds.Barbershop.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S14E03 How to Make An Apple Pie and See the World — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S14E03.How.to.Make.An.Apple.Pie.and.See.the.World.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S14E04 Owen — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S14E04.Owen.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S14E05 How Much is a Million — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S14E05.How.Much.is.a.Million.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S15E01 Always My Dad — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S15E01.Always.My.Dad.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S15E02 Bread is for Eating — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S15E02.Bread.is.for.Eating.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S15E03 Hotel Animal — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S15E03.Hotel.Animal.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S15E04 Someplace Else — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S15E04.Someplace.Else.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S15E05 Zin Zin Zin A Violin — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S15E05.Zin.Zin.Zin.A.Violin.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S16E01 On the Day You Were Born — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S16E01.On.the.Day.You.Were.Born.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S16E02 Hip Cat — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S16E02.Hip.Cat.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S16E03 Reginas Big Mistake — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S16E03.Reginas.Big.Mistake.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S16E04 Giving Thanks A Native American Good Morning Message — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S16E04.Giving.Thanks.A.Native.American.Good.Morning.Message.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S16E05 The Carousel — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S16E05.The.Carousel.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S17E01 Math Cure — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S17E01.Math.Cure.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S17E02 My Life with the Wave — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S17E02.My.Life.with.the.Wave.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S17E03 Saturday Sancocho — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S17E03.Saturday.Sancocho.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S17E04 When Aunt Lena Did the Rhumba — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S17E04.When.Aunt.Lena.Did.the.Rhumba.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S17E05 Work Song — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S17E05.Work.Song.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S18E01 The Shamans Apprentice — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S18E01.The.Shamans.Apprentice.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S18E02 Pet Stories You Dont Have to Walk — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S18E02.Pet.Stories.You.Dont.Have.to.Walk.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S18E03 Lemonade for Sale — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S18E03.Lemonade.for.Sale.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S18E04 The Secret Shortcut — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S18E04.The.Secret.Shortcut.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S18E05 My America A Poetry Atlas of the United States — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S18E05.My.America.A.Poetry.Atlas.of.the.United.States.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S18E06 Badgers Parting Gift — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S18E06.Badgers.Parting.Gift.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S19E01 The Tin Forest — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S19E01.The.Tin.Forest.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S19E02 Max — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S19E02.Max.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S19E03 Enemy Pie — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S19E03.Enemy.Pie.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S19E04 Our Big Home — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S19E04.Our.Big.Home.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S20E01 Visiting Day — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S20E01.Visiting.Day.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S20E02 Unique Monique — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S20E02.Unique.Monique.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S20E03 Mr George Baker — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S20E03.Mr.George.Baker.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S20E04 Beegu — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S20E04.Beegu.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S20E05 Two Old Potatoes and Me — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S20E05.Two.Old.Potatoes.and.Me.480p.AMZN.WEB-DL.DD.2.0.x264-RTN.mp4
+- Reading Rainbow S21E01 The Biggest Test in the Universe — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S21E01.The.Biggest.Test.in.the.Universe.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S21E02 I Lost My Tooth in Africa — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S21E02.I.Lost.My.Tooth.in.Africa.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S21E03 Boxes for Katje — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S21E03.Boxes.for.Katje.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S21E04 Game Day — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S21E04.Game.Day.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Reading Rainbow S21E05 Show Way — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S21E05.Show.Way.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
+- Schoolhouse Rock — 73 Nike Commercial Three is a Magic Number — https://archive.org/download/schoolhouse-rock-30th/73%20Nike%20Commercial%20Three%20is%20a%20Magic%20Number.mp4
+- Rudolph — RUDOLPH — https://archive.org/download/rudolph_202111/RUDOLPH.mp4
