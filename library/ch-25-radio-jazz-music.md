@@ -1,0 +1,90 @@
+# CH 25 — RADIO · JAZZ & MUSIC
+
+- 1920s Jazz — 2to2 — https://archive.org/download/Free_20s_Jazz_Collection/2to2.mp3
+- 1920s Jazz — 4or5x — https://archive.org/download/Free_20s_Jazz_Collection/4or5x.mp3
+- 1920s Jazz — acehole — https://archive.org/download/Free_20s_Jazz_Collection/acehole.mp3
+- 1920s Jazz — admirat — https://archive.org/download/Free_20s_Jazz_Collection/admirat.mp3
+- 1920s Jazz — afghanis — https://archive.org/download/Free_20s_Jazz_Collection/afghanis.mp3
+- 1920s Jazz — Alexander Wheres That Band — https://archive.org/download/Free_20s_Jazz_Collection/Alexander_Wheres_That_Band.mp3
+- 1920s Jazz — amazgrac — https://archive.org/download/Free_20s_Jazz_Collection/amazgrac.mp3
+- 1920s Jazz — Ambassadors Me And The Man In The Moon — https://archive.org/download/Free_20s_Jazz_Collection/Ambassadors_Me_And_The_Man_In_The_Moon.mp3
+- 1920s Jazz — Bennie Moten Kater St Rag — https://archive.org/download/Free_20s_Jazz_Collection/Bennie_Moten_Kater_St._Rag.mp3
+- 1920s Jazz — Bennie Motens KC Jazz Band-South 1924 — https://archive.org/download/Free_20s_Jazz_Collection/Bennie_Motens_KC_Jazz_Band-South_1924.mp3
+- 1920s Jazz — bhoosier — https://archive.org/download/Free_20s_Jazz_Collection/bhoosier.mp3
+- 1920s Jazz — Black Devils-MonkymanREDO 11KHz 64kb — https://archive.org/download/Free_20s_Jazz_Collection/Black_Devils-MonkymanREDO_11KHz_64kb.mp3
+- 1920s Jazz — blackrag — https://archive.org/download/Free_20s_Jazz_Collection/blackrag.mp3
+- 1920s Jazz — bluerose — https://archive.org/download/Free_20s_Jazz_Collection/bluerose.mp3
+- 1920s Jazz — Broadway Nitelites I Wanna Be Loved — https://archive.org/download/Free_20s_Jazz_Collection/Broadway_Nitelites_I_Wanna_Be_Loved.mp3
+- 1920s Jazz — Bucktown 5 Hot Mittens — https://archive.org/download/Free_20s_Jazz_Collection/Bucktown_5_Hot_Mittens.mp3
+- 1920s Jazz — budhabit — https://archive.org/download/Free_20s_Jazz_Collection/budhabit.mp3
+- 1920s Jazz — buglcall — https://archive.org/download/Free_20s_Jazz_Collection/buglcall.mp3
+- 1920s Jazz — burmah 64kb — https://archive.org/download/Free_20s_Jazz_Collection/burmah_64kb.mp3
+- 1920s Jazz — buttonup — https://archive.org/download/Free_20s_Jazz_Collection/buttonup.mp3
+- 1920s Jazz — CA Ramblers Animal Crackers — https://archive.org/download/Free_20s_Jazz_Collection/CA_Ramblers_Animal_Crackers.mp3
+- 1920s Jazz — changes — https://archive.org/download/Free_20s_Jazz_Collection/changes.mp3
+- 1920s Jazz — chocoboy — https://archive.org/download/Free_20s_Jazz_Collection/chocoboy.mp3
+- 1920s Jazz — clement1 — https://archive.org/download/Free_20s_Jazz_Collection/clement1.mp3
+- 1920s Jazz — clement2 — https://archive.org/download/Free_20s_Jazz_Collection/clement2.mp3
+- 1920s Jazz — copenhag — https://archive.org/download/Free_20s_Jazz_Collection/copenhag.mp3
+- 1920s Jazz — crawdadd — https://archive.org/download/Free_20s_Jazz_Collection/crawdadd.mp3
+- 1920s Jazz — cried4u — https://archive.org/download/Free_20s_Jazz_Collection/cried4u.mp3
+- 1920s Jazz — cushfoot — https://archive.org/download/Free_20s_Jazz_Collection/cushfoot.mp3
+- 1920s Jazz — dardan2 — https://archive.org/download/Free_20s_Jazz_Collection/dardan2.mp3
+- 1920s Jazz — dardanel — https://archive.org/download/Free_20s_Jazz_Collection/dardanel.mp3
+- 1920s Jazz — deedido 64kb — https://archive.org/download/Free_20s_Jazz_Collection/deedido_64kb.mp3
+- 1920s Jazz — dippermo — https://archive.org/download/Free_20s_Jazz_Collection/dippermo.mp3
+- 1920s Jazz — dix1step — https://archive.org/download/Free_20s_Jazz_Collection/dix1step.mp3
+- 1920s Jazz — duever — https://archive.org/download/Free_20s_Jazz_Collection/duever.mp3
+- 1920s Jazz — Erskine Tate Chinaman — https://archive.org/download/Free_20s_Jazz_Collection/Erskine_Tate_Chinaman.mp3
+- 1920s Jazz — Eubie Blake-Charleston Rag 11KHz 64kb — https://archive.org/download/Free_20s_Jazz_Collection/Eubie_Blake-Charleston_Rag_11KHz_64kb.mp3
+- 1920s Jazz — Eubie Blake-Chevy Chase 11KHz 64kb — https://archive.org/download/Free_20s_Jazz_Collection/Eubie_Blake-Chevy_Chase_11KHz_64kb.mp3
+- 1920s Jazz — Golden Gate Orch-5 Foot 2 11KHz 64kb — https://archive.org/download/Free_20s_Jazz_Collection/Golden_Gate_Orch-5_Foot_2_11KHz_64kb.mp3
+- 1920s Jazz — goldleaf — https://archive.org/download/Free_20s_Jazz_Collection/goldleaf.mp3
+- 1920s Jazz — Helen Kane-IWannabeLovedbyYou 11KHz 64kb — https://archive.org/download/Free_20s_Jazz_Collection/Helen_Kane-IWannabeLovedbyYou_11KHz_64kb.mp3
+- 1920s Jazz — henpeckd — https://archive.org/download/Free_20s_Jazz_Collection/henpeckd.mp3
+- 1920s Jazz — Henpecked Blues — https://archive.org/download/Free_20s_Jazz_Collection/Henpecked_Blues.mp3
+- 1920s Jazz — hflouisv — https://archive.org/download/Free_20s_Jazz_Collection/hflouisv.mp3
+- 1920s Jazz — HoldMe — https://archive.org/download/Free_20s_Jazz_Collection/HoldMe.mp3
+- 1920s Jazz — hotlips — https://archive.org/download/Free_20s_Jazz_Collection/hotlips.mp3
+- 1920s Jazz — hotmama — https://archive.org/download/Free_20s_Jazz_Collection/hotmama.mp3
+- 1920s Jazz — Howard Lanin When Eyes Of Blue Are Foolin You — https://archive.org/download/Free_20s_Jazz_Collection/Howard_Lanin_When_Eyes_Of_Blue_Are_Foolin__You.mp3
+- 1920s Jazz — iaintgot — https://archive.org/download/Free_20s_Jazz_Collection/iaintgot.mp3
+- 1920s Jazz — iknoukno — https://archive.org/download/Free_20s_Jazz_Collection/iknoukno.mp3
+- 1920s Jazz — imaginat — https://archive.org/download/Free_20s_Jazz_Collection/imaginat.mp3
+- 1920s Jazz — istutter — https://archive.org/download/Free_20s_Jazz_Collection/istutter.mp3
+- 1920s Jazz — istuttr 64kb — https://archive.org/download/Free_20s_Jazz_Collection/istuttr_64kb.mp3
+- 1920s Jazz — ivanhoe — https://archive.org/download/Free_20s_Jazz_Collection/ivanhoe.mp3
+- 1920s Jazz — jackgal — https://archive.org/download/Free_20s_Jazz_Collection/jackgal.mp3
+- 1920s Jazz — japsand — https://archive.org/download/Free_20s_Jazz_Collection/japsand.mp3
+- 1920s Jazz — jazmeblu 64kb — https://archive.org/download/Free_20s_Jazz_Collection/jazmeblu_64kb.mp3
+- 1920s Jazz — jazzdanc — https://archive.org/download/Free_20s_Jazz_Collection/jazzdanc.mp3
+- 1920s Jazz — jinglbel — https://archive.org/download/Free_20s_Jazz_Collection/jinglbel.mp3
+- 1920s Jazz — jsandman — https://archive.org/download/Free_20s_Jazz_Collection/jsandman.mp3
+- 1920s Jazz — ka-lu-a 64kb — https://archive.org/download/Free_20s_Jazz_Collection/ka-lu-a_64kb.mp3
+- 1920s Jazz — kckitty — https://archive.org/download/Free_20s_Jazz_Collection/kckitty.mp3
+- 1920s Jazz — kcshuffl — https://archive.org/download/Free_20s_Jazz_Collection/kcshuffl.mp3
+- 1920s Jazz — keepgoin 64kb — https://archive.org/download/Free_20s_Jazz_Collection/keepgoin_64kb.mp3
+- 1920s Jazz — kentuckb — https://archive.org/download/Free_20s_Jazz_Collection/kentuckb.mp3
+- 1920s Jazz — leftalon 64kb — https://archive.org/download/Free_20s_Jazz_Collection/leftalon_64kb.mp3
+- 1920s Jazz — llagoose — https://archive.org/download/Free_20s_Jazz_Collection/llagoose.mp3
+- 1920s Jazz — lovrlane 64kb — https://archive.org/download/Free_20s_Jazz_Collection/lovrlane_64kb.mp3
+- 1920s Jazz — lowdown 64kb — https://archive.org/download/Free_20s_Jazz_Collection/lowdown_64kb.mp3
+- 1920s Jazz — lstablbl — https://archive.org/download/Free_20s_Jazz_Collection/lstablbl.mp3
+- 1920s Jazz — lupe — https://archive.org/download/Free_20s_Jazz_Collection/lupe.mp3
+- 1920s Jazz — mandy1 — https://archive.org/download/Free_20s_Jazz_Collection/mandy1.mp3
+- 1920s Jazz — mohammed — https://archive.org/download/Free_20s_Jazz_Collection/mohammed.mp3
+- 1920s Jazz — mostomp — https://archive.org/download/Free_20s_Jazz_Collection/mostomp.mp3
+- 1920s Jazz — nevrknew — https://archive.org/download/Free_20s_Jazz_Collection/nevrknew.mp3
+- 1920s Jazz — newbaby — https://archive.org/download/Free_20s_Jazz_Collection/newbaby.mp3
+- 1920s Jazz — nickleod — https://archive.org/download/Free_20s_Jazz_Collection/nickleod.mp3
+- 1920s Jazz — ohmabel 64kb — https://archive.org/download/Free_20s_Jazz_Collection/ohmabel_64kb.mp3
+- 1920s Jazz — omissrag — https://archive.org/download/Free_20s_Jazz_Collection/omissrag.mp3
+- 1920s Jazz — Parham-Washboard Wiggles 11KHz 64kb — https://archive.org/download/Free_20s_Jazz_Collection/Parham-Washboard_Wiggles_11KHz_64kb.mp3
+- 1920s Jazz — Raderman-Japanese Sandman 8KHz 64kb — https://archive.org/download/Free_20s_Jazz_Collection/Raderman-Japanese_Sandman_8KHz_64kb.mp3
+- 1920s Jazz — Raderman Jazz Orch-Dardanella — https://archive.org/download/Free_20s_Jazz_Collection/Raderman_Jazz_Orch-Dardanella.mp3
+- 1920s Jazz — Ragtimers-Sister Kate 11KHz 64kb — https://archive.org/download/Free_20s_Jazz_Collection/Ragtimers-Sister_Kate_11KHz_64kb.mp3
+- 1920s Jazz — Somebodys Wrong — https://archive.org/download/Free_20s_Jazz_Collection/Somebodys_Wrong.mp3
+- 1920s Jazz — The Georgians-You Tell Her I Stutter — https://archive.org/download/Free_20s_Jazz_Collection/The_Georgians-You_Tell_Her_I_Stutter.mp3
+- 1920s Jazz — Vo Do Do — https://archive.org/download/Free_20s_Jazz_Collection/Vo_Do_Do.mp3
+- 1920s Jazz — Washingtonians-Tishomingo Blues 11KHz 64kb — https://archive.org/download/Free_20s_Jazz_Collection/Washingtonians-Tishomingo_Blues_11KHz_64kb.mp3
+- 1920s Jazz — Whiteman-Whispering 11KHz 64kb — https://archive.org/download/Free_20s_Jazz_Collection/Whiteman-Whispering_11KHz_64kb.mp3
