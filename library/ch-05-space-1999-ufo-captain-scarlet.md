@@ -1,0 +1,112 @@
+# CH 5 — SPACE 1999 · UFO · CAPTAIN SCARLET
+
+- Space 1999 Breakaway — https://archive.org/download/Space1999.Series1/Space%201999%20S01E01%20Breakaway.mp4
+- Space 1999 Force of Life — https://archive.org/download/Space1999.Series1/Space%201999%20S01E02%20Force%20of%20Life.mp4
+- Space 1999 Collision Course — https://archive.org/download/Space1999.Series1/Space%201999%20S01E03%20Collision%20Course.mp4
+- Space 1999 War Games — https://archive.org/download/Space1999.Series1/Space%201999%20S01E04%20War%20Games.mp4
+- Space 1999 Death's Dominion — https://archive.org/download/Space1999.Series1/Space%201999%20S01E05%20Death%27s%20Other%20Dominion.mp4
+- Space 1999 Voyager Return — https://archive.org/download/Space1999.Series1/Space%201999%20S01E06%20Voyager%27s%20Return.mp4
+- Space 1999 Alpha Child — https://archive.org/download/Space1999.Series1/Space%201999%20S01E07%20Alpha%20Child.mp4
+- Space 1999 Dragon's Domain — https://archive.org/download/Space1999.Series1/Space%201999%20S01E08%20Dragon%27s%20Domain.mp4
+- Space 1999 Mission Darians — https://archive.org/download/Space1999.Series1/Space%201999%20S01E09%20Mission%20of%20the%20Darians.mp4
+- Space 1999 Black Sun — https://archive.org/download/Space1999.Series1/Space%201999%20S01E10%20Black%20Sun.mp4
+- Space 1999 Guardian of Piri — https://archive.org/download/Space1999.Series1/Space%201999%20S01E11%20Guardian%20of%20Piri.mp4
+- Space 1999 End of Eternity — https://archive.org/download/Space1999.Series1/Space%201999%20S01E12%20End%20of%20Eternity.mp4
+- Space 1999 Matter of Life — https://archive.org/download/Space1999.Series1/Space%201999%20S01E13%20Matter%20of%20Life%20and%20Death.mp4
+- Space 1999 Earthbound — https://archive.org/download/Space1999.Series1/Space%201999%20S01E14%20Earthbound.mp4
+- Space 1999 The Full Circle — https://archive.org/download/Space1999.Series1/Space%201999%20S01E15%20The%20Full%20Circle.mp4
+- Space 1999 Another Time — https://archive.org/download/Space1999.Series1/Space%201999%20S01E16%20Another%20Time%2C%20Another%20Place.mp4
+- Space 1999 Last Sunset — https://archive.org/download/Space1999.Series1/Space%201999%20S01E17%20The%20Last%20Sunset.mp4
+- Space 1999 Infernal Machine — https://archive.org/download/Space1999.Series1/Space%201999%20S01E18%20The%20Infernal%20Machine.mp4
+- Space 1999 Ring Around Moon — https://archive.org/download/Space1999.Series1/Space%201999%20S01E19%20Ring%20Around%20the%20Moon.mp4
+- Space 1999 Missing Link — https://archive.org/download/Space1999.Series1/Space%201999%20S01E20%20Missing%20Link.mp4
+- Space 1999 Space Brain — https://archive.org/download/Space1999.Series1/Space%201999%20S01E21%20Space%20Brain.mp4
+- Space 1999 Troubled Spirit — https://archive.org/download/Space1999.Series1/Space%201999%20S01E22%20The%20Troubled%20Spirit.mp4
+- Space 1999 Testament Arkadia — https://archive.org/download/Space1999.Series1/Space%201999%20S01E23%20The%20Testament%20of%20Arkadia.mp4
+- Space 1999 Last Enemy — https://archive.org/download/Space1999.Series1/Space%201999%20S01E24%20The%20Last%20Enemy.mp4
+- Space 1999 The Metamorph — https://archive.org/download/Space1999.Series1_201602/Space%201999%20S02E01%20The%20Metamorph.mp4
+- Space 1999 The Exiles — https://archive.org/download/Space1999.Series1_201602/Space%201999%20S02E02%20The%20Exiles.mp4
+- Space 1999 Journey to Where — https://archive.org/download/Space1999.Series1_201602/Space%201999%20S02E03%20Journey%20to%20Where.mp4
+- Space 1999 Moment Humanity — https://archive.org/download/Space1999.Series1_201602/Space%201999%20S02E04%20One%20Moment%20of%20Humanity.mp4
+- Space 1999 Brian the Brain — https://archive.org/download/Space1999.Series1_201602/Space%201999%20S02E05%20Brian%20the%20Brain.mp4
+- Space 1999 New Adam Eve — https://archive.org/download/Space1999.Series1_201602/Space%201999%20S02E06%20New%20Adam%20New%20Eve.mp4
+- Space 1999 Mark of Archanon — https://archive.org/download/Space1999.Series1_201602/Space%201999%20S02E07%20The%20Mark%20of%20Archanon.mp4
+- Space 1999 Rules of Luton — https://archive.org/download/Space1999.Series1_201602/Space%201999%20S02E08%20The%20Rules%20of%20Luton.mp4
+- Space 1999 All That Glisters — https://archive.org/download/Space1999.Series1_201602/Space%201999%20S02E09%20All%20That%20Glisters.mp4
+- Space 1999 The Taybor — https://archive.org/download/Space1999.Series1_201602/Space%201999%20S02E10%20The%20Taybor.mp4
+- Space 1999 Seed Destruction — https://archive.org/download/Space1999.Series1_201602/Space%201999%20S02E11%20Seed%20of%20Destruction.mp4
+- Space 1999 AB Chrysalis — https://archive.org/download/Space1999.Series1_201602/Space%201999%20S02E12%20The%20AB%20Chrysalis.mp4
+- Space 1999 Catacombs Moon — https://archive.org/download/Space1999.Series1_201602/Space%201999%20S02E13%20Catacombs%20of%20the%20Moon.mp4
+- Space 1999 Space Warp — https://archive.org/download/Space1999.Series1_201602/Space%201999%20S02E14%20Space%20Warp.mp4
+- Space 1999 Matter Balance — https://archive.org/download/Space1999.Series1_201602/Space%201999%20S02E15%20A%20Matter%20of%20Balance.mp4
+- Space 1999 The Beta Cloud — https://archive.org/download/Space1999.Series1_201602/Space%201999%20S02E16%20The%20Beta%20Cloud.mp4
+- Space 1999 Lambda Factor — https://archive.org/download/Space1999.Series1_201602/Space%201999%20S02E17%20The%20Lambda%20Factor.mp4
+- Space 1999 Bringers Wonder — https://archive.org/download/Space1999.Series1_201602/Space%201999%20S02E18%20The%20Bringers%20of%20Wonder%20%281%29.mp4
+- Space 1999 Bringers Wonder 2 — https://archive.org/download/Space1999.Series1_201602/Space%201999%20S02E19%20The%20Bringers%20of%20Wonder%20%282%29.mp4
+- Space 1999 Seance Spectre — https://archive.org/download/Space1999.Series1_201602/Space%201999%20S02E20%20The%20Seance%20Spectre.mp4
+- Space 1999 Dorzak — https://archive.org/download/Space1999.Series1_201602/Space%201999%20S02E21%20Dorzak.mp4
+- Space 1999 Devil's Planet — https://archive.org/download/Space1999.Series1_201602/Space%201999%20S02E22%20Devil%27s%20Planet.mp4
+- Space 1999 Immunity Syndrome — https://archive.org/download/Space1999.Series1_201602/Space%201999%20S02E23%20The%20Immunity%20Syndrome.mp4
+- Space 1999 The Dorcons — https://archive.org/download/Space1999.Series1_201602/Space%201999%20S02E24%20The%20Dorcons.mp4
+- Space 1999 Final Message — https://archive.org/download/Space1999.Series1_201602/Space%201999%20.%20The%20Final%20Message%20From%20Moonbase%20Alpha.mp4
+- UFO 01 Identified — https://archive.org/download/UFO.complete/UFO.01.Identified.mp4
+- UFO 02 Exposed — https://archive.org/download/UFO.complete/UFO.02.Exposed.mp4
+- UFO 03 Cat With Ten Lives — https://archive.org/download/UFO.complete/UFO.03.The%20Cat%20With%20Ten%20Lives.mp4
+- UFO 04 Conflict — https://archive.org/download/UFO.complete/UFO.04.Conflict.mp4
+- UFO 05 Priorities — https://archive.org/download/UFO.complete/UFO.05.A%20Question%20of%20Priorities.mp4
+- UFO 06 ESP — https://archive.org/download/UFO.complete/UFO.06.ESP.mp4
+- UFO 07 Kill Straker — https://archive.org/download/UFO.complete/UFO.07.Kill%20Straker.mp4
+- UFO 08 Sub Smash — https://archive.org/download/UFO.complete/UFO.08.Sub%20Smash.mp4
+- UFO 09 Destruction — https://archive.org/download/UFO.complete/UFO.09.Destruction.mp4
+- UFO 10 The Square Triangle — https://archive.org/download/UFO.complete/UFO.10.The%20Square%20Triangle.mp4
+- UFO 11 Close Up — https://archive.org/download/UFO.complete/UFO.11.Close%20Up.mp4
+- UFO 12 The Psychobombs — https://archive.org/download/UFO.complete/UFO.12.The%20Psychobombs.mp4
+- UFO 13 Survival — https://archive.org/download/UFO.complete/UFO.13.Survival.mp4
+- UFO 14 Mindbender — https://archive.org/download/UFO.complete/UFO.14.Mindbender.mp4
+- UFO 15 Flight Path — https://archive.org/download/UFO.complete/UFO.15.Flight%20Path.mp4
+- UFO 16 Man Who Came Back — https://archive.org/download/UFO.complete/UFO.16.The%20Man%20Who%20Came%20Back.mp4
+- UFO 17 Dalotek Affair — https://archive.org/download/UFO.complete/UFO.17.The%20Dalotek%20Affair.mp4
+- UFO 18 Timelash — https://archive.org/download/UFO.complete/UFO.18.Timelash.mp4
+- UFO 19 Ordeal — https://archive.org/download/UFO.complete/UFO.19.Ordeal.mp4
+- UFO 20 Court Martial — https://archive.org/download/UFO.complete/UFO.20.Court%20Martial.mp4
+- UFO 21 Computer Affair — https://archive.org/download/UFO.complete/UFO.21.Computer%20Affair.mp4
+- UFO 22 Confetti Check — https://archive.org/download/UFO.complete/UFO.22.Confetti%20Check%20A%20OK.mp4
+- UFO 23 Sound of Silence — https://archive.org/download/UFO.complete/UFO.23.The%20Sound%20of%20Silence.mp4
+- UFO 24 Reflections In Water — https://archive.org/download/UFO.complete/UFO.24.Reflections%20In%20The%20Water.mp4
+- UFO 25 Responsibility Seat — https://archive.org/download/UFO.complete/UFO.25.The%20Responsibility%20Seat.mp4
+- UFO 26 The Long Sleep — https://archive.org/download/UFO.complete/UFO.26.The%20Long%20Sleep.mp4
+- Cpt Scarlet 01 Mysterons — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2001%20The%20Mysterons.mp4
+- Cpt Scarlet 02 Assasin — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2002%20Winged%20Assasin.mp4
+- Cpt Scarlet 03 Big Ben — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2003%20Big%20Ben%20Strikes%20Again.mp4
+- Cpt Scarlet 04 Manhunt — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2004%20Manhunt.mp4
+- Cpt Scarlet 05 Avalanche — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2005%20Avalanche.mp4
+- Cpt Scarlet 06 White Snow — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2006%20White%20as%20Snow.mp4
+- Cpt Scarlet 07 The Trap — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2007%20The%20Trap.mp4
+- Cpt Scarlet 08 Operation Time — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2008%20Operation%20Time.mp4
+- Cpt Scarlet 09 Spectrum Fights — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2009%20Spectrum%20Fights%20Back.mp4
+- Cpt Scarlet 10 Assignment — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2010%20Special%20Assignment.mp4
+- Cpt Scarlet 11 Heart of NY — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2011%20The%20Heart%20of%20New%20York.mp4
+- Cpt Scarlet 12 Lunarville 7 — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2012%20Lunarville%207.mp4
+- Cpt Scarlet 13 Point 783 — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2013%20Point%20783.mp4
+- Cpt Scarlet 14 Model Spy — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2014%20Model%20Spy.mp4
+- Cpt Scarlet 15 Seek/Destroy — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2015%20Seek%20and%20Destroy.mp4
+- Cpt Scarlet 16 Traitor — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2016%20Traitor.mp4
+- Cpt Scarlet 17 Rocket — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2017%20Renegade%20Rocket.mp4
+- Cpt Scarlet 18 Crater 101 — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2018%20Crater%20101.mp4
+- Cpt Scarlet 19 Shadow Fear — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2019%20Shadow%20of%20Fear.mp4
+- Cpt Scarlet 20 Dangerous — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2020%20Dangerous%20Rendevous.mp4
+- Cpt Scarlet 21 Fire at Rig 15 — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2021%20Fire%20at%20Rig%2015.mp4
+- Cpt Scarlet 22 Treble Cross — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2022%20Treble%20Cross.mp4
+- Cpt Scarlet 23 Flight 104 — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2023%20Flight%20104.mp4
+- Cpt Scarlet 24 Place Angels — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2024%20Place%20of%20Angels.mp4
+- Cpt Scarlet 25 Noose of Ice — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2025%20Noose%20of%20Ice.mp4
+- Cpt Scarlet 26 Expo 2068 — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2026%20Expo%202068.mp4
+- Cpt Scarlet 27 Launching — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2027%20The%20Launching.mp4
+- Cpt Scarlet 28 Europa — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2028%20Codename%20Europa.mp4
+- Cpt Scarlet 29 Inferno — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2029%20Inferno.mp4
+- Cpt Scarlet 30 Atlantica — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2030%20Flight%20to%20Atlantica.mp4
+- Cpt Scarlet 31 Cloudbase — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2031%20Attack%20on%20Cloudbase.mp4
+- Cpt Scarlet 32 Inquisition — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2032%20The%20Inquisition.mp4
+- Cpt Scarlet 99 S.I.G — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%2099%20S.I.G%20%28interviews.best%20bits%29.mp4
+- Cpt Scarlet Audio Adv — https://archive.org/download/CaptainScarlet/Captain%20Scarlet%20Introducing%20TV21%20Audio%20Adventure.mp4
+- Space 1999. The Final Message From Moonbase Alpha — https://archive.org/download/Space1999.Series1_201602/Space%201999.%20The%20Final%20Message%20From%20Moonbase%20Alpha.mp4
