@@ -81,3 +81,14 @@
 - 3x22 The Savage Curtain — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x22%20-%20The%20Savage%20Curtain.mp4
 - 3x23 All Our Yesterdays — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x23%20-%20All%20Our%20Yesterdays.mp4
 - 3x24 Turnabout Intruder — https://archive.org/download/star-trek-1x-01-the-cage_20231231/Star%20Trek%20-%203x24%20-%20Turnabout%20Intruder.mp4
+- Star Trek Continues — 1x01 Pilgrim of Eternity — https://archive.org/download/startrekcontinues_202006/1x01%20Pilgrim%20of%20Eternity.mp4
+- Star Trek Continues — 1x02 Lolani — https://archive.org/download/startrekcontinues_202006/1x02%20Lolani.mp4
+- Star Trek Continues — 1x03 Fairest of Them All — https://archive.org/download/startrekcontinues_202006/1x03%20Fairest%20of%20Them%20All.mp4
+- Star Trek Continues — 1x04 The White Iris — https://archive.org/download/startrekcontinues_202006/1x04%20The%20White%20Iris.mp4
+- Star Trek Continues — 1x05 Divided We Stand — https://archive.org/download/startrekcontinues_202006/1x05%20Divided%20We%20Stand.mp4
+- Star Trek Continues — 1x06 Come Not Between the Dragons — https://archive.org/download/startrekcontinues_202006/1x06%20Come%20Not%20Between%20the%20Dragons.mp4
+- Star Trek Continues — 1x07 Embracing the Winds — https://archive.org/download/startrekcontinues_202006/1x07%20Embracing%20the%20Winds.mp4
+- Star Trek Continues — 1x08 Still Treads the Shadow — https://archive.org/download/startrekcontinues_202006/1x08%20Still%20Treads%20the%20Shadow.mp4
+- Star Trek Continues — 1x09 What Ships Are For — https://archive.org/download/startrekcontinues_202006/1x09%20What%20Ships%20Are%20For.mp4
+- Star Trek Continues — 1x10 To Boldly Go Part I — https://archive.org/download/startrekcontinues_202006/1x10%20To%20Boldly%20Go%20Part%20I.mp4
+- Star Trek Continues — 1x11 To Boldly Go Part II — https://archive.org/download/startrekcontinues_202006/1x11%20To%20Boldly%20Go%20Part%20II.mp4
