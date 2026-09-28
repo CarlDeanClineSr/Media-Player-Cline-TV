@@ -1,0 +1,127 @@
+# CH 9 — SCIENCE · COSMOS · CONNECTIONS
+
+- Roswell BBC Doc — https://archive.org/download/TheRoswellUFOCrashBBCDocumentaryProof/The%20Roswell%20UFO%20Crash%20BBC%20Documentary%20-%20Proof.mp4
+- Earth Was Made San Andreas — https://dn710903.ca.archive.org/0/items/How.The.Earth.Was.Made/Season%201/History.Ch.How.the.Earth.Was.Made.Complete.Season.1.01of13.San.Andreas.Fault.XviD.AC3.MVGroup.org.mp4
+- Earth Was Made Deepest Place — https://dn710903.ca.archive.org/0/items/How.The.Earth.Was.Made/Season%201/History.Ch.How.the.Earth.Was.Made.Complete.Season.1.02of13.The.Deepest.Place.on.Earth.XviD.AC3.MVGroup.org.mp4
+- Earth Was Made Krakatoa — https://dn710903.ca.archive.org/0/items/How.The.Earth.Was.Made/Season%201/History.Ch.How.the.Earth.Was.Made.Complete.Season.1.03of13..Krakatoa.XviD.AC3.MVGroup.org.mp4
+- Earth Was Made Loch Ness — https://dn710903.ca.archive.org/0/items/How.The.Earth.Was.Made/Season%201/History.Ch.How.the.Earth.Was.Made.Complete.Season.1.04of13.Lock.Ness.XviD.AC3.MVGroup.org.mp4
+- Earth Was Made New York — https://dn710903.ca.archive.org/0/items/How.The.Earth.Was.Made/Season%201/History.Ch.How.the.Earth.Was.Made.Complete.Season.1.05of13.New.York.XviD.AC3.MVGroup.org.mp4
+- Earth Was Made Driest Place — https://dn710903.ca.archive.org/0/items/How.The.Earth.Was.Made/Season%201/History.Ch.How.the.Earth.Was.Made.Complete.Season.1.06of13.Driest.Place.On.Earth.XviD.AC3.MVGroup.org.mp4
+- Earth Was Made Great Lakes — https://dn710903.ca.archive.org/0/items/How.The.Earth.Was.Made/Season%201/History.Ch.How.the.Earth.Was.Made.Complete.Season.1.07of13.Great.Lakes.XviD.AC3.MVGroup.org.mp4
+- Earth Was Made Yellowstone — https://dn710903.ca.archive.org/0/items/How.The.Earth.Was.Made/Season%201/History.Ch.How.the.Earth.Was.Made.Complete.Season.1.08of13.Yellowstone.XviD.AC3.MVGroup.org.mp4
+- Earth Was Made Tsunami — https://dn710903.ca.archive.org/0/items/How.The.Earth.Was.Made/Season%201/History.Ch.How.the.Earth.Was.Made.Complete.Season.1.09of13.Tsunami.XviD.AC3.MVGroup.org.mp4
+- Earth Was Made Asteroids — https://dn710903.ca.archive.org/0/items/How.The.Earth.Was.Made/Season%201/History.Ch.How.the.Earth.Was.Made.Complete.Season.1.10of13.Asteroids.XviD.AC3.MVGroup.org.mp4
+- Earth Was Made Iceland — https://dn710903.ca.archive.org/0/items/How.The.Earth.Was.Made/Season%201/History.Ch.How.the.Earth.Was.Made.Complete.Season.1.11of13.Iceland.XviD.AC3.MVGroup.org.mp4
+- Earth Was Made Hawaii — https://dn710903.ca.archive.org/0/items/How.The.Earth.Was.Made/Season%201/History.Ch.How.the.Earth.Was.Made.Complete.Season.1.12of13.Hawaii.XviD.AC3.MVGroup.org.mp4
+- Earth Was Made The Alps — https://dn710903.ca.archive.org/0/items/How.The.Earth.Was.Made/Season%201/History.Ch.How.the.Earth.Was.Made.Complete.Season.1.13of13.The.Alps.XviD.AC3.MVGroup.org.mp4
+- Cosmos 01 Cosmic Ocean — https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2001%20The%20Shores%20of%20the%20Cosmic%20Ocean.mp4
+- Cosmos 02 Cosmic Fugue — https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2002%20One%20Voice%20in%20the%20Cosmic%20Fugue.mp4
+- Cosmos 03 Harmony Worlds — https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2003%20Harmony%20of%20the%20Worlds.mp4
+- Cosmos 04 Heaven Hell — https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2004%20Heaven%20and%20Hell.mp4
+- Cosmos 05 Blues Red Planet — https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2005%20Blues%20for%20a%20Red%20Planet.mp4
+- Cosmos 06 Travellers Tales — https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2006%20Travellers%27%20Tales.mp4
+- Cosmos 07 Backbone of Night — https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2007%20The%20Backbone%20of%20Night.mp4
+- Cosmos 08 Journeys in Space — https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2008%20Journeys%20in%20Space%20and%20Time.mp4
+- Cosmos 09 Lives of Stars — https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2009%20The%20Lives%20of%20the%20Stars.mp4
+- Cosmos 10 Edge of Forever — https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2010%20The%20Edge%20of%20Forever.mp4
+- Cosmos 11 Persistence Memory — https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2011%20The%20Persistence%20of%20Memory.mp4
+- Cosmos 12 Encyclopaedia — https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2012%20Encyclopaedia%20Galactica.mp4
+- Cosmos 13 Speaks for Earth — https://archive.org/download/CosmosAPersonalVoyage/1980%20Cosmos%20%28A%20Personal%20Voyage%29%20-%20Ep%2013%20Who%20Speaks%20for%20Earth.mp4
+- Connections 1x01 Trigger — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%201/Connections%20S01E01%20-%20The%20Trigger%20Effect.mp4
+- Connections 1x02 Death Morn — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%201/Connections%20S01E02%20-%20Death%20in%20the%20Morning.mp4
+- Connections 1x03 Distant — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%201/Connections%20S01E03%20-%20Distant%20Voices.mp4
+- Connections 1x04 Faith — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%201/Connections%20S01E04%20-%20Faith%20in%20Numbers.mp4
+- Connections 1x05 Wheel — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%201/Connections%20S01E05%20-%20The%20Wheel%20of%20Fortune.mp4
+- Connections 1x06 Thunder — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%201/Connections%20S01E06%20-%20Thunder%20in%20the%20Skies.mp4
+- Connections 1x07 Long Chain — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%201/Connections%20S01E07%20-%20The%20Long%20Chain.mp4
+- Connections 1x08 Eat Drink — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%201/Connections%20S01E08%20-%20Eat%2C%20Drink%20and%20Be%20Merry.mp4
+- Connections 1x09 Countdown — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%201/Connections%20S01E09%20-%20Countdown.mp4
+- Connections 1x10 Yesterday — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%201/Connections%20S01E10%20-%20Yesterday%2C%20Tomorrow%20and%20You.mp4
+- Connections 2x01 Revolutions — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E01%20-%20Revolutions.mp4
+- Connections 2x02 Journeys — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E02%20-%20Sentimental%20Journeys.mp4
+- Connections 2x03 Together — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E03%20-%20Getting%20It%20Together.mp4
+- Connections 2x04 Whodunit — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E04%20-%20Whodunit.mp4
+- Connections 2x05 Nothing — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E05%20-%20Something%20for%20Nothing.mp4
+- Connections 2x06 Echoes — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E06%20-%20Echoes%20of%20the%20Past.mp4
+- Connections 2x07 Photo Fin — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E07%20-%20Photo%20Finish.mp4
+- Connections 2x08 Separate — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E08%20-%20Separate%20Ways.mp4
+- Connections 2x09 High Times — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E09%20-%20High%20Times.mp4
+- Connections 2x10 Deja Vu — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E10%20-%20Deja%20Vu.mp4
+- Connections 2x11 Harmony — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E11%20-%20New%20Harmony.mp4
+- Connections 2x12 Hot Pickle — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E12%20-%20Hot%20Pickle.mp4
+- Connections 2x13 Big Spin — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E13%20-%20The%20Big%20Spin.mp4
+- Connections 2x14 Ideas — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E14%20-%20Bright%20Ideas.mp4
+- Connections 2x15 Waves — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E15%20-%20Making%20Waves.mp4
+- Connections 2x16 Routes — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E16%20-%20Routes.mp4
+- Connections 2x17 One Word — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E17%20-%20One%20Word.mp4
+- Connections 2x18 Sign Here — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E18%20-%20Sign%20Here.mp4
+- Connections 2x19 Real Thing — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E19%20-%20Better%20Than%20the%20Real%20Thing.mp4
+- Connections 2x20 Flex Resp — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%202/Connections%20S02E20%20-%20Flexible%20Response.mp4
+- Connections 3x01 Feedback — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%203/Connections%20S03E01%20-%20Feedback.mp4
+- Connections 3x02 Name — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%203/Connections%20S03E02%20-%20What%27s%20in%20a%20Name.mp4
+- Connections 3x03 Apple — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%203/Connections%20S03E03%20-%20Drop%20the%20Apple.mp4
+- Connections 3x04 Invisible — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%203/Connections%20S03E04%20-%20An%20Invisible%20Object.mp4
+- Connections 3x05 No Picnic — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%203/Connections%20S03E05%20-%20Life%20Is%20No%20Picnic.mp4
+- Connections 3x06 Stuff — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%203/Connections%20S03E06%20-%20Elementary%20Stuff.mp4
+- Connections 3x07 Place — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%203/Connections%20S03E07%20-%20A%20Special%20Place.mp4
+- Connections 3x08 Sky Fire — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%203/Connections%20S03E08%20-%20Fire%20From%20the%20Sky.mp4
+- Connections 3x09 Water — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%203/Connections%20S03E09%20-%20Hit%20the%20Water.mp4
+- Connections 3x10 In Touch — https://archive.org/download/ConnectionsByJamesBurke/Connections/Season%203/Connections%20S03E10%20-%20In%20Touch.mp4
+- A is for Atom (1953) — https://archive.org/download/0159_A_is_for_Atom_01_00_48_00/0159_A_is_for_Atom_01_00_48_00.mp4
+- Edge of Creation (1979) — https://archive.org/download/NGSDivetotheEdgeofCreation/National.Geographic.Specials.S14E01.Dive.to.the.Edge.of.Creation.1980.VHSRip.DD2.0.x264-rattera.mp4
+- Apollo 11 Onboard Film — https://archive.org/download/Apollo1116mmOnboardFilm/apollo11_6_1.mp4
+- Atomic Alert (1951) — https://archive.org/download/AtomicAl1951/AtomicAl1951_edit.mp4
+- This Is Redstone Arsenal — https://archive.org/download/16764thisisredstonearsenalvwr/16764%20This%20Is%20Redstone%20Arsenal_vwr.mp4
+- 20 Years Of Strategic Air Command — https://archive.org/download/2927420YearsOfStrategicAirCommandMos/29274%2020%20years%20Of%20Strategic%20Air%20Command_mos.mp4
+- AAF Combat Camera Units Weekly Digest pt 63 — https://archive.org/download/42124aafcombatcameraunitsweeklydigestpt63vwr/42124%20AAF%20Combat%20Camera%20Units%20Weekly%20Digest%20pt%2063_vwr.mp4
+- Normandy Invasion — https://archive.org/download/87084NormandyInvasion/87084%20Normandy%20Invasion.mp4
+- NASA 1971 Aeronautics And Space Highlights — https://archive.org/download/19194nasa1971aeronauticsandspacehighlightsvwr/19194%20NASA%201971%20Aeronautics%20And%20Space%20Highlights_vwr.mp4
+- NASA Highlights 1967 — https://archive.org/download/76474NASAHighlights1967/76474%20NASA%20Highlights%201967.mp4
+- Apollo Digest Saturn Second Stage — https://archive.org/download/80004-apollo-digest-saturn-second-stage/80004%20Apollo%20Digest%20Saturn%20Second%20Stage.mp4
+- NASA Manned Space Flight Quarterly Report 11 — https://archive.org/download/68384-nasa-manned-space-flight-quaterly-report-11-vwr/68384%20NASA%20Manned%20Space%20Flight%20Quaterly%20Report%2011_vwr.mp4
+- NASA Manned Space Flight January 1964 — https://archive.org/download/xd-10044-nasa-manned-space-flight-january-1964-vwr/XD10044%2BNASA%2BManned%2BSpace%2BFlight%2BJanuary%2B1964_vwr.mp4
+- White Wonder — https://archive.org/download/WhiteWon1958/WhiteWon1958_edit.mp4
+- South Dakota Saga (Part I) — https://archive.org/download/SouthDak1940/SouthDak1940_edit.mp4
+- South Dakota Saga (Part II) — https://archive.org/download/SouthDak1940_2/SouthDak1940_2_edit.mp4
+- Alaskas Silver Millions (Part I) — https://archive.org/download/AlaskasS1936/AlaskasS1936_edit.mp4
+- Alaskas Silver Millions (Part II) — https://archive.org/download/AlaskasS1936_2/AlaskasS1936_2_edit.mp4
+- Iron Country: Iron Ore and Minnesotas Future — https://archive.org/download/IronCoun1952/IronCoun1952_edit.mp4
+- Railway with a Heart of Gold — https://archive.org/download/railway_with_a_heart_of_gold_1965/railway_with_a_heart_of_gold_1965_512kb.mp4
+- Appalachia: Rich Land, Poor People — https://archive.org/download/appalachiarichlandpoorpeople/appalachiarichlandpoorpeople/appalachiarichlandpoorpeoplereel2.mp4
+- Coal Miner, The — https://archive.org/download/coal_miner/coal_miner_512kb.mp4
+- Bureau of Indian Affairs, “Chicago Story” (16mm film reel), approximately 1968 — https://archive.org/download/ayer_mms_bia_relocation_box_004/Ayer_Modern_MS_BIA_Relocation.mp4
+- Impact 66 — https://archive.org/download/0689_Impact_66_01_01_01_00/0689_Impact_66_01_01_01_00.mp4
+- Plane Talk — https://archive.org/download/PlaneTal1965/PlaneTal1965_edit.mp4
+- Front Line, The — https://archive.org/download/FrontLin1965/FrontLin1965_edit.mp4
+- Threads of Technology — https://archive.org/download/0559_Threads_of_Technology/0559_Threads_of_Technology_09_12_29_01_3mb.mp4
+- Vietnam Special — https://archive.org/download/gov.archives.arc.653071/gov.archives.arc.653071.mp4
+- Sinclair at the Worlds Fair — https://archive.org/download/0701_Sinclair_at_the_Worlds_Fair/0701_Sinclair_at_the_Worlds_Fair_M05793_17_12_06_00_3mb.mp4
+- Public Service Announcement (PSA) on Pollution - Retro — https://archive.org/download/psa_retro_pollution_640/saucer_bite_one.mp4
+- 1968 Baltimore Riots Reel — https://archive.org/download/68riotsTBDreel/68riotsTBDreel.mp4
+- Centinelas del Silencio — https://archive.org/download/centinelas_del_silencio/centinelas_del_silencio_512kb.mp4
+- Business Films — https://archive.org/download/Business1968/Business1968_edit.mp4
+- Apollo 11 Reel 01 — https://archive.org/download/apollo-11-mission/Apollo%2011%2001.mp4
+- Apollo 11 Reel 02 — https://archive.org/download/apollo-11-mission/Apollo%2011%2002.mp4
+- Apollo 11 Reel 03 — https://archive.org/download/apollo-11-mission/Apollo%2011%2003.mp4
+- Apollo 11 Reel 04 — https://archive.org/download/apollo-11-mission/Apollo%2011%2004.mp4
+- Apollo 11 Reel 05 — https://archive.org/download/apollo-11-mission/Apollo%2011%2005.mp4
+- Apollo 11 Reel 06 — https://archive.org/download/apollo-11-mission/Apollo%2011%2006.mp4
+- Apollo 11 Reel 07 — https://archive.org/download/apollo-11-mission/Apollo%2011%2007.mp4
+- Apollo 11 Reel 08 — https://archive.org/download/apollo-11-mission/Apollo%2011%2008.mp4
+- Apollo 11 Reel 09 — https://archive.org/download/apollo-11-mission/Apollo%2011%2009.mp4
+- Apollo 11 Reel 10 — https://archive.org/download/apollo-11-mission/Apollo%2011%2010.mp4
+- Cosmos - Shores of the Cosmic Ocean — https://archive.org/download/cosmos_1980/COSMOS_01.mp4
+- Planet Earth - The Living Machine — https://archive.org/download/planet.earth/Planet%20Earth%201%20The%20Living%20Machine.mp4
+- How the Earth Was Made — History Ch How the Earth Was Made Complete Season 1 01of13 San Andreas Fault XviD AC3 MVGroup org — https://archive.org/download/How.The.Earth.Was.Made/Season%201/History.Ch.How.the.Earth.Was.Made.Complete.Season.1.01of13.San.Andreas.Fault.XviD.AC3.MVGroup.org.mp4
+- How the Earth Was Made — History Ch How the Earth Was Made Complete Season 1 02of13 The Deepest Place on Earth XviD AC3 MVGroup org — https://archive.org/download/How.The.Earth.Was.Made/Season%201/History.Ch.How.the.Earth.Was.Made.Complete.Season.1.02of13.The.Deepest.Place.on.Earth.XviD.AC3.MVGroup.org.mp4
+- How the Earth Was Made — History Ch How the Earth Was Made Complete Season 1 03of13 Krakatoa XviD AC3 MVGroup org — https://archive.org/download/How.The.Earth.Was.Made/Season%201/History.Ch.How.the.Earth.Was.Made.Complete.Season.1.03of13..Krakatoa.XviD.AC3.MVGroup.org.mp4
+- How the Earth Was Made — History Ch How the Earth Was Made Complete Season 1 04of13 Lock Ness XviD AC3 MVGroup org — https://archive.org/download/How.The.Earth.Was.Made/Season%201/History.Ch.How.the.Earth.Was.Made.Complete.Season.1.04of13.Lock.Ness.XviD.AC3.MVGroup.org.mp4
+- How the Earth Was Made — History Ch How the Earth Was Made Complete Season 1 05of13 New York XviD AC3 MVGroup org — https://archive.org/download/How.The.Earth.Was.Made/Season%201/History.Ch.How.the.Earth.Was.Made.Complete.Season.1.05of13.New.York.XviD.AC3.MVGroup.org.mp4
+- How the Earth Was Made — History Ch How the Earth Was Made Complete Season 1 06of13 Driest Place On Earth XviD AC3 MVGroup org — https://archive.org/download/How.The.Earth.Was.Made/Season%201/History.Ch.How.the.Earth.Was.Made.Complete.Season.1.06of13.Driest.Place.On.Earth.XviD.AC3.MVGroup.org.mp4
+- How the Earth Was Made — History Ch How the Earth Was Made Complete Season 1 07of13 Great Lakes XviD AC3 MVGroup org — https://archive.org/download/How.The.Earth.Was.Made/Season%201/History.Ch.How.the.Earth.Was.Made.Complete.Season.1.07of13.Great.Lakes.XviD.AC3.MVGroup.org.mp4
+- How the Earth Was Made — History Ch How the Earth Was Made Complete Season 1 08of13 Yellowstone XviD AC3 MVGroup org — https://archive.org/download/How.The.Earth.Was.Made/Season%201/History.Ch.How.the.Earth.Was.Made.Complete.Season.1.08of13.Yellowstone.XviD.AC3.MVGroup.org.mp4
+- How the Earth Was Made — History Ch How the Earth Was Made Complete Season 1 09of13 Tsunami XviD AC3 MVGroup org — https://archive.org/download/How.The.Earth.Was.Made/Season%201/History.Ch.How.the.Earth.Was.Made.Complete.Season.1.09of13.Tsunami.XviD.AC3.MVGroup.org.mp4
+- How the Earth Was Made — History Ch How the Earth Was Made Complete Season 1 10of13 Asteroids XviD AC3 MVGroup org — https://archive.org/download/How.The.Earth.Was.Made/Season%201/History.Ch.How.the.Earth.Was.Made.Complete.Season.1.10of13.Asteroids.XviD.AC3.MVGroup.org.mp4
+- How the Earth Was Made — History Ch How the Earth Was Made Complete Season 1 11of13 Iceland XviD AC3 MVGroup org — https://archive.org/download/How.The.Earth.Was.Made/Season%201/History.Ch.How.the.Earth.Was.Made.Complete.Season.1.11of13.Iceland.XviD.AC3.MVGroup.org.mp4
+- How the Earth Was Made — History Ch How the Earth Was Made Complete Season 1 12of13 Hawaii XviD AC3 MVGroup org — https://archive.org/download/How.The.Earth.Was.Made/Season%201/History.Ch.How.the.Earth.Was.Made.Complete.Season.1.12of13.Hawaii.XviD.AC3.MVGroup.org.mp4
+- How the Earth Was Made — History Ch How the Earth Was Made Complete Season 1 13of13 The Alps XviD AC3 MVGroup org — https://archive.org/download/How.The.Earth.Was.Made/Season%201/History.Ch.How.the.Earth.Was.Made.Complete.Season.1.13of13.The.Alps.XviD.AC3.MVGroup.org.mp4
