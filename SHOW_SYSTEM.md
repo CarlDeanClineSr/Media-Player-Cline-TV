@@ -4,89 +4,84 @@
 
 Cline TV is a television service, not an Internet Archive browser.
 
-The Archive is the source warehouse. The repository library is the station inventory. The channel sections in `library/CHANNEL_LIBRARY.md` are the programming streams. The Guide is the viewer catalog.
+The Archive is the source warehouse. The repository's seven library files are the station inventory. The seven channels are the programming streams. The Guide is the viewer catalog.
 
 ## Source of truth
 
-`library/CHANNEL_LIBRARY.md` is the authoritative on-air catalog.
+The seven files in `library/` are the editable programming source:
 
-`index.html` reads that file at runtime. It no longer carries a separate hard-coded list of programs.
+1. `01-tv-classics.md` — TV CLASSICS
+2. `02-movies.md` — MOVIES
+3. `03-family-cartoons.md` — FAMILY & CARTOONS
+4. `04-documentaries.md` — DOCUMENTARIES
+5. `05-radio.md` — RADIO
+6. `06-sports.md` — SPORTS
+7. `07-tv-series.md` — TV SERIES
 
-This keeps the parts separate:
+`index.html` reads these files directly at runtime.
 
-**Archive research → repository library → channel organization → player**
+There is no hand-built show list inside `index.html`, and `CHANNEL_LIBRARY.md` is only a map to the seven files.
 
-## Current lineup
+This keeps the system simple:
 
-The organized library currently supplies 18 broadcast channels and 5,433 on-air programs.
+**Archive research → library files → seven channels → player**
 
-The library also contains a 35-program REVIEW HOLD section. Those entries remain in the repository but are not put on-air automatically.
+## Why seven channels
 
-| Ch | On-air identity |
-|---:|---|
-| 1 | FEATURE FILMS |
-| 2 | SCI-FI & SPACE FILMS |
-| 3 | HORROR & MONSTERS |
-| 4 | FAMILY, COMEDY & WESTERNS |
-| 5 | CLASSIC TV |
-| 6 | SCI-FI TV |
-| 7 | CRIME & MYSTERY TV |
-| 8 | FAMILY & CHILDREN TV |
-| 9 | DOCUMENTARIES |
-| 10 | SCIENCE & COSMOS |
-| 11 | HISTORY & WAR |
-| 12 | SPACE & NASA |
-| 13 | SPORTS |
-| 14 | OLD-TIME RADIO |
-| 15 | RADIO DRAMA & MYSTERY |
-| 16 | MUSIC & JAZZ |
-| 17 | NEWS & PUBLIC AFFAIRS |
-| 18 | EDUCATION & TECHNOLOGY |
+The older Cline TV build already established a seven-channel structure covering the full collection. It is broad enough for normal channel surfing and simple enough to maintain.
+
+The channels are not supposed to be artificial genre fragments.
+
+A movie stays with MOVIES. Cartoons and family programs stay with FAMILY & CARTOONS. Radio stays with RADIO. Sports stays with SPORTS. The television-series collection stays with TV SERIES.
+
+More detailed subjects can remain inside a library file without creating another channel.
+
+## Current catalog
+
+The seven library files contain 5,469 unique program URLs after recovering the missing Dragnet `5x04 The Big Lift` entry from the older repo. One clearly unsuitable title, `The Child Molester (1964)`, is held separately and is not broadcast.
+
+The exact count is generated from the files, not typed into the player.
 
 ## Player behavior
 
-The existing television controls remain the playback system.
+The existing television controls remain the playback system:
 
-Program dial: moves through programs in the current channel.
+- Program dial moves through programs in the current channel.
+- End of stream advances to the next channel.
+- Channel dial changes channels.
+- Guide searches the complete on-air catalog.
+- Favorites save channels.
+- Share identifies the selected program and channel.
+- Retry, resume, playback checks, fullscreen, mobile controls, audio handling, and video handling remain player functions.
 
-Channel dial: changes channels.
+The player determines audio/video mode from the actual media URL, so RADIO remains compatible with the same player.
 
-End of stream: advances to the next channel.
+## Review rule
 
-Guide: searches the complete on-air catalog.
+A program should not be rejected just because a word in its title looks sensitive. Context matters.
 
-Favorites: save channels.
+Example: a science documentary titled `Murder, Rape and DNA` belongs with science material because the title describes its scientific subject.
 
-Share: identifies the selected channel and program.
+Conversely, a clearly inappropriate program such as `The Child Molester (1964)` is placed in `CONTENT_REVIEW_HOLD.md` rather than being broadcast automatically.
 
-Recovery, retry, resume, fullscreen, mobile controls, and playback checks remain player functions.
+## What must not happen again
 
-Media mode is determined from the individual program URL, so a channel can contain both audio and video records without forcing the whole channel into one mode.
+Do not build a second giant catalog inside the player.
 
-## Organization rule
+Do not scatter movies across unrelated channels because an automated classifier thinks they match a keyword.
 
-**STREAM → PROGRAM → GENRE/FORMAT**
+Do not use anonymous Archive search matches as automatic programming decisions.
 
-Channel organization is for television-style viewing. More detailed classification can remain in the library without becoming a separate channel.
+Do not replace the user's collected library with a smaller hand-picked sample.
 
-## Catalog rule
+Do not make the code harder to manually maintain.
 
-When new programs are collected:
+## Editing
 
-1. Keep the original title.
-2. Keep the actual direct media URL.
-3. Place the entry in the appropriate channel section of `CHANNEL_LIBRARY.md`.
-4. Review held material before putting it on-air.
-5. Do not replace the full catalog with a small sample list.
+The intended maintenance operation is simple:
 
-The player should read the library. The library should not be reduced to fit the player.
+`- Program Title — https://archive.org/...`
 
-## Stable architecture
+Place the line in the appropriate one of the seven Markdown files.
 
-- Archive: acquisition and public media source.
-- `library/CHANNEL_LIBRARY.md`: organized on-air inventory.
-- `index.html`: television interface and library reader.
-- Guide: viewer navigation.
-- SHOW_SYSTEM.md: organization rules.
-
-Keep the television stable and let the library grow.
+That is the programming interface. The television code should not need to change when programs are added, removed, or corrected.
