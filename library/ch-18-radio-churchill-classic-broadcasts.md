@@ -1,0 +1,196 @@
+# CH 18 — RADIO · CHURCHILL & CLASSIC BROADCASTS
+
+- Churchill Broadcasts — The Threat Of Nazi Germany — https://archive.org/download/Winston_Churchill/1934-11-16_BBC_Winston_Churchill_The_Threat_Of_Nazi_Germany.mp3
+- Churchill Broadcasts — The German Ambassador — https://archive.org/download/Winston_Churchill/1937-xx-xx_BBC_Winston_Churchill_The_German_Ambassador.mp3
+- Churchill Broadcasts — To The Royal Academy Of Arts — https://archive.org/download/Winston_Churchill/1938-04-30_BBC_Winston_Churchill_To_The_Royal_Academy_Of_Arts.mp3
+- Churchill Broadcasts — We Must Arm — https://archive.org/download/Winston_Churchill/1938-10-16_BBC_Winston_Churchill_We_Must_Arm.mp3
+- Churchill Broadcasts — The First Month of the War — https://archive.org/download/Winston_Churchill/1939-10-01_BBC_Winston_Churchill_The_First_Month_of_the_War.mp3
+- Churchill Broadcasts — Ten Weeks Of War — https://archive.org/download/Winston_Churchill/1939-11-12_BBC_Winston_Churchill_Ten_Weeks_Of_War.mp3
+- Churchill Broadcasts — The Sinking Of The Graf Spee — https://archive.org/download/Winston_Churchill/1939-12-18_BBC_Winston_Churchill_The_Sinking_Of_The_Graf_Spee.mp3
+- Churchill Broadcasts — The Navy Is Here — https://archive.org/download/Winston_Churchill/1940-02-23_BBC_Winston_Churchill_The_Navy_Is_Here.mp3
+- Churchill Broadcasts — The New Administration — https://archive.org/download/Winston_Churchill/1940-05-13_BBC_Winston_Churchill_The_New_Administration.mp3
+- Churchill Broadcasts — First Speech As Prime Minister — https://archive.org/download/Winston_Churchill/1940-05-19_BBC_Winston_Churchill_First_Speech_As_Prime_Minister.mp3
+- Churchill Broadcasts — On Capitulation Of Belgium — https://archive.org/download/Winston_Churchill/1940-05-28_BBC_Winston_Churchill_On_Capitulation_Of_Belgium.mp3
+- Churchill Broadcasts — We Shall Never Surrender — https://archive.org/download/Winston_Churchill/1940-06-04_BBC_Winston_Churchill_We_Shall_Never_Surrender.mp3
+- Churchill Broadcasts — Their Finest Hour — https://archive.org/download/Winston_Churchill/1940-06-17_BBC_Winston_Churchill_Their_Finest_Hour.mp3
+- Churchill Broadcasts — War Of The Unknown Warrior — https://archive.org/download/Winston_Churchill/1940-07-14_BBC_Winston_Churchill_War_Of_The_Unknown_Warrior.mp3
+- Churchill Broadcasts — The First Year — https://archive.org/download/Winston_Churchill/1940-08-20_BBC_Winston_Churchill_The_First_Year.mp3
+- Churchill Broadcasts — House Of Commons Secret Session — https://archive.org/download/Winston_Churchill/1940-09-17_BBC_Winston_Churchill_House_Of_Commons_Secret_Session.mp3
+- Churchill Broadcasts — Pledge To Free France — https://archive.org/download/Winston_Churchill/1940-10-21_BBC_Winston_Churchill_Pledge_To_Free_France.mp3
+- Churchill Broadcasts — To France (En Français, Pt1) — https://archive.org/download/Winston_Churchill/1940-10-21_BBCF_Winston_Churchill_To_France_En_Fran-21497c165.mp3
+- Churchill Broadcasts — Address To Italy — https://archive.org/download/Winston_Churchill/1940-12-23_BBC_Winston_Churchill_Address_To_Italy.mp3
+- Churchill Broadcasts — Give Us The Tools — https://archive.org/download/Winston_Churchill/1941-02-09_BBC_Winston_Churchill_Give_Us_The_Tools.mp3
+- Churchill Broadcasts — Westward Look The Land Is Bright — https://archive.org/download/Winston_Churchill/1941-04-27_BBC_Winston_Churchill_Westward_Look_The_Land_Is_Bright.mp3
+- Churchill Broadcasts — Until Victory Is Won — https://archive.org/download/Winston_Churchill/1941-06-12_BBC_Winston_Churchill_Until_Victory_Is_Won.mp3
+- Churchill Broadcasts — Broadcast To America — https://archive.org/download/Winston_Churchill/1941-06-16_BBC_Winston_Churchill_Broadcast_To_America.mp3
+- Churchill Broadcasts — Germany Invades Russia — https://archive.org/download/Winston_Churchill/1941-06-22_BBC_Winston_Churchill_Germany_Invades_Russia.mp3
+- Churchill Broadcasts — Do Your Worst, We'll Do Our Best — https://archive.org/download/Winston_Churchill/1941-07-14_BBC_Winston_Churchill_Do_Your_Worst_Well_Do_Our_Best.mp3
+- Churchill Broadcasts — War Production — https://archive.org/download/Winston_Churchill/1941-07-29_BBC_Winston_Churchill_War_Production.mp3
+- Churchill Broadcasts — The Atlantic Charter — https://archive.org/download/Winston_Churchill/1941-08-14_BBC_Winston_Churchill_The_Atlantic_Charter.mp3
+- Churchill Broadcasts — Meeting With President Roosevelt — https://archive.org/download/Winston_Churchill/1941-08-24_BBC_Winston_Churchill_Meeting_With_President_Roosevelt.mp3
+- Churchill Broadcasts — These Are Great Days — https://archive.org/download/Winston_Churchill/1941-08-29_BBC_Winston_Churchill_These_Are_Great_Days.mp3
+- Churchill Broadcasts — Still Masters Of Our Fate — https://archive.org/download/Winston_Churchill/1941-09-09_BBC_Winston_Churchill_Still_Masters_Of_Our_Fate.mp3
+- Churchill Broadcasts — The Resolution Of The People — https://archive.org/download/Winston_Churchill/1941-11-07_BBC_Winston_Churchill_The_Resolution_Of_The_People.mp3
+- Churchill Broadcasts — Address To Harrow School — https://archive.org/download/Winston_Churchill/1941-11-29_BBC_Winston_Churchill_Address_To_Harrow_School.mp3
+- Churchill Broadcasts — War With Japan — https://archive.org/download/Winston_Churchill/1941-12-08_BBC_Winston_Churchill_War_With_Japan.mp3
+- Churchill Broadcasts — The White House Christmas Tree — https://archive.org/download/Winston_Churchill/1941-12-24_BBC_Winston_Churchill_The_White_House_Christmas_Tree.mp3
+- Churchill Broadcasts — Preparation, Liberation, Assault — https://archive.org/download/Winston_Churchill/1941-12-30_CBC_Winston_Churchill_Preparation_Liberation_Assault.mp3
+- Churchill Broadcasts — Reviews Atlantic Charter Summit — https://archive.org/download/Winston_Churchill/1942-02-15_BBC_Winston_Churchill_Reviews_Atlantic_Charter_Summit.mp3
+- Churchill Broadcasts — The End Of The Beginning — https://archive.org/download/Winston_Churchill/1942-11-10_BBC_Winston_Churchill_The_End_Of_The_Beginning.mp3
+- Churchill Broadcasts — National Address — https://archive.org/download/Winston_Churchill/1943-03-21_BBC_Winston_Churchill_National_Address.mp3
+- Churchill Broadcasts — Second Address To US Congress — https://archive.org/download/Winston_Churchill/1943-05-19_BBC_Winston_Churchill_Second_Address_To_US_Congress.mp3
+- Churchill Broadcasts — Reaping The Whirlwind — https://archive.org/download/Winston_Churchill/1943-06-30_BBC_Winston_Churchill_Reaping_The_Whirlwind.mp3
+- Churchill Broadcasts — Broadcast From Quebec — https://archive.org/download/Winston_Churchill/1943-08-31_CBC_Winston_Churchill_Broadcast_From_Quebec.mp3
+- Churchill Broadcasts — Anglo American Unity — https://archive.org/download/Winston_Churchill/1943-09-06_BBC_Winston_Churchill_Anglo_American_Unity.mp3
+- Churchill Broadcasts — Rebuilding The House Of Commons — https://archive.org/download/Winston_Churchill/1943-10-28_BBC_Winston_Churchill_Rebuilding_The_House_Of_Commons.mp3
+- Churchill Broadcasts — On Allied Victories — https://archive.org/download/Winston_Churchill/1944-03-26_BBC_Winston_Churchill_On_Allied_Victories.mp3
+- Churchill Broadcasts — The Fruits Of 1944 — https://archive.org/download/Winston_Churchill/1944-11-09_BBC_Winston_Churchill_The_Fruits_Of_1944.mp3
+- Churchill Broadcasts — America's Thanksgiving Day — https://archive.org/download/Winston_Churchill/1944-11-23_BBC_Winston_Churchill_Americas_Thanksgiving_Day.mp3
+- Churchill Broadcasts — Reports Winston Churchill Crosses The Rhine — https://archive.org/download/Winston_Churchill/1945-03-25_BBC_Robert_Barr_Reports_Winston_Churchill_Crosses_The_Rhine.mp3
+- Churchill Broadcasts — Germany's Unconditional Surrender — https://archive.org/download/Winston_Churchill/1945-05-08_BBC_Winston_Churchill_Germanys_Unconditional_Surrender.mp3
+- Churchill Broadcasts — VE Day Celebrations Ministry of Health Building — https://archive.org/download/Winston_Churchill/1945-05-08_BBC_Winston_Churchill_VE_Day_Celebrations_Ministry_of_Health_Building.mp3
+- Shortwave Numbers Stations — tcp d1 1 the swedish rhapsody irdial — https://archive.org/download/ird059/tcp_d1_01_the_swedish_rhapsody_irdial.mp3
+- Shortwave Numbers Stations — tcp d1 2 counting cia irdial — https://archive.org/download/ird059/tcp_d1_02_counting_cia_irdial.mp3
+- Shortwave Numbers Stations — tcp d1 3 counting control irdial — https://archive.org/download/ird059/tcp_d1_03_counting_control_irdial.mp3
+- Shortwave Numbers Stations — tcp d1 4 phonetic alphabet nato irdial — https://archive.org/download/ird059/tcp_d1_04_phonetic_alphabet_nato_irdial.mp3
+- Shortwave Numbers Stations — tcp d1 5 5 dashes irdial — https://archive.org/download/ird059/tcp_d1_05_5_dashes_irdial.mp3
+- Shortwave Numbers Stations — tcp d1 6 the lincolnshire poacher mi5 irdial — https://archive.org/download/ird059/tcp_d1_06_the_lincolnshire_poacher_mi5_irdial.mp3
+- Shortwave Numbers Stations — tcp d1 7 gong station chimes irdial — https://archive.org/download/ird059/tcp_d1_07_gong_station_chimes_irdial.mp3
+- Shortwave Numbers Stations — tcp d1 8 dfd 21 irdial — https://archive.org/download/ird059/tcp_d1_08_dfd_21_irdial.mp3
+- Shortwave Numbers Stations — tcp d1 9 ready ready 15728 irdial — https://archive.org/download/ird059/tcp_d1_09_ready_ready_15728_irdial.mp3
+- Shortwave Numbers Stations — tcp d1 10 bugle irdial — https://archive.org/download/ird059/tcp_d1_10_bugle_irdial.mp3
+- Shortwave Numbers Stations — tcp d1 11 5 note version czech lady irdial — https://archive.org/download/ird059/tcp_d1_11_5_note_version_czech_lady_irdial.mp3
+- Shortwave Numbers Stations — tcp d1 12 three note odditiy irdial — https://archive.org/download/ird059/tcp_d1_12_three_note_odditiy_irdial.mp3
+- Shortwave Numbers Stations — tcp d1 13 new star broadcasting irdial — https://archive.org/download/ird059/tcp_d1_13_new_star_broadcasting_irdial.mp3
+- Shortwave Numbers Stations — tcp d1 14 counting station spanish irdial — https://archive.org/download/ird059/tcp_d1_14_counting_station_spanish_irdial.mp3
+- Shortwave Numbers Stations — tcp d1 15 english lady 00000 ending irdial — https://archive.org/download/ird059/tcp_d1_15_english_lady_00000_ending_irdial.mp3
+- Shortwave Numbers Stations — tcp d1 16 attencion 3 finals irdial — https://archive.org/download/ird059/tcp_d1_16_attencion_3_finals_irdial.mp3
+- Shortwave Numbers Stations — tcp d1 17 4 note rising scale irdial — https://archive.org/download/ird059/tcp_d1_17_4_note_rising_scale_irdial.mp3
+- Shortwave Numbers Stations — tcp d1 18 ciocirlia irdial — https://archive.org/download/ird059/tcp_d1_18_ciocirlia_irdial.mp3
+- Shortwave Numbers Stations — tcp d1 19 czech lady irdial — https://archive.org/download/ird059/tcp_d1_19_czech_lady_irdial.mp3
+- Shortwave Numbers Stations — tcp d1 20 2 letter ys irdial — https://archive.org/download/ird059/tcp_d1_20_2_letter_ys_irdial.mp3
+- Shortwave Numbers Stations — tcp d1 21 2 letter el irdial — https://archive.org/download/ird059/tcp_d1_21_2_letter_el_irdial.mp3
+- Shortwave Numbers Stations — tcp d1 22 5 dashes irdial — https://archive.org/download/ird059/tcp_d1_22_5_dashes_irdial.mp3
+- Shortwave Numbers Stations — tcp d1 23 2 letter rk irdial — https://archive.org/download/ird059/tcp_d1_23_2_letter_rk_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 1 nnn french irdial — https://archive.org/download/ird059/tcp_d2_01_nnn_french_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 2 strich irdial — https://archive.org/download/ird059/tcp_d2_02_strich_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 3 dfd21 dfc37 irdial — https://archive.org/download/ird059/tcp_d2_03_dfd21_dfc37_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 4 drums and trumpets irdial — https://archive.org/download/ird059/tcp_d2_04_drums_and_trumpets_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 5 nnn english irdial — https://archive.org/download/ird059/tcp_d2_05_nnn_english_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 6 english lady 00000 ending irdial — https://archive.org/download/ird059/tcp_d2_06_english_lady_00000_ending_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 7 nnn german irdial — https://archive.org/download/ird059/tcp_d2_07_nnn_german_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 8 the russian man d-va northern russian voice irdial — https://archive.org/download/ird059/tcp_d2_08_the_russian_man_d-va_northern_russian_voice_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 9 phonetic alphabet nato irdial — https://archive.org/download/ird059/tcp_d2_09_phonetic_alphabet_nato_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 10 spanish lady irdial — https://archive.org/download/ird059/tcp_d2_10_spanish_lady_irdial_.mp3
+- Shortwave Numbers Stations — tcp d2 11 strich english irdial — https://archive.org/download/ird059/tcp_d2_11_strich_english_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 12 2 letter nu irdial — https://archive.org/download/ird059/tcp_d2_12_2_letter_nu_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 13 g3 strich irdial — https://archive.org/download/ird059/tcp_d2_13_g3_strich_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 14 yt irdial — https://archive.org/download/ird059/tcp_d2_14_yt_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 15 5 dashes irdial — https://archive.org/download/ird059/tcp_d2_15_5_dashes_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 16 german man irdial — https://archive.org/download/ird059/tcp_d2_16_german_man_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 17 english man irdial — https://archive.org/download/ird059/tcp_d2_17_english_man_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 18 english man german and german lady irdial — https://archive.org/download/ird059/tcp_d2_18_english_man_german_and_german_lady_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 19 german lady irdial — https://archive.org/download/ird059/tcp_d2_19_german_lady_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 20 chinese numbers irdial — https://archive.org/download/ird059/tcp_d2_20_chinese_numbers_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 21 spanish lady complete sequence irdial — https://archive.org/download/ird059/tcp_d2_21_spanish_lady_complete_sequence_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 22 2 letter md irdial — https://archive.org/download/ird059/tcp_d2_22_2_letter_md_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 23 english man irdial — https://archive.org/download/ird059/tcp_d2_23_english_man_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 24 german lady irdial — https://archive.org/download/ird059/tcp_d2_24_german_lady_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 25 phonetic alphabet nato irdial — https://archive.org/download/ird059/tcp_d2_25_phonetic_alphabet_nato_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 26 phonetic alphabet nato irdial — https://archive.org/download/ird059/tcp_d2_26_phonetic_alphabet_nato_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 27 nancy adam susan irdial — https://archive.org/download/ird059/tcp_d2_27_nancy_adam_susan_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 28 counting control irdial — https://archive.org/download/ird059/tcp_d2_28_counting_control_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 29 nancy adam susan male irdial — https://archive.org/download/ird059/tcp_d2_29_nancy_adam_susan_male_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 30 cherry ripe irdial — https://archive.org/download/ird059/tcp_d2_30_cherry_ripe_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 31 russian lady irdial — https://archive.org/download/ird059/tcp_d2_31_russian_lady_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 32 russian man irdial — https://archive.org/download/ird059/tcp_d2_32_russian_man_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 33 nnn english irdial — https://archive.org/download/ird059/tcp_d2_33_nnn_english_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 34 frank young peter irdial — https://archive.org/download/ird059/tcp_d2_34_frank_young_peter_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 35 cherta irdial — https://archive.org/download/ird059/tcp_d2_35_cherta_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 36 russian counting man irdial — https://archive.org/download/ird059/tcp_d2_36_russian_counting_man_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 37 olx irdial — https://archive.org/download/ird059/tcp_d2_37_olx_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 38 6 tones irdial — https://archive.org/download/ird059/tcp_d2_38_6_tones_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 39 high pitch polytone irdial — https://archive.org/download/ird059/tcp_d2_39_high_pitch_polytone_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 40 high pitch polytone irdial — https://archive.org/download/ird059/tcp_d2_40_high_pitch_polytone_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 41 high pitch polytone irdial — https://archive.org/download/ird059/tcp_d2_41_high_pitch_polytone_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 42 high pitch polytone irdial — https://archive.org/download/ird059/tcp_d2_42_high_pitch_polytone_irdial.mp3
+- Shortwave Numbers Stations — tcp d2 43 oriental language irdial — https://archive.org/download/ird059/tcp_d2_43_oriental_language_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 1 ready ready irdial — https://archive.org/download/ird059/tcp_d3_01_ready_ready_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 2 iran iraq jamming efficacy testting irdial — https://archive.org/download/ird059/tcp_d3_02_iran_iraq_jamming_efficacy_testting_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 3 english lady irdial — https://archive.org/download/ird059/tcp_d3_03_english_lady_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 4 english lady jammed irdial — https://archive.org/download/ird059/tcp_d3_04_english_lady_jammed_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 5 english man version 1 irdial — https://archive.org/download/ird059/tcp_d3_05_english_man_version_1_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 6 english man version 3 irdial — https://archive.org/download/ird059/tcp_d3_06_english_man_version_3_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 7 english man irdial — https://archive.org/download/ird059/tcp_d3_07_english_man_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 8 magnetic fields irdial — https://archive.org/download/ird059/tcp_d3_08_magnetic_fields_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 9 magnetic fields different voice irdial — https://archive.org/download/ird059/tcp_d3_09_magnetic_fields_different_voice_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 10 oblique irdial — https://archive.org/download/ird059/tcp_d3_10_oblique_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 11 nnn old incarnation irdial — https://archive.org/download/ird059/tcp_d3_11_nnn_old_incarnation_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 12 5 dashes i say again irdial — https://archive.org/download/ird059/tcp_d3_12_5_dashes_i_say_again_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 13 2 letter kg irdial — https://archive.org/download/ird059/tcp_d3_13_2_letter_kg_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 14 4 figure counting 10 rough tones irdial — https://archive.org/download/ird059/tcp_d3_14_4_figure_counting_10_rough_tones_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 15 2 voices in one transmission irdial — https://archive.org/download/ird059/tcp_d3_15_2_voices_in_one_transmission_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 16 tyrolean music station irdial — https://archive.org/download/ird059/tcp_d3_16_tyrolean_music_station_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 17 3 note interval signal irdial — https://archive.org/download/ird059/tcp_d3_17_3_note_interval_signal_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 18 10 rough tones irdial — https://archive.org/download/ird059/tcp_d3_18_10_rough_tones_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 19 achtung irdial — https://archive.org/download/ird059/tcp_d3_19_achtung_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 20 a irdial — https://archive.org/download/ird059/tcp_d3_20_a_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 22 voice rapid dots irdial — https://archive.org/download/ird059/tcp_d3_22_rapid_dots_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 23 strich with rare message irdial — https://archive.org/download/ird059/tcp_d3_23_strich_with_rare_message_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 24 hier ist dfc seben und dreizig irdial — https://archive.org/download/ird059/tcp_d3_24_hier_ist_dfc_seben_und_dreizig_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 25 2 letter pn irdial — https://archive.org/download/ird059/tcp_d3_25_2_letter_pn_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 27 2 letter vo irdial — https://archive.org/download/ird059/tcp_d3_27_2_letter_vo_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 28 2 letter hk irdial — https://archive.org/download/ird059/tcp_d3_28_2_letter_hk_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 29 2 letter dm irdial — https://archive.org/download/ird059/tcp_d3_29_2_letter_dm_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 30 8 note rising scale irdial — https://archive.org/download/ird059/tcp_d3_30_8_note_rising_scale_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 31 spruchnummer 1 irdial — https://archive.org/download/ird059/tcp_d3_31_spruchnummer_1_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 32 spruchnummer 4 irdial — https://archive.org/download/ird059/tcp_d3_32_spruchnummer_4_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 33 random pop irdial — https://archive.org/download/ird059/tcp_d3_33_random_pop_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 34 nomer 101 irdial — https://archive.org/download/ird059/tcp_d3_34_nomer_101_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 35 okno okno onko irdial — https://archive.org/download/ird059/tcp_d3_35_okno_okno_onko_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 36 nomer 198 irdial — https://archive.org/download/ird059/tcp_d3_36_nomer_198_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 37 723 papaqui irdial — https://archive.org/download/ird059/tcp_d3_37_723_papaqui_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 38 298 irdial — https://archive.org/download/ird059/tcp_d3_38_298_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 39 815 irdial — https://archive.org/download/ird059/tcp_d3_39_815_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 40 167 irdial — https://archive.org/download/ird059/tcp_d3_40_167_irdial.mp3
+- Shortwave Numbers Stations — tcp d3 41 moscow coup attempt irdial — https://archive.org/download/ird059/tcp_d3_41_moscow_coup_attempt_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 1 russian man complete irdial — https://archive.org/download/ird059/tcp_d4_01_russian_man_complete_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 2 yt irdial — https://archive.org/download/ird059/tcp_d4_02_yt_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 3 555 konec irdial — https://archive.org/download/ird059/tcp_d4_03_555_konec_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 4 preska irdial — https://archive.org/download/ird059/tcp_d4_04_preska_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 5 cherta irdial — https://archive.org/download/ird059/tcp_d4_05_cherta_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 6 count in russian irdial — https://archive.org/download/ird059/tcp_d4_06_count_in_russian_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 7 count in russian different voice irdial — https://archive.org/download/ird059/tcp_d4_07_count_in_russian_different_voice_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 8 1-10 announcement irdial — https://archive.org/download/ird059/tcp_d4_08_1-10_announcement_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 9 1-10 announcement female irdial — https://archive.org/download/ird059/tcp_d4_09_1-10_announcement_female_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 10 counting in polish irdial — https://archive.org/download/ird059/tcp_d4_10_counting_in_polish_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 11 konec konec irdial — https://archive.org/download/ird059/tcp_d4_11_konec_konec_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 12 pozor irdial — https://archive.org/download/ird059/tcp_d4_12_pozor_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 13 russian lady test count and message irdial — https://archive.org/download/ird059/tcp_d4_13_russian_lady_test_count_and_message_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 14 russian man irdial — https://archive.org/download/ird059/tcp_d4_14_russian_man_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 15 spanish lady 2 finals irdial — https://archive.org/download/ird059/tcp_d4_15_spanish_lady_2_finals_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 16 spanish counting irdial — https://archive.org/download/ird059/tcp_d4_16_spanish_counting_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 17 spanish counting 4 figure groups irdial — https://archive.org/download/ird059/tcp_d4_17_spanish_counting_4_figure_groups_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 18 spanish man irdial — https://archive.org/download/ird059/tcp_d4_18_spanish_man_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 19 spanish lady 00000 ending irdial — https://archive.org/download/ird059/tcp_d4_19_spanish_lady_00000_ending_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 20 spanish lady 00000 ending different voice irdial — https://archive.org/download/ird059/tcp_d4_20_spanish_lady_00000_ending_different_voice_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 21 eastern music station irdial — https://archive.org/download/ird059/tcp_d4_21_eastern_music_station_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 22 eastern music station different voice irdial — https://archive.org/download/ird059/tcp_d4_22_eastern_music_station_different_voice_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 23 unidentified chinese station irdial — https://archive.org/download/ird059/tcp_d4_23_unidentified_chinese_station_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 24 nnn french early version irdial — https://archive.org/download/ird059/tcp_d4_24_nnn_french_early_version_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 25 nnn hungarian irdial — https://archive.org/download/ird059/tcp_d4_25_nnn_hungarian_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 26 wiskey tango viente y uno irdial — https://archive.org/download/ird059/tcp_d4_26_wiskey_tango_viente_y_uno_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 27 the crackle irdial — https://archive.org/download/ird059/tcp_d4_27_the_crackle_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 28 the backwards music station irdial — https://archive.org/download/ird059/tcp_d4_28_the_backwards_music_station_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 29 faders irdial — https://archive.org/download/ird059/tcp_d4_29_faders_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 30 workshop irdial — https://archive.org/download/ird059/tcp_d4_30_workshop_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 31 the pip irdial — https://archive.org/download/ird059/tcp_d4_31_the_pip_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 32 the buzzer irdial — https://archive.org/download/ird059/tcp_d4_32_the_buzzer_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 33 m1 irdial — https://archive.org/download/ird059/tcp_d4_33_m1_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 34 m1b irdial — https://archive.org/download/ird059/tcp_d4_34_m1b_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 35 m2 irdial — https://archive.org/download/ird059/tcp_d4_35_m2_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 36 m3 irdial — https://archive.org/download/ird059/tcp_d4_36_m3_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 37 m3 irdial — https://archive.org/download/ird059/tcp_d4_37_m3_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 38 m3 irdial — https://archive.org/download/ird059/tcp_d4_38_m3_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 42 m3a irdial — https://archive.org/download/ird059/tcp_d4_42_m3a_irdial.mp3
+- Shortwave Numbers Stations — tcp d4 43 m3b irdial — https://archive.org/download/ird059/tcp_d4_43_m3b_irdial.mp3
