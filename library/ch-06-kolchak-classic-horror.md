@@ -48,3 +48,13 @@
 - The Killer Shrews — https://archive.org/download/The_Killer_Shrews/The_Killer_Shrews.mp4
 - Tormented — https://archive.org/download/tormented/tormented.mp4
 - White Zombie — https://archive.org/download/white_zombie/white_zombie.mp4
+
+## Classic Horror & Science-Fiction Films — New Additions
+
+- Dracula (1931) — https://ia601401.us.archive.org/17/items/dracula.-1931/Dracula%20%281931%29/Dracula.1931.mp4
+- Abominable Snowman (1957) — Colorized — https://dn720402.ca.archive.org/0/items/abominable-snowman-1957-colorized/Abominable%20Snowman%201957%20colorized.mp4
+- Invisible Invaders (1959) — Colorized — https://dn790006.ca.archive.org/0/items/invisible-invaders-1959-colorized/Invisible%20Invaders%201959%20colorized.mp4
+- Kronos (1957) — Colorized — https://dn720405.ca.archive.org/0/items/kronos-1957-colorized/Kronos%201957%20colorized.mp4
+- It! The Terror from Beyond Space (1958) — Colorized — https://dn720701.ca.archive.org/0/items/it-the-terror-from-beyond-space-colorized/It%20The%20Terror%20from%20Beyond%20Space.mp4
+- The Wolf Man (1941) — https://dn721600.ca.archive.org/0/items/wolf-man-1941/Wolf%20Man%201941.mp4
+- Earth vs. the Flying Saucers (1956) — Color — https://dn721804.ca.archive.org/0/items/earth-vs-the-flying-saucers-color/Earth%20vs%20the%20Flying%20Saucers%20color.mp4
