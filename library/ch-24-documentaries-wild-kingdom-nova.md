@@ -1276,3 +1276,43 @@
 - Where Deer and Antelope Roam WEBRip x264-tdt — https://archive.org/download/Mutual.of.Omahas.Wild.Kingdom/Mutual.of.Omahas.Wild.Kingdom.%281963-1984%29.PART.28.WEBRip.x264-tdt/Where.Deer.and.Antelope.Roam.WEBRip.x264-tdt.mp4
 - Where Men Walk with Moose WEBRip x264-tdt — https://archive.org/download/Mutual.of.Omahas.Wild.Kingdom/Mutual.of.Omahas.Wild.Kingdom.%281963-1984%29.PART.28.WEBRip.x264-tdt/Where.Men.Walk.with.Moose.WEBRip.x264-tdt.mp4
 - Where grizzlies hunt moose WEBRip x264-tdt — https://archive.org/download/Mutual.of.Omahas.Wild.Kingdom/Mutual.of.Omahas.Wild.Kingdom.%281963-1984%29.PART.28.WEBRip.x264-tdt/Where.grizzlies.hunt.moose.WEBRip.x264-tdt.mp4
+
+## The Undersea World of Jacques Cousteau (1976)
+
+- S00E01 - Conshelf Adventure — https://archive.org/download/the-undersea-world-of-jacques-cousteau-1976/files/S00E01%20-%20Conshelf%20Adventure.mp4
+- S01E01 - Sharks — https://archive.org/download/the-undersea-world-of-jacques-cousteau-1976/files/S01E01%20-%20Sharks.mp4
+- S01E02 - Savage World of the Coral Jungle — https://archive.org/download/the-undersea-world-of-jacques-cousteau-1976/files/S01E02%20-%20Savage%20World%20of%20the%20Coral%20Jungle.mp4
+- S01E03 - Search in the Deep — https://dn710004.ca.archive.org/0/items/the-undersea-world-of-jacques-cousteau-1976/files/S01E03%20-%20Search%20in%20the%20Deep.mp4
+- S01E04 - Whales — https://archive.org/download/the-undersea-world-of-jacques-cousteau-1976/files/S01E04%20-%20Whales.mp4
+- S01E05 - The Unexpected Voyage of Pepito and Cristobal — https://archive.org/download/the-undersea-world-of-jacques-cousteau-1976/files/S01E05%20-%20The%20Unexpected%20Voyage%20of%20Pepito%20and%20Cristobal.mp4
+- S01E06 - Sunken Treasure — https://archive.org/download/the-undersea-world-of-jacques-cousteau-1976/files/S01E06%20-%20Sunken%20Treasure.mp4
+- S01E07 - The Legend of Lake Titicaca — https://archive.org/download/the-undersea-world-of-jacques-cousteau-1976/files/S01E07%20-%20The%20Legend%20of%20Lake%20Titicaca.mp4
+- S01E08 - The Desert Whales — https://archive.org/download/the-undersea-world-of-jacques-cousteau-1976/files/S01E08%20-%20The%20Desert%20Whales.mp4
+- S01E09 - The Night of the Squid — https://archive.org/download/the-undersea-world-of-jacques-cousteau-1976/files/S01E09%20-%20The%20Night%20of%20the%20Squid.mp4
+- S01E10 - Return of the Sea Elephant — https://archive.org/download/the-undersea-world-of-jacques-cousteau-1976/files/S01E10%20-%20Return%20of%20the%20Sea%20Elephant.mp4
+- S01E11 - Those Incredible Diving Machines — https://archive.org/download/the-undersea-world-of-jacques-cousteau-1976/files/S01E11%20-%20Those%20Incredible%20Diving%20Machines.mp4
+- S01E12 - The Water Planet — https://archive.org/download/the-undersea-world-of-jacques-cousteau-1976/files/S01E12%20-%20The%20Water%20Planet.mp4
+- S01E13 - Tragedy of the Red Salmon — https://archive.org/download/the-undersea-world-of-jacques-cousteau-1976/files/S01E13%20-%20Tragedy%20of%20the%20Red%20Salmon.mp4
+- S01E14 - Lagoon of Lost Ships — https://archive.org/download/the-undersea-world-of-jacques-cousteau-1976/files/S01E14%20-%20Lagoon%20of%20Lost%20Ships.mp4
+- S01E15 - The Dragons of Galapagos — https://archive.org/download/the-undersea-world-of-jacques-cousteau-1976/files/S01E15%20-%20The%20Dragons%20of%20Galapagos.mp4
+- S01E16 - Secrets of the Sunken Caves — https://archive.org/download/the-undersea-world-of-jacques-cousteau-1976/files/S01E16%20-%20Secrets%20of%20the%20Sunken%20Caves.mp4
+- S01E17 - The Unsinkable Sea Otter — https://archive.org/download/the-undersea-world-of-jacques-cousteau-1976/files/S01E17%20-%20The%20Unsinkable%20Sea%20Otter.mp4
+- S01E18 - The Forgotten Mermaids — https://archive.org/download/the-undersea-world-of-jacques-cousteau-1976/files/S01E18%20-%20The%20Forgotten%20Mermaids.mp4
+- S01E19 - Octopus, Octopus — https://archive.org/download/the-undersea-world-of-jacques-cousteau-1976/files/S01E19%20-%20Octopus%2C%20Octopus.mp4
+- S01E20 - A Sound of Dolphins — https://archive.org/download/the-undersea-world-of-jacques-cousteau-1976/files/S01E20%20-%20A%20Sound%20of%20Dolphins.mp4
+- S01E21 - 500 Million Years Beneath the Sea — https://archive.org/download/the-undersea-world-of-jacques-cousteau-1976/files/S01E21%20-%20500%20Million%20Years%20Beneath%20the%20Sea.mp4
+- S01E22 - The Smile of the Walrus — https://archive.org/download/the-undersea-world-of-jacques-cousteau-1976/files/S01E22%20-%20The%20Smile%20of%20the%20Walrus.mp4
+- S01E23 - Hippo! — https://archive.org/download/the-undersea-world-of-jacques-cousteau-1976/files/S01E23%20-%20Hippo%21.mp4
+- S01E24 - The Singing Whale — https://archive.org/download/the-undersea-world-of-jacques-cousteau-1976/files/S01E24%20-%20The%20Singing%20Whale.mp4
+- S01E25 - South to Fire and Ice — https://archive.org/download/the-undersea-world-of-jacques-cousteau-1976/files/S01E25%20-%20South%20to%20Fire%20and%20Ice.mp4
+- S01E26 - The Flight of Penguins — https://archive.org/download/the-undersea-world-of-jacques-cousteau-1976/files/S01E26%20-%20The%20Flight%20of%20Penguins.mp4
+- S01E27 - Beneath the Frozen World — https://archive.org/download/the-undersea-world-of-jacques-cousteau-1976/files/S01E27%20-%20Beneath%20the%20Frozen%20World.mp4
+- S01E28 - Blizzard at Hope Bay — https://archive.org/download/the-undersea-world-of-jacques-cousteau-1976/files/S01E28%20-%20Blizzard%20at%20Hope%20Bay.mp4
+- S01E29 - Life at the End of the World — https://archive.org/download/the-undersea-world-of-jacques-cousteau-1976/files/S01E29%20-%20Life%20at%20the%20End%20of%20the%20World.mp4
+- S01E30 - Beavers of the North Country — https://archive.org/download/the-undersea-world-of-jacques-cousteau-1976/files/S01E30%20-%20Beavers%20of%20the%20North%20Country.mp4
+- S01E31 - The Coral Divers of Corsica — https://archive.org/download/the-undersea-world-of-jacques-cousteau-1976/files/S01E31%20-%20The%20Coral%20Divers%20of%20Corsica.mp4
+- S01E32 - The Sleeping Sharks of Yucatan — https://archive.org/download/the-undersea-world-of-jacques-cousteau-1976/files/S01E32%20-%20The%20Sleeping%20Sharks%20of%20Yucatan.mp4
+- S01E33 - The Sea Birds of Isabela — https://archive.org/download/the-undersea-world-of-jacques-cousteau-1976/files/S01E33%20-%20The%20Sea%20Birds%20of%20Isabela.mp4
+- S01E34 - Mysteries of the Hidden Reefs — https://archive.org/download/the-undersea-world-of-jacques-cousteau-1976/files/S01E34%20-%20Mysteries%20of%20the%20Hidden%20Reefs.mp4
+- S01E35 - The Fish That Swallowed Jonah — https://archive.org/download/the-undersea-world-of-jacques-cousteau-1976/files/S01E35%20-%20The%20Fish%20That%20Swallowed%20Jonah.mp4
+- S01E36 - The Incredible March of the Spiny Lobsters — https://archive.org/download/the-undersea-world-of-jacques-cousteau-1976/files/S01E36%20-%20The%20Incredible%20March%20of%20the%20Spiny%20Lobsters.mp4
