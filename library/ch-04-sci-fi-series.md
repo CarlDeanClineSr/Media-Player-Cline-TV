@@ -167,3 +167,19 @@
 - Final Space S03E11 — https://archive.org/download/final-space_202209/Final.Space.S03.1080p.WEBRip.x265-RARBG/Final.Space.S03E11.1080p.WEBRip.x265-RARBG.mp4
 - Final Space S03E12 — https://archive.org/download/final-space_202209/Final.Space.S03.1080p.WEBRip.x265-RARBG/Final.Space.S03E12.1080p.WEBRip.x265-RARBG.mp4
 - Final Space S03E13 — https://archive.org/download/final-space_202209/Final.Space.S03.1080p.WEBRip.x265-RARBG/Final.Space.S03E13.1080p.WEBRip.x265-RARBG.mp4
+
+## Science Fiction Theatre — Season 2
+
+- Science Fiction Theatre S02E01 — Signals from the Heart — https://dn721606.ca.archive.org/0/items/science-fiction-theatre-season-2/2-01%20Signals%20from%20the%20Heart.mp4
+- Science Fiction Theatre S02E02 — The Long Sleep — https://dn721606.ca.archive.org/0/items/science-fiction-theatre-season-2/2-02%20The%20Long%20Sleep.mp4
+- Science Fiction Theatre S02E03 — Who Is This Man? — https://archive.org/download/science-fiction-theatre-season-2/2-03%20Who%20Is%20This%20Man%3F.mp4
+- Science Fiction Theatre S02E04 — The Green Bomb — https://archive.org/download/science-fiction-theatre-season-2/2-04%20The%20Green%20Bomb.mp4
+- Science Fiction Theatre S02E05 — When a Camera Fails — https://archive.org/download/science-fiction-theatre-season-2/2-05%20When%20a%20Camera%20Fails.mp4
+- Science Fiction Theatre S02E06 — Bullet Proof — https://archive.org/download/science-fiction-theatre-season-2/2-06%20Bullet%20Proof.mp4
+- Science Fiction Theatre S02E07 — The Flicker — https://archive.org/download/science-fiction-theatre-season-2/2-07%20The%20Flicker.mp4
+- Science Fiction Theatre S02E08 — The Unguided Missile — https://archive.org/download/science-fiction-theatre-season-2/2-08%20The%20Unguided%20Missile.mp4
+- Science Fiction Theatre S02E09 — Mind Machine — https://archive.org/download/science-fiction-theatre-season-2/2-09%20Mind%20Machine.mp4
+- Science Fiction Theatre S02E10 — The Missing Waveband — https://archive.org/download/science-fiction-theatre-season-2/2-10%20The%20Missing%20Waveband.mp4
+- Science Fiction Theatre S02E11 — The Human Experiment — https://archive.org/download/science-fiction-theatre-season-2/2-11%20The%20Human%20Experiment.mp4
+- Science Fiction Theatre S02E12 — Man Who Didn't Know — https://archive.org/download/science-fiction-theatre-season-2/2-12%20Man%20Who%20Didn%27t%20Know.mp4
+- Science Fiction Theatre S02E13 — End of Tomorrow — https://archive.org/download/science-fiction-theatre-season-2/2-13%20End%20of%20Tomorrow.mp4
