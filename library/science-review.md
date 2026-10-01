@@ -1,9 +1,4 @@
 # Science — Review
-
-Initial science-program material recovered from the previous repository, limited here to entries whose titles identify In Search of or Cosmos. More established science programs can be added deliberately later.
-
-**Entries: 22**
-
 - **Cosmos - Shores of the Cosmic Ocean**  
   https://archive.org/download/cosmos_1980/COSMOS_01.mp4
 - **Nova 1994-02-28 In Search of Human Origins, The Story of Lucy**  
