@@ -156,3 +156,4 @@
 - Reading Rainbow S21E05 Show Way — https://archive.org/download/ReadingRainbowTVSeries/Reading.Rainbow.S21E05.Show.Way.480p.AMZN.WEB-DL.DD.2.0.H.264-RTN.mp4
 - Schoolhouse Rock — 73 Nike Commercial Three is a Magic Number — https://archive.org/download/schoolhouse-rock-30th/73%20Nike%20Commercial%20Three%20is%20a%20Magic%20Number.mp4
 - Rudolph — RUDOLPH — https://archive.org/download/rudolph_202111/RUDOLPH.mp4
+- Christmas shows old tv broadcast — https://dn721601.ca.archive.org/0/items/vhs-tape-1988-christmas-cartoons-stop-animation/VHS%20Tape%20-%201988%20Christmas%20Cartoons%20%26%20Stop%20Animation.mp4
