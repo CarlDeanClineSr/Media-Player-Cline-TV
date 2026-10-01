@@ -768,3 +768,4 @@ Recovered from the archived Cline TV catalog. Direct Archive.org media links onl
 - X-Men — EP75 - Descent — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP75%20-%20Descent.mp4
 - X-Men — EP76 - Graduation Day — https://archive.org/download/x-men-the-animated-series-1080p-ai-upscale_202204/EP76%20-%20Graduation%20Day.mp4
 - Your Hit Parade - Christmas Eve Show 1955 — https://archive.org/download/YourHitParade-ChristmasEveShow1955/YourHitParade-ChristmasEveShow1955.mp4
+- Christmas shows old tv broadcast — https://dn721601.ca.archive.org/0/items/vhs-tape-1988-christmas-cartoons-stop-animation/VHS%20Tape%20-%201988%20Christmas%20Cartoons%20%26%20Stop%20Animation.mp4
